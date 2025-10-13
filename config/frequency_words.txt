@@ -1,13 +1,3 @@
-DeepSeek
-梁文锋
-
-谷歌
-google
-gemini
-
-chatgpt
-openai
-
 金价
 
 黄金
@@ -22,4 +12,6 @@ openai
 
 特朗普
 
-伊朗
+A股
+
+半导体板块

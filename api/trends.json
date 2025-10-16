@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-16T08:51:33.864456+08:00",
-  "total_titles_processed": 855,
+  "generated_at": "2025-10-16T10:23:38.980339+08:00",
+  "total_titles_processed": 985,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 62,
       "titles": [
         {
           "title": "特朗普威胁“暴力”解除哈马斯武装，说好的停火协议呢？",
@@ -32,6 +32,19 @@
           "time_info": "[00时16分 ~ 04时15分]"
         },
         {
+          "title": "特朗普证实已授权中情局在委内瑞拉开展行动",
+          "url": "https://news.ifeng.com/c/8nUEhR8pAgS",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时12分 ~ 10时23分]"
+        },
+        {
           "title": "中方回应特朗普指责停止进口美大豆",
           "url": "https://www.toutiao.com/trending/7561238900635762751/",
           "source": "今日头条",
@@ -46,18 +59,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时12分 ~ 07时13分]"
-        },
-        {
-          "title": "特朗普证实已授权中情局在委内瑞拉开展行动",
-          "url": "https://news.ifeng.com/c/8nUEhR8pAgS",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时12分 ~ 08时51分]"
         },
         {
           "title": "特朗普又操心：若阿根廷与中国军方合作，我会很不安",
@@ -115,11 +116,24 @@
           "url": "https://news.ifeng.com/c/8nUPhsh5ie6",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时51分 ~ 10时23分]"
+        },
+        {
+          "title": "“极不寻常”，特朗普打算旁听最高法院关税案辩论",
+          "url": "https://news.ifeng.com/c/8nUVjJ1QvG4",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时51分 ~ 10时23分]"
         },
         {
           "title": "特朗普：泽连斯基将在访美期间阐述对俄“进攻”理由",
@@ -128,7 +142,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时51分"
         },
@@ -142,17 +156,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
-        },
-        {
-          "title": "“极不寻常”，特朗普打算旁听最高法院关税案辩论",
-          "url": "https://news.ifeng.com/c/8nUVjJ1QvG4",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时51分"
         },
         {
           "title": "一名美国法官表示，她很可能会阻止特朗普政府在政府停摆期间实施大规模裁员。",
@@ -379,6 +382,17 @@
           "time_info": "[05时12分 ~ 06时10分]"
         },
         {
+          "title": "美财长：特朗普将于10月底访问日本",
+          "url": "https://flash.jin10.com/detail/20251016094313218800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
           "title": "美国总统特朗普的交通部长Duffy威胁加州的4000万美元（拨款）。 加利福尼亚州对卡车司机有英语标准。",
           "url": "https://wallstreetcn.com/livenews/2988432",
           "source": "华尔街见闻-快讯",
@@ -410,6 +424,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
+        },
+        {
+          "title": "特朗普已授权中情局在委内瑞拉开展行动 Anthropic发布Claude Haiku 4.5 | 环球市场",
+          "url": "https://www.cls.cn/detail/2170822",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
         },
         {
           "title": "据Politico：美国总统特朗普本周拨款65亿美元用于发放军人薪酬。",
@@ -456,6 +481,17 @@
           "time_info": "03时11分"
         },
         {
+          "title": "美财长：特朗普将于10月底访问日本",
+          "url": "https://wallstreetcn.com/livenews/2988574",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
           "title": "美国参议院民主党成员Warren和Sanders等成员发函谷歌公司。 他们质疑谷歌就YouTube问题与美国总统特朗普达成0.22亿美元和解一事。",
           "url": "https://wallstreetcn.com/livenews/2988383",
           "source": "华尔街见闻-快讯",
@@ -473,9 +509,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时51分"
+        },
+        {
+          "title": "白宫公布特朗普官方日程称，特朗普将于当地时间周四下午3点宣布消息。",
+          "url": "https://wallstreetcn.com/livenews/2988569",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
         },
         {
           "title": "美媒：特朗普政府授权CIA在委内瑞拉采取秘密行动",
@@ -528,7 +575,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时51分"
         },
@@ -700,11 +747,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时12分 ~ 08时51分]"
+          "appearance_count": 4,
+          "time_info": "[07时12分 ~ 10时23分]"
         },
         {
           "title": "金十图示：2025年10月15日（周三）美股热门股票行情一览（美股收盘）",
@@ -804,7 +852,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时51分"
         },
@@ -823,7 +871,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "金价银价大涨原因",
@@ -844,11 +892,12 @@
           "ranks": [
             21,
             22,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时12分 ~ 08时51分]"
+          "appearance_count": 12,
+          "time_info": "[01时12分 ~ 10时23分]"
         },
         {
           "title": "金价飙涨三大原因",
@@ -878,13 +927,24 @@
           "time_info": "[00时16分 ~ 04时15分]"
         },
         {
+          "title": "澳新银行：明年6月黄金价格将达到4600美元的峰值",
+          "url": "https://flash.jin10.com/detail/20251016095519384800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
           "title": "澳新银行将其年底黄金价格预测上调至4400美元/盎司，预计到2026年6月金价将达到峰值，接近4600美元/盎司；预计白银价格在2026年6月达到57.5美元/盎司的峰值。",
           "url": "https://wallstreetcn.com/livenews/2988528",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时51分"
         },
@@ -901,6 +961,17 @@
           "time_info": "[05时12分 ~ 06时10分]"
         },
         {
+          "title": "金店老板：金价跌起来像泄洪",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E5%BA%97%E8%80%81%E6%9D%BF%EF%BC%9A%E9%87%91%E4%BB%B7%E8%B7%8C%E8%B5%B7%E6%9D%A5%E5%83%8F%E6%B3%84%E6%B4%AA",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
           "title": "黄金还能“牛”多久？ 专家：迭创新高后，金价或步入震荡阶段",
           "url": "https://wallstreetcn.com/livenews/2988450",
           "source": "华尔街见闻-快讯",
@@ -910,6 +981,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "下周金价会重演2015年行情吗",
+          "url": "https://www.toutiao.com/trending/7561615409112157705/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
         },
         {
           "title": "印度央行行长：黄金价格上涨助力印度央行储备增长。",
@@ -926,7 +1008,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "9月以来次低纪录！A股成交额退守2万亿关口，哪些方向缩量最明显？",
@@ -964,6 +1046,17 @@
           "time_info": "07时13分"
         },
         {
+          "title": "A股三大指数集体低开",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
           "title": "应对大宗商品不确定性，套期保值已成A股公司“常规操作”",
           "url": "https://wallstreetcn.com/livenews/2988451",
           "source": "华尔街见闻-快讯",
@@ -973,6 +1066,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "三花智控A股低开近5％，公司澄清获得机器人大额订单的传言不属实。",
+          "url": "https://wallstreetcn.com/livenews/2988564",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "A股充电桩概念股早盘高开，京泉华、奥特迅涨停，和顺电气涨超10%，通达股份、盛弘股份、国电南自、通合科技、特锐德跟涨，消息面上，《电动汽车充电设施服务能力“三年倍增”行动方案(2025—2027年)》印发，到2027年底，在全国范围内建成2800万个充电设施。",
+          "url": "https://wallstreetcn.com/livenews/2988562",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
         },
         {
           "title": "外资机构纷纷发声，投下A股“信任票”",
@@ -1003,7 +1118,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时51分"
         }
@@ -1055,7 +1170,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时51分"
         },

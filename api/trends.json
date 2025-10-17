@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-17T16:16:51.267488+08:00",
-  "total_titles_processed": 1545,
+  "generated_at": "2025-10-17T17:13:58.764411+08:00",
+  "total_titles_processed": 1637,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 98,
+      "match_count": 100,
       "titles": [
         {
           "title": "特朗普中东行有何成果",
@@ -88,11 +88,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时21分 ~ 16时16分]"
+          "appearance_count": 9,
+          "time_info": "[10时21分 ~ 17时13分]"
         },
         {
           "title": "印度回应特朗普称该国承诺停购俄油",
@@ -121,18 +122,6 @@
           "time_info": "[08时52分 ~ 16时16分]"
         },
         {
-          "title": "博尔顿遭起诉，特朗普：他是个坏人",
-          "url": "https://news.ifeng.com/c/8nWGFkRLtLt",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时21分 ~ 16时16分]"
-        },
-        {
           "title": "俄方发起、长2.5小时，俄美总统时隔近两月再通话，特朗普将与普京在布达佩斯会面",
           "url": "https://wallstreetcn.com/articles/3757333",
           "source": "华尔街见闻",
@@ -140,6 +129,18 @@
             9,
             8,
             10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时21分 ~ 17时13分]"
+        },
+        {
+          "title": "博尔顿遭起诉，特朗普：他是个坏人",
+          "url": "https://news.ifeng.com/c/8nWGFkRLtLt",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -161,29 +162,31 @@
           "time_info": "[08时52分 ~ 13时13分]"
         },
         {
-          "title": "普京特朗普通话细节",
-          "url": "https://www.douyin.com/hot/2272619",
-          "source": "抖音",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时17分 ~ 16时16分]"
-        },
-        {
           "title": "俄美峰会地点定了！俄方公布13点普京特朗普通话成果，释放何信号？",
           "url": "https://m.thepaper.cn/newsDetail_forward_31796058",
           "source": "澎湃新闻",
           "ranks": [
             15,
             16,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时30分 ~ 16时16分]"
+          "appearance_count": 8,
+          "time_info": "[11时30分 ~ 17时13分]"
+        },
+        {
+          "title": "普京特朗普通话细节",
+          "url": "https://www.douyin.com/hot/2272619",
+          "source": "抖音",
+          "ranks": [
+            5,
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时17分 ~ 17时13分]"
         },
         {
           "title": "一图看懂｜特朗普对委内瑞拉发动“毒品战争”，真能禁毒？",
@@ -219,6 +222,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时15分 ~ 04时15分]"
+        },
+        {
+          "title": "美俄讨论美供乌“战斧”，特朗普：普京不高兴",
+          "url": "https://news.ifeng.com/c/8nWlNWrEz3l",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
         },
         {
           "title": "克里姆林宫官员：美国总统特朗普告诉俄罗斯总统普京，冲突的结束将为与俄罗斯的经济合作开辟令人振奋的机遇。",
@@ -347,6 +361,17 @@
           "time_info": "[03时16分 ~ 04时15分]"
         },
         {
+          "title": "俄美总统通话 2.5 小时，普京正告特朗普「战斧」不会改变俄乌战局，双方还谈了什么？释放哪些信号？",
+          "url": "https://www.zhihu.com/question/1962439324869047516",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时17分 ~ 17时13分]"
+        },
+        {
           "title": "牛弹琴：普京三板斧轻松搞定特朗普",
           "url": "https://www.toutiao.com/trending/7561990485552664115/",
           "source": "今日头条",
@@ -384,15 +409,16 @@
           "time_info": "[08时52分 ~ 11时30分]"
         },
         {
-          "title": "俄美总统通话 2.5 小时，普京正告特朗普「战斧」不会改变俄乌战局，双方还谈了什么？释放哪些信号？",
-          "url": "https://www.zhihu.com/question/1962439324869047516",
-          "source": "知乎",
+          "title": "你如何看待特朗普建凯旋门",
+          "url": "https://www.toutiao.com/trending/7561714764305907758/",
+          "source": "今日头条",
           "ranks": [
-            13
+            16,
+            17
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时17分 ~ 16时16分]"
+          "time_info": "[15时14分 ~ 17时13分]"
         },
         {
           "title": "普京为何在此时致电特朗普",
@@ -501,18 +527,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时15分 ~ 01时11分]"
-        },
-        {
-          "title": "你如何看待特朗普建凯旋门",
-          "url": "https://www.toutiao.com/trending/7561714764305907758/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时14分 ~ 16时16分]"
         },
         {
           "title": "特朗普普京会晤地点为何定在匈牙利",
@@ -634,6 +648,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
+        },
+        {
+          "title": "特朗普关税谁买单？标普全球：三分之二成本由消费者承担",
+          "url": "https://www.cls.cn/detail/2172177",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
         },
         {
           "title": "美国总统特朗普：美国不会支持这种“全球绿色新骗局”的运输税，也不会以任何方式或形式遵守它。",
@@ -774,7 +799,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -1049,7 +1074,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -1204,7 +1229,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -1273,7 +1298,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -1542,7 +1567,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -1578,17 +1603,6 @@
           "time_info": "[10时21分 ~ 15时14分]"
         },
         {
-          "title": "A股三大指数集体下跌",
-          "url": "https://search.bilibili.com/all?keyword=A%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E4%B8%8B%E8%B7%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时16分"
-        },
-        {
           "title": "A股福建自贸区概念盘中逆势拉升，海峡创新、平潭发展、海通发展涨停，厦门港务、福建金森一度触及涨停，漳州发展、福建水泥、国航远洋、三木集团等冲高。",
           "url": "https://wallstreetcn.com/livenews/2989363",
           "source": "华尔街见闻-快讯",
@@ -1612,14 +1626,15 @@
         },
         {
           "title": "A股三大指数集体下跌",
-          "url": "https://www.douyin.com/hot/2272758",
-          "source": "抖音",
+          "url": "https://search.bilibili.com/all?keyword=A%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E4%B8%8B%E8%B7%8C",
+          "source": "bilibili 热搜",
           "ranks": [
-            5
+            4,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时16分 ~ 17时13分]"
         },
         {
           "title": "A股三季报披露窗口来临，公募机构提前入驻绩优股",
@@ -1632,6 +1647,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时34分 ~ 07时12分]"
+        },
+        {
+          "title": "A股三大指数集体下跌",
+          "url": "https://www.douyin.com/hot/2272758",
+          "source": "抖音",
+          "ranks": [
+            5,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时16分 ~ 17时13分]"
         },
         {
           "title": "A股",
@@ -1681,8 +1708,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时21分 ~ 16时16分]"
+          "appearance_count": 9,
+          "time_info": "[10时21分 ~ 17时13分]"
         },
         {
           "title": "银贷担忧加剧，美股转跌，十年期美债收益率下破4.0%，金银历史新高",
@@ -1702,11 +1729,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时30分 ~ 16时16分]"
+          "appearance_count": 8,
+          "time_info": "[11时30分 ~ 17时13分]"
         },
         {
           "title": "银行坏账担忧冲击美股，黄金首次升破4300美元，美债拉升，”恐慌指数“涨超20%",

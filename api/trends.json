@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T21:18:00.366422+08:00",
-  "total_titles_processed": 1225,
+  "generated_at": "2025-10-19T22:12:13.031420+08:00",
+  "total_titles_processed": 1276,
   "failed_sources": [],
   "trends": [
     {
@@ -39,8 +39,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时43分 ~ 21时18分]"
+          "appearance_count": 18,
+          "time_info": "[11时43分 ~ 22时12分]"
         },
         {
           "title": "美乌总统会晤，特朗普数次语气强硬",
@@ -89,6 +89,17 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[09时01分 ~ 20时21分]"
+        },
+        {
+          "title": "特朗普发布AI恶搞视频，驾驶战斗机向示威者泼粪",
+          "url": "https://news.ifeng.com/c/8na1AOphcs7",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时08分 ~ 22时12分]"
         },
         {
           "title": "特朗普与泽连斯基再度会面：希望能在不动用“战斧”的情况下结束冲突",
@@ -140,6 +151,21 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[13时13分 ~ 17时12分]"
+        },
+        {
+          "title": "全美700万人涌上街头抗议特朗普",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%BE%8E700%E4%B8%87%E4%BA%BA%E6%B6%8C%E4%B8%8A%E8%A1%97%E5%A4%B4%E6%8A%97%E8%AE%AE%E7%89%B9%E6%9C%97%E6%99%AE",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            8,
+            7,
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[17时11分 ~ 22时12分]"
         },
         {
           "title": "普京特使提议“建个隧道把俄美连起来”，特朗普回应",
@@ -208,25 +234,12 @@
             6,
             8,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时13分 ~ 21时18分]"
-        },
-        {
-          "title": "全美700万人涌上街头抗议特朗普",
-          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%BE%8E700%E4%B8%87%E4%BA%BA%E6%B6%8C%E4%B8%8A%E8%A1%97%E5%A4%B4%E6%8A%97%E8%AE%AE%E7%89%B9%E6%9C%97%E6%99%AE",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            8,
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时11分 ~ 21时18分]"
+          "appearance_count": 31,
+          "time_info": "[00时13分 ~ 22时12分]"
         },
         {
           "title": "特朗普团队曾商议亚洲行会晤金正恩",
@@ -241,17 +254,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[14时17分 ~ 18时13分]"
-        },
-        {
-          "title": "特朗普发布AI恶搞视频，驾驶战斗机向示威者泼粪",
-          "url": "https://news.ifeng.com/c/8na1AOphcs7",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时08分 ~ 21时18分]"
         },
         {
           "title": "泽连斯基承认：特朗普未明确拒绝向乌提供“战斧”导弹",
@@ -297,6 +299,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时14分 ~ 11时43分]"
+        },
+        {
+          "title": "特朗普发布AI视频向抗议者洒粪",
+          "url": "https://www.toutiao.com/trending/7562522819947511850/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[18时12分 ~ 22时12分]"
         },
         {
           "title": "泽连斯基称愿意接受双边或三边会谈，特朗普称俄乌冲突应结束",
@@ -352,18 +367,6 @@
           "time_info": "[11时43分 ~ 16时15分]"
         },
         {
-          "title": "特朗普发布AI视频向抗议者洒粪",
-          "url": "https://www.toutiao.com/trending/7562522819947511850/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时12分 ~ 21时18分]"
-        },
-        {
           "title": "多家韩企掌门人与特朗普打高尔夫球",
           "url": "https://www.toutiao.com/trending/7562416604081061915/",
           "source": "今日头条",
@@ -373,17 +376,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时17分 ~ 14时18分]"
-        },
-        {
-          "title": "特朗普：哥伦比亚将不再获得美国补贴。",
-          "url": "https://flash.jin10.com/detail/20251019204809018800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时18分"
         },
         {
           "title": "英媒：特朗普命令在委海岸集结军力，意在迫使马杜罗下台",
@@ -416,17 +408,6 @@
           "time_info": "[11时43分 ~ 15时12分]"
         },
         {
-          "title": "特朗普：将不再向哥伦比亚提供补贴。",
-          "url": "https://wallstreetcn.com/livenews/2990176",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时18分"
-        },
-        {
           "title": "美媒：普京在与特朗普的通话中“要求乌克兰交出关键领土”",
           "url": "https://flash.jin10.com/detail/20251019095513376800",
           "source": "金十数据",
@@ -455,6 +436,20 @@
           "time_info": "[10时44分 ~ 13时13分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-19）",
+          "url": "https://flash.jin10.com/detail/20251019180608570800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            12,
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时09分 ~ 22时12分]"
+        },
+        {
           "title": "韩企掌门与特朗普打高球 是否谈投资和关税引关注",
           "url": "https://flash.jin10.com/detail/20251019092957862800",
           "source": "金十数据",
@@ -470,17 +465,39 @@
           "time_info": "[10时44分 ~ 14时18分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-19）",
-          "url": "https://flash.jin10.com/detail/20251019180608570800",
-          "source": "金十数据",
+          "title": "不要国王！全美700万人上街抗议，特朗普用AI视频回击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31806849",
+          "source": "澎湃新闻",
           "ranks": [
-            4,
-            12,
-            19
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时09分 ~ 21时18分]"
+          "appearance_count": 5,
+          "time_info": "[20时21分 ~ 22时12分]"
+        },
+        {
+          "title": "特朗普：将不再向哥伦比亚提供补贴。",
+          "url": "https://wallstreetcn.com/livenews/2990176",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时18分 ~ 22时12分]"
+        },
+        {
+          "title": "特朗普：哥伦比亚将不再获得美国补贴。",
+          "url": "https://flash.jin10.com/detail/20251019204809018800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时18分 ~ 22时12分]"
         },
         {
           "title": "特朗普为何对华释放缓和信号",
@@ -518,17 +535,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时17分 ~ 15时12分]"
-        },
-        {
-          "title": "不要国王！全美700万人上街抗议，特朗普用AI视频回击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31806849",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时21分 ~ 21时18分]"
         },
         {
           "title": "曝美乌总统会晤特朗普数次语气强硬",
@@ -631,6 +637,18 @@
           "time_info": "[00时13分 ~ 15时12分]"
         },
         {
+          "title": "金价涨了，印度人节日买金习惯变了",
+          "url": "https://news.ifeng.com/c/8na31dSR83g",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[17时11分 ~ 22时12分]"
+        },
+        {
           "title": "中美通话如何影响黄金价格",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E9%80%9A%E8%AF%9D%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC",
           "source": "bilibili 热搜",
@@ -644,18 +662,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时13分 ~ 10时44分]"
-        },
-        {
-          "title": "金价涨了，印度人节日买金习惯变了",
-          "url": "https://news.ifeng.com/c/8na31dSR83g",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时11分 ~ 21时18分]"
         },
         {
           "title": "金价为何下跌",
@@ -729,6 +735,18 @@
           "time_info": "[00时13分 ~ 21时18分]"
         },
         {
+          "title": "担心“泡沫”，“赌性最大”的韩国人开始买“美股VIX”了",
+          "url": "https://wallstreetcn.com/articles/3757446",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[18时12分 ~ 22时12分]"
+        },
+        {
           "title": "“4月以来最动荡一周”结束了，美股依旧上涨，但不再平静",
           "url": "https://wallstreetcn.com/articles/3757414",
           "source": "华尔街见闻",
@@ -752,18 +770,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时13分 ~ 11时43分]"
-        },
-        {
-          "title": "担心“泡沫”，“赌性最大”的韩国人开始买“美股VIX”了",
-          "url": "https://wallstreetcn.com/articles/3757446",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时12分 ~ 21时18分]"
         },
         {
           "title": "韩国散户押注杠杆VIX ，对冲美股高估值风险",
@@ -797,8 +803,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时16分 ~ 21时18分]"
+          "appearance_count": 17,
+          "time_info": "[12时16分 ~ 22时12分]"
         },
         {
           "title": "如何理解周五的A股大跌",
@@ -823,8 +829,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[05时10分 ~ 19时09分]"
+          "appearance_count": 22,
+          "time_info": "[05时10分 ~ 22时12分]"
         }
       ]
     },

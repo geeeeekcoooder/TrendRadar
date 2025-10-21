@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-21T08:54:30.518850+08:00",
-  "total_titles_processed": 765,
+  "generated_at": "2025-10-21T10:24:52.414605+08:00",
+  "total_titles_processed": 875,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 53,
       "titles": [
         {
           "title": "特朗普对中国列出三大问题，中方表态",
@@ -38,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时14分 ~ 08时54分]"
+          "appearance_count": 13,
+          "time_info": "[00时14分 ~ 10时24分]"
         },
         {
           "title": "特朗普释放多项关税缓和信号，或为在最高法院败诉做准备，一旦败诉对美国和全球经济有何影响？",
@@ -50,11 +50,12 @@
             6,
             3,
             5,
-            7
+            7,
+            16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时14分 ~ 08时54分]"
+          "appearance_count": 13,
+          "time_info": "[00时14分 ~ 10时24分]"
         },
         {
           "title": "曝特朗普与泽连斯基再度激烈争吵",
@@ -140,11 +141,24 @@
           "ranks": [
             26,
             27,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时14分 ~ 08时54分]"
+          "appearance_count": 13,
+          "time_info": "[00时14分 ~ 10时24分]"
+        },
+        {
+          "title": "牛弹琴：特朗普被印度气坏了",
+          "url": "https://www.toutiao.com/trending/7563455829395902002/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 10时24分]"
         },
         {
           "title": "特朗普称顿巴斯78%地区已被俄控制",
@@ -161,15 +175,37 @@
           "time_info": "[00时14分 ~ 05时12分]"
         },
         {
-          "title": "牛弹琴：特朗普被印度气坏了",
-          "url": "https://www.toutiao.com/trending/7563455829395902002/",
+          "title": "印度否认通话后，特朗普还嘴硬：莫迪向我保证过",
+          "url": "https://news.ifeng.com/c/8nc5Dzj6yua",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 10时24分]"
+        },
+        {
+          "title": "特朗普预计中美将达成贸易协议，计划明年初访华",
+          "url": "https://news.ifeng.com/c/8ncoJZZhKAJ",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 10时24分]"
+        },
+        {
+          "title": "特朗普计划明年初访华",
+          "url": "https://www.toutiao.com/trending/7562415983688908836/",
           "source": "今日头条",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时54分"
+          "time_info": "10时24分"
         },
         {
           "title": "特朗普被印度气坏了",
@@ -178,20 +214,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时54分"
         },
         {
-          "title": "印度否认通话后，特朗普还嘴硬：莫迪向我保证过",
-          "url": "https://news.ifeng.com/c/8nc5Dzj6yua",
+          "title": "特朗普被印度气坏了：莫迪向我保证过",
+          "url": "https://news.ifeng.com/c/8ncgfsHRFxN",
           "source": "凤凰网",
           "ranks": [
-            3
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时54分"
+          "time_info": "10时24分"
+        },
+        {
+          "title": "美国总统特朗普重返白宫以来，已有超过51.5万名非法外国人被驱逐出境，特朗普有望在执政第一年结束前驱逐60万名非法移民，打破历史记录。",
+          "url": "https://flash.jin10.com/detail/20251021100804742800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
         },
         {
           "title": "美国总统特朗普：正与澳大利亚合作研发军舰和军用车辆。",
@@ -227,15 +274,15 @@
           "time_info": "00时14分"
         },
         {
-          "title": "特朗普预计中美将达成贸易协议，计划明年初访华",
-          "url": "https://news.ifeng.com/c/8ncoJZZhKAJ",
-          "source": "凤凰网",
+          "title": "美国国务卿鲁比奥正在领导美国总统特朗普对委内瑞拉的施压行动。",
+          "url": "https://flash.jin10.com/detail/20251021100055232800",
+          "source": "金十数据",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时54分"
+          "time_info": "10时24分"
         },
         {
           "title": "美国总统特朗普：大约一年后，我们将拥有大量稀土材料。",
@@ -335,6 +382,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时13分 ~ 07时17分]"
+        },
+        {
+          "title": "牛弹琴：特朗普被印度气坏了",
+          "url": "https://www.baidu.com/s?wd=%E7%89%9B%E5%BC%B9%E7%90%B4%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E5%8D%B0%E5%BA%A6%E6%B0%94%E5%9D%8F%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 10时24分]"
         },
         {
           "title": "市场消息：美国上诉法院允许特朗普向俄勒冈州波特兰市部署军队。",
@@ -523,18 +582,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时54分"
-        },
-        {
-          "title": "牛弹琴：特朗普被印度气坏了",
-          "url": "https://www.baidu.com/s?wd=%E7%89%9B%E5%BC%B9%E7%90%B4%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E5%8D%B0%E5%BA%A6%E6%B0%94%E5%9D%8F%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时54分"
         },
@@ -570,6 +618,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
+        },
+        {
+          "title": "特朗普儿子回应父亲与印尼总统外泄对话",
+          "url": "https://www.toutiao.com/trending/7562386379792449586/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
         }
       ]
     },
@@ -586,8 +645,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时14分 ~ 08时54分]"
+          "appearance_count": 13,
+          "time_info": "[00时14分 ~ 10时24分]"
         },
         {
           "title": "美股收盘：三大指数均涨超1% 苹果大涨近4%",
@@ -595,11 +654,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时17分 ~ 08时54分]"
+          "appearance_count": 3,
+          "time_info": "[07时17分 ~ 10时24分]"
         },
         {
           "title": "金十图示：2025年10月20日（周一）美股热门股票行情一览（美股收盘）",
@@ -723,18 +783,41 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "A股房地产板块持续拉升，光明地产涨停，合肥城建此前涨停，香江控股、上实发展、深振业A，珠江股份跟涨。",
+          "url": "https://wallstreetcn.com/livenews/2990954",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
+          "title": "A股电网设备板块盘中震荡拉升，国电南自涨停，思源电气涨超8%，盘中创出历史新高，华明装备、伊戈尔、明阳电气、科林电气、特变电工跟涨。",
+          "url": "https://wallstreetcn.com/livenews/2990952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
         {
           "title": "深夜又一A股公司曝算力计划泡汤！群兴玩具五追“风口”并购皆告失败 |速读公告",
           "url": "https://www.cls.cn/detail/2175151",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 10时24分]"
         },
         {
           "title": "市场连续缩量，机构对A股风格切换存分歧",
@@ -759,13 +842,24 @@
           "time_info": "07时17分"
         },
         {
+          "title": "A股黄金珠宝概念股盘初高开，萃华珠宝涨超5%，招金黄金、四川黄金、中金黄金跟涨。",
+          "url": "https://wallstreetcn.com/livenews/2990922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
           "title": "十大券商看后市｜调整波段或已接近尾声，A股牛市逻辑仍在",
           "url": "https://m.thepaper.cn/newsDetail_forward_31810892",
           "source": "澎湃新闻",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时54分"
         }
@@ -773,7 +867,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "财晓得｜金价幕后推手：他们在买黄金时，买的到底是什么？",
@@ -785,19 +879,42 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时14分 ~ 08时54分]"
+          "appearance_count": 13,
+          "time_info": "[00时14分 ~ 10时24分]"
         },
         {
           "title": "金价银价大反攻",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%A4%A7%E5%8F%8D%E6%94%BB%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26pos%3D5%26lcate%3D5001%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E9%2593%25B6%25E4%25BB%25B7%25E5%25A4%25A7%25E5%258F%258D%25E6%2594%25BB%2523%26flag%3D1%26dgr%3D0%26filter_type%3Drealtimehot%26band_rank%3D5%26c_type%3D31%26realpos%3D5%26stream_entry_id%3D31%26display_time%3D1761008027%26pre_seqid%3D17610080271170315998016",
           "source": "微博",
           "ranks": [
-            5
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 10时24分]"
+        },
+        {
+          "title": "金价再创历史新高！瑞银唱多：明年一季度前有望站上4700美元",
+          "url": "https://www.cls.cn/detail/2175165",
+          "source": "财联社热门",
+          "ranks": [
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时54分"
+          "time_info": "10时24分"
+        },
+        {
+          "title": "金价",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26lcate%3D5001%26cate%3D5001%26realpos%3D26%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26flag%3D1%26dgr%3D0%26stream_entry_id%3D31%26pos%3D27%26band_rank%3D26%26filter_type%3Drealtimehot%26display_time%3D1761013487%26pre_seqid%3D176101348715702304097137",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
         },
         {
           "title": "全球消费者买金习惯发生改变：印度消费者节日购金倾向以旧换新，金价高位运行推动韩国白银价格屡创新高",
@@ -824,8 +941,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时17分 ~ 08时54分]"
+          "appearance_count": 3,
+          "time_info": "[07时17分 ~ 10时24分]"
         },
         {
           "title": "周一（10月20日）纽约尾盘，ICE美元指数涨0.16%，报98.592点，日内交投区间为98.386-98.616点，全天呈现出多个V形走势。 彭博美元指数涨0.11%，报1209.07点，日内交投区间为1206.92-1209.70点。",

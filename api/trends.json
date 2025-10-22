@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-22T10:28:38.616768+08:00",
-  "total_titles_processed": 950,
+  "generated_at": "2025-10-22T11:40:35.780768+08:00",
+  "total_titles_processed": 1074,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 70,
+      "match_count": 72,
       "titles": [
         {
           "title": "特朗普称将于明年初访华，外交部回应",
@@ -93,11 +93,12 @@
             9,
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时16分 ~ 10时28分]"
+          "appearance_count": 14,
+          "time_info": "[00时16分 ~ 11时40分]"
         },
         {
           "title": "释疑｜俄美要连起来了？俄方提议花8年打通“普京-特朗普”隧道有谱吗？",
@@ -133,8 +134,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时55分 ~ 10时28分]"
+          "appearance_count": 3,
+          "time_info": "[08时55分 ~ 11时40分]"
         },
         {
           "title": "特朗普：特普会待定，不想白费功夫",
@@ -144,8 +145,19 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时55分 ~ 11时40分]"
+        },
+        {
+          "title": "释新闻｜美澳签关键矿物协议，特朗普“一年后”会得到很多稀土吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31819515",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时55分 ~ 10时28分]"
+          "time_info": "[10时28分 ~ 11时40分]"
         },
         {
           "title": "美学者：特朗普对华贸易政策反复变化让人厌倦",
@@ -176,20 +188,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
         },
         {
-          "title": "释新闻｜美澳签关键矿物协议，特朗普“一年后”会得到很多稀土吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31819515",
-          "source": "澎湃新闻",
+          "title": "美媒：乌欧拟推12点和平方案，特朗普任和平委员会主席",
+          "url": "https://news.ifeng.com/c/8neYiL38LQB",
+          "source": "凤凰网",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时28分"
+          "time_info": "11时40分"
         },
         {
           "title": "美国弗吉尼亚大学即将与特朗普政府达成协议以结束调查。",
@@ -198,7 +210,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
         },
@@ -220,7 +232,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
         },
@@ -347,6 +359,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时11分 ~ 07时13分]"
+        },
+        {
+          "title": "分歧太大，匈牙利“特普会”取消了，特朗普称“不想浪费时间”",
+          "url": "https://wallstreetcn.com/articles/3757603",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时28分 ~ 11时40分]"
         },
         {
           "title": "美国总统特朗普：尚未就俄罗斯和乌克兰问题做出决定，我们尚未决定是否与普京会面。",
@@ -493,6 +517,18 @@
           "time_info": "[05时12分 ~ 06时11分]"
         },
         {
+          "title": "“不要国王”反特朗普抗议席卷全美，“卖崽青蛙”为何成了抗议标志？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31817642",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时28分 ~ 11时40分]"
+        },
+        {
           "title": "美国总统特朗普：与莫迪谈到了贸易问题。",
           "url": "https://flash.jin10.com/detail/20251022043743953800",
           "source": "金十数据",
@@ -517,6 +553,18 @@
           "time_info": "[05时12分 ~ 06时11分]"
         },
         {
+          "title": "特朗普对俄乌和谈态度再变",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%BF%84%E4%B9%8C%E5%92%8C%E8%B0%88%E6%80%81%E5%BA%A6%E5%86%8D%E5%8F%98",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时28分 ~ 11时40分]"
+        },
+        {
           "title": "评论员：泽连斯基再度被特朗普侮辱",
           "url": "https://www.toutiao.com/trending/7563610173114158601/",
           "source": "今日头条",
@@ -537,17 +585,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
-        },
-        {
-          "title": "分歧太大，匈牙利“特普会”取消了，特朗普称“不想浪费时间”",
-          "url": "https://wallstreetcn.com/articles/3757603",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时28分"
         },
         {
           "title": "美国总统特朗普：舒默和激进左翼分子挟持政府。",
@@ -693,17 +730,6 @@
           "time_info": "07时13分"
         },
         {
-          "title": "“不要国王”反特朗普抗议席卷全美，“卖崽青蛙”为何成了抗议标志？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31817642",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时28分"
-        },
-        {
           "title": "美国总统特朗普向司法部（DOJ）索要2.3亿美元，因为后者调查他。（纽约时报）",
           "url": "https://wallstreetcn.com/livenews/2991387",
           "source": "华尔街见闻-快讯",
@@ -792,6 +818,17 @@
           "time_info": "03时11分"
         },
         {
+          "title": "特朗普再次表示印度同意减少采购俄能源",
+          "url": "https://flash.jin10.com/detail/20251022105632353800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        },
+        {
           "title": "报道：欧洲与乌克兰就结束俄乌战争制定12点和平方案，特朗普负责监督执行",
           "url": "https://wallstreetcn.com/livenews/2991342",
           "source": "华尔街见闻-快讯",
@@ -812,17 +849,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
-        },
-        {
-          "title": "特朗普对俄乌和谈态度再变",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%BF%84%E4%B9%8C%E5%92%8C%E8%B0%88%E6%80%81%E5%BA%A6%E5%86%8D%E5%8F%98",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时28分"
         }
       ]
     },
@@ -849,8 +875,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时55分 ~ 10时28分]"
+          "appearance_count": 3,
+          "time_info": "[08时55分 ~ 11时40分]"
+        },
+        {
+          "title": "美股收盘：三大指数涨跌不一 道指创历史新高",
+          "url": "https://www.cls.cn/detail/2176345",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时13分 ~ 11时40分]"
         },
         {
           "title": "美股涨跌互现，道指历史新高，黄金跳水，白银重挫，比特币一度受捧",
@@ -862,18 +900,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
-        },
-        {
-          "title": "美股收盘：三大指数涨跌不一 道指创历史新高",
-          "url": "https://www.cls.cn/detail/2176345",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时13分 ~ 10时28分]"
         },
         {
           "title": "金十图示：2025年10月21日（周二）美股热门股票行情一览（美股收盘）",
@@ -1026,7 +1052,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
           "title": "国际金价突然大跌",
@@ -1037,8 +1063,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时16分 ~ 10时28分]"
+          "appearance_count": 14,
+          "time_info": "[00时16分 ~ 11时40分]"
         },
         {
           "title": "黄金价格坐过山车 后续怎么走",
@@ -1051,6 +1077,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时16分 ~ 10时28分]"
+        },
+        {
+          "title": "金价大跌是什么信号？前FED顾问：系统性“流动性危机”已至，金融体系正崩溃！",
+          "url": "https://www.cls.cn/detail/2176453",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时28分 ~ 11时40分]"
         },
         {
           "title": "国际金价大跌原因",
@@ -1080,17 +1117,6 @@
           "time_info": "[00时16分 ~ 07时13分]"
         },
         {
-          "title": "金价大跌是什么信号？前FED顾问：系统性“流动性危机”已至，金融体系正崩溃！",
-          "url": "https://www.cls.cn/detail/2176453",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时28分"
-        },
-        {
           "title": "国际金价一度暴跌6%",
           "url": "https://www.toutiao.com/trending/7563812032793808394/",
           "source": "今日头条",
@@ -1109,11 +1135,12 @@
           "ranks": [
             24,
             14,
-            22
+            22,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时13分 ~ 10时28分]"
+          "appearance_count": 4,
+          "time_info": "[07时13分 ~ 11时40分]"
         },
         {
           "title": "现货金价剧烈回调一度跌超5% 避险情绪降温投机多头遭反噬",
@@ -1124,8 +1151,42 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时55分 ~ 11时40分]"
+        },
+        {
+          "title": "金价大跌有人一夜亏5万",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E6%9C%89%E4%BA%BA%E4%B8%80%E5%A4%9C%E4%BA%8F5%E4%B8%87%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26realpos%3D25%26c_type%3D31%26lcate%3D5001%26cate%3D5001%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E5%25A4%25A7%25E8%25B7%258C%25E6%259C%2589%25E4%25BA%25BA%25E4%25B8%2580%25E5%25A4%259C%25E4%25BA%258F5%25E4%25B8%2587%2523%26dgr%3D0%26band_rank%3D25%26flag%3D1%26pos%3D25%26stream_entry_id%3D31%26display_time%3D1761100088%26pre_seqid%3D17611000889270312270524",
+          "source": "微博",
+          "ranks": [
+            25,
+            11
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时55分 ~ 10时28分]"
+          "time_info": "[10时28分 ~ 11时40分]"
+        },
+        {
+          "title": "金价银价为什么同时下跌",
+          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E4%B8%BA%E4%BB%80%E4%B9%88%E5%90%8C%E6%97%B6%E4%B8%8B%E8%B7%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        },
+        {
+          "title": "金价再次跌破 4200 美元，银行提示贵金属风险，交易所上调保证金，如何看待近期调整？普通投资者如何应对？",
+          "url": "https://www.zhihu.com/question/1964024451826943233",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
         },
         {
           "title": "金价创2013年以来最大跌幅 美股黄金矿商股集体重挫",
@@ -1139,15 +1200,26 @@
           "time_info": "00时17分"
         },
         {
-          "title": "金价大跌有人一夜亏5万",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E6%9C%89%E4%BA%BA%E4%B8%80%E5%A4%9C%E4%BA%8F5%E4%B8%87%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26realpos%3D25%26c_type%3D31%26lcate%3D5001%26cate%3D5001%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E5%25A4%25A7%25E8%25B7%258C%25E6%259C%2589%25E4%25BA%25BA%25E4%25B8%2580%25E5%25A4%259C%25E4%25BA%258F5%25E4%25B8%2587%2523%26dgr%3D0%26band_rank%3D25%26flag%3D1%26pos%3D25%26stream_entry_id%3D31%26display_time%3D1761100088%26pre_seqid%3D17611000889270312270524",
-          "source": "微博",
+          "title": "金价剧烈波动 普通投资者如何应对",
+          "url": "https://www.toutiao.com/trending/7563858730983362102/",
+          "source": "今日头条",
           "ranks": [
-            25
+            24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时28分"
+          "time_info": "11时40分"
+        },
+        {
+          "title": "金价剧烈波动 投资者心态分化",
+          "url": "https://www.toutiao.com/trending/7563866097959570985/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
         },
         {
           "title": "花旗对金价转为看跌，料未来三个月内跌至4000美元",
@@ -1167,7 +1239,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
         }
@@ -1267,7 +1339,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "A股深地经济概念继续活跃，神开股份、石化机械3连板，中裕科技涨超10%创新高，德石股份、石化油服、山东墨龙、秉扬科技、山河智能跟涨。",
@@ -1276,9 +1348,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
+        },
+        {
+          "title": "A股抗流感概念再度走强，亨迪药业、特一药业、辰欣药业涨停，多瑞医药涨超10%，广济药业此前封板，南新制药、金石亚药等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/2991606",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
         }
       ]
     }

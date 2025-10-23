@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-23T19:13:01.797574+08:00",
-  "total_titles_processed": 1830,
+  "generated_at": "2025-10-23T20:23:07.050806+08:00",
+  "total_titles_processed": 1924,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 93,
+      "match_count": 99,
       "titles": [
         {
           "title": "特朗普取消与普京会面，克里姆林宫回应",
@@ -86,8 +86,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时14分 ~ 19时13分]"
+          "appearance_count": 13,
+          "time_info": "[13时14分 ~ 20时23分]"
         },
         {
           "title": "中方回应特朗普称中美将达成贸易协议",
@@ -136,6 +136,17 @@
           "time_info": "[08时52分 ~ 14时19分]"
         },
         {
+          "title": "特朗普访日行程公布",
+          "url": "https://news.ifeng.com/c/8ngeBFUGsML",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时17分 ~ 20时23分]"
+        },
+        {
           "title": "特朗普以「不合适」为由取消与普京会面，美欧宣布对俄制裁，「不合适」是指什么？制裁升级会产生哪些影响？",
           "url": "https://www.zhihu.com/question/1964624412641833840",
           "source": "知乎",
@@ -145,8 +156,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时14分 ~ 19时13分]"
+          "appearance_count": 13,
+          "time_info": "[13时14分 ~ 20时23分]"
         },
         {
           "title": "从宣布到取消，特朗普与普京会晤为何被“急踩刹车”？",
@@ -160,8 +171,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时23分 ~ 19时13分]"
+          "appearance_count": 17,
+          "time_info": "[10时23分 ~ 20时23分]"
         },
         {
           "title": "特朗普“强拆”白宫东翼引争议，新建宴会厅面积和资金来源遭质疑",
@@ -192,8 +203,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时15分 ~ 19时13分]"
+          "appearance_count": 27,
+          "time_info": "[00时15分 ~ 20时23分]"
         },
         {
           "title": "中方回应特朗普称中美将达成协议",
@@ -278,17 +289,6 @@
           "time_info": "[00时15分 ~ 07时13分]"
         },
         {
-          "title": "特朗普访日行程公布",
-          "url": "https://news.ifeng.com/c/8ngeBFUGsML",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时17分 ~ 19时13分]"
-        },
-        {
           "title": "特朗普：取消与普京的会面",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%8F%96%E6%B6%88%E4%B8%8E%E6%99%AE%E4%BA%AC%E7%9A%84%E4%BC%9A%E9%9D%A2",
           "source": "百度热搜",
@@ -325,6 +325,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[08时52分 ~ 15时12分]"
+        },
+        {
+          "title": "特朗普第二任期首次制裁俄罗斯，已对普京失去耐心？",
+          "url": "https://news.ifeng.com/c/8ngrvoE5VJT",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时22分 ~ 20时23分]"
         },
         {
           "title": "特朗普取消与普京会面",
@@ -485,6 +496,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
+        },
+        {
+          "title": "以色列外交部长：政府目前尚未决定提前举行投票，因为正全力以赴确保美国总统特朗普的计划取得成功。",
+          "url": "https://flash.jin10.com/detail/20251023195236818800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         },
         {
           "title": "美国芝加哥商业交易所（CME）活牛期货跌幅重新扩大至1%，饲牛期货跌幅扩大至2%。 该国总统特朗普称，“那些饲养牛的农场主们必须降价。（我所挑起的）美国关税让养殖户们做得很好。”",
@@ -859,6 +881,28 @@
           "time_info": "10时24分"
         },
         {
+          "title": "以色列外交部长：美国人知道以色列致力于特朗普的和平计划，但我们正在等待哈马斯履行他们的义务。",
+          "url": "https://flash.jin10.com/detail/20251023194619319800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
+          "title": "扎哈罗娃回应特朗普证实取消“普特会” ：注意到该言论，俄愿意继续接触",
+          "url": "https://wallstreetcn.com/livenews/2992573",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
           "title": "美国总统特朗普：畜牧场主必须降低价格。",
           "url": "https://flash.jin10.com/detail/20251023004402537800",
           "source": "金十数据",
@@ -901,6 +945,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "以色列外交部长：以色列致力于推动美国总统特朗普计划取得成功。",
+          "url": "https://flash.jin10.com/detail/20251023193901665800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
+          "title": "美国总统特朗普将于当地时间下午3点（北京时间次日凌晨3点）在华盛顿发表声明。",
+          "url": "https://wallstreetcn.com/livenews/2992566",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         },
         {
           "title": "芝加哥商业交易所（CME）饲料牛期货在特朗普表示牧场主必须降低价格后，跌至日内交易限额。",
@@ -1136,8 +1202,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时52分 ~ 19时13分]"
+          "appearance_count": 18,
+          "time_info": "[08时52分 ~ 20时23分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 纳指跌近1% 奈飞大跌10%",
@@ -1176,8 +1242,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时15分 ~ 19时13分]"
+          "appearance_count": 27,
+          "time_info": "[00时15分 ~ 20时23分]"
         },
         {
           "title": "科技股拖累三大美股指齐跌，EDA软件股盘中跳水，黄金再跌",
@@ -1569,7 +1635,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "多家外资机构力挺A股，高盛：中国股票的慢牛行情正在酝酿中",
@@ -1582,8 +1648,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时23分 ~ 19时13分]"
+          "appearance_count": 17,
+          "time_info": "[10时23分 ~ 20时23分]"
         },
         {
           "title": "A股收评：三大指数全线收红",
@@ -1625,11 +1691,23 @@
           "url": "https://www.toutiao.com/trending/7564334894269074983/",
           "source": "今日头条",
           "ranks": [
-            19
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时12分 ~ 20时23分]"
+        },
+        {
+          "title": "A股尾盘突然强劲拉升 发生了什么",
+          "url": "https://www.toutiao.com/trending/7563247198747738162/",
+          "source": "今日头条",
+          "ranks": [
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时12分 ~ 19时13分]"
+          "time_info": "[20时22分 ~ 20时23分]"
         },
         {
           "title": "A股三大指数全线收红",

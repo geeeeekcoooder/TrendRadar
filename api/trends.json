@@ -1,12 +1,28 @@
 {
-  "generated_at": "2025-10-24T18:14:49.036448+08:00",
-  "total_titles_processed": 1715,
+  "generated_at": "2025-10-24T19:11:12.779690+08:00",
+  "total_titles_processed": 1815,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 98,
+      "match_count": 100,
       "titles": [
+        {
+          "title": "释新闻｜特朗普第二任期首次制裁俄罗斯，已对普京失去耐心？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31827023",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            9,
+            5,
+            3,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 21,
+          "time_info": "[00时16分 ~ 19时11分]"
+        },
         {
           "title": "特朗普第二任期首次制裁俄罗斯，已对普京失去耐心？",
           "url": "https://news.ifeng.com/c/8ngrvoE5VJT",
@@ -19,19 +35,18 @@
           "time_info": "[00时16分 ~ 07时11分]"
         },
         {
-          "title": "释新闻｜特朗普第二任期首次制裁俄罗斯，已对普京失去耐心？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31827023",
-          "source": "澎湃新闻",
+          "title": "特朗普：美国终止与加拿大的所有贸易谈判",
+          "url": "https://www.cls.cn/detail/2179344",
+          "source": "财联社热门",
           "ranks": [
-            14,
-            9,
+            7,
+            8,
             5,
-            3,
             4
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时16分 ~ 18时14分]"
+          "appearance_count": 10,
+          "time_info": "[12时15分 ~ 19时11分]"
         },
         {
           "title": "特朗普上任后首次，美国对俄两大石油公司实施制裁，油价应声大涨4%",
@@ -57,18 +72,15 @@
           "time_info": "[13时14分 ~ 17时14分]"
         },
         {
-          "title": "特朗普：美国终止与加拿大的所有贸易谈判",
-          "url": "https://www.cls.cn/detail/2179344",
-          "source": "财联社热门",
+          "title": "美政府“停摆”23天，特朗普：我朋友自掏腰包1.3亿美元付军饷",
+          "url": "https://news.ifeng.com/c/8niGt31YVZS",
+          "source": "凤凰网",
           "ranks": [
-            7,
-            8,
-            5,
-            4
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时15分 ~ 18时14分]"
+          "appearance_count": 6,
+          "time_info": "[16时18分 ~ 19时11分]"
         },
         {
           "title": "特朗普赦免赵长鹏，白宫回应“是否利益输送”",
@@ -79,8 +91,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时30分 ~ 18时14分]"
+          "appearance_count": 11,
+          "time_info": "[11时30分 ~ 19时11分]"
         },
         {
           "title": "特朗普特赦赵长鹏，后者承诺帮助美国成为全球加密货币之都，对此你怎么看，其会对市场产生何影响？",
@@ -91,8 +103,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时30分 ~ 18时14分]"
+          "appearance_count": 11,
+          "time_info": "[11时30分 ~ 19时11分]"
         },
         {
           "title": "白宫：特朗普将访问马来西亚、日本、韩国",
@@ -151,17 +163,6 @@
           "time_info": "[08时47分 ~ 12时15分]"
         },
         {
-          "title": "美政府“停摆”23天，特朗普：我朋友自掏腰包1.3亿美元付军饷",
-          "url": "https://news.ifeng.com/c/8niGt31YVZS",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时18分 ~ 18时14分]"
-        },
-        {
           "title": "特朗普访日行程公布",
           "url": "https://news.ifeng.com/c/8ngeBFUGsML",
           "source": "凤凰网",
@@ -171,6 +172,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时16分 ~ 07时11分]"
+        },
+        {
+          "title": "特朗普赦免赵长鹏，币安或重返美国，改变美国数字币市场格局",
+          "url": "https://wallstreetcn.com/articles/3757776",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时30分 ~ 19时11分]"
         },
         {
           "title": "特朗普：终止与加拿大的贸易谈判",
@@ -200,6 +214,17 @@
           "time_info": "[00时16分 ~ 07时11分]"
         },
         {
+          "title": "特朗普警告以色列：不准吞并约旦河西岸",
+          "url": "https://news.ifeng.com/c/8niTZ1ba8ux",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时14分 ~ 19时11分]"
+        },
+        {
           "title": "特朗普制裁俄石油业 分析人士：低油价为美国升级行动留出空间",
           "url": "https://www.cls.cn/detail/2179005",
           "source": "财联社热门",
@@ -226,6 +251,21 @@
           "time_info": "[08时47分 ~ 10时18分]"
         },
         {
+          "title": "特朗普赦免币安创始人赵长鹏",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31830074",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17,
+            16,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时12分 ~ 19时11分]"
+        },
+        {
           "title": "特朗普赦免赵长鹏",
           "url": "https://www.douyin.com/hot/2280802",
           "source": "抖音",
@@ -238,17 +278,17 @@
           "time_info": "[14时18分 ~ 18时14分]"
         },
         {
-          "title": "特朗普赦免赵长鹏，币安或重返美国，改变美国数字币市场格局",
-          "url": "https://wallstreetcn.com/articles/3757776",
-          "source": "华尔街见闻",
+          "title": "一则广告惹出祸？特朗普：美国终止与加拿大的所有贸易谈判",
+          "url": "https://www.cls.cn/detail/2179429",
+          "source": "财联社热门",
           "ranks": [
             10,
             9,
-            7
+            8
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[11时30分 ~ 18时14分]"
+          "time_info": "[16时18分 ~ 19时11分]"
         },
         {
           "title": "美国白宫：（特朗普）与普京的会晤并非完全排除在外。普京与泽连斯基的会晤并非完全排除在外。",
@@ -330,17 +370,6 @@
           "time_info": "08时47分"
         },
         {
-          "title": "特朗普警告以色列：不准吞并约旦河西岸",
-          "url": "https://news.ifeng.com/c/8niTZ1ba8ux",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时14分"
-        },
-        {
           "title": "特朗普：美国终止与加拿大的所有贸易谈判",
           "url": "https://news.ifeng.com/c/8ni2EpR7ztO",
           "source": "凤凰网",
@@ -361,20 +390,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时47分"
-        },
-        {
-          "title": "特朗普赦免币安创始人赵长鹏",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31830074",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时12分 ~ 18时14分]"
         },
         {
           "title": "WTI原油期货涨5.44%，北京时间03:47暂报61.68美元。 布伦特原油期货涨5.19%，暂报65.84美元。 媒体援引一名美国官员和飞行轨迹追踪数据报道称，美国空军多架B-1轰炸机出现在委内瑞拉周边空域。 10月22日，美国总统特朗普声称，美军进入委内瑞拉陆地需要国会山授权。",
@@ -476,19 +491,6 @@
           "time_info": "[11时30分 ~ 12时15分]"
         },
         {
-          "title": "一则广告惹出祸？特朗普：美国终止与加拿大的所有贸易谈判",
-          "url": "https://www.cls.cn/detail/2179429",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时18分 ~ 18时14分]"
-        },
-        {
           "title": "美国总统特朗普：不认为会要求对贩毒集团宣战。",
           "url": "https://flash.jin10.com/detail/20251024042517684800",
           "source": "金十数据",
@@ -499,6 +501,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时12分 ~ 06时11分]"
+        },
+        {
+          "title": "赵长鹏回应获特朗普赦免",
+          "url": "https://www.baidu.com/s?wd=%E8%B5%B5%E9%95%BF%E9%B9%8F%E5%9B%9E%E5%BA%94%E8%8E%B7%E7%89%B9%E6%9C%97%E6%99%AE%E8%B5%A6%E5%85%8D",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            19,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时14分 ~ 19时11分]"
         },
         {
           "title": "“特朗普取消会晤” 普京发声",
@@ -603,6 +618,17 @@
           "time_info": "[05时12分 ~ 06时11分]"
         },
         {
+          "title": "特朗普为何终止与加拿大的贸易谈判",
+          "url": "https://www.toutiao.com/trending/7564700176221212196/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时10分 ~ 19时11分]"
+        },
+        {
           "title": "美国总统特朗普：以色列不会在约旦河西岸采取任何行动。",
           "url": "https://flash.jin10.com/detail/20251024041334710800",
           "source": "金十数据",
@@ -699,16 +725,15 @@
           "time_info": "[13时14分 ~ 14时18分]"
         },
         {
-          "title": "赵长鹏回应获特朗普赦免",
-          "url": "https://www.baidu.com/s?wd=%E8%B5%B5%E9%95%BF%E9%B9%8F%E5%9B%9E%E5%BA%94%E8%8E%B7%E7%89%B9%E6%9C%97%E6%99%AE%E8%B5%A6%E5%85%8D",
-          "source": "百度热搜",
+          "title": "泽连斯基为何提交拜登黑料给特朗普",
+          "url": "https://www.toutiao.com/trending/7564698389833584191/",
+          "source": "今日头条",
           "ranks": [
-            20,
-            19
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时14分 ~ 18时14分]"
+          "time_info": "[19时10分 ~ 19时11分]"
         },
         {
           "title": "币安创始人赵长鹏获特朗普赦免，白宫回应“是否利益输送”",
@@ -838,7 +863,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         },
@@ -1177,8 +1202,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时11分 ~ 18时14分]"
+          "appearance_count": 14,
+          "time_info": "[07时11分 ~ 19时11分]"
         },
         {
           "title": "美股指普跌，动量股抛售继续，量子计算股重挫，原油逆市上涨，金银期货止跌",
@@ -1419,8 +1444,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时12分 ~ 18时14分]"
+          "appearance_count": 7,
+          "time_info": "[15时12分 ~ 19时11分]"
         },
         {
           "title": "A股收评：沪指涨0.71%续创10年新高",
@@ -1429,11 +1454,12 @@
           "ranks": [
             15,
             28,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时18分 ~ 18时14分]"
+          "appearance_count": 6,
+          "time_info": "[16时18分 ~ 19时11分]"
         },
         {
           "title": "林园：4300点是A股牛市的起点",
@@ -1447,6 +1473,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时16分 ~ 05时12分]"
+        },
+        {
+          "title": "A股未来五年大方向在哪里",
+          "url": "https://www.toutiao.com/trending/7564697479606701631/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时14分 ~ 19时11分]"
         },
         {
           "title": "李大霄：A股创下十年新高 成交量不足",
@@ -1514,17 +1552,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时30分"
-        },
-        {
-          "title": "A股未来五年大方向在哪里",
-          "url": "https://www.toutiao.com/trending/7564697479606701631/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时14分"
         },
         {
           "title": "A股算力硬件股午后持续走强，中际旭创大涨10%，方正科技触及涨停，胜宏科技、景旺电子、新易盛、工业富联多股涨超5%。",
@@ -1617,11 +1644,12 @@
           "ranks": [
             19,
             20,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时18分 ~ 18时14分]"
+          "appearance_count": 6,
+          "time_info": "[16时18分 ~ 19时11分]"
         },
         {
           "title": "金价要暴跌了吗?",

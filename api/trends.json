@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T16:19:44.835936+08:00",
-  "total_titles_processed": 1258,
+  "generated_at": "2025-10-27T17:17:59.668197+08:00",
+  "total_titles_processed": 1348,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 64,
+      "match_count": 65,
       "titles": [
         {
           "title": "美俄代表持续接触，特朗普：暂不打算见普京",
@@ -170,6 +170,30 @@
           "time_info": "11时49分"
         },
         {
+          "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
+          "url": "https://news.ifeng.com/c/8nnBWKkSs4o",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
+          "title": "各退一步？巴美就关税问题重启双边谈判，特朗普暗示“有希望”！",
+          "url": "https://www.cls.cn/detail/2181112",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时20分 ~ 17时17分]"
+        },
+        {
           "title": "引用前总统讲话“打脸”现总统，特朗普再次怒举关税大棒",
           "url": "https://news.ifeng.com/c/8nmaj9cyXDX",
           "source": "凤凰网",
@@ -240,18 +264,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时21分 ~ 15时15分]"
-        },
-        {
-          "title": "各退一步？巴美就关税问题重启双边谈判，特朗普暗示“有希望”！",
-          "url": "https://www.cls.cn/detail/2181112",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时20分 ~ 16时19分]"
         },
         {
           "title": "东盟峰会特朗普又来当主角",
@@ -458,7 +470,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         },
@@ -491,7 +503,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         },
@@ -502,7 +514,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         },
@@ -744,7 +756,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         }
@@ -752,7 +764,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "A股牛市中缩量震荡通常有多久？投资主线有哪些？十大券商策略来了",
@@ -820,17 +832,6 @@
           "time_info": "[01时10分 ~ 05时11分]"
         },
         {
-          "title": "A股全线收涨 沪指逼近4000点",
-          "url": "https://www.douyin.com/hot/2284310",
-          "source": "抖音",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
           "title": "上证报：A股新一轮稳健上涨行情有望延续，科技成长风格或“强者恒强”",
           "url": "https://wallstreetcn.com/livenews/2993810",
           "source": "华尔街见闻-快讯",
@@ -852,6 +853,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时15分 ~ 16时19分]"
+        },
+        {
+          "title": "A股全线收涨 沪指逼近4000点",
+          "url": "https://www.douyin.com/hot/2284310",
+          "source": "抖音",
+          "ranks": [
+            2,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时19分 ~ 17时17分]"
         },
         {
           "title": "A股或摸高4000",
@@ -949,6 +962,28 @@
           "time_info": "10时46分"
         },
         {
+          "title": "A股逼近4000点 还能上车吗",
+          "url": "https://www.toutiao.com/trending/7565798490819792390/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
+          "title": "A股放量大涨！沪指时隔十年再度逼近4000点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31842838",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
           "title": "A股存储芯片板块午后再度上攻，江波龙涨超10％再创新高，大为股份、时空科技此前涨停，德明利、精智达、微导纳米跟涨。",
           "url": "https://wallstreetcn.com/livenews/2994011",
           "source": "华尔街见闻-快讯",
@@ -977,7 +1012,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         },
@@ -1109,7 +1144,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         }
@@ -1157,6 +1192,18 @@
           "time_info": "[06时11分 ~ 07时12分]"
         },
         {
+          "title": "美股盘前，科技股、中概股普涨",
+          "url": "https://wallstreetcn.com/livenews/2994104",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时19分 ~ 17时17分]"
+        },
+        {
           "title": "美股三大股指期货延续涨势，纳指期货涨幅达1%，标普500指数期货涨0.8%，道指期货现涨0.6%。",
           "url": "https://flash.jin10.com/detail/20251027111943892800",
           "source": "金十数据",
@@ -1166,17 +1213,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时49分"
-        },
-        {
-          "title": "美股盘前，科技股、中概股普涨",
-          "url": "https://wallstreetcn.com/livenews/2994104",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时19分"
         },
         {
           "title": "现货黄金跳空低开逾1%，美股期货集体上扬",
@@ -1193,8 +1229,19 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "美股期指集体拉升，日股首破5万点，美债收益率上行，金银再度跳水，油价回落，以太坊涨超5%",
+          "url": "https://wallstreetcn.com/articles/3757937",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
         {
           "title": "机构： 美联储需更快降息，才能让美债收益率显著下降",
           "url": "https://flash.jin10.com/detail/20251027160831083800",
@@ -1202,7 +1249,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         },

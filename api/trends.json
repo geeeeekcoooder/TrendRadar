@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T10:46:20.576858+08:00",
-  "total_titles_processed": 707,
+  "generated_at": "2025-10-27T11:49:18.464260+08:00",
+  "total_titles_processed": 811,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 26,
       "titles": [
         {
           "title": "美俄代表持续接触，特朗普：暂不打算见普京",
@@ -123,6 +123,17 @@
           "time_info": "[00时14分 ~ 06时11分]"
         },
         {
+          "title": "巴西总统卢拉：美国对巴西征收关税是基于“错误信息”。 与特朗普的会晤出乎意料地顺利。",
+          "url": "https://wallstreetcn.com/livenews/2993966",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时49分"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-26）",
           "url": "https://flash.jin10.com/detail/20251026184624203800",
           "source": "金十数据",
@@ -134,6 +145,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时14分 ~ 05时11分]"
+        },
+        {
+          "title": "巴西总统卢拉：愿意前往华盛顿与美国总统特朗普会晤。",
+          "url": "https://flash.jin10.com/detail/20251027112106732800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时49分"
         },
         {
           "title": "美议员：特朗普将在国会就可能扩大对委内瑞拉打击举行吹风会",
@@ -149,6 +171,19 @@
           "time_info": "[05时11分 ~ 07时12分]"
         },
         {
+          "title": "东盟峰会特朗普又来当主角",
+          "url": "https://www.toutiao.com/trending/7565671278867123758/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            27,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时57分 ~ 11时49分]"
+        },
+        {
           "title": "特朗普2.0亚洲“首秀”：五天三国",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE2.0%E4%BA%9A%E6%B4%B2%E2%80%9C%E9%A6%96%E7%A7%80%E2%80%9D%EF%BC%9A%E4%BA%94%E5%A4%A9%E4%B8%89%E5%9B%BD",
           "source": "百度热搜",
@@ -160,18 +195,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时15分 ~ 08时58分]"
-        },
-        {
-          "title": "东盟峰会特朗普又来当主角",
-          "url": "https://www.toutiao.com/trending/7565671278867123758/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时57分 ~ 10时46分]"
         },
         {
           "title": "韩国考虑授予特朗普“无穷花大勋章”",
@@ -195,6 +218,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时57分 ~ 08时58分]"
+        },
+        {
+          "title": "引用前总统讲话“打脸”现总统，特朗普再次怒举关税大棒",
+          "url": "https://news.ifeng.com/c/8nmaj9cyXDX",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时46分 ~ 11时49分]"
         },
         {
           "title": "不满加拿大反关税广告 特朗普宣布对加方额外征收10%关税",
@@ -231,15 +265,26 @@
           "time_info": "[00时14分 ~ 01时10分]"
         },
         {
-          "title": "引用前总统讲话“打脸”现总统，特朗普再次怒举关税大棒",
-          "url": "https://news.ifeng.com/c/8nmaj9cyXDX",
-          "source": "凤凰网",
+          "title": "巴西总统卢拉：向美国总统特朗普递交了一份书面议程。",
+          "url": "https://flash.jin10.com/detail/20251027111725920800",
+          "source": "金十数据",
           "ranks": [
-            7
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时46分"
+          "time_info": "11时49分"
+        },
+        {
+          "title": "巴西总统卢拉：昨日与美国总统特朗普会晤后留下了非常好的印象。我尊重特朗普，他也尊重我。",
+          "url": "https://flash.jin10.com/detail/20251027111712719800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时49分"
         },
         {
           "title": "美国总统特朗普结束马来西亚之行，将前往日本。",
@@ -248,7 +293,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时46分"
         },
@@ -259,9 +304,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时46分"
+        },
+        {
+          "title": "韩国总统顾问：在亚太经合组织会议期间，李在明总统与美国总统特朗普达成关税协议存在困难。",
+          "url": "https://flash.jin10.com/detail/20251027104546446800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时49分"
         }
       ]
     },
@@ -280,8 +336,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时14分 ~ 10时46分]"
+          "appearance_count": 14,
+          "time_info": "[00时14分 ~ 11时49分]"
         },
         {
           "title": "龙头五连板 本周披露并购重组进展的A股名单一览",
@@ -328,7 +384,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时46分"
         },
@@ -348,55 +404,60 @@
           "url": "https://wallstreetcn.com/livenews/2993924",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时46分 ~ 11时49分]"
         },
         {
           "title": "A股券商股震荡拉升，湘财股份盘中冲击涨停，东兴证券、华泰证券、信达证券、国元证券、华鑫股份等跟涨。",
           "url": "https://wallstreetcn.com/livenews/2993919",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时46分 ~ 11时49分]"
         },
         {
           "title": "A股钢铁板块震荡上扬，常宝股份涨停，中信特钢涨超7%，钒钛股份、友发集团、金洲管道、首钢股份跟涨。",
           "url": "https://wallstreetcn.com/livenews/2993918",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时46分 ~ 11时49分]"
         },
         {
           "title": "A股稀土永磁板块震荡走强，厦门钨业涨停，三川智慧、北方稀土、钢研纳克、金力永磁、新莱福等跟涨。",
           "url": "https://wallstreetcn.com/livenews/2993915",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时46分 ~ 11时49分]"
         },
         {
           "title": "A股可控核聚变概念震荡走强，东方钽业3天2板，创历史新高，纽威股份触及涨停，皖仪科技、中国核建、远东股份、西部超导等跟涨。",
           "url": "https://wallstreetcn.com/livenews/2993909",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时46分 ~ 11时49分]"
         },
         {
           "title": "A股开盘：三大指数集体高开",
@@ -405,7 +466,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时46分"
         },
@@ -416,7 +477,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时46分"
         },
@@ -427,7 +488,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时46分"
         },
@@ -438,7 +499,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时46分"
         },
@@ -452,6 +513,69 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "部分中概股在美股夜盘走高，阿里巴巴(BABA.N)和百度(BIDU.O)均涨3%，理想汽车(LI.O)、小鹏汽车(XPEV.N)和哔哩哔哩(BILI.O)涨超2%，",
+          "url": "https://flash.jin10.com/detail/20251027082830826800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时58分"
+        },
+        {
+          "title": "美股三大股指期货高开，纳指期货涨0.8%。",
+          "url": "https://flash.jin10.com/detail/20251027060229559800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 07时12分]"
+        },
+        {
+          "title": "美股指数期货走高，日股首破5万点、韩股首破4000点均创新高，铜、大豆上涨，黄金下挫1%",
+          "url": "https://wallstreetcn.com/articles/3757937",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时46分 ~ 11时49分]"
+        },
+        {
+          "title": "美股三大股指期货延续涨势，纳指期货涨幅达1%，标普500指数期货涨0.8%，道指期货现涨0.6%。",
+          "url": "https://flash.jin10.com/detail/20251027111943892800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时49分"
+        },
+        {
+          "title": "现货黄金跳空低开逾1%，美股期货集体上扬",
+          "url": "https://wallstreetcn.com/livenews/2993801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时12分"
         }
       ]
     },
@@ -489,7 +613,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时46分"
         },
@@ -498,62 +622,12 @@
           "url": "https://www.toutiao.com/trending/7565700779416227391/",
           "source": "今日头条",
           "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "部分中概股在美股夜盘走高，阿里巴巴(BABA.N)和百度(BIDU.O)均涨3%，理想汽车(LI.O)、小鹏汽车(XPEV.N)和哔哩哔哩(BILI.O)涨超2%，",
-          "url": "https://flash.jin10.com/detail/20251027082830826800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时58分"
-        },
-        {
-          "title": "美股三大股指期货高开，纳指期货涨0.8%。",
-          "url": "https://flash.jin10.com/detail/20251027060229559800",
-          "source": "金十数据",
-          "ranks": [
-            2,
+            14,
             15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时11分 ~ 07时12分]"
-        },
-        {
-          "title": "美股指数期货走高，日股首破5万点、韩股首破4000点均创新高，铜、大豆上涨，黄金下挫1%",
-          "url": "https://wallstreetcn.com/articles/3757937",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时46分"
-        },
-        {
-          "title": "现货黄金跳空低开逾1%，美股期货集体上扬",
-          "url": "https://wallstreetcn.com/livenews/2993801",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
+          "time_info": "[10时46分 ~ 11时49分]"
         }
       ]
     }

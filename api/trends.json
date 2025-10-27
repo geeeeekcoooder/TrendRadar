@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T15:15:42.157528+08:00",
-  "total_titles_processed": 1160,
+  "generated_at": "2025-10-27T16:19:44.835936+08:00",
+  "total_titles_processed": 1258,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 64,
       "titles": [
         {
           "title": "美俄代表持续接触，特朗普：暂不打算见普京",
@@ -123,6 +123,18 @@
           "time_info": "[00时14分 ~ 06时11分]"
         },
         {
+          "title": "特朗普到访，日本新首相高市早苗迎来外交“大考”",
+          "url": "https://news.ifeng.com/c/8nn0csPCPJl",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时20分 ~ 16时19分]"
+        },
+        {
           "title": "巴西总统卢拉：美国对巴西征收关税是基于“错误信息”。 与特朗普的会晤出乎意料地顺利。",
           "url": "https://wallstreetcn.com/livenews/2993966",
           "source": "华尔街见闻-快讯",
@@ -156,18 +168,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时49分"
-        },
-        {
-          "title": "特朗普到访，日本新首相高市早苗迎来外交“大考”",
-          "url": "https://news.ifeng.com/c/8nn0csPCPJl",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时20分 ~ 15时15分]"
         },
         {
           "title": "引用前总统讲话“打脸”现总统，特朗普再次怒举关税大棒",
@@ -242,6 +242,18 @@
           "time_info": "[14时21分 ~ 15时15分]"
         },
         {
+          "title": "各退一步？巴美就关税问题重启双边谈判，特朗普暗示“有希望”！",
+          "url": "https://www.cls.cn/detail/2181112",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时20分 ~ 16时19分]"
+        },
+        {
           "title": "东盟峰会特朗普又来当主角",
           "url": "https://www.toutiao.com/trending/7565671278867123758/",
           "source": "今日头条",
@@ -266,18 +278,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时15分 ~ 08时58分]"
-        },
-        {
-          "title": "各退一步？巴美就关税问题重启双边谈判，特朗普暗示“有希望”！",
-          "url": "https://www.cls.cn/detail/2181112",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时20分 ~ 15时15分]"
         },
         {
           "title": "韩国考虑授予特朗普“无穷花大勋章”",
@@ -403,7 +403,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
         },
@@ -425,7 +425,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
         },
@@ -452,6 +452,17 @@
           "time_info": "14时21分"
         },
         {
+          "title": "评论员：特朗普没想到莫迪不给面子",
+          "url": "https://www.toutiao.com/trending/7565757039905885723/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
           "title": "巴西总统卢拉：昨日与美国总统特朗普会晤后留下了非常好的印象。我尊重特朗普，他也尊重我。",
           "url": "https://flash.jin10.com/detail/20251027111712719800",
           "source": "金十数据",
@@ -472,6 +483,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
+        },
+        {
+          "title": "特朗普：在医院接受了一次“完美的”核磁共振检查",
+          "url": "https://flash.jin10.com/detail/20251027155706399800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
+          "title": "美国总统特朗普：正落地日本，期待与天皇见面。",
+          "url": "https://flash.jin10.com/detail/20251027155518803800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         },
         {
           "title": "美国总统特朗普结束马来西亚之行，将前往日本。",
@@ -535,7 +568,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
         },
@@ -546,7 +579,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
         },
@@ -557,7 +590,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
         },
@@ -568,7 +601,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
         },
@@ -601,7 +634,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
         },
@@ -634,7 +667,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
         },
@@ -703,12 +736,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时24分"
+        },
+        {
+          "title": "特朗普称不会在2028年大选时作为副总统候选人参选",
+          "url": "https://wallstreetcn.com/livenews/2994077",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         }
       ]
     },
     {
       "keyword_group": "A股",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "A股牛市中缩量震荡通常有多久？投资主线有哪些？十大券商策略来了",
@@ -776,15 +820,15 @@
           "time_info": "[01时10分 ~ 05时11分]"
         },
         {
-          "title": "A股收盘：沪指涨1.18%逼近4000点，存储芯片板块集体爆发",
-          "url": "https://wallstreetcn.com/livenews/2994073",
-          "source": "华尔街见闻-快讯",
+          "title": "A股全线收涨 沪指逼近4000点",
+          "url": "https://www.douyin.com/hot/2284310",
+          "source": "抖音",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时15分"
+          "time_info": "16时19分"
         },
         {
           "title": "上证报：A股新一轮稳健上涨行情有望延续，科技成长风格或“强者恒强”",
@@ -796,6 +840,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "A股收盘：沪指涨1.18%逼近4000点，存储芯片板块集体爆发",
+          "url": "https://wallstreetcn.com/livenews/2994073",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时15分 ~ 16时19分]"
         },
         {
           "title": "A股或摸高4000",
@@ -915,6 +971,17 @@
           "time_info": "10时46分"
         },
         {
+          "title": "A股放量大涨逼宫4000点 还能上车吗",
+          "url": "https://www.toutiao.com/trending/7565798490819792390/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
           "title": "A股三大指数全线高开",
           "url": "https://wallstreetcn.com/livenews/2993890",
           "source": "华尔街见闻-快讯",
@@ -973,7 +1040,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "金价暴跌有大学生把生活费亏没了",
@@ -1010,6 +1077,19 @@
           "time_info": "10时46分"
         },
         {
+          "title": "业内：金价急跌套牢Z世代",
+          "url": "https://www.toutiao.com/trending/7565736865819528746/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时20分 ~ 16时19分]"
+        },
+        {
           "title": "黄金价格下跌是进场“捡便宜”时机吗",
           "url": "https://www.toutiao.com/trending/7565700779416227391/",
           "source": "今日头条",
@@ -1023,22 +1103,21 @@
           "time_info": "[10时46分 ~ 12时24分]"
         },
         {
-          "title": "业内：金价急跌套牢Z世代",
-          "url": "https://www.toutiao.com/trending/7565736865819528746/",
+          "title": "金价下跌是机会还是风险",
+          "url": "https://www.toutiao.com/trending/7565790096994078214/",
           "source": "今日头条",
           "ranks": [
-            29,
-            22
+            27
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时20分 ~ 15时15分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美股指数期货走高，日股首破5万点、韩股首破4000点均创新高，铜、大豆上涨，黄金下挫1%",
@@ -1051,8 +1130,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时46分 ~ 15时15分]"
+          "appearance_count": 8,
+          "time_info": "[10时46分 ~ 16时19分]"
         },
         {
           "title": "部分中概股在美股夜盘走高，阿里巴巴(BABA.N)和百度(BIDU.O)均涨3%，理想汽车(LI.O)、小鹏汽车(XPEV.N)和哔哩哔哩(BILI.O)涨超2%，",
@@ -1089,6 +1168,17 @@
           "time_info": "11时49分"
         },
         {
+          "title": "美股盘前，科技股、中概股普涨",
+          "url": "https://wallstreetcn.com/livenews/2994104",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
           "title": "现货黄金跳空低开逾1%，美股期货集体上扬",
           "url": "https://wallstreetcn.com/livenews/2993801",
           "source": "华尔街见闻-快讯",
@@ -1103,8 +1193,19 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "机构： 美联储需更快降息，才能让美债收益率显著下降",
+          "url": "https://flash.jin10.com/detail/20251027160831083800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
         {
           "title": "10年期美债收益率上涨4个基点，至4.037%；30年期美债收益率上升3.9个基点，至4.625%。",
           "url": "https://flash.jin10.com/detail/20251027131215020800",

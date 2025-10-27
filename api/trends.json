@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T19:13:14.565667+08:00",
-  "total_titles_processed": 1542,
+  "generated_at": "2025-10-27T20:23:24.347530+08:00",
+  "total_titles_processed": 1654,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 71,
+      "match_count": 76,
       "titles": [
         {
           "title": "美俄代表持续接触，特朗普：暂不打算见普京",
@@ -71,6 +71,18 @@
           "time_info": "[00时14分 ~ 08时58分]"
         },
         {
+          "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
+          "url": "https://news.ifeng.com/c/8nnBWKkSs4o",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时17分 ~ 20时23分]"
+        },
+        {
           "title": "不满加拿大反关税广告，特朗普宣布对加方征收10%额外关税",
           "url": "https://m.thepaper.cn/newsDetail_forward_31837755",
           "source": "澎湃新闻",
@@ -81,18 +93,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时14分 ~ 06时11分]"
-        },
-        {
-          "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
-          "url": "https://news.ifeng.com/c/8nnBWKkSs4o",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时17分 ~ 19时13分]"
         },
         {
           "title": "韩国加拿大为何都受不了特朗普",
@@ -158,6 +158,17 @@
           "time_info": "11时49分"
         },
         {
+          "title": "特朗普访问日本",
+          "url": "https://www.douyin.com/hot/2285103",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-26）",
           "url": "https://flash.jin10.com/detail/20251026184624203800",
           "source": "金十数据",
@@ -169,6 +180,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时14分 ~ 05时11分]"
+        },
+        {
+          "title": "经济学家分析特朗普关税政策",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%AE%B6%E5%88%86%E6%9E%90%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%E6%94%BF%E7%AD%96",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         },
         {
           "title": "巴西总统卢拉：愿意前往华盛顿与美国总统特朗普会晤。",
@@ -267,6 +289,19 @@
           "time_info": "[14时21分 ~ 15时15分]"
         },
         {
+          "title": "美联储主席五位候选人锁定，特朗普称预计年底作出决定",
+          "url": "https://wallstreetcn.com/articles/3757964",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时16分 ~ 20时23分]"
+        },
+        {
           "title": "东盟峰会特朗普又来当主角",
           "url": "https://www.toutiao.com/trending/7565671278867123758/",
           "source": "今日头条",
@@ -291,18 +326,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时15分 ~ 08时58分]"
-        },
-        {
-          "title": "美联储主席五位候选人锁定，特朗普称预计年底作出决定",
-          "url": "https://wallstreetcn.com/articles/3757964",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时16分 ~ 19时13分]"
         },
         {
           "title": "韩国考虑授予特朗普“无穷花大勋章”",
@@ -516,7 +539,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         },
@@ -527,7 +550,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         },
@@ -560,7 +583,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         },
@@ -604,7 +627,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         },
@@ -618,6 +641,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
+        },
+        {
+          "title": "特朗普：俄试射核动力巡航导弹不合适",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BF%84%E8%AF%95%E5%B0%84%E6%A0%B8%E5%8A%A8%E5%8A%9B%E5%B7%A1%E8%88%AA%E5%AF%BC%E5%BC%B9%E4%B8%8D%E5%90%88%E9%80%82",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         },
         {
           "title": "德商银行：特朗普亚洲行“成果”或意味着与东盟的更多接触",
@@ -719,6 +753,17 @@
           "time_info": "15时15分"
         },
         {
+          "title": "评论员：特朗普在马来西亚双喜临门",
+          "url": "https://www.toutiao.com/trending/7565834902130658870/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
           "title": "巴西总统卢拉：特朗普可以提出任何问题，摆上桌面，我都会讨论。",
           "url": "https://flash.jin10.com/detail/20251027113517357800",
           "source": "金十数据",
@@ -772,6 +817,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
+        },
+        {
+          "title": "日本天皇亲自在门外接送特朗普",
+          "url": "https://www.toutiao.com/trending/7565133400080797190/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         },
         {
           "title": "巴西总统卢拉：特朗普向我保证，我们一定会达成协议。",
@@ -911,6 +967,19 @@
           "time_info": "07时12分"
         },
         {
+          "title": "A股放量大涨！沪指时隔十年再度逼近4000点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31842838",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时17分 ~ 20时23分]"
+        },
+        {
           "title": "A股全线收涨 沪指逼近4000点",
           "url": "https://www.douyin.com/hot/2284310",
           "source": "抖音",
@@ -934,19 +1003,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时15分 ~ 16时19分]"
-        },
-        {
-          "title": "A股放量大涨！沪指时隔十年再度逼近4000点",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31842838",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时17分 ~ 19时13分]"
         },
         {
           "title": "A股或摸高4000",
@@ -1169,7 +1225,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "金价暴跌有大学生把生活费亏没了",
@@ -1275,6 +1331,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
+        },
+        {
+          "title": "路透调查：明年黄金价格预测首次突破每盎司4000美元",
+          "url": "https://flash.jin10.com/detail/20251027191426396800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         }
       ]
     },
@@ -1303,7 +1370,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         },
@@ -1339,8 +1406,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时16分 ~ 19时13分]"
+          "appearance_count": 4,
+          "time_info": "[18时16分 ~ 20时23分]"
         },
         {
           "title": "美股盘前，科技股、中概股普涨",
@@ -1372,7 +1439,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         },
@@ -1402,8 +1469,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时17分 ~ 19时13分]"
+          "appearance_count": 5,
+          "time_info": "[17时17分 ~ 20时23分]"
         },
         {
           "title": "机构： 美联储需更快降息，才能让美债收益率显著下降",
@@ -1423,7 +1490,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         },

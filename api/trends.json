@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T11:49:18.464260+08:00",
-  "total_titles_processed": 811,
+  "generated_at": "2025-10-27T12:24:37.258735+08:00",
+  "total_titles_processed": 903,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 33,
       "titles": [
         {
           "title": "美俄代表持续接触，特朗普：暂不打算见普京",
@@ -123,13 +123,24 @@
           "time_info": "[00时14分 ~ 06时11分]"
         },
         {
+          "title": "特朗普点燃贸易协议乐观情绪 推动亚洲新兴市场资产攀升",
+          "url": "https://flash.jin10.com/detail/20251027122011399800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
           "title": "巴西总统卢拉：美国对巴西征收关税是基于“错误信息”。 与特朗普的会晤出乎意料地顺利。",
           "url": "https://wallstreetcn.com/livenews/2993966",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时49分"
         },
@@ -153,9 +164,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时49分"
+        },
+        {
+          "title": "美国总统特朗普：祝贺阿根廷总统米莱取得压倒性胜利。",
+          "url": "https://flash.jin10.com/detail/20251027120958748800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
         },
         {
           "title": "美议员：特朗普将在国会就可能扩大对委内瑞拉打击举行吹风会",
@@ -197,6 +219,17 @@
           "time_info": "[02时15分 ~ 08时58分]"
         },
         {
+          "title": "引用前总统讲话“打脸”现总统，特朗普再次怒举关税大棒",
+          "url": "https://news.ifeng.com/c/8nmaj9cyXDX",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时46分 ~ 12时24分]"
+        },
+        {
           "title": "韩国考虑授予特朗普“无穷花大勋章”",
           "url": "https://www.toutiao.com/trending/7564722086686507044/",
           "source": "今日头条",
@@ -218,17 +251,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时57分 ~ 08时58分]"
-        },
-        {
-          "title": "引用前总统讲话“打脸”现总统，特朗普再次怒举关税大棒",
-          "url": "https://news.ifeng.com/c/8nmaj9cyXDX",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时46分 ~ 11时49分]"
         },
         {
           "title": "不满加拿大反关税广告 特朗普宣布对加方额外征收10%关税",
@@ -271,7 +293,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时49分"
         },
@@ -282,7 +304,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时49分"
         },
@@ -309,21 +331,76 @@
           "time_info": "10时46分"
         },
         {
+          "title": "巴西总统卢拉：已与特朗普提及委内瑞拉问题。",
+          "url": "https://flash.jin10.com/detail/20251027113525618800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
+          "title": "巴西总统卢拉：特朗普可以提出任何问题，摆上桌面，我都会讨论。",
+          "url": "https://flash.jin10.com/detail/20251027113517357800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
+          "title": "巴西总统卢拉：美国对巴西征收关税是基于“错误信息”。 与特朗普的会晤出乎意料地顺利。 将在“几天内”与美国达成最终解决方案。",
+          "url": "https://wallstreetcn.com/livenews/2993966",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
+          "title": "巴西总统卢拉：特朗普向我保证，我们一定会达成协议。",
+          "url": "https://flash.jin10.com/detail/20251027113242354800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
           "title": "韩国总统顾问：在亚太经合组织会议期间，李在明总统与美国总统特朗普达成关税协议存在困难。",
           "url": "https://flash.jin10.com/detail/20251027104546446800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时49分"
+        },
+        {
+          "title": "巴西总统卢拉：（就特朗普在会谈中是否作出任何承诺表示）没有，作出承诺不是总统的职责。",
+          "url": "https://flash.jin10.com/detail/20251027113232713800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
         }
       ]
     },
     {
       "keyword_group": "A股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "A股牛市中缩量震荡通常有多久？投资主线有哪些？十大券商策略来了",
@@ -333,11 +410,12 @@
             10,
             7,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时14分 ~ 11时49分]"
+          "appearance_count": 15,
+          "time_info": "[00时14分 ~ 12时24分]"
         },
         {
           "title": "龙头五连板 本周披露并购重组进展的A股名单一览",
@@ -363,6 +441,17 @@
           "time_info": "[00时14分 ~ 07时12分]"
         },
         {
+          "title": "A股",
+          "url": "https://www.douyin.com/hot/2284310",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时46分 ~ 12时24分]"
+        },
+        {
           "title": "A股业绩利好密集来袭",
           "url": "https://www.toutiao.com/trending/7565181354745806874/",
           "source": "今日头条",
@@ -376,17 +465,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时10分 ~ 05时11分]"
-        },
-        {
-          "title": "A股",
-          "url": "https://www.douyin.com/hot/2284310",
-          "source": "抖音",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时46分"
         },
         {
           "title": "上证报：A股新一轮稳健上涨行情有望延续，科技成长风格或“强者恒强”",
@@ -513,6 +591,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
+        },
+        {
+          "title": "A股短期加速窗口或将开启",
+          "url": "https://www.toutiao.com/trending/7565706817053920787/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
         }
       ]
     },
@@ -549,11 +638,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时46分 ~ 11时49分]"
+          "appearance_count": 3,
+          "time_info": "[10时46分 ~ 12时24分]"
         },
         {
           "title": "美股三大股指期货延续涨势，纳指期货涨幅达1%，标普500指数期货涨0.8%，道指期货现涨0.6%。",
@@ -562,7 +652,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时49分"
         },
@@ -623,11 +713,12 @@
           "source": "今日头条",
           "ranks": [
             14,
-            15
+            15,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时46分 ~ 11时49分]"
+          "appearance_count": 3,
+          "time_info": "[10时46分 ~ 12时24分]"
         }
       ]
     }

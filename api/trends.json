@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T08:58:12.617920+08:00",
-  "total_titles_processed": 566,
+  "generated_at": "2025-10-27T10:46:20.576858+08:00",
+  "total_titles_processed": 707,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "美俄代表持续接触，特朗普：暂不打算见普京",
@@ -24,11 +24,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时14分 ~ 08时58分]"
+          "appearance_count": 13,
+          "time_info": "[00时14分 ~ 10时46分]"
         },
         {
           "title": "胡锡进：美国最铁杆的盟友，现在却被特朗普政府百般羞辱",
@@ -161,6 +162,30 @@
           "time_info": "[02时15分 ~ 08时58分]"
         },
         {
+          "title": "东盟峰会特朗普又来当主角",
+          "url": "https://www.toutiao.com/trending/7565671278867123758/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时57分 ~ 10时46分]"
+        },
+        {
+          "title": "韩国考虑授予特朗普“无穷花大勋章”",
+          "url": "https://www.toutiao.com/trending/7564722086686507044/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时57分 ~ 10时46分]"
+        },
+        {
           "title": "加拿大搬出里根“打脸”特朗普后，不出意外的遭到关税威胁",
           "url": "https://news.ifeng.com/c/8nmaj9cyXDX",
           "source": "凤凰网",
@@ -183,33 +208,11 @@
           "time_info": "[08时57分 ~ 08时58分]"
         },
         {
-          "title": "东盟峰会特朗普又来当主角",
-          "url": "https://www.toutiao.com/trending/7565671278867123758/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时57分 ~ 08时58分]"
-        },
-        {
           "title": "特朗普的关税“套路”曝光",
           "url": "https://www.toutiao.com/trending/7565671486447423027/",
           "source": "今日头条",
           "ranks": [
             15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时57分 ~ 08时58分]"
-        },
-        {
-          "title": "韩国考虑授予特朗普“无穷花大勋章”",
-          "url": "https://www.toutiao.com/trending/7564722086686507044/",
-          "source": "今日头条",
-          "ranks": [
-            17
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -226,12 +229,45 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时14分 ~ 01时10分]"
+        },
+        {
+          "title": "引用前总统讲话“打脸”现总统，特朗普再次怒举关税大棒",
+          "url": "https://news.ifeng.com/c/8nmaj9cyXDX",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        },
+        {
+          "title": "美国总统特朗普结束马来西亚之行，将前往日本。",
+          "url": "https://flash.jin10.com/detail/20251027095642195800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        },
+        {
+          "title": "德商银行：特朗普亚洲行“成果”或意味着与东盟的更多接触",
+          "url": "https://flash.jin10.com/detail/20251027095026951800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
         }
       ]
     },
     {
       "keyword_group": "A股",
-      "match_count": 6,
+      "match_count": 16,
       "titles": [
         {
           "title": "A股牛市中缩量震荡通常有多久？投资主线有哪些？十大券商策略来了",
@@ -240,11 +276,12 @@
           "ranks": [
             10,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时14分 ~ 08时58分]"
+          "appearance_count": 13,
+          "time_info": "[00时14分 ~ 10时46分]"
         },
         {
           "title": "龙头五连板 本周披露并购重组进展的A股名单一览",
@@ -285,6 +322,17 @@
           "time_info": "[01时10分 ~ 05时11分]"
         },
         {
+          "title": "A股",
+          "url": "https://www.douyin.com/hot/2284310",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        },
+        {
           "title": "上证报：A股新一轮稳健上涨行情有望延续，科技成长风格或“强者恒强”",
           "url": "https://wallstreetcn.com/livenews/2993810",
           "source": "华尔街见闻-快讯",
@@ -294,6 +342,105 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "A股CPO概念持续走强，东田微涨逾15%，创历史新高；新易盛、生益电子均涨逾9%创历史新高；生益科技涨逾7%，创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/2993924",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        },
+        {
+          "title": "A股券商股震荡拉升，湘财股份盘中冲击涨停，东兴证券、华泰证券、信达证券、国元证券、华鑫股份等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/2993919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        },
+        {
+          "title": "A股钢铁板块震荡上扬，常宝股份涨停，中信特钢涨超7%，钒钛股份、友发集团、金洲管道、首钢股份跟涨。",
+          "url": "https://wallstreetcn.com/livenews/2993918",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        },
+        {
+          "title": "A股稀土永磁板块震荡走强，厦门钨业涨停，三川智慧、北方稀土、钢研纳克、金力永磁、新莱福等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/2993915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        },
+        {
+          "title": "A股可控核聚变概念震荡走强，东方钽业3天2板，创历史新高，纽威股份触及涨停，皖仪科技、中国核建、远东股份、西部超导等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/2993909",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        },
+        {
+          "title": "A股开盘：三大指数集体高开",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        },
+        {
+          "title": "A股光刻机、光刻胶概念股开盘领涨",
+          "url": "https://wallstreetcn.com/livenews/2993892",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        },
+        {
+          "title": "A股三大指数全线高开",
+          "url": "https://wallstreetcn.com/livenews/2993890",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        },
+        {
+          "title": "A股",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3DA%E8%82%A1&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3DA%25E8%2582%25A1%26dgr%3D0%26band_rank%3D23%26realpos%3D23%26flag%3D1%26c_type%3D31%26pos%3D23%26stream_entry_id%3D31%26lcate%3D5001%26cate%3D5001%26filter_type%3Drealtimehot%26display_time%3D1761532412%26pre_seqid%3D1761532412917032350698",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
         },
         {
           "title": "A股后续会怎么走",
@@ -309,8 +456,59 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "金价暴跌有大学生把生活费亏没了",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E6%9C%89%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8A%8A%E7%94%9F%E6%B4%BB%E8%B4%B9%E4%BA%8F%E6%B2%A1%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E6%259A%25B4%25E8%25B7%258C%25E6%259C%2589%25E5%25A4%25A7%25E5%25AD%25A6%25E7%2594%259F%25E6%258A%258A%25E7%2594%259F%25E6%25B4%25BB%25E8%25B4%25B9%25E4%25BA%258F%25E6%25B2%25A1%25E4%25BA%2586%2523%26band_rank%3D21%26pos%3D21%26realpos%3D21%26c_type%3D31%26flag%3D2%26filter_type%3Drealtimehot%26cate%3D5001%26lcate%3D5001%26dgr%3D0%26display_time%3D1761494348%26pre_seqid%3D17614943480840326367128",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时14分 ~ 10时46分]"
+        },
+        {
+          "title": "第一批金价下跌受害者出现了",
+          "url": "https://www.toutiao.com/trending/7565011357729521670/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时14分 ~ 08时58分]"
+        },
+        {
+          "title": "金十图示：2025年10月27日（周一）上海金早盘价为932.11元/克，较国际金价(931.45元/克)，高0.66元/克",
+          "url": "https://flash.jin10.com/detail/20251027102146245800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        },
+        {
+          "title": "黄金价格下跌是进场“捡便宜”时机吗",
+          "url": "https://www.toutiao.com/trending/7565700779416227391/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "部分中概股在美股夜盘走高，阿里巴巴(BABA.N)和百度(BIDU.O)均涨3%，理想汽车(LI.O)、小鹏汽车(XPEV.N)和哔哩哔哩(BILI.O)涨超2%，",
@@ -319,7 +517,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
         },
@@ -336,6 +534,17 @@
           "time_info": "[06时11分 ~ 07时12分]"
         },
         {
+          "title": "美股指数期货走高，日股首破5万点、韩股首破4000点均创新高，铜、大豆上涨，黄金下挫1%",
+          "url": "https://wallstreetcn.com/articles/3757937",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        },
+        {
           "title": "现货黄金跳空低开逾1%，美股期货集体上扬",
           "url": "https://wallstreetcn.com/livenews/2993801",
           "source": "华尔街见闻-快讯",
@@ -345,35 +554,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "第一批金价下跌受害者出现了",
-          "url": "https://www.toutiao.com/trending/7565011357729521670/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时14分 ~ 08时58分]"
-        },
-        {
-          "title": "金价暴跌有大学生把生活费亏没了",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E6%9C%89%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8A%8A%E7%94%9F%E6%B4%BB%E8%B4%B9%E4%BA%8F%E6%B2%A1%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E6%259A%25B4%25E8%25B7%258C%25E6%259C%2589%25E5%25A4%25A7%25E5%25AD%25A6%25E7%2594%259F%25E6%258A%258A%25E7%2594%259F%25E6%25B4%25BB%25E8%25B4%25B9%25E4%25BA%258F%25E6%25B2%25A1%25E4%25BA%2586%2523%26band_rank%3D21%26pos%3D21%26realpos%3D21%26c_type%3D31%26flag%3D2%26filter_type%3Drealtimehot%26cate%3D5001%26lcate%3D5001%26dgr%3D0%26display_time%3D1761494348%26pre_seqid%3D17614943480840326367128",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时14分 ~ 08时58分]"
         }
       ]
     }

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-29T08:56:39.164228+08:00",
-  "total_titles_processed": 851,
+  "generated_at": "2025-10-29T10:32:25.514710+08:00",
+  "total_titles_processed": 964,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 52,
       "titles": [
         {
           "title": "英媒：特朗普想见金正恩，但朝鲜没回应",
@@ -78,6 +78,28 @@
           "time_info": "[00时15分 ~ 00时16分]"
         },
         {
+          "title": "“美方没回应”，特朗普高市谈完未举行记者会",
+          "url": "https://news.ifeng.com/c/8npPbg5dPvS",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时56分 ~ 10时32分]"
+        },
+        {
+          "title": "胡锡进：特朗普访日本，美日同盟更公开“主仆化”",
+          "url": "https://news.ifeng.com/c/8nq4lf0RzBq",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时56分 ~ 10时32分]"
+        },
+        {
           "title": "美国参议院以52比48的投票比例通过法案，终止特朗普宣布的针对巴西进口商品实施50%关税的国家紧急状态。",
           "url": "https://flash.jin10.com/detail/20251029070406007800",
           "source": "金十数据",
@@ -89,13 +111,24 @@
           "time_info": "07时11分"
         },
         {
+          "title": "美国总统特朗普：日本首相高市早苗很棒，我觉得她是一个了不起的女人。她非常敏锐，非常聪明，非常有活力。",
+          "url": "https://flash.jin10.com/detail/20251029100237920800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
           "title": "高市早苗被特朗普搂肩称赞 高兴蹦跳",
           "url": "https://www.toutiao.com/trending/7565803485716106795/",
           "source": "今日头条",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
@@ -111,26 +144,37 @@
           "time_info": "07时11分"
         },
         {
-          "title": "“美方没回应”，特朗普高市谈完未举行记者会",
-          "url": "https://news.ifeng.com/c/8npPbg5dPvS",
-          "source": "凤凰网",
+          "title": "美国总统特朗普：法律明确规定我不得竞选第三任期。",
+          "url": "https://flash.jin10.com/detail/20251029095959630800",
+          "source": "金十数据",
           "ranks": [
-            3
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时56分"
+          "time_info": "10时32分"
         },
         {
-          "title": "胡锡进：特朗普访日本，美日同盟更公开“主仆化”",
-          "url": "https://news.ifeng.com/c/8nq4lf0RzBq",
-          "source": "凤凰网",
+          "title": "美国总统特朗普：（关于第三个总统任期）据我所知，我想我是不被允许参选的。",
+          "url": "https://flash.jin10.com/detail/20251029095928228800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时56分"
+          "time_info": "10时32分"
+        },
+        {
+          "title": "美国总统特朗普：我们拥有史上最强的经济，而能源价格也大幅下降，一切都在下降，牛肉价格有点高，我们也会让它降下来。",
+          "url": "https://flash.jin10.com/detail/20251029095829732800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
         },
         {
           "title": "周三（10月29日）亚太盘初，美国三大股指期货均涨超0.1%，美国总统特朗普即将到访韩国，美联储即将发布利率决议。",
@@ -241,6 +285,18 @@
           "time_info": "[04时14分 ~ 05时12分]"
         },
         {
+          "title": "特朗普访日在美士兵面前即兴起舞",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E6%97%A5%E5%9C%A8%E7%BE%8E%E5%A3%AB%E5%85%B5%E9%9D%A2%E5%89%8D%E5%8D%B3%E5%85%B4%E8%B5%B7%E8%88%9E",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时56分 ~ 10时32分]"
+        },
+        {
           "title": "周二（10月28日，美联储FOMC货币政策会议开幕当天），降息赢家指数涨0.63%，报99.69点。 成分股Wayfair收涨大约23.20%，礼恩派LEG涨15.36%，SoFi Technologies涨5.53%表现第三，Polaris则跌5.31%。 “特朗普关税输家”指数涨1.00%，报110.12点，也是成分股Wayfair领跑，美妆公司e.l.f. Beauty涨4.37%紧随其后。",
           "url": "https://wallstreetcn.com/livenews/2995353",
           "source": "华尔街见闻-快讯",
@@ -253,6 +309,50 @@
           "time_info": "[05时12分 ~ 06时13分]"
         },
         {
+          "title": "特朗普称轰炸广岛长崎只是小冲突",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%BD%B0%E7%82%B8%E5%B9%BF%E5%B2%9B%E9%95%BF%E5%B4%8E%E5%8F%AA%E6%98%AF%E5%B0%8F%E5%86%B2%E7%AA%81%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D6%26dgr%3D0%26filter_type%3Drealtimehot%26pos%3D6%26cate%3D5001%26flag%3D0%26lcate%3D5001%26stream_entry_id%3D31%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E7%25A7%25B0%25E8%25BD%25B0%25E7%2582%25B8%25E5%25B9%25BF%25E5%25B2%259B%25E9%2595%25BF%25E5%25B4%258E%25E5%258F%25AA%25E6%2598%25AF%25E5%25B0%258F%25E5%2586%25B2%25E7%25AA%2581%2523%26band_rank%3D6%26c_type%3D31%26display_time%3D1761704816%26pre_seqid%3D176170481690903449392148",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "美国总统特朗普：民主党人造成政府停摆，在某种程度上，他们会回来的。我认为他们目前被“打得很惨”。但他们只要说一句，“我们回到正轨吧”，一切就会恢复。没什么需要签署的，也没什么需要谈的。",
+          "url": "https://flash.jin10.com/detail/20251029095727696800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "美国总统特朗普：值得注意的是，英伟达(NVDA.O)股价创出了新高，股市昨天也达到了历史最高点。我们所有市场都表现出色，几乎每一个市场都在不断攀升。",
+          "url": "https://flash.jin10.com/detail/20251029095602323800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "高市早苗在安倍影子下拉拢特朗普",
+          "url": "https://www.toutiao.com/trending/7566425231099694598/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
           "title": "美国参议院多数派领导人John Thune：如果政府停摆事件结束，总统特朗普愿意下周会见民主党。",
           "url": "https://wallstreetcn.com/livenews/2995309",
           "source": "华尔街见闻-快讯",
@@ -262,6 +362,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
+        },
+        {
+          "title": "美日首脑会晤：为“美国核电超级大单”买单，高市成功取悦特朗普",
+          "url": "https://wallstreetcn.com/articles/3758090",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
         },
         {
           "title": "美国法官延长了对美国总统特朗普政府在政府停摆期间大规模裁员的禁令。",
@@ -286,15 +397,59 @@
           "time_info": "00时16分"
         },
         {
-          "title": "特朗普访日在美士兵面前即兴起舞",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E6%97%A5%E5%9C%A8%E7%BE%8E%E5%A3%AB%E5%85%B5%E9%9D%A2%E5%89%8D%E5%8D%B3%E5%85%B4%E8%B5%B7%E8%88%9E",
-          "source": "百度热搜",
+          "title": "美国总统特朗普：我们在中东已经实现了和平。如有必要，我们可以很轻松地消除哈马斯，那将意味着哈马斯的终结。但我们更愿意选择和平方式。",
+          "url": "https://flash.jin10.com/detail/20251029095118266800",
+          "source": "金十数据",
           "ranks": [
-            17
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时56分"
+          "time_info": "10时32分"
+        },
+        {
+          "title": "特朗普演讲时一把搂住高市早苗",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%BC%94%E8%AE%B2%E6%97%B6%E4%B8%80%E6%8A%8A%E6%90%82%E4%BD%8F%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "美国总统特朗普：以色列有权进行报复。",
+          "url": "https://flash.jin10.com/detail/20251029095016001800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "美国总统特朗普：哈马斯是中东协议的一小部分。如果哈马斯不收敛，他们将被消灭。",
+          "url": "https://flash.jin10.com/detail/20251029094924538800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "丰田高管：我们在特朗普第一任期期间的投资约为100亿美元。（本次）我们并未提及同样的金额，但表示希望投资和创造就业的意愿没有改变。",
+          "url": "https://flash.jin10.com/detail/20251029094900785800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
         },
         {
           "title": "WTI原油期货维持超过2%的跌幅，持稳于60美元关口附近。 哈马斯宣布推迟当地时间10月28日的以色列人质尸体移交工作，因为对方违反（美国总统特朗普撮合的）约定。",
@@ -314,7 +469,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
@@ -363,6 +518,17 @@
           "time_info": "00时16分"
         },
         {
+          "title": "如何看待特朗普与安倍昭惠见面",
+          "url": "https://www.toutiao.com/trending/7566243116995317275/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
           "title": "特朗普再批美联储主席鲍威尔",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E6%89%B9%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD%E9%B2%8D%E5%A8%81%E5%B0%94",
           "source": "百度热搜",
@@ -402,9 +568,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
+        },
+        {
+          "title": "美媒：特朗普在解决自己制造的危机",
+          "url": "https://www.toutiao.com/trending/7565398924144443455/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
         },
         {
           "title": "特朗普正式提名迈克尔・塞利格担任美国CFTC主席",
@@ -445,8 +622,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时15分 ~ 08时56分]"
+          "appearance_count": 11,
+          "time_info": "[00时15分 ~ 10时32分]"
         },
         {
           "title": "美股收盘：三大指数再刷历史新高 英伟达大会发威涨近5%",
@@ -458,8 +635,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时13分 ~ 08时56分]"
+          "appearance_count": 4,
+          "time_info": "[06时13分 ~ 10时32分]"
         },
         {
           "title": "美股三大指数集体上涨，苹果总市值首次升破4万亿美元，现货黄金失守3900美元关口，加密货币下跌",
@@ -526,6 +703,18 @@
           "time_info": "[05时12分 ~ 06时13分]"
         },
         {
+          "title": "美股三大股指续创新高 英伟达涨近5%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E7%BB%AD%E5%88%9B%E6%96%B0%E9%AB%98+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%B6%A8%E8%BF%915%25",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时56分 ~ 10时32分]"
+        },
+        {
           "title": "金十图示：2025年10月28日（周二）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251029040619024800",
           "source": "金十数据",
@@ -572,17 +761,6 @@
           "time_info": "01时20分"
         },
         {
-          "title": "美股三大股指续创新高 英伟达涨近5%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E7%BB%AD%E5%88%9B%E6%96%B0%E9%AB%98+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%B6%A8%E8%BF%915%25",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时56分"
-        },
-        {
           "title": "美股三大股指走高，纳指涨超1%，标普500指数涨0.43%，道指涨0.57%。",
           "url": "https://flash.jin10.com/detail/20251029030928567800",
           "source": "金十数据",
@@ -603,6 +781,100 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "3000余家A股公司三季报“交卷”，科技创新加速转化为业绩增长引擎",
+          "url": "https://wallstreetcn.com/livenews/2995398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时11分"
+        },
+        {
+          "title": "A股锂矿概念震荡走高，大中矿业涨停，芳源股份、盛新锂能、欣旺达、盐湖股份等涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/2995510",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "A股银行股走低，厦门银行跌超6%，成都银行、青岛银行、江阴银行等跟跌。",
+          "url": "https://wallstreetcn.com/livenews/2995509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "A股游戏概念表现活跃，吉比特涨停，三七互娱、冰川网络、完美世界、恺英网络、巨人网络跟涨。",
+          "url": "https://wallstreetcn.com/livenews/2995508",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "A股量子科技概念股快速走高，国盾量子盘中创新高，神州信息涨停，科大国创涨超10%，西部超导、信安世纪、富士达跟涨。",
+          "url": "https://wallstreetcn.com/livenews/2995506",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "A股三大指数集体高开",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "A股存储芯片板块震荡走高，时空科技6连板，佰维存储、云汉芯城涨超9%，江波龙、香农芯创、聚辰股份、北京君正纷纷上扬。",
+          "url": "https://wallstreetcn.com/livenews/2995504",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "国金证券：A股市场热度与波动率均回落，杠杆资金整体回流",
+          "url": "https://wallstreetcn.com/livenews/2995434",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时56分"
         }
       ]
     },
@@ -643,11 +915,12 @@
             21,
             14,
             13,
-            12
+            12,
+            23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时15分 ~ 08时56分]"
+          "appearance_count": 11,
+          "time_info": "[00时15分 ~ 10时32分]"
         },
         {
           "title": "金价银价暴跌原因",
@@ -678,7 +951,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
@@ -722,34 +995,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时14分 ~ 05时12分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "3000余家A股公司三季报“交卷”，科技创新加速转化为业绩增长引擎",
-          "url": "https://wallstreetcn.com/livenews/2995398",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时11分"
-        },
-        {
-          "title": "国金证券：A股市场热度与波动率均回落，杠杆资金整体回流",
-          "url": "https://wallstreetcn.com/livenews/2995434",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时56分"
         }
       ]
     },

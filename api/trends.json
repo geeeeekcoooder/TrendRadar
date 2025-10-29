@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-29T17:13:57.371639+08:00",
-  "total_titles_processed": 1645,
+  "generated_at": "2025-10-29T18:16:31.847604+08:00",
+  "total_titles_processed": 1758,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 120,
+      "match_count": 131,
       "titles": [
         {
           "title": "“美方没回应”，特朗普高市谈完未举行记者会",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时56分 ~ 17时13分]"
+          "appearance_count": 11,
+          "time_info": "[08时56分 ~ 18时16分]"
         },
         {
           "title": "胡锡进：特朗普访日本，美日同盟更公开“主仆化”",
@@ -64,6 +64,17 @@
           "time_info": "[00时15分 ~ 04时14分]"
         },
         {
+          "title": "特朗普称美航母电磁弹射又贵又难用，要求改回蒸汽弹射，蒸汽弹射与电磁弹射分别有哪些特点？究竟哪个更好？",
+          "url": "https://www.zhihu.com/question/1966809012960977218",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时13分 ~ 18时16分]"
+        },
+        {
           "title": "特朗普称美已在俄附近部署核潜艇，克宫发声",
           "url": "https://news.ifeng.com/c/8np198dmCFI",
           "source": "凤凰网",
@@ -89,28 +100,6 @@
           "time_info": "[00时15分 ~ 08时56分]"
         },
         {
-          "title": "韩国民众举行反特朗普示威：停止鼓动韩国对抗中国",
-          "url": "https://news.ifeng.com/c/8np9fQhEQk8",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 07时11分]"
-        },
-        {
-          "title": "特朗普称美航母电磁弹射又贵又难用，要求改回蒸汽弹射，蒸汽弹射与电磁弹射分别有哪些特点？究竟哪个更好？",
-          "url": "https://www.zhihu.com/question/1966809012960977218",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时13分 ~ 17时13分]"
-        },
-        {
           "title": "特朗普搂着高市早苗大谈美日同盟关系：我们是“不打不相识”",
           "url": "https://m.thepaper.cn/newsDetail_forward_31848121",
           "source": "澎湃新闻",
@@ -122,8 +111,19 @@
             16
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[08时56分 ~ 18时16分]"
+        },
+        {
+          "title": "韩国民众举行反特朗普示威：停止鼓动韩国对抗中国",
+          "url": "https://news.ifeng.com/c/8np9fQhEQk8",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 9,
-          "time_info": "[08时56分 ~ 17时13分]"
+          "time_info": "[00时15分 ~ 07时11分]"
         },
         {
           "title": "高市早苗在安倍影子下拉拢特朗普：“不平等条约”与前途未卜的稀土协议",
@@ -136,8 +136,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时44分 ~ 17时13分]"
+          "appearance_count": 9,
+          "time_info": "[11时44分 ~ 18时16分]"
         },
         {
           "title": "习近平将同特朗普举行会晤",
@@ -147,8 +147,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时14分 ~ 17时13分]"
+          "appearance_count": 4,
+          "time_info": "[15时14分 ~ 18时16分]"
         },
         {
           "title": "习近平将同特朗普举行会晤",
@@ -158,8 +158,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时18分 ~ 17时13分]"
+          "appearance_count": 3,
+          "time_info": "[16时18分 ~ 18时16分]"
         },
         {
           "title": "习近平将同美国总统特朗普举行会晤",
@@ -169,8 +169,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时18分 ~ 17时13分]"
+          "appearance_count": 3,
+          "time_info": "[16时18分 ~ 18时16分]"
         },
         {
           "title": "习近平将同特朗普举行会晤",
@@ -180,8 +180,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时18分 ~ 17时13分]"
+          "appearance_count": 3,
+          "time_info": "[16时18分 ~ 18时16分]"
         },
         {
           "title": "习近平将同美国总统特朗普举行会晤",
@@ -191,8 +191,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时18分 ~ 17时13分]"
+          "appearance_count": 3,
+          "time_info": "[16时18分 ~ 18时16分]"
         },
         {
           "title": "特朗普欲降低关税换取中方遏制芬太尼出口，中方回应",
@@ -203,8 +203,31 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时18分 ~ 18时16分]"
+        },
+        {
+          "title": "习近平将同美国总统特朗普举行会晤",
+          "url": "https://wallstreetcn.com/articles/3758164",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时18分 ~ 18时16分]"
+        },
+        {
+          "title": "特朗普称对中美元首会晤持乐观态度，外交部回应",
+          "url": "https://news.ifeng.com/c/8nqaruILXu7",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时18分 ~ 17时13分]"
+          "time_info": "[17时13分 ~ 18时16分]"
         },
         {
           "title": "特朗普在美航母上讲话时用手拍导弹",
@@ -230,25 +253,14 @@
         },
         {
           "title": "习近平将同美国总统特朗普举行会晤",
-          "url": "https://wallstreetcn.com/articles/3758164",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时18分 ~ 17时13分]"
-        },
-        {
-          "title": "特朗普称对中美元首会晤持乐观态度，外交部回应",
-          "url": "https://news.ifeng.com/c/8nqaruILXu7",
-          "source": "凤凰网",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31851071",
+          "source": "澎湃新闻",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时13分"
+          "time_info": "18时16分"
         },
         {
           "title": "美国参议院以52比48的投票比例通过法案，终止特朗普宣布的针对巴西进口商品实施50%关税的国家紧急状态。",
@@ -317,6 +329,17 @@
           "time_info": "12时18分"
         },
         {
+          "title": "韩国总统顾问：韩国总统李在明与美国总统特朗普巩固了彼此的信任。",
+          "url": "https://flash.jin10.com/detail/20251029181301162800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
           "title": "美国总统特朗普：将所有制药企业带回美国。",
           "url": "https://flash.jin10.com/detail/20251029125230949800",
           "source": "金十数据",
@@ -348,6 +371,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
+        },
+        {
+          "title": "特朗普：未能协调好与金正恩会晤时间",
+          "url": "https://news.ifeng.com/c/8nqg7u7QlJH",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         },
         {
           "title": "美国总统特朗普：我们拥有史上最强的经济，而能源价格也大幅下降，一切都在下降，牛肉价格有点高，我们也会让它降下来。",
@@ -518,6 +552,18 @@
           "time_info": "[13时13分 ~ 15时14分]"
         },
         {
+          "title": "特朗普欲降低关税换取中方遏制芬太尼出口，外交部：美方应为合作创造必要条件",
+          "url": "https://www.cls.cn/detail/2184671",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时13分 ~ 18时16分]"
+        },
+        {
           "title": "美国联邦法官计划阻挠总统特朗普在政府关门期间裁员。",
           "url": "https://wallstreetcn.com/livenews/2995299",
           "source": "华尔街见闻-快讯",
@@ -672,6 +718,17 @@
           "time_info": "12时18分"
         },
         {
+          "title": "李在明向特朗普赠送金色王冠和大勋章，特朗普：我现在就想戴",
+          "url": "https://v.ifeng.com/c/8nqcHK4xyyI",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
           "title": "特朗普称轰炸广岛长崎只是小冲突",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%BD%B0%E7%82%B8%E5%B9%BF%E5%B2%9B%E9%95%BF%E5%B4%8E%E5%8F%AA%E6%98%AF%E5%B0%8F%E5%86%B2%E7%AA%81%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D6%26dgr%3D0%26filter_type%3Drealtimehot%26pos%3D6%26cate%3D5001%26flag%3D0%26lcate%3D5001%26stream_entry_id%3D31%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E7%25A7%25B0%25E8%25BD%25B0%25E7%2582%25B8%25E5%25B9%25BF%25E5%25B2%259B%25E9%2595%25BF%25E5%25B4%258E%25E5%258F%25AA%25E6%2598%25AF%25E5%25B0%258F%25E5%2586%25B2%25E7%25AA%2581%2523%26band_rank%3D6%26c_type%3D31%26display_time%3D1761704816%26pre_seqid%3D176170481690903449392148",
           "source": "微博",
@@ -725,17 +782,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
-        },
-        {
-          "title": "特朗普欲降低关税换取中方遏制芬太尼出口，外交部：美方应为合作创造必要条件",
-          "url": "https://www.cls.cn/detail/2184671",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时13分"
         },
         {
           "title": "美国总统特朗普：值得注意的是，英伟达(NVDA.O)股价创出了新高，股市昨天也达到了历史最高点。我们所有市场都表现出色，几乎每一个市场都在不断攀升。",
@@ -804,6 +850,17 @@
           "time_info": "03时10分"
         },
         {
+          "title": "特朗普：未能协调好与金正恩会晤时间",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%9C%AA%E8%83%BD%E5%8D%8F%E8%B0%83%E5%A5%BD%E4%B8%8E%E9%87%91%E6%AD%A3%E6%81%A9%E4%BC%9A%E6%99%A4%E6%97%B6%E9%97%B4",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
           "title": "美国法官延长了对美国总统特朗普政府在政府停摆期间大规模裁员的禁令。",
           "url": "https://flash.jin10.com/detail/20251029024058799800",
           "source": "金十数据",
@@ -865,7 +922,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时13分"
         },
@@ -923,6 +980,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
+        },
+        {
+          "title": "特朗普：我们确实与韩国达成了一项贸易协议。 与韩国的贸易协议基本敲定。 在很多事项上取得了结果。",
+          "url": "https://wallstreetcn.com/livenews/2995839",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
+          "title": "李在明快步上前迎接特朗普",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%BF%AB%E6%AD%A5%E4%B8%8A%E5%89%8D%E8%BF%8E%E6%8E%A5%E7%89%B9%E6%9C%97%E6%99%AE%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D17%26flag%3D1%26band_rank%3D16%26c_type%3D31%26cate%3D5001%26dgr%3D0%26stream_entry_id%3D31%26lcate%3D5001%26q%3D%2523%25E6%259D%258E%25E5%259C%25A8%25E6%2598%258E%25E5%25BF%25AB%25E6%25AD%25A5%25E4%25B8%258A%25E5%2589%258D%25E8%25BF%258E%25E6%258E%25A5%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%2523%26filter_type%3Drealtimehot%26realpos%3D16%26display_time%3D1761732798%26pre_seqid%3D1761732798739028255333",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         },
         {
           "title": "丰田高管：我们在特朗普第一任期期间的投资约为100亿美元。（本次）我们并未提及同样的金额，但表示希望投资和创造就业的意愿没有改变。",
@@ -1041,9 +1120,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时13分"
+        },
+        {
+          "title": "专家：特朗普访韩前朝鲜用射弹表态",
+          "url": "https://www.toutiao.com/trending/7566567225784536630/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         },
         {
           "title": "美国总统特朗普：我们正在为投资者快速发放许可。",
@@ -1055,6 +1145,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
+        },
+        {
+          "title": "日本民众持不欢迎特朗普标语遭驱赶",
+          "url": "https://www.toutiao.com/trending/7565732541265903642/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         },
         {
           "title": "英伟达CEO黄仁勋：英伟达预计未来六个季度将实现5000亿美元业务规模。 将发货2000万Blackwell Ruben GPU。 美国亚利桑那州Blackwell（工厂）“满负荷生产”。 等待特朗普政府批准对沙特出口。",
@@ -1099,6 +1200,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
+        },
+        {
+          "title": "为特朗普扶车门的女保镖抢镜",
+          "url": "https://www.toutiao.com/trending/7565803485716254251/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         },
         {
           "title": "美国总统特朗普：我们将拥有一个非常繁荣的造船业。",
@@ -1253,6 +1365,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        },
+        {
+          "title": "韩国赠送特朗普礼物曝光",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E8%B5%A0%E9%80%81%E7%89%B9%E6%9C%97%E6%99%AE%E7%A4%BC%E7%89%A9%E6%9B%9D%E5%85%89",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         },
         {
           "title": "美国总统特朗普：美国工厂正在蓬勃发展。",
@@ -1550,7 +1673,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时13分"
         },
@@ -1575,6 +1698,189 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "7.38万亿！公募持A股市值创新高，宁德时代蝉联头号重仓股",
+          "url": "https://www.cls.cn/detail/2184773",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时13分 ~ 18时16分]"
+        },
+        {
+          "title": "A股尾盘铜矿股异动拉升，江西铜业触及涨停，云南铜业、北方铜业、铜陵有色、洛阳钼业、金诚信等跟涨",
+          "url": "https://wallstreetcn.com/livenews/2995675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
+          "title": "3000余家A股公司三季报“交卷”，科技创新加速转化为业绩增长引擎",
+          "url": "https://wallstreetcn.com/livenews/2995398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时11分"
+        },
+        {
+          "title": "A股大涨！沪指站上4000点，北证50狂飙超8%，光伏产业链爆发，沪铜创历史新高",
+          "url": "https://wallstreetcn.com/articles/3758138",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
+          "title": "A股锂矿概念震荡走高，大中矿业涨停，芳源股份、盛新锂能、欣旺达、盐湖股份等涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/2995510",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "A股银行股走低，厦门银行跌超6%，成都银行、青岛银行、江阴银行等跟跌。",
+          "url": "https://wallstreetcn.com/livenews/2995509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "A股游戏概念表现活跃，吉比特涨停，三七互娱、冰川网络、完美世界、恺英网络、巨人网络跟涨。",
+          "url": "https://wallstreetcn.com/livenews/2995508",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "A股量子科技概念股快速走高，国盾量子盘中创新高，神州信息涨停，科大国创涨超10%，西部超导、信安世纪、富士达跟涨。",
+          "url": "https://wallstreetcn.com/livenews/2995506",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "A股三大指数集体高开",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "A股存储芯片板块震荡走高，时空科技6连板，佰维存储、云汉芯城涨超9%，江波龙、香农芯创、聚辰股份、北京君正纷纷上扬。",
+          "url": "https://wallstreetcn.com/livenews/2995504",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "A股指数突破4000点 接下来怎么应对",
+          "url": "https://www.toutiao.com/trending/7566561001647115830/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
+          "title": "国金证券：A股市场热度与波动率均回落，杠杆资金整体回流",
+          "url": "https://wallstreetcn.com/livenews/2995434",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "A股创新药概念股午后持续拉升，诺思格20cm涨停，普蕊斯、康芝药业涨超10%，泰格医药、康龙化成、贝达药业涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/2995629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
+          "title": "A股收盘：北证50指数大涨超8%，光伏等新能源方向爆发",
+          "url": "https://wallstreetcn.com/livenews/2995696",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
+          "title": "A股光伏板块涨幅扩大，阿特斯触及20cm涨停，通润装备此前封板，隆基绿能、弘元绿能涨超9%，晶科能源、通威股份跟涨。",
+          "url": "https://wallstreetcn.com/livenews/2995620",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
+          "title": "A股午后近端次新股盘中持续走强，C禾元涨超28%，触发临停，成交超15亿。",
+          "url": "https://wallstreetcn.com/livenews/2995612",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时20分"
         }
       ]
     },
@@ -1649,6 +1955,18 @@
           "time_info": "[03时10分 ~ 04时14分]"
         },
         {
+          "title": "金价下跌备婚人买三金纠结症犯了",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E5%A4%87%E5%A9%9A%E4%BA%BA%E4%B9%B0%E4%B8%89%E9%87%91%E7%BA%A0%E7%BB%93%E7%97%87%E7%8A%AF%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26c_type%3D31%26band_rank%3D19%26pos%3D19%26dgr%3D0%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E4%25B8%258B%25E8%25B7%258C%25E5%25A4%2587%25E5%25A9%259A%25E4%25BA%25BA%25E4%25B9%25B0%25E4%25B8%2589%25E9%2587%2591%25E7%25BA%25A0%25E7%25BB%2593%25E7%2597%2587%25E7%258A%25AF%25E4%25BA%2586%2523%26stream_entry_id%3D31%26realpos%3D19%26cate%3D5001%26display_time%3D1761729173%26pre_seqid%3D1761729173727026496425",
+          "source": "微博",
+          "ranks": [
+            19,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时13分 ~ 18时16分]"
+        },
+        {
           "title": "金价是否会重现上世纪80年代到上世纪末的最长熊市？",
           "url": "https://flash.jin10.com/detail/20251029061557323800",
           "source": "金十数据",
@@ -1677,18 +1995,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时13分"
-        },
-        {
-          "title": "金价下跌备婚人买三金纠结症犯了",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E5%A4%87%E5%A9%9A%E4%BA%BA%E4%B9%B0%E4%B8%89%E9%87%91%E7%BA%A0%E7%BB%93%E7%97%87%E7%8A%AF%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26c_type%3D31%26band_rank%3D19%26pos%3D19%26dgr%3D0%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E4%25B8%258B%25E8%25B7%258C%25E5%25A4%2587%25E5%25A9%259A%25E4%25BA%25BA%25E4%25B9%25B0%25E4%25B8%2589%25E9%2587%2591%25E7%25BA%25A0%25E7%25BB%2593%25E7%2597%2587%25E7%258A%25AF%25E4%25BA%2586%2523%26stream_entry_id%3D31%26realpos%3D19%26cate%3D5001%26display_time%3D1761729173%26pre_seqid%3D1761729173727026496425",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时13分"
         },
@@ -1746,166 +2053,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "A股尾盘铜矿股异动拉升，江西铜业触及涨停，云南铜业、北方铜业、铜陵有色、洛阳钼业、金诚信等跟涨",
-          "url": "https://wallstreetcn.com/livenews/2995675",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时14分"
-        },
-        {
-          "title": "3000余家A股公司三季报“交卷”，科技创新加速转化为业绩增长引擎",
-          "url": "https://wallstreetcn.com/livenews/2995398",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时11分"
-        },
-        {
-          "title": "7.38万亿！公募持A股市值创新高，宁德时代蝉联头号重仓股",
-          "url": "https://www.cls.cn/detail/2184773",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时13分"
-        },
-        {
-          "title": "A股锂矿概念震荡走高，大中矿业涨停，芳源股份、盛新锂能、欣旺达、盐湖股份等涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/2995510",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "A股银行股走低，厦门银行跌超6%，成都银行、青岛银行、江阴银行等跟跌。",
-          "url": "https://wallstreetcn.com/livenews/2995509",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "A股游戏概念表现活跃，吉比特涨停，三七互娱、冰川网络、完美世界、恺英网络、巨人网络跟涨。",
-          "url": "https://wallstreetcn.com/livenews/2995508",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "A股量子科技概念股快速走高，国盾量子盘中创新高，神州信息涨停，科大国创涨超10%，西部超导、信安世纪、富士达跟涨。",
-          "url": "https://wallstreetcn.com/livenews/2995506",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "A股三大指数集体高开",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "A股存储芯片板块震荡走高，时空科技6连板，佰维存储、云汉芯城涨超9%，江波龙、香农芯创、聚辰股份、北京君正纷纷上扬。",
-          "url": "https://wallstreetcn.com/livenews/2995504",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "国金证券：A股市场热度与波动率均回落，杠杆资金整体回流",
-          "url": "https://wallstreetcn.com/livenews/2995434",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时56分"
-        },
-        {
-          "title": "A股创新药概念股午后持续拉升，诺思格20cm涨停，普蕊斯、康芝药业涨超10%，泰格医药、康龙化成、贝达药业涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/2995629",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时20分"
-        },
-        {
-          "title": "A股收盘：北证50指数大涨超8%，光伏等新能源方向爆发",
-          "url": "https://wallstreetcn.com/livenews/2995696",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时18分"
-        },
-        {
-          "title": "A股光伏板块涨幅扩大，阿特斯触及20cm涨停，通润装备此前封板，隆基绿能、弘元绿能涨超9%，晶科能源、通威股份跟涨。",
-          "url": "https://wallstreetcn.com/livenews/2995620",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时20分"
-        },
-        {
-          "title": "A股午后近端次新股盘中持续走强，C禾元涨超28%，触发临停，成交超15亿。",
-          "url": "https://wallstreetcn.com/livenews/2995612",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时20分"
         }
       ]
     },

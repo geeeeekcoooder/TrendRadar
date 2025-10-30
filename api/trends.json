@@ -1,22 +1,22 @@
 {
-  "generated_at": "2025-10-30T21:28:13.068274+08:00",
-  "total_titles_processed": 1778,
+  "generated_at": "2025-10-30T22:12:21.818994+08:00",
+  "total_titles_processed": 1858,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 97,
+      "match_count": 99,
       "titles": [
         {
-          "title": "特朗普已下令立即重启美国核试验",
-          "url": "https://news.ifeng.com/c/8ns4o1aiP6D",
-          "source": "凤凰网",
+          "title": "习近平同特朗普会晤 详讯公布",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%9A%E6%99%A4+%E8%AF%A6%E8%AE%AF%E5%85%AC%E5%B8%83",
+          "source": "百度热搜",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时14分 ~ 21时28分]"
+          "appearance_count": 10,
+          "time_info": "[15时14分 ~ 22时12分]"
         },
         {
           "title": "习近平将同美国总统特朗普举行会晤",
@@ -31,6 +31,18 @@
           "time_info": "[05时18分 ~ 15时14分]"
         },
         {
+          "title": "特朗普已下令立即重启美国核试验",
+          "url": "https://news.ifeng.com/c/8ns4o1aiP6D",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[13时14分 ~ 22时12分]"
+        },
+        {
           "title": "习近平同特朗普握手合影",
           "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%A1%E6%89%8B%E5%90%88%E5%BD%B1",
           "source": "百度热搜",
@@ -43,17 +55,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[11时39分 ~ 18时14分]"
-        },
-        {
-          "title": "习近平同特朗普会晤 详讯公布",
-          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%9A%E6%99%A4+%E8%AF%A6%E8%AE%AF%E5%85%AC%E5%B8%83",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时14分 ~ 21时28分]"
         },
         {
           "title": "习近平同特朗普握手合影",
@@ -78,6 +79,19 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[10时28分 ~ 20时24分]"
+        },
+        {
+          "title": "特朗普批准韩国在美建造核动力潜艇",
+          "url": "https://news.ifeng.com/c/8nsFayRT4WM",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时16分 ~ 22时12分]"
         },
         {
           "title": "会晤结束后特朗普送习近平上车",
@@ -141,17 +155,17 @@
           "time_info": "[15时14分 ~ 20时24分]"
         },
         {
-          "title": "特朗普批准韩国在美建造核动力潜艇",
-          "url": "https://news.ifeng.com/c/8nsFayRT4WM",
-          "source": "凤凰网",
+          "title": "特朗普：给中美元首会晤打12分",
+          "url": "https://www.toutiao.com/trending/7566587793552719878/",
+          "source": "今日头条",
           "ranks": [
-            6,
+            5,
             4,
-            3
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时16分 ~ 21时28分]"
+          "appearance_count": 7,
+          "time_info": "[18时13分 ~ 22时12分]"
         },
         {
           "title": "特朗普：相信我们将建立长期良好关系",
@@ -193,19 +207,6 @@
           "time_info": "[05时18分 ~ 08时56分]"
         },
         {
-          "title": "特朗普：给中美元首会晤打12分",
-          "url": "https://www.toutiao.com/trending/7566587793552719878/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时13分 ~ 21时28分]"
-        },
-        {
           "title": "迎接特朗普，高市早苗笑了一天",
           "url": "https://news.ifeng.com/c/8nrJZ12ddrh",
           "source": "凤凰网",
@@ -227,8 +228,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时18分 ~ 21时28分]"
+          "appearance_count": 12,
+          "time_info": "[14时18分 ~ 22时12分]"
         },
         {
           "title": "高市早苗挽特朗普胳膊还蹦蹦跳跳，日本网民：我觉得羞耻",
@@ -363,6 +364,17 @@
           "time_info": "[05时18分 ~ 07时11分]"
         },
         {
+          "title": "金正恩为何不见特朗普？",
+          "url": "https://v.ifeng.com/c/8nsXkNaHAu2",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时24分 ~ 22时12分]"
+        },
+        {
           "title": "特朗普称美航母电磁弹射又贵又难用，要求改回蒸汽弹射，蒸汽弹射与电磁弹射分别有哪些特点？究竟哪个更好？",
           "url": "https://www.zhihu.com/question/1966809012960977218",
           "source": "知乎",
@@ -373,6 +385,40 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[05时18分 ~ 08时56分]"
+        },
+        {
+          "title": "习近平与特朗普会晤 完整视频",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%9A%E6%99%A4%20%E5%AE%8C%E6%95%B4%E8%A7%86%E9%A2%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时27分 ~ 22时12分]"
+        },
+        {
+          "title": "习近平同美国总统特朗普在釜山举行会晤",
+          "url": "https://wallstreetcn.com/articles/3758273",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时15分 ~ 22时12分]"
+        },
+        {
+          "title": "特朗普称将下令美航母改回蒸汽弹射",
+          "url": "https://news.ifeng.com/c/8nsP1iIULjB",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时13分 ~ 22时12分]"
         },
         {
           "title": "特朗普：美中会达成更多共识",
@@ -398,17 +444,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时39分 ~ 15时14分]"
-        },
-        {
-          "title": "金正恩为何不见特朗普？",
-          "url": "https://v.ifeng.com/c/8nsXkNaHAu2",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时24分 ~ 21时28分]"
         },
         {
           "title": "外交部回应特朗普重启核试验",
@@ -455,29 +490,6 @@
           "time_info": "[10时28分 ~ 11时39分]"
         },
         {
-          "title": "习近平与特朗普会晤 完整视频",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%9A%E6%99%A4%20%E5%AE%8C%E6%95%B4%E8%A7%86%E9%A2%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时27分 ~ 21时28分]"
-        },
-        {
-          "title": "习近平同美国总统特朗普在釜山举行会晤",
-          "url": "https://wallstreetcn.com/articles/3758273",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时15分 ~ 21时28分]"
-        },
-        {
           "title": "习近平同美国总统特朗普会晤开始",
           "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%9A%E6%99%A4%E5%BC%80%E5%A7%8B",
           "source": "百度热搜",
@@ -517,17 +529,6 @@
           "time_info": "[17时15分 ~ 21时28分]"
         },
         {
-          "title": "特朗普称将下令美航母改回蒸汽弹射",
-          "url": "https://news.ifeng.com/c/8nsP1iIULjB",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时13分 ~ 21时28分]"
-        },
-        {
           "title": "特朗普称贸易协议“几乎敲定”，韩国确认对美投资2000亿美元",
           "url": "https://news.ifeng.com/c/8nr4aV0B7Kq",
           "source": "凤凰网",
@@ -537,6 +538,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时39分 ~ 12时15分]"
+        },
+        {
+          "title": "视频丨习近平同美国总统特朗普在釜山举行会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31855712",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时24分 ~ 22时12分]"
         },
         {
           "title": "特朗普抵达会晤现场视频曝光",
@@ -550,6 +563,30 @@
           "time_info": "10时28分"
         },
         {
+          "title": "据Politico：美国总统特朗普国民警卫队华盛顿部署延长至2026年。",
+          "url": "https://flash.jin10.com/detail/20251030214337134800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
+          "title": "特朗普透露计划明年4月访华",
+          "url": "https://www.toutiao.com/trending/7566945252511059482/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时24分 ~ 22时12分]"
+        },
+        {
           "title": "韩国招待特朗普的午餐菜单曝光：主菜有米饭、泡菜、美国牛小排",
           "url": "https://v.ifeng.com/c/8nr1D3Z9hK3",
           "source": "凤凰网",
@@ -561,28 +598,15 @@
           "time_info": "13时14分"
         },
         {
-          "title": "视频丨习近平同美国总统特朗普在釜山举行会晤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31855712",
-          "source": "澎湃新闻",
+          "title": "特朗普给中美会晤打12分",
+          "url": "https://www.douyin.com/hot/2288755",
+          "source": "抖音",
           "ranks": [
-            10,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时24分 ~ 21时28分]"
-        },
-        {
-          "title": "特朗普透露计划明年4月访华",
-          "url": "https://www.toutiao.com/trending/7566945252511059482/",
-          "source": "今日头条",
-          "ranks": [
-            8,
             5
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时24分 ~ 21时28分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         },
         {
           "title": "特朗普下令重启核试验，外交部回应",
@@ -597,6 +621,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[17时15分 ~ 20时24分]"
+        },
+        {
+          "title": "特朗普批准韩华海洋造船建造核潜艇，外交部：望韩美切实履行核不扩散义务",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31855444",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时13分 ~ 22时12分]"
         },
         {
           "title": "牛弹琴：韩国人讨好特朗普用心良苦",
@@ -649,6 +686,17 @@
           "time_info": "[06时13分 ~ 07时11分]"
         },
         {
+          "title": "特朗普：相信我们将建立长期良好的关系",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31854436",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时24分 ~ 22时12分]"
+        },
+        {
           "title": "习近平同美国总统特朗普在釜山举行会晤",
           "url": "https://m.thepaper.cn/newsDetail_forward_31855405",
           "source": "澎湃新闻",
@@ -659,19 +707,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时15分 ~ 19时13分]"
-        },
-        {
-          "title": "特朗普批准韩华海洋造船建造核潜艇，外交部：望韩美切实履行核不扩散义务",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31855444",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时13分 ~ 21时28分]"
         },
         {
           "title": "高市早苗在安倍影子下拉拢特朗普：“不平等条约”与前途未卜的稀土协议",
@@ -709,17 +744,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时18分 ~ 07时11分]"
-        },
-        {
-          "title": "特朗普：相信我们将建立长期良好的关系",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31854436",
-          "source": "澎湃新闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时24分 ~ 21时28分]"
         },
         {
           "title": "特朗普与卡尼在韩国会面",
@@ -918,7 +942,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时28分"
         },
@@ -1157,7 +1181,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 29,
+      "match_count": 35,
       "titles": [
         {
           "title": "美股收盘：标普道指回落、纳指独领风骚 英伟达市值站稳5万亿",
@@ -1220,6 +1244,39 @@
           "time_info": "[08时55分 ~ 12时15分]"
         },
         {
+          "title": "美股跌幅扩大，纳指跌超1%，标普500指数跌0.8%。",
+          "url": "https://wallstreetcn.com/livenews/2996983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
+          "title": "金十图示：2025年10月30日（周四）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251030214126559800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
+          "title": "美股盘初：纳指跌0.8%，谷歌A涨约5%，Meta跌约12%",
+          "url": "https://wallstreetcn.com/livenews/2996980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
           "title": "微软(MSFT.O)美股盘前下跌3.1%，此前公司警告称成本将上升。",
           "url": "https://flash.jin10.com/detail/20251030160543864800",
           "source": "金十数据",
@@ -1243,6 +1300,18 @@
           "time_info": "[13时14分 ~ 14时19分]"
         },
         {
+          "title": "美股三大期指集体走低 谷歌盘前大涨8% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2186836",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时27分 ~ 22时12分]"
+        },
+        {
           "title": "利率决议、业绩报告在即，美股指数集体上涨，英伟达总市值突破5万亿美元，黄金突破4000美元关口",
           "url": "https://wallstreetcn.com/articles/3758166",
           "source": "华尔街见闻",
@@ -1255,15 +1324,16 @@
           "time_info": "[05时18分 ~ 06时13分]"
         },
         {
-          "title": "美股三大期指集体走低 谷歌盘前大涨8% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2186836",
+          "title": "一图看懂 | 史上最大IPO？OpenAI与美股科技七巨头还有多大差距？",
+          "url": "https://www.cls.cn/detail/2186587",
           "source": "财联社热门",
           "ranks": [
+            9,
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时27分 ~ 21时28分]"
+          "appearance_count": 3,
+          "time_info": "[21时27分 ~ 22时12分]"
         },
         {
           "title": "市场中午“惊魂”一刻：美股期货、数字货币等风险资产急跌后反弹，黄金冲高回落，日元下跌",
@@ -1278,17 +1348,6 @@
           "time_info": "[15时14分 ~ 16时16分]"
         },
         {
-          "title": "一图看懂 | 史上最大IPO？OpenAI与美股科技七巨头还有多大差距？",
-          "url": "https://www.cls.cn/detail/2186587",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时27分 ~ 21时28分]"
-        },
-        {
           "title": "在美上市韩国ETF美股盘后涨0.8%。 美国总统特朗普称，韩国同意3500亿美元的协议。 韩国将获得更低的关税。",
           "url": "https://wallstreetcn.com/livenews/2996231",
           "source": "华尔街见闻-快讯",
@@ -1299,6 +1358,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时13分 ~ 07时11分]"
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2996947",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 22时12分]"
         },
         {
           "title": "Alphabet(GOOG.O)美股盘前上涨7.3%，此前其季度业绩超预期，并上调了资本支出展望。",
@@ -1321,6 +1392,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
+        },
+        {
+          "title": "美股指数集体低开，纳指跌超1%，Meta跌12%，比特币跌近4%",
+          "url": "https://wallstreetcn.com/articles/3758264",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         },
         {
           "title": "好未来第二财季净营收8.614亿美元，预估8.305亿美元。 第二财季调整后每ADS收益 0.24美元，预估0.16美元。 好未来美股盘前涨超4%。",
@@ -1422,17 +1504,6 @@
           "time_info": "20时24分"
         },
         {
-          "title": "周四美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/2996947",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
           "title": "谷歌母公司Alphabet三季度营收1023.5亿美元，分析师预期998.5亿美元。 三季度ex-tac（不包含流量获取陈本）营收874.7亿美元，分析师预期851.1亿美元。 三季度谷歌云营收151.6亿美元，分析师预期147.5亿美元。 三季度谷歌服务营收870.5亿美元，分析师预期846.7亿美元。 三季度谷歌搜索和其他收入565.7亿美元，分析师预期549.9亿美元。 三季度YouTube广告营收102.6亿美元，分析师预期100.3亿美元。 三季度谷歌广告收入741.8亿美元，分析师预期724.6亿美元。 三季度末谷歌云订单积压1550亿美元。 多个主要业务实现两位数百分比增幅。 Gemini APP拥有超过6.5亿月活用户数。 预计全年资本开支910亿-930亿美元，分析师预期840.4亿美元，公司原本预计大约850亿美元。 谷歌A美股盘后涨7.7%。",
           "url": "https://wallstreetcn.com/livenews/2996201",
           "source": "华尔街见闻-快讯",
@@ -1453,6 +1524,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
+        },
+        {
+          "title": "美股三大股指集体低开 Meta跌逾11%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80+Meta%E8%B7%8C%E9%80%BE11%25",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
+          "title": "美股低开 Meta开盘跌11%",
+          "url": "https://flash.jin10.com/detail/20251030213041785800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         },
         {
           "title": "公布财报后，谷歌A(GOOGL.O)美股盘后大涨超6%，微软(MSFT.O)跌4%，Meta Platforms(META.O)跌超7%。",
@@ -1491,7 +1584,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "A股大涨！沪指站上4000点，北证50狂飙超8%，光伏产业链爆发，沪铜创历史新高",
@@ -1516,8 +1609,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时13分 ~ 21时28分]"
+          "appearance_count": 7,
+          "time_info": "[18时13分 ~ 22时12分]"
+        },
+        {
+          "title": "A股两融余额突破2.5万亿，再创历史新高，连续56个交易日超2万亿同破纪录",
+          "url": "https://www.cls.cn/detail/2186468",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时13分 ~ 22时12分]"
         },
         {
           "title": "A股三季报透视：社保与公募基金“同框”456只个股",
@@ -1529,19 +1636,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
-        },
-        {
-          "title": "A股两融余额突破2.5万亿，再创历史新高，连续56个交易日超2万亿同破纪录",
-          "url": "https://www.cls.cn/detail/2186468",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时13分 ~ 21时28分]"
         },
         {
           "title": "国投证券：A股机构投资者科技仓位突破40% 四季度风格切换可能性上升",
@@ -1578,6 +1672,29 @@
           "time_info": "[21时27分 ~ 21时28分]"
         },
         {
+          "title": "中国国航：拟向特定对象发行A股股票募集资金不超过200亿元",
+          "url": "https://wallstreetcn.com/livenews/2996944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 22时12分]"
+        },
+        {
+          "title": "诺和诺德(NVO.N)：我们的提议为Metsera股东提供了极具吸引力的价值，远远超过辉瑞的拟议交易。",
+          "url": "https://flash.jin10.com/detail/20251030213947919800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
           "title": "A股工业母机概念表现活跃，华东数控涨停，宇环数控此前涨停，欧科亿、华锐精密涨超5%，沃尔德、海天精工、科德数控等跟涨。",
           "url": "https://wallstreetcn.com/livenews/2996398",
           "source": "华尔街见闻-快讯",
@@ -1600,6 +1717,17 @@
           "time_info": "15时14分"
         },
         {
+          "title": "高毅、玄元、睿郡等知名私募重仓股曝光，31家百亿私募三季度现身117家A股前十大",
+          "url": "https://www.cls.cn/detail/2186759",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
           "title": "A股早盘游戏板块震荡下挫，巨人网络跌超9%，盛天网络、恺英网络、顺网科技、吉比特均跌超4%。",
           "url": "https://wallstreetcn.com/livenews/2996389",
           "source": "华尔街见闻-快讯",
@@ -1609,17 +1737,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
-        },
-        {
-          "title": "中国国航：拟向特定对象发行A股股票募集资金不超过200亿元",
-          "url": "https://wallstreetcn.com/livenews/2996944",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
         },
         {
           "title": "A股超硬材料概念快速拉升，惠丰钻石涨超10%，沃尔德、力量钻石、黄河旋风、四方达等纷纷冲高。",
@@ -1679,74 +1796,8 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "鲍威尔意外鹰派，美股盘中转跌，英伟达支撑纳指最终收涨，美债黄金比特币跌，美元拉升",
-          "url": "https://wallstreetcn.com/articles/3758166",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时11分 ~ 21时28分]"
-        },
-        {
-          "title": "鲍威尔发布会称12月降息并非必然，美股、美债、黄金、比特币盘中跳水，美元涨",
-          "url": "https://wallstreetcn.com/articles/3758225",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[08时55分 ~ 21时28分]"
-        },
-        {
-          "title": "渣打：美元和美债收益率仍有很大的上行调整空间",
-          "url": "https://wallstreetcn.com/livenews/2996329",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时56分"
-        },
-        {
-          "title": "“债券天王”比尔·格罗斯：美国10年期国债的短期目标收益率为4.25%。 10年期美债已经迎来最好的时光。",
-          "url": "https://wallstreetcn.com/livenews/2996244",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时13分 ~ 07时11分]"
-        },
-        {
-          "title": "美债收益率全面上涨，2-10年期收益率至少涨10个基点，鲍威尔12月降息并非那么笃定的事",
-          "url": "https://wallstreetcn.com/livenews/2996226",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时13分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "金价波动加剧，多家银行调整积存金起投门槛",
@@ -1793,6 +1844,83 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时55分 ~ 08时56分]"
+        },
+        {
+          "title": "富国银行上调黄金价格预期",
+          "url": "https://flash.jin10.com/detail/20251030212926775800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "鲍威尔意外鹰派，美股盘中转跌，英伟达支撑纳指最终收涨，美债黄金比特币跌，美元拉升",
+          "url": "https://wallstreetcn.com/articles/3758166",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[07时11分 ~ 22时12分]"
+        },
+        {
+          "title": "鲍威尔发布会称12月降息并非必然，美股、美债、黄金、比特币盘中跳水，美元涨",
+          "url": "https://wallstreetcn.com/articles/3758225",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[08时55分 ~ 22时12分]"
+        },
+        {
+          "title": "渣打：美元和美债收益率仍有很大的上行调整空间",
+          "url": "https://wallstreetcn.com/livenews/2996329",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "“债券天王”比尔·格罗斯：美国10年期国债的短期目标收益率为4.25%。 10年期美债已经迎来最好的时光。",
+          "url": "https://wallstreetcn.com/livenews/2996244",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时13分 ~ 07时11分]"
+        },
+        {
+          "title": "美债收益率全面上涨，2-10年期收益率至少涨10个基点，鲍威尔12月降息并非那么笃定的事",
+          "url": "https://wallstreetcn.com/livenews/2996226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         }
       ]
     },

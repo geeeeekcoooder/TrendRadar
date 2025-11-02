@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-02T07:12:06.608072+08:00",
-  "total_titles_processed": 410,
+  "generated_at": "2025-11-02T08:56:49.401975+08:00",
+  "total_titles_processed": 516,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "【早报】美方称中美贸易协定或于下周签署，外交部回应；特朗普尚未决定是否对委内瑞拉境内地面目标发动袭击",
@@ -17,19 +17,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时12分 ~ 07时12分]"
+          "appearance_count": 13,
+          "time_info": "[00时12分 ~ 08时56分]"
         },
         {
           "title": "特朗普一番话，让台网友惊呼：台湾没筹码了",
           "url": "https://news.ifeng.com/c/8nvbiDiFTxi",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时12分 ~ 07时12分]"
+          "appearance_count": 13,
+          "time_info": "[00时12分 ~ 08时56分]"
         },
         {
           "title": "特朗普亚洲行背后的三个因素：同盟、稀土和朝鲜",
@@ -78,6 +79,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时12分 ~ 01时10分]"
+        },
+        {
+          "title": "逼近历史最长纪录！美政府“停摆”超31天，特朗普急了",
+          "url": "https://news.ifeng.com/c/8nvnXJwNw8a",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "特朗普允许韩国在费城制造核动力潜艇，会对韩国海军实力有怎样的提升？",
+          "url": "https://www.zhihu.com/question/1967205319198372105",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
         }
       ]
     },
@@ -95,8 +118,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时12分 ~ 07时12分]"
+          "appearance_count": 13,
+          "time_info": "[00时12分 ~ 08时56分]"
         },
         {
           "title": "亚马逊靓丽业绩提振科技股，美股三大股指收高为十月画上句号，加密货币反弹",
@@ -119,11 +142,41 @@
           "ranks": [
             9,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时12分 ~ 07时12分]"
+          "appearance_count": 13,
+          "time_info": "[00时12分 ~ 08时56分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "龙头八连板 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2188589",
+          "source": "财联社热门",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时12分 ~ 08时56分]"
+        },
+        {
+          "title": "A股下周市场会迎来大变盘信号吗",
+          "url": "https://www.toutiao.com/trending/7567777675777478207/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
         }
       ]
     },
@@ -157,26 +210,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时12分 ~ 07时12分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "龙头八连板 本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2188589",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时12分 ~ 07时12分]"
+          "appearance_count": 13,
+          "time_info": "[00时12分 ~ 08时56分]"
         }
       ]
     }

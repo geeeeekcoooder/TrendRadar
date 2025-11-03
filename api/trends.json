@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-03T17:16:51.367909+08:00",
-  "total_titles_processed": 1308,
+  "generated_at": "2025-11-03T18:16:56.735058+08:00",
+  "total_titles_processed": 1387,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 43,
       "titles": [
         {
           "title": "特朗普下令“战争部”做好准备",
@@ -124,8 +124,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时14分 ~ 17时16分]"
+          "appearance_count": 5,
+          "time_info": "[15时14分 ~ 18时16分]"
         },
         {
           "title": "特朗普称中方秘密测试核武器，外交部回应",
@@ -135,8 +135,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时17分 ~ 17时16分]"
+          "appearance_count": 4,
+          "time_info": "[16时17分 ~ 18时16分]"
         },
         {
           "title": "特朗普拒绝重启与加拿大的任何贸易谈判",
@@ -205,8 +205,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时14分 ~ 17时16分]"
+          "appearance_count": 5,
+          "time_info": "[15时14分 ~ 18时16分]"
+        },
+        {
+          "title": "距离史上最长“停摆”纪录只差1天，特朗普回应",
+          "url": "https://news.ifeng.com/c/8nyxD7T9Bvw",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时16分 ~ 18时16分]"
         },
         {
           "title": "特朗普称美将干预内塔尼亚胡受审",
@@ -218,6 +229,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时18分 ~ 14时19分]"
+        },
+        {
+          "title": "特朗普：和中国合作能让我们更强大",
+          "url": "https://www.toutiao.com/trending/7567809473297809450/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         },
         {
           "title": "特朗普称，他对币安赵长鹏获赦免一事并不了解。",
@@ -242,17 +264,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时32分 ~ 14时19分]"
-        },
-        {
-          "title": "距离史上最长“停摆”纪录只差1天，特朗普回应",
-          "url": "https://news.ifeng.com/c/8nyxD7T9Bvw",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时16分"
         },
         {
           "title": "美媒：美国民主党参议员敦促特朗普直接参与结束政府关门的谈判",
@@ -330,6 +341,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时56分 ~ 10时32分]"
+        },
+        {
+          "title": "特朗普称中方“正在秘密测试核武器”，外交部回应",
+          "url": "https://www.cls.cn/detail/2189459",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时16分 ~ 18时16分]"
         },
         {
           "title": "特朗普的三角外交玩不转了吗",
@@ -421,17 +444,6 @@
           "time_info": "08时57分"
         },
         {
-          "title": "特朗普称中方“正在秘密测试核武器”，外交部回应",
-          "url": "https://www.cls.cn/detail/2189459",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时16分"
-        },
-        {
           "title": "美国总统特朗普：我将在堪萨斯城对阵布法罗的NFL（美国职业橄榄球大联盟）比赛结束后接受《60分钟》的采访。",
           "url": "https://flash.jin10.com/detail/20251103080418904800",
           "source": "金十数据",
@@ -493,7 +505,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时16分"
         },
@@ -512,7 +524,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "“国家队”持仓动向揭秘！Q3持仓超100亿A股上市公司名单一览",
@@ -588,6 +600,17 @@
           "time_info": "[08时56分 ~ 10时32分]"
         },
         {
+          "title": "A股V型反弹！三大指数全线收红，钍基熔盐堆概念爆发，贵金属、电池跌幅居前，港股恒指涨近1%，老铺黄金跌超7%",
+          "url": "https://wallstreetcn.com/articles/3758525",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时16分 ~ 18时16分]"
+        },
+        {
           "title": "A股三大指数午后全线翻红，贵金属、电池等板块跌幅居前，港股老铺黄金跌超7%",
           "url": "https://wallstreetcn.com/articles/3758525",
           "source": "华尔街见闻",
@@ -597,17 +620,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时17分 ~ 16时18分]"
-        },
-        {
-          "title": "A股V型反弹！三大指数全线收红，钍基熔盐堆概念爆发，贵金属、电池跌幅居前，港股恒指涨近1%，老铺黄金跌超7%",
-          "url": "https://wallstreetcn.com/articles/3758525",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时16分"
         },
         {
           "title": "险资“买买买”，持仓A股市值超6500亿元",
@@ -630,6 +642,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "中国神华：上半年A股每股现金红利人民币0.98元",
+          "url": "https://wallstreetcn.com/livenews/2998514",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
+          "title": "中国移动：中国移动集团拟通过国有股份划转方式将其持有的公司4198.13万股A股股份（占公司总股数的0.19%）划转给中国石油天然气集团有限公司。",
+          "url": "https://wallstreetcn.com/livenews/2998511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         },
         {
           "title": "券商晨会精华：2026年度A股市场风格进入再均衡而非切换",
@@ -711,6 +745,64 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "95 岁巴菲特年底将卸任，伯克希尔现金储备 3817 亿美元再创新高，美股高位背景下，传递出怎样的市场信号？",
+          "url": "https://www.zhihu.com/question/1968075475093034371",
+          "source": "知乎",
+          "ranks": [
+            12,
+            10,
+            9,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时09分 ~ 07时11分]"
+        },
+        {
+          "title": "科技巨头财报揭露关键趋势？基金经理：AI投资巨浪将推动美股下一轮涨势！",
+          "url": "https://www.cls.cn/detail/2189006",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            12,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时46分 ~ 16时18分]"
+        },
+        {
+          "title": "美光科技美股盘前涨超4%。报道称DDR5现货价格飙升25%，三星暂停DDR5合约价报价。",
+          "url": "https://wallstreetcn.com/livenews/2998506",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
+          "title": "美股明星科技股盘前走高，美光科技(MU.O)盘前涨超4%，奈飞(NFLX.O)、Meta Platforms(META.O)、AMD(AMD.O)涨超1.2%，英伟达(NVDA.O)、高通(QCOM.O)涨约1%。",
+          "url": "https://flash.jin10.com/detail/20251103173003970800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 3,
       "titles": [
@@ -759,11 +851,12 @@
           "url": "https://wallstreetcn.com/livenews/2998489",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时16分 ~ 18时16分]"
         },
         {
           "title": "土耳其中央银行以传统方式（多重价格招标）启动3吨黄金的1周期“黄金换里拉”卖方掉期拍卖。",
@@ -772,45 +865,9 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "95 岁巴菲特年底将卸任，伯克希尔现金储备 3817 亿美元再创新高，美股高位背景下，传递出怎样的市场信号？",
-          "url": "https://www.zhihu.com/question/1968075475093034371",
-          "source": "知乎",
-          "ranks": [
-            12,
-            10,
-            9,
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时09分 ~ 07时11分]"
-        },
-        {
-          "title": "科技巨头财报揭露关键趋势？基金经理：AI投资巨浪将推动美股下一轮涨势！",
-          "url": "https://www.cls.cn/detail/2189006",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            12,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时46分 ~ 16时18分]"
         }
       ]
     }

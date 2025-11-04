@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-04T17:17:07.106861+08:00",
-  "total_titles_processed": 1572,
+  "generated_at": "2025-11-04T18:16:09.130415+08:00",
+  "total_titles_processed": 1646,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 47,
       "titles": [
         {
           "title": "特朗普称中方秘密测试核武器，外交部回应",
@@ -62,8 +62,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时39分 ~ 17时17分]"
+          "appearance_count": 12,
+          "time_info": "[11时39分 ~ 18时16分]"
         },
         {
           "title": "美稀土磁体初创公司与特朗普政府敲定14亿美元交易",
@@ -92,8 +92,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时14分 ~ 17时17分]"
+          "appearance_count": 25,
+          "time_info": "[00时14分 ~ 18时16分]"
         },
         {
           "title": "特朗普称中方正秘密测试核武，外交部驳斥：恪守暂停核试验承诺",
@@ -175,6 +175,17 @@
           "time_info": "[12时16分 ~ 16时17分]"
         },
         {
+          "title": "BBC又翻车？被曝“篡改”特朗普演讲稿，制造“煽动骚乱”假象",
+          "url": "https://news.ifeng.com/c/8o0Gc0LQ9TP",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时13分 ~ 18时16分]"
+        },
+        {
           "title": "美国总统特朗普：如果马姆达尼（在纽约选举中）获胜，我将“极不可能”为纽约市提供联邦资金。",
           "url": "https://flash.jin10.com/detail/20251104062405788800",
           "source": "金十数据",
@@ -184,17 +195,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
-        },
-        {
-          "title": "BBC又翻车？被曝“篡改”特朗普演讲稿，制造“煽动骚乱”假象",
-          "url": "https://news.ifeng.com/c/8o0Gc0LQ9TP",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时13分 ~ 17时17分]"
         },
         {
           "title": "奥巴马抨击特朗普释放了什么信号",
@@ -278,11 +278,35 @@
           "source": "今日头条",
           "ranks": [
             15,
-            9
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时16分 ~ 18时16分]"
+        },
+        {
+          "title": "中方回应特朗普威胁对尼日利亚动武",
+          "url": "https://www.toutiao.com/trending/7568256133530566719/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时16分 ~ 18时16分]"
+        },
+        {
+          "title": "特朗普称对中国与其打压不如合作",
+          "url": "https://www.toutiao.com/trending/7568736208902324287/",
+          "source": "今日头条",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时16分 ~ 17时17分]"
+          "time_info": "[18时15分 ~ 18时16分]"
         },
         {
           "title": "日本首相高市早苗：将与特朗普举行更多会晤以深化关系。",
@@ -391,18 +415,6 @@
           "time_info": "[12时16分 ~ 13时14分]"
         },
         {
-          "title": "中方回应特朗普威胁对尼日利亚动武",
-          "url": "https://www.toutiao.com/trending/7568256133530566719/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时16分 ~ 17时17分]"
-        },
-        {
           "title": "特朗普吹牛遭记者尴尬打断",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%B9%E7%89%9B%E9%81%AD%E8%AE%B0%E8%80%85%E5%B0%B4%E5%B0%AC%E6%89%93%E6%96%AD%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26cate%3D5001%26dgr%3D0%26stream_entry_id%3D31%26band_rank%3D29%26realpos%3D29%26flag%3D1%26pos%3D29%26filter_type%3Drealtimehot%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%2590%25B9%25E7%2589%259B%25E9%2581%25AD%25E8%25AE%25B0%25E8%2580%2585%25E5%25B0%25B4%25E5%25B0%25AC%25E6%2589%2593%25E6%2596%25AD%2523%26c_type%3D31%26display_time%3D1762217488%26pre_seqid%3D17622174887600169954003&launchid=10000360-page_H5",
           "source": "微博",
@@ -480,6 +492,17 @@
           "time_info": "00时15分"
         },
         {
+          "title": "为避免激怒特朗普 欧盟领导人将缺席拉美峰会",
+          "url": "https://flash.jin10.com/detail/20251104175550532800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
           "title": "特朗普威胁对尼日利亚动武，外交部回应",
           "url": "https://wallstreetcn.com/livenews/2999066",
           "source": "华尔街见闻-快讯",
@@ -519,9 +542,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
+        },
+        {
+          "title": "市场消息：欧盟领导人缺席拉丁美洲峰会以避免惹恼美国总统特朗普。",
+          "url": "https://flash.jin10.com/detail/20251104173742915800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         },
         {
           "title": "特朗普敦促纽约人投票支持科莫竞选市长",
@@ -548,8 +582,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时52分 ~ 17时17分]"
+          "appearance_count": 15,
+          "time_info": "[08时52分 ~ 18时16分]"
         },
         {
           "title": "美股收盘：AI巨头唱独角戏 亚马逊、英伟达市值各增千亿美元",
@@ -621,17 +655,6 @@
           "time_info": "14时20分"
         },
         {
-          "title": "美股盘前，Palantir跌约6%，公司此前公布了三季度财报； 半导体股普跌，英特尔跌约2%，台积电跌约1%，英伟达跌约1%。 中概股多数下跌，阿里巴巴跌约2%，蔚来跌约2%。",
-          "url": "https://wallstreetcn.com/livenews/2999122",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时17分"
-        },
-        {
           "title": "周一（11月3日）纽约尾盘，现货黄金大致持平，报4001.69美元/盎司，亚太盘初跌至3962.59美元，随后反弹，美股早盘刷新日高至4030.48美元。 COMEX黄金期货涨0.44%，报4013.30美元/盎司。 现货白银跌1.22%，报48.0979美元/盎司。 COMEX白银期货跌0.47%，报47.935美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/2998769",
           "source": "华尔街见闻-快讯",
@@ -654,6 +677,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时14分 ~ 07时11分]"
+        },
+        {
+          "title": "美股盘前，Palantir跌约6%，公司此前公布了三季度财报； 半导体股普跌，英特尔跌约2%，台积电跌约1%，英伟达跌约1%。 中概股多数下跌，阿里巴巴跌约2%，蔚来跌约2%。",
+          "url": "https://wallstreetcn.com/livenews/2999122",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时17分 ~ 18时16分]"
         },
         {
           "title": "周一（11月3日）纽约尾盘，美元兑日元涨0.13%，报154.19日元，日内交投区间为153.93-154.30日元，北京时间21:40刷新日高，美股盘初显著跳水，23:00刷新日低。",
@@ -728,6 +763,18 @@
           "time_info": "[02时19分 ~ 03时10分]"
         },
         {
+          "title": "华尔街多位CEO警告 美股可能因估值偏高出现逾10%的回调",
+          "url": "https://wallstreetcn.com/livenews/2999103",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时17分 ~ 18时16分]"
+        },
+        {
           "title": "金十图示：2025年11月03日（周一）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251104013024718800",
           "source": "金十数据",
@@ -773,17 +820,6 @@
           "time_info": "08时53分"
         },
         {
-          "title": "华尔街多位CEO警告 美股可能因估值偏高出现逾10%的回调",
-          "url": "https://wallstreetcn.com/livenews/2999103",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时17分"
-        },
-        {
           "title": "美股行业ETF盘初涨跌各异，全球科技股指数ETF涨1.39%，半导体ETF与可选消费ETF涨超1%，网络股指数ETF与科技行业ETF涨约0.8%，银行业ETF则跌1.41%，区域银行ETF跌1.45%。",
           "url": "https://wallstreetcn.com/livenews/2998634",
           "source": "华尔街见闻-快讯",
@@ -820,7 +856,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "A股V型反弹！三大指数全线收红，钍基熔盐堆概念爆发，贵金属、电池跌幅居前，港股恒指涨近1%，老铺黄金跌超7%",
@@ -835,6 +871,17 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时14分 ~ 13时14分]"
+        },
+        {
+          "title": "宁德时代：截至2025年10月31日，公司累计回购公司A股股份1599.08万股，占公司同日A股总股本的0.3628%，成交总金额为人民币43.86亿元。",
+          "url": "https://wallstreetcn.com/livenews/2999151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         },
         {
           "title": "A股收盘：创业板指缩量跌近2%，福建本地股、冰雪经济逆势大涨",
@@ -870,6 +917,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时16分 ~ 17时17分]"
+        },
+        {
+          "title": "10月A股新开户数231万户 今年已累计新开2246万户",
+          "url": "https://wallstreetcn.com/livenews/2999131",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         },
         {
           "title": "11月A股迎来开门红，市场轮动速度或加快",

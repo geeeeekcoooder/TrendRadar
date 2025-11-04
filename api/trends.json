@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-04T11:40:05.233384+08:00",
-  "total_titles_processed": 1026,
+  "generated_at": "2025-11-04T12:16:33.002781+08:00",
+  "total_titles_processed": 1087,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "特朗普称中方秘密测试核武器，外交部回应",
@@ -66,8 +66,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时14分 ~ 11时40分]"
+          "appearance_count": 16,
+          "time_info": "[00时14分 ~ 12时16分]"
         },
         {
           "title": "特朗普称中方正秘密测试核武，外交部驳斥：恪守暂停核试验承诺",
@@ -81,8 +81,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时14分 ~ 11时40分]"
+          "appearance_count": 16,
+          "time_info": "[00时14分 ~ 12时16分]"
         },
         {
           "title": "特朗普70分钟采访提及中国41次",
@@ -132,19 +132,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时39分 ~ 11时40分]"
+          "appearance_count": 3,
+          "time_info": "[11时39分 ~ 12时16分]"
         },
         {
           "title": "声称尼日利亚纵容暴力，特朗普威胁动武",
           "url": "https://news.ifeng.com/c/8o00YT3c5ib",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时39分 ~ 11时40分]"
+          "appearance_count": 3,
+          "time_info": "[11时39分 ~ 12时16分]"
         },
         {
           "title": "美稀土磁体初创公司与特朗普政府敲定14亿美元交易",
@@ -156,8 +157,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时52分 ~ 11时40分]"
+          "appearance_count": 6,
+          "time_info": "[08时52分 ~ 12时16分]"
+        },
+        {
+          "title": "赵长鹏威胁美国国安却被赦免？特朗普：他谁啊",
+          "url": "https://news.ifeng.com/c/8o0F27J4SeK",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
         },
         {
           "title": "美国总统特朗普：如果马姆达尼（在纽约选举中）获胜，我将“极不可能”为纽约市提供联邦资金。",
@@ -219,6 +231,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时10分 ~ 04时15分]"
+        },
+        {
+          "title": "美国多方“围剿”特朗普只为废除关税",
+          "url": "https://www.toutiao.com/trending/7568663171070692900/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时39分 ~ 12时16分]"
         },
         {
           "title": "美国众议长约翰逊：已经在上周末与总统特朗普讨论过“补充营养援助计划”（SNAP）。 必须向那些享受SNAP的人群重新计算支付金额。",
@@ -291,17 +315,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时19分 ~ 03时10分]"
-        },
-        {
-          "title": "美国多方“围剿”特朗普只为废除关税",
-          "url": "https://www.toutiao.com/trending/7568663171070692900/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时39分 ~ 11时40分]"
         },
         {
           "title": "特朗普吹牛遭记者尴尬打断",
@@ -381,6 +394,17 @@
           "time_info": "04时15分"
         },
         {
+          "title": "特朗普改口不去全球关税合法性听证会",
+          "url": "https://www.toutiao.com/trending/7568682000622554660/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
+        },
+        {
           "title": "特朗普敦促纽约人投票支持科莫竞选市长",
           "url": "https://flash.jin10.com/detail/20251104073700410800",
           "source": "金十数据",
@@ -405,8 +429,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时52分 ~ 11时40分]"
+          "appearance_count": 6,
+          "time_info": "[08时52分 ~ 12时16分]"
         },
         {
           "title": "美股收盘：AI巨头唱独角戏 亚马逊、英伟达市值各增千亿美元",
@@ -417,8 +441,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时52分 ~ 11时40分]"
+          "appearance_count": 6,
+          "time_info": "[08时52分 ~ 12时16分]"
         },
         {
           "title": "全球股市11月开门红，美股期货延续涨势，伦铝将创逾三年来最高收盘价，油价回落，比特币跌近3%",
@@ -432,17 +456,6 @@
           "time_info": "[00时14分 ~ 00时15分]"
         },
         {
-          "title": "算力协议力撑科技股，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
-          "url": "https://wallstreetcn.com/articles/3758543",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时11分"
-        },
-        {
           "title": "美股期指涨跌不一 IREN盘前大涨超21% | 今夜看点",
           "url": "https://www.cls.cn/detail/2189932",
           "source": "财联社热门",
@@ -452,8 +465,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时52分 ~ 11时40分]"
+          "appearance_count": 6,
+          "time_info": "[08时52分 ~ 12时16分]"
+        },
+        {
+          "title": "算力协议力撑科技股，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
+          "url": "https://wallstreetcn.com/articles/3758543",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时11分"
         },
         {
           "title": "周一（11月3日）纽约尾盘，现货黄金大致持平，报4001.69美元/盎司，亚太盘初跌至3962.59美元，随后反弹，美股早盘刷新日高至4030.48美元。 COMEX黄金期货涨0.44%，报4013.30美元/盎司。 现货白银跌1.22%，报48.0979美元/盎司。 COMEX白银期货跌0.47%，报47.935美元/盎司。",
@@ -633,19 +657,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时14分 ~ 11时40分]"
+          "appearance_count": 16,
+          "time_info": "[00时14分 ~ 12时16分]"
         },
         {
           "title": "A股房地产板块短线拉升，中国武夷、华夏幸福拉升涨停，光大嘉宝此前封板，合肥城建、津滨发展、珠江股份跟涨。",
           "url": "https://wallstreetcn.com/livenews/2998944",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时40分 ~ 12时16分]"
         },
         {
           "title": "11月A股迎来开门红，市场轮动速度或加快",
@@ -665,7 +690,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
         }
@@ -753,8 +778,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时27分 ~ 11时40分]"
+          "appearance_count": 4,
+          "time_info": "[10时27分 ~ 12时16分]"
         },
         {
           "title": "周一（11月3日）纽约尾盘，ICE美元指数涨0.07%，报99.872点，日内交投区间为99.708-99.988点。 彭博美元指数涨0.03%，报1221.25点，日内交投区间为1219.75-1222.54点。",
@@ -784,8 +809,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时14分 ~ 11时40分]"
+          "appearance_count": 16,
+          "time_info": "[00时14分 ~ 12时16分]"
         }
       ]
     }

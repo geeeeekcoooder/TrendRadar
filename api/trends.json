@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-05T15:12:38.418263+08:00",
-  "total_titles_processed": 1365,
+  "generated_at": "2025-11-05T16:17:13.997778+08:00",
+  "total_titles_processed": 1479,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 46,
       "titles": [
         {
           "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
@@ -27,8 +27,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时44分 ~ 15时12分]"
+          "appearance_count": 9,
+          "time_info": "[10时44分 ~ 16时17分]"
+        },
+        {
+          "title": "最高法院周三见分晓，特朗普关税命运系于其亲手任命的三位大法官",
+          "url": "https://wallstreetcn.com/articles/3758648",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[08时54分 ~ 16时17分]"
         },
         {
           "title": "佩洛西：特朗普是地表最坏的家伙",
@@ -45,19 +58,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时16分 ~ 07时11分]"
-        },
-        {
-          "title": "最高法院周三见分晓，特朗普关税命运系于其亲手任命的三位大法官",
-          "url": "https://wallstreetcn.com/articles/3758648",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时54分 ~ 15时12分]"
         },
         {
           "title": "特朗普突然威胁对尼日利亚动武，就因为他看了条福克斯新闻报道",
@@ -249,6 +249,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时44分 ~ 12时17分]"
+        },
+        {
+          "title": "如何看待 34 岁马姆达尼成纽约首位千禧一代市长？特朗普曾多次抨击他，他的当选会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1969362121386100394",
+          "source": "知乎",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时12分 ~ 16时17分]"
+        },
+        {
+          "title": "市场的“美国中选风向标”：特朗普任内第一场大选，民主党“压倒式胜利”",
+          "url": "https://wallstreetcn.com/articles/3758705",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时16分 ~ 16时17分]"
         },
         {
           "title": "美国总统特朗普：（谈加州选区重划）违宪投票是一场巨大的骗局。所有邮寄选票正接受非常严肃的法律和刑事审查。",
@@ -456,7 +479,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
         },
@@ -481,17 +504,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
-        },
-        {
-          "title": "如何看待 34 岁马姆达尼成纽约首位千禧一代市长？特朗普曾多次抨击他，他的当选会带来哪些影响？",
-          "url": "https://www.zhihu.com/question/1969362121386100394",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时12分"
         },
         {
           "title": "据塔斯社援引克里姆林宫的话称，俄罗斯仍在等待美国就特朗普有关恢复核试验的言论作出澄清。",
@@ -541,8 +553,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
+        {
+          "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
+          "url": "https://wallstreetcn.com/articles/3758628",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[08时54分 ~ 16时17分]"
+        },
         {
           "title": "算力协议力挺Mag 7，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
           "url": "https://wallstreetcn.com/articles/3758543",
@@ -554,17 +577,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时16分 ~ 07时11分]"
-        },
-        {
-          "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
-          "url": "https://wallstreetcn.com/articles/3758628",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时54分 ~ 15时12分]"
         },
         {
           "title": "美股收盘：“大空头”点燃估值忧虑 纳指跌超2%",
@@ -586,11 +598,26 @@
             6,
             5,
             3,
-            2
+            2,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时44分 ~ 15时12分]"
+          "appearance_count": 9,
+          "time_info": "[10时44分 ~ 16时17分]"
+        },
+        {
+          "title": "突发！美股AI泡沫恐慌情绪蔓延 日韩股市崩盘",
+          "url": "https://www.cls.cn/detail/2191349",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时40分 ~ 16时17分]"
         },
         {
           "title": "AI泡沫忧虑升温 美股期指集体走低 Palantir盘前重挫8% | 今夜看点",
@@ -606,19 +633,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时16分 ~ 11时40分]"
-        },
-        {
-          "title": "突发！美股AI泡沫恐慌情绪蔓延 日韩股市崩盘",
-          "url": "https://www.cls.cn/detail/2191349",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时40分 ~ 15时12分]"
         },
         {
           "title": "美股AI短线交易员周二救市失败，分析师称周三恐出现另一轮下跌",
@@ -678,6 +692,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时10分 ~ 07时11分]"
+        },
+        {
+          "title": "美股散户“黑色星期二”有多惨",
+          "url": "https://www.toutiao.com/trending/7569095245124603438/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时16分 ~ 16时17分]"
         },
         {
           "title": "高盛、大摩CEO齐发预警：美股估值太高了，可能出现至少10%回调！",
@@ -798,7 +823,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
         },
@@ -861,7 +886,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "A股投资者逼近2.5亿！年末或将突破大关",
@@ -869,22 +894,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时54分 ~ 15时12分]"
-        },
-        {
-          "title": "A股收盘：创业板指低开高走涨超1%，智能电网概念集体爆发",
-          "url": "https://wallstreetcn.com/livenews/2999707",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时12分"
+          "appearance_count": 11,
+          "time_info": "[08时54分 ~ 16时17分]"
         },
         {
           "title": "A股电力股异动拉升，闽东电力直线涨停，恒盛能源涨超7%，九洲集团、乐山电力、豫能控股、廊坊发展等跟涨。",
@@ -936,6 +951,18 @@
           "time_info": "[13时13分 ~ 14时20分]"
         },
         {
+          "title": "A股收盘：创业板指低开高走涨超1%，智能电网概念集体爆发",
+          "url": "https://wallstreetcn.com/livenews/2999707",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时12分 ~ 16时17分]"
+        },
+        {
           "title": "A股银行股震荡走强，工商银行股价创新高，浦发银行、宁波银行、南京银行、江苏银行、兴业银行等跟涨。",
           "url": "https://wallstreetcn.com/livenews/2999563",
           "source": "华尔街见闻-快讯",
@@ -946,6 +973,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时44分 ~ 11时40分]"
+        },
+        {
+          "title": "A股收评：三大指数全线收红",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E8%AF%84%EF%BC%9A%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%85%A8%E7%BA%BF%E6%94%B6%E7%BA%A2",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时16分 ~ 16时17分]"
         },
         {
           "title": "A股走弱是何原因",
@@ -973,7 +1011,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "金价",
@@ -1019,6 +1057,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时10分 ~ 07时11分]"
+        },
+        {
+          "title": "美元走强金价又跌了",
+          "url": "https://www.douyin.com/hot/2295060",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时16分 ~ 16时17分]"
         },
         {
           "title": "金价大涨，周大生一年关闭 560 家门店，这背后的原因是什么？",
@@ -1119,7 +1168,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
         }

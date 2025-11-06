@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T11:43:25.671604+08:00",
-  "total_titles_processed": 1058,
+  "generated_at": "2025-11-06T12:20:19.800231+08:00",
+  "total_titles_processed": 1103,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 51,
       "titles": [
         {
           "title": "市场的“美国中选风向标”：特朗普任内第一场大选，民主党“压倒式胜利”",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时15分 ~ 11时43分]"
+          "appearance_count": 17,
+          "time_info": "[00时15分 ~ 12时20分]"
         },
         {
           "title": "就在今天，特朗普任期首次重大选举！市场将获得重要数据，预判明年美国“中选”格局",
@@ -65,8 +65,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[05时13分 ~ 11时43分]"
+          "appearance_count": 9,
+          "time_info": "[05时13分 ~ 12时20分]"
         },
         {
           "title": "涉及特朗普，BBC被曝严重造假！",
@@ -77,8 +77,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时55分 ~ 11时43分]"
+          "appearance_count": 4,
+          "time_info": "[08时55分 ~ 12时20分]"
         },
         {
           "title": "纽约选出首位穆斯林市长，“调高音量”挑战特朗普",
@@ -89,8 +89,45 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时55分 ~ 11时43分]"
+          "appearance_count": 4,
+          "time_info": "[08时55分 ~ 12时20分]"
+        },
+        {
+          "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
+          "url": "https://wallstreetcn.com/articles/3758755",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时55分 ~ 12时20分]"
+        },
+        {
+          "title": "特朗普关税遭美国高院大法官轮番质疑 预测市场胜率跳水大跌",
+          "url": "https://www.cls.cn/detail/2192410",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时55分 ~ 12时20分]"
+        },
+        {
+          "title": "特朗普的大麻烦来了",
+          "url": "https://news.ifeng.com/c/8o3LYHlTKNB",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时43分 ~ 12时20分]"
         },
         {
           "title": "特朗普提议结束“冗长辩论”尽快推动政府重启，共和党人不干了！",
@@ -103,43 +140,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时55分 ~ 10时29分]"
-        },
-        {
-          "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
-          "url": "https://wallstreetcn.com/articles/3758755",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时55分 ~ 11时43分]"
-        },
-        {
-          "title": "特朗普关税遭美国高院大法官轮番质疑 预测市场胜率跳水大跌",
-          "url": "https://www.cls.cn/detail/2192410",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时55分 ~ 11时43分]"
-        },
-        {
-          "title": "特朗普的大麻烦来了",
-          "url": "https://news.ifeng.com/c/8o3LYHlTKNB",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时43分"
         },
         {
           "title": "美联储理事米兰：ADP小非农就业报告好于预期，这是受人欢迎的意外。 劳动力需求仍然没有我们（特朗普政府）希望看到的那样强劲。 数据表明，（FOMC的政策）利率可以略微低于当前水平。",
@@ -164,6 +164,17 @@
           "time_info": "08时55分"
         },
         {
+          "title": "特朗普高级顾问：特朗普明年将聚焦生活成本议题",
+          "url": "https://flash.jin10.com/detail/20251106114548245800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
+        },
+        {
           "title": "特朗普再次对尼日利亚发出威胁",
           "url": "https://flash.jin10.com/detail/20251106061021528800",
           "source": "金十数据",
@@ -184,6 +195,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "据Politico：特朗普的高级顾问表示，总统明年将专注于可负担性问题。",
+          "url": "https://flash.jin10.com/detail/20251106113709729800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
         },
         {
           "title": "提醒：美国最高法院针对特朗普关税官司的辩论环节结束。",
@@ -615,8 +637,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时13分 ~ 11时43分]"
+          "appearance_count": 6,
+          "time_info": "[07时13分 ~ 12时20分]"
+        },
+        {
+          "title": "HBM4涨价带动美股存储板块爆发 美光科技股价再创历史新高",
+          "url": "https://www.cls.cn/detail/2192518",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时29分 ~ 12时20分]"
         },
         {
           "title": "逢低买盘再现，美股上演普涨反弹，小盘股领涨",
@@ -628,18 +662,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时13分 ~ 07时14分]"
-        },
-        {
-          "title": "HBM4涨价带动美股存储板块爆发 美光科技股价再创历史新高",
-          "url": "https://www.cls.cn/detail/2192518",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时29分 ~ 11时43分]"
         },
         {
           "title": "金十图示：2025年11月05日（周三）美股热门股票行情一览（美股盘中）",
@@ -735,8 +757,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时29分 ~ 11时43分]"
+          "appearance_count": 3,
+          "time_info": "[10时29分 ~ 12时20分]"
         },
         {
           "title": "金十图示：2025年11月05日（周三）热门中概股行情一览（美股收盘）",
@@ -824,7 +846,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
         }
@@ -844,6 +866,42 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
+        },
+        {
+          "title": "A股汽车芯片概念震荡反弹，格尔软件涨停，源杰科技、东芯股份、芯原股份、兆易创新、扬杰科技、龙芯中科等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3000277",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时43分 ~ 12时20分]"
+        },
+        {
+          "title": "A股半导体芯片股持续拉升，长光华芯20cm涨停，海光信息大涨10%，寒武纪、新相微、中微公司、拓荆科技等纷纷走强。",
+          "url": "https://wallstreetcn.com/livenews/3000275",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时43分 ~ 12时20分]"
+        },
+        {
+          "title": "A股券商股盘中走强，东北证券逼近涨停，国信证券、华泰证券、广发证券、长江证券、国泰海通等纷纷冲高。",
+          "url": "https://wallstreetcn.com/livenews/3000272",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时43分 ~ 12时20分]"
         },
         {
           "title": "年内A股公司披露中期分红金额已超去年",
@@ -866,39 +924,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
-        },
-        {
-          "title": "A股汽车芯片概念震荡反弹，格尔软件涨停，源杰科技、东芯股份、芯原股份、兆易创新、扬杰科技、龙芯中科等跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3000277",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时43分"
-        },
-        {
-          "title": "A股半导体芯片股持续拉升，长光华芯20cm涨停，海光信息大涨10%，寒武纪、新相微、中微公司、拓荆科技等纷纷走强。",
-          "url": "https://wallstreetcn.com/livenews/3000275",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时43分"
-        },
-        {
-          "title": "A股券商股盘中走强，东北证券逼近涨停，国信证券、华泰证券、广发证券、长江证券、国泰海通等纷纷冲高。",
-          "url": "https://wallstreetcn.com/livenews/3000272",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时43分"
         },
         {
           "title": "高估值担忧引发全球风险资产重挫，A股低开高走逆势翻红",
@@ -999,8 +1024,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时55分 ~ 11时43分]"
+          "appearance_count": 4,
+          "time_info": "[08时55分 ~ 12时20分]"
         },
         {
           "title": "美债收益率继续上涨，10年期收益率日内涨6.6个基点，报4.157%。",

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T12:20:19.800231+08:00",
-  "total_titles_processed": 1103,
+  "generated_at": "2025-11-06T13:13:21.461816+08:00",
+  "total_titles_processed": 1183,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 52,
       "titles": [
         {
           "title": "市场的“美国中选风向标”：特朗普任内第一场大选，民主党“压倒式胜利”",
@@ -30,6 +30,19 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时15分 ~ 08时55分]"
+        },
+        {
+          "title": "最高院判决对特朗普关税有何影响？瑞银推演了可能的结果",
+          "url": "https://wallstreetcn.com/articles/3758724",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[05时13分 ~ 13时13分]"
         },
         {
           "title": "全球瞩目！美国最高法院将审理特朗普关税案",
@@ -57,16 +70,16 @@
           "time_info": "[01时13分 ~ 06时12分]"
         },
         {
-          "title": "最高院判决对特朗普关税有何影响？瑞银推演了可能的结果",
-          "url": "https://wallstreetcn.com/articles/3758724",
-          "source": "华尔街见闻",
+          "title": "纽约选出首位穆斯林市长，“调高音量”挑战特朗普",
+          "url": "https://news.ifeng.com/c/8o2qbh848kJ",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            8
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[05时13分 ~ 12时20分]"
+          "appearance_count": 5,
+          "time_info": "[08时55分 ~ 13时13分]"
         },
         {
           "title": "涉及特朗普，BBC被曝严重造假！",
@@ -75,18 +88,6 @@
           "ranks": [
             1,
             2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时55分 ~ 12时20分]"
-        },
-        {
-          "title": "纽约选出首位穆斯林市长，“调高音量”挑战特朗普",
-          "url": "https://news.ifeng.com/c/8o2qbh848kJ",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -102,8 +103,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时55分 ~ 12时20分]"
+          "appearance_count": 5,
+          "time_info": "[08时55分 ~ 13时13分]"
         },
         {
           "title": "特朗普关税遭美国高院大法官轮番质疑 预测市场胜率跳水大跌",
@@ -115,19 +116,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时55分 ~ 12时20分]"
+          "appearance_count": 5,
+          "time_info": "[08时55分 ~ 13时13分]"
         },
         {
           "title": "特朗普的大麻烦来了",
           "url": "https://news.ifeng.com/c/8o3LYHlTKNB",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时43分 ~ 12时20分]"
+          "appearance_count": 3,
+          "time_info": "[11时43分 ~ 13时13分]"
         },
         {
           "title": "特朗普提议结束“冗长辩论”尽快推动政府重启，共和党人不干了！",
@@ -140,6 +142,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时55分 ~ 10时29分]"
+        },
+        {
+          "title": "特朗普：美国第一，俄罗斯第二，中国第三",
+          "url": "https://news.ifeng.com/c/8o3VLLSgUhv",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
         },
         {
           "title": "美联储理事米兰：ADP小非农就业报告好于预期，这是受人欢迎的意外。 劳动力需求仍然没有我们（特朗普政府）希望看到的那样强劲。 数据表明，（FOMC的政策）利率可以略微低于当前水平。",
@@ -164,17 +177,6 @@
           "time_info": "08时55分"
         },
         {
-          "title": "特朗普高级顾问：特朗普明年将聚焦生活成本议题",
-          "url": "https://flash.jin10.com/detail/20251106114548245800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时20分"
-        },
-        {
           "title": "特朗普再次对尼日利亚发出威胁",
           "url": "https://flash.jin10.com/detail/20251106061021528800",
           "source": "金十数据",
@@ -195,17 +197,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
-        },
-        {
-          "title": "据Politico：特朗普的高级顾问表示，总统明年将专注于可负担性问题。",
-          "url": "https://flash.jin10.com/detail/20251106113709729800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时20分"
         },
         {
           "title": "提醒：美国最高法院针对特朗普关税官司的辩论环节结束。",
@@ -258,6 +249,18 @@
           "time_info": "[04时14分 ~ 05时13分]"
         },
         {
+          "title": "特朗普高级顾问：特朗普明年将聚焦生活成本议题",
+          "url": "https://flash.jin10.com/detail/20251106114548245800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时20分 ~ 13时13分]"
+        },
+        {
           "title": "美最高法院关税案辩论进展：特朗普胜诉概率降低",
           "url": "https://flash.jin10.com/detail/20251106043537001800",
           "source": "金十数据",
@@ -268,6 +271,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时13分 ~ 06时12分]"
+        },
+        {
+          "title": "据Politico：特朗普的高级顾问表示，总统明年将专注于可负担性问题。",
+          "url": "https://flash.jin10.com/detail/20251106113709729800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时20分 ~ 13时13分]"
         },
         {
           "title": "梅西百货（M）涨9.5%，卡特（CRI）涨9.7%，美泰（MAT）涨4.4%，投资者关注“美国最高法院多名关键性法官对总统特朗普全球关税政策合法性的怀疑态度”。",
@@ -614,6 +629,19 @@
           "time_info": "[00时15分 ~ 07时14分]"
         },
         {
+          "title": "美股收盘：三大指数回暖收涨 美光科技再创历史新高",
+          "url": "https://www.cls.cn/detail/2192424",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时13分 ~ 13时13分]"
+        },
+        {
           "title": "敏感时刻，美股警报连连！著名估值指标“史上第二次”突破红线，上一次是1999年",
           "url": "https://wallstreetcn.com/articles/3758685",
           "source": "华尔街见闻",
@@ -628,19 +656,6 @@
           "time_info": "[01时13分 ~ 08时55分]"
         },
         {
-          "title": "美股收盘：三大指数回暖收涨 美光科技再创历史新高",
-          "url": "https://www.cls.cn/detail/2192424",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时13分 ~ 12时20分]"
-        },
-        {
           "title": "HBM4涨价带动美股存储板块爆发 美光科技股价再创历史新高",
           "url": "https://www.cls.cn/detail/2192518",
           "source": "财联社热门",
@@ -649,8 +664,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时29分 ~ 12时20分]"
+          "appearance_count": 4,
+          "time_info": "[10时29分 ~ 13时13分]"
         },
         {
           "title": "逢低买盘再现，美股上演普涨反弹，小盘股领涨",
@@ -712,6 +727,19 @@
           "time_info": "[06时12分 ~ 07时14分]"
         },
         {
+          "title": "美股泡沫有多大？瑞银给出七个观测指标",
+          "url": "https://wallstreetcn.com/articles/3758712",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时29分 ~ 13时13分]"
+        },
+        {
           "title": "美股延续涨势，纳指涨幅达1%，道指现涨0.75%，标普500指数涨0.83%。",
           "url": "https://flash.jin10.com/detail/20251106013722040800",
           "source": "金十数据",
@@ -747,18 +775,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时10分 ~ 05时13分]"
-        },
-        {
-          "title": "美股泡沫有多大？瑞银给出七个观测指标",
-          "url": "https://wallstreetcn.com/articles/3758712",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时29分 ~ 12时20分]"
         },
         {
           "title": "金十图示：2025年11月05日（周三）热门中概股行情一览（美股收盘）",
@@ -854,7 +870,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "MSCI中国A股指数新纳入17只标的，剔除16只",
@@ -866,6 +882,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
+        },
+        {
+          "title": "A股人形机器人概念股午后拉升，方正电机直线涨停，浙江仙通、五洲新春、绿的谐波、博杰股份、汉宇集团跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3000329",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
         },
         {
           "title": "A股汽车芯片概念震荡反弹，格尔软件涨停，源杰科技、东芯股份、芯原股份、兆易创新、扬杰科技、龙芯中科等跟涨。",
@@ -940,7 +967,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "金十图示：2025年11月06日（周四）上海金早盘价为912.29元/克，较国际金价(911.43元/克)，高0.86元/克",
@@ -952,6 +979,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
+        },
+        {
+          "title": "澳大利亚贸易顺差受金价飙升推动",
+          "url": "https://flash.jin10.com/detail/20251106125006375800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
         },
         {
           "title": "非洲股市收盘播报｜南非股指收涨约1.4%，追随金价涨向3990美元的表现",
@@ -1024,8 +1062,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时55分 ~ 12时20分]"
+          "appearance_count": 5,
+          "time_info": "[08时55分 ~ 13时13分]"
         },
         {
           "title": "美债收益率继续上涨，10年期收益率日内涨6.6个基点，报4.157%。",

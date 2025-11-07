@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-07T18:14:16.937425+08:00",
-  "total_titles_processed": 1693,
+  "generated_at": "2025-11-07T19:11:24.266719+08:00",
+  "total_titles_processed": 1761,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 70,
+      "match_count": 72,
       "titles": [
         {
           "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时12分 ~ 18时14分]"
+          "appearance_count": 8,
+          "time_info": "[15时12分 ~ 19时11分]"
         },
         {
           "title": "特朗普：佩洛西退休对美国是大好事，她是个邪恶的女人",
@@ -76,11 +76,12 @@
             23,
             18,
             24,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时39分 ~ 18时14分]"
+          "appearance_count": 13,
+          "time_info": "[11时39分 ~ 19时11分]"
         },
         {
           "title": "特朗普重申不会出席G20峰会",
@@ -114,11 +115,12 @@
           "source": "凤凰网",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时12分 ~ 18时14分]"
+          "appearance_count": 8,
+          "time_info": "[15时12分 ~ 19时11分]"
         },
         {
           "title": "特朗普：佩洛西退休对美国是大好事",
@@ -336,6 +338,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时39分 ~ 12时16分]"
+        },
+        {
+          "title": "特朗普官宣降价 药企高管当场晕倒",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%98%E5%AE%A3%E9%99%8D%E4%BB%B7+%E8%8D%AF%E4%BC%81%E9%AB%98%E7%AE%A1%E5%BD%93%E5%9C%BA%E6%99%95%E5%80%92",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时13分 ~ 19时11分]"
         },
         {
           "title": "尼日利亚财政部长Wale Edun宣布该国欧元债发行取得成功，投资者认购倍数超过五倍。 意味着投资者看淡美国总统特朗普近期发出的军事威胁，更关注该国的经济改革和政治稳定性。",
@@ -576,15 +590,15 @@
           "time_info": "[04时25分 ~ 05时11分]"
         },
         {
-          "title": "特朗普官宣降价 药企高管当场晕倒",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%98%E5%AE%A3%E9%99%8D%E4%BB%B7+%E8%8D%AF%E4%BC%81%E9%AB%98%E7%AE%A1%E5%BD%93%E5%9C%BA%E6%99%95%E5%80%92",
-          "source": "百度热搜",
+          "title": "拉美领导人在COP30集体开喷，哥伦比亚总统：特朗普反人类",
+          "url": "https://news.ifeng.com/c/8o5WciamJwF",
+          "source": "凤凰网",
           "ranks": [
-            24
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时13分 ~ 18时14分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
         },
         {
           "title": "特朗普官宣降价后药企高管当场晕倒",
@@ -719,6 +733,17 @@
           "time_info": "15时12分"
         },
         {
+          "title": "85岁佩洛西将退休，回顾她与特朗普交锋历史：夸张鼓掌、手撕演讲稿...",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31914607",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
+        },
+        {
           "title": "美国财长贝森特：特朗普已明确表示，战争必须立即结束。只要普京继续进行毫无意义的杀戮，石油交易商贡渥集团将永远无法获得经营和获利的许可。",
           "url": "https://flash.jin10.com/detail/20251107045656671800",
           "source": "金十数据",
@@ -832,7 +857,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "美股收盘：OpenAI高管言论引发风暴 纳指跌近2%",
@@ -952,6 +977,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "花旗集团：将小马智行(PONY.O)美股目标价从29.0美元下调至24.5美元。",
+          "url": "https://flash.jin10.com/detail/20251107180537622800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
         },
         {
           "title": "英特尔(INTC.O)美股盘后涨2.5%。",
@@ -1110,8 +1146,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时54分 ~ 18时14分]"
+          "appearance_count": 16,
+          "time_info": "[08时54分 ~ 19时11分]"
         },
         {
           "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",

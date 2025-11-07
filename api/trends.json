@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-07T20:24:39.890640+08:00",
-  "total_titles_processed": 1853,
+  "generated_at": "2025-11-07T21:23:40.811773+08:00",
+  "total_titles_processed": 1941,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,18 @@
           "time_info": "[00时15分 ~ 07时11分]"
         },
         {
+          "title": "美科学家：有人调侃，特朗普干一辈子，对中国科研是大好事",
+          "url": "https://news.ifeng.com/c/8o5IuV0EIi3",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时12分 ~ 21时23分]"
+        },
+        {
           "title": "特朗普为什么总是针对南非？",
           "url": "https://news.ifeng.com/c/8o3ygttojoa",
           "source": "凤凰网",
@@ -28,18 +40,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时15分 ~ 07时11分]"
-        },
-        {
-          "title": "美科学家：有人调侃，特朗普干一辈子，对中国科研是大好事",
-          "url": "https://news.ifeng.com/c/8o5IuV0EIi3",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时12分 ~ 20时24分]"
         },
         {
           "title": "特朗普：佩洛西退休对美国是大好事，她是个邪恶的女人",
@@ -328,6 +328,30 @@
           "time_info": "[14时18分 ~ 16时18分]"
         },
         {
+          "title": "拉美领导人在COP30集体开喷，哥伦比亚总统：特朗普反人类",
+          "url": "https://news.ifeng.com/c/8o5WciamJwF",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时11分 ~ 21时23分]"
+        },
+        {
+          "title": "85岁佩洛西将退休，回顾她与特朗普交锋历史：夸张鼓掌、手撕演讲稿...",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31914607",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时11分 ~ 21时23分]"
+        },
+        {
           "title": "特朗普痛骂佩洛西",
           "url": "https://www.douyin.com/hot/2297374",
           "source": "抖音",
@@ -350,17 +374,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时13分 ~ 19时11分]"
-        },
-        {
-          "title": "拉美领导人在COP30集体开喷，哥伦比亚总统：特朗普反人类",
-          "url": "https://news.ifeng.com/c/8o5WciamJwF",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时11分 ~ 20时24分]"
         },
         {
           "title": "尼日利亚财政部长Wale Edun宣布该国欧元债发行取得成功，投资者认购倍数超过五倍。 意味着投资者看淡美国总统特朗普近期发出的军事威胁，更关注该国的经济改革和政治稳定性。",
@@ -575,18 +588,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时25分 ~ 05时11分]"
-        },
-        {
-          "title": "85岁佩洛西将退休，回顾她与特朗普交锋历史：夸张鼓掌、手撕演讲稿...",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31914607",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时11分 ~ 20时24分]"
         },
         {
           "title": "美国总统特朗普：印度总理莫迪很棒，他们已经基本停止购买俄罗斯石油。",
@@ -1147,8 +1148,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[08时54分 ~ 20时24分]"
+          "appearance_count": 18,
+          "time_info": "[08时54分 ~ 21时23分]"
         },
         {
           "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",

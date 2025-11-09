@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-09T11:41:32.385364+08:00",
-  "total_titles_processed": 636,
+  "generated_at": "2025-11-09T12:16:22.095551+08:00",
+  "total_titles_processed": 664,
   "failed_sources": [],
   "trends": [
     {
@@ -32,8 +32,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时12分 ~ 11时41分]"
+          "appearance_count": 17,
+          "time_info": "[00时12分 ~ 12时16分]"
         },
         {
           "title": "美国总统特朗普：参议院应将医疗保险资金直接发放给民众。",
@@ -55,8 +55,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时12分 ~ 11时41分]"
+          "appearance_count": 17,
+          "time_info": "[00时12分 ~ 12时16分]"
         },
         {
           "title": "南非政府发表声明驳斥特朗普言论",
@@ -66,8 +66,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时12分 ~ 11时41分]"
+          "appearance_count": 17,
+          "time_info": "[00时12分 ~ 12时16分]"
         },
         {
           "title": "美国总统特朗普：参议院共和党应该将政府资金提供给众多医疗保险公司。 参议院应当直接将医疗保险资金直接派送给民众。",
@@ -140,9 +140,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 12时16分]"
         },
         {
           "title": "拜登强烈批评特朗普称其家族赚了18亿",
@@ -151,7 +151,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
         },
@@ -201,8 +201,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时12分 ~ 11时41分]"
+          "appearance_count": 17,
+          "time_info": "[00时12分 ~ 12时16分]"
         }
       ]
     },
@@ -218,8 +218,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时12分 ~ 11时41分]"
+          "appearance_count": 17,
+          "time_info": "[00时12分 ~ 12时16分]"
         }
       ]
     }

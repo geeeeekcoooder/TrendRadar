@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-10T19:13:04.071619+08:00",
-  "total_titles_processed": 1470,
+  "generated_at": "2025-11-10T20:23:21.683597+08:00",
+  "total_titles_processed": 1562,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 46,
       "titles": [
         {
           "title": "特朗普宣布一个大消息",
@@ -50,17 +50,6 @@
           "time_info": "[00时15分 ~ 10时44分]"
         },
         {
-          "title": "“特朗普外交政策，万变不离中国”",
-          "url": "https://news.ifeng.com/c/8o8e3UWF1zn",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时15分 ~ 08时56分]"
-        },
-        {
           "title": "上次访美不愉快？泽连斯基：全世界都怕特朗普，但我不怕他",
           "url": "https://m.thepaper.cn/newsDetail_forward_31930491",
           "source": "澎湃新闻",
@@ -72,8 +61,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时20分 ~ 19时13分]"
+          "appearance_count": 11,
+          "time_info": "[14时20分 ~ 20时23分]"
+        },
+        {
+          "title": "“特朗普外交政策，万变不离中国”",
+          "url": "https://news.ifeng.com/c/8o8e3UWF1zn",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时15分 ~ 08时56分]"
         },
         {
           "title": "拜登狠批特朗普",
@@ -379,6 +379,19 @@
           "time_info": "[06时13分 ~ 07时10分]"
         },
         {
+          "title": "获400亿美元援助后米莱大跳特朗普舞",
+          "url": "https://www.toutiao.com/trending/7570573863009124361/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时12分 ~ 20时23分]"
+        },
+        {
           "title": "专家：特朗普发钱一箭三雕",
           "url": "https://www.toutiao.com/trending/7570931158150565427/",
           "source": "今日头条",
@@ -452,18 +465,6 @@
           "time_info": "[05时10分 ~ 06时13分]"
         },
         {
-          "title": "获400亿美元援助后米莱大跳特朗普舞",
-          "url": "https://www.toutiao.com/trending/7570573863009124361/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时12分 ~ 19时13分]"
-        },
-        {
           "title": "评论员：美财政已崩特朗普还在画饼",
           "url": "https://www.toutiao.com/trending/7570986378905783817/",
           "source": "今日头条",
@@ -504,7 +505,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         },
@@ -551,12 +552,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
+        },
+        {
+          "title": "匈牙利总理欧尔班：只要特朗普还是美国总统，而我还是匈牙利总理，美国就不会对匈牙利实施制裁。",
+          "url": "https://flash.jin10.com/detail/20251110191854398800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         }
       ]
     },
     {
       "keyword_group": "A股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "A股并购重组活跃 本周披露并购重组进展的A股名单一览",
@@ -575,11 +587,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时18分 ~ 19时13分]"
+          "appearance_count": 8,
+          "time_info": "[16时18分 ~ 20时23分]"
         },
         {
           "title": "A股白酒股持续走强，舍得酒业触及涨停，酒鬼酒、泸州老窖涨超7%，山西汾酒、古井贡酒、迎驾贡酒涨超5%。",
@@ -655,6 +668,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时21分 ~ 15时13分]"
+        },
+        {
+          "title": "A股涨跌互现，创业板跌0.9%，大消费集体爆发，港股全线收涨，恒指涨超1%",
+          "url": "https://wallstreetcn.com/articles/3759020",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时22分 ~ 20时23分]"
         },
         {
           "title": "A股主要指数午后拉升，沪指涨0.28%，深成指转涨，创业板指跌幅收窄至1.2%，早盘一度跌超2%。",
@@ -762,7 +786,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "懂王胜选一周年，“川普2.0”与“1.0”市场走势高度相似，坏消息是第二年美股走势通常最差",
@@ -788,11 +812,12 @@
             10,
             4,
             5,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时44分 ~ 19时13分]"
+          "appearance_count": 17,
+          "time_info": "[10时44分 ~ 20时23分]"
         },
         {
           "title": "美政府关门有望结束，美股期货、加密货币、黄金白银全线走高",
@@ -845,6 +870,17 @@
           "time_info": "[17时15分 ~ 18时15分]"
         },
         {
+          "title": "美政府停摆危机化解在即，美股史诗级逼空行情一触即发？",
+          "url": "https://wallstreetcn.com/articles/3759034",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时22分 ~ 20时23分]"
+        },
+        {
           "title": "欧美股指期货走高 纳指期货涨1%",
           "url": "https://flash.jin10.com/detail/20251110095530831800",
           "source": "金十数据",
@@ -884,8 +920,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时14分 ~ 19时13分]"
+          "appearance_count": 6,
+          "time_info": "[18时14分 ~ 20时23分]"
         },
         {
           "title": "金十图示：2025年11月10日（周一）上海金早盘价为926.44元/克，较国际金价(926.8元/克)，低0.36元/克",
@@ -934,7 +970,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         },

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-11T20:23:12.081043+08:00",
-  "total_titles_processed": 1824,
+  "generated_at": "2025-11-11T21:28:13.782214+08:00",
+  "total_titles_processed": 1914,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 72,
+      "match_count": 74,
       "titles": [
         {
           "title": "上次访美不愉快？泽连斯基：全世界都怕特朗普，但我不怕他",
@@ -29,8 +29,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时42分 ~ 20时23分]"
+          "appearance_count": 16,
+          "time_info": "[11时42分 ~ 21时28分]"
+        },
+        {
+          "title": "特朗普：美国不再资助乌克兰，将通过北约向乌方收钱",
+          "url": "https://news.ifeng.com/c/8oC9ysNtJAU",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时15分 ~ 21时28分]"
         },
         {
           "title": "与叙利亚政权领导人在白宫会晤，特朗普晒合影表态(图)",
@@ -75,15 +86,16 @@
           "time_info": "[00时15分 ~ 14时19分]"
         },
         {
-          "title": "特朗普：美国不再资助乌克兰，将通过北约向乌方收钱",
-          "url": "https://news.ifeng.com/c/8oC9ysNtJAU",
+          "title": "激怒特朗普，BBC身陷数十年来“最严重危机”",
+          "url": "https://news.ifeng.com/c/8oCBMrJmQx8",
           "source": "凤凰网",
           "ranks": [
-            4
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时15分 ~ 20时23分]"
+          "appearance_count": 7,
+          "time_info": "[17时13分 ~ 21时28分]"
         },
         {
           "title": "特朗普的“贸易战”收到了什么结果",
@@ -97,6 +109,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时15分 ~ 04时15分]"
+        },
+        {
+          "title": "换了件“马甲”，他见上特朗普了(图)",
+          "url": "https://news.ifeng.com/c/8oCDS4GYWAj",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时15分 ~ 21时28分]"
         },
         {
           "title": "特朗普：所有空中交通管制员立即复工",
@@ -254,40 +277,6 @@
           "time_info": "08时54分"
         },
         {
-          "title": "空运持续混乱 特朗普喊话空管员：回来上班否则扣钱",
-          "url": "https://wallstreetcn.com/livenews/3002795",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "激怒特朗普，BBC身陷数十年来“最严重危机”",
-          "url": "https://news.ifeng.com/c/8oCBMrJmQx8",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时13分 ~ 20时23分]"
-        },
-        {
-          "title": "换了件“马甲”，他见上特朗普了(图)",
-          "url": "https://news.ifeng.com/c/8oCDS4GYWAj",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时15分 ~ 20时23分]"
-        },
-        {
           "title": "美国联邦住房金融局局长Pulte：目前正在评估数据分析公司FAIR ISAAC就实施其新信用评分系统达成的潜在协议。（外媒更正，说话人非特朗普）",
           "url": "https://flash.jin10.com/detail/20251111020735747800",
           "source": "金十数据",
@@ -325,6 +314,41 @@
           "time_info": "[14时19分 ~ 15时13分]"
         },
         {
+          "title": "牛弹琴：特朗普又给美国最高法院施压",
+          "url": "https://www.toutiao.com/trending/7570354589443538971/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时22分 ~ 21时28分]"
+        },
+        {
+          "title": "空运持续混乱 特朗普喊话空管员：回来上班否则扣钱",
+          "url": "https://wallstreetcn.com/livenews/3002795",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时23分 ~ 21时28分]"
+        },
+        {
+          "title": "特朗普威胁起诉BBC 索赔10亿美元",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E8%B5%B7%E8%AF%89BBC+%E7%B4%A2%E8%B5%9410%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时22分 ~ 21时28分]"
+        },
+        {
           "title": "牛弹琴：特朗普宣布一个大消息",
           "url": "https://www.toutiao.com/trending/7570877314167213595/",
           "source": "今日头条",
@@ -335,17 +359,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时12分 ~ 07时12分]"
-        },
-        {
-          "title": "牛弹琴：特朗普又给美国最高法院施压",
-          "url": "https://www.toutiao.com/trending/7570354589443538971/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时22分 ~ 20时23分]"
         },
         {
           "title": "白宫经济顾问哈塞特被问及50年期抵押贷款方案，称：我支持美国总统特朗普（加密货币担保的按揭贷款）的想法。 白宫将举行一系列会议。",
@@ -480,6 +493,17 @@
           "time_info": "[06时12分 ~ 07时12分]"
         },
         {
+          "title": "释新闻｜高管连续辞职、被特朗普索赔：BBC为何陷入数十年来最大危机",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31940821",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时27分 ~ 21时28分]"
+        },
+        {
           "title": "美国总统特朗普：正在与瑞士商讨协议，尚未确定具体数字（关税税率）。",
           "url": "https://flash.jin10.com/detail/20251111050220430800",
           "source": "金十数据",
@@ -502,17 +526,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时12分 ~ 07时12分]"
-        },
-        {
-          "title": "特朗普威胁起诉BBC 索赔10亿美元",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E8%B5%B7%E8%AF%89BBC+%E7%B4%A2%E8%B5%9410%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时22分 ~ 20时23分]"
         },
         {
           "title": "特朗普回应高市早苗涉台错误言论",
@@ -587,7 +600,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         },
@@ -777,6 +790,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "美国财长贝森特：特朗普政府继承了高物价水平。",
+          "url": "https://flash.jin10.com/detail/20251111204349700800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "美国总统特朗普：我们将向中低收入人群发放2000美元的补贴，这要归功于关税。",
@@ -1051,7 +1075,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         },
@@ -1062,7 +1086,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         },
@@ -1179,11 +1203,12 @@
             8,
             5,
             4,
-            3
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时13分 ~ 20时23分]"
+          "appearance_count": 7,
+          "time_info": "[17时13分 ~ 21时28分]"
         },
         {
           "title": "金价涨超2% 创本月最大涨幅",
@@ -1293,7 +1318,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         },

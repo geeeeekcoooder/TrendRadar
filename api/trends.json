@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-11T18:15:19.737193+08:00",
-  "total_titles_processed": 1635,
+  "generated_at": "2025-11-11T19:11:40.536303+08:00",
+  "total_titles_processed": 1709,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 66,
+      "match_count": 68,
       "titles": [
         {
           "title": "上次访美不愉快？泽连斯基：全世界都怕特朗普，但我不怕他",
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时42分 ~ 18时15分]"
+          "appearance_count": 12,
+          "time_info": "[11时42分 ~ 19时11分]"
         },
         {
           "title": "与叙利亚政权领导人在白宫会晤，特朗普晒合影表态(图)",
@@ -88,6 +88,17 @@
           "time_info": "[00时15分 ~ 04时15分]"
         },
         {
+          "title": "特朗普：美国不再资助乌克兰，将通过北约向乌方收钱",
+          "url": "https://news.ifeng.com/c/8oC9ysNtJAU",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 19时11分]"
+        },
+        {
           "title": "特朗普：所有空中交通管制员立即复工",
           "url": "https://www.toutiao.com/trending/7570681807893512255/",
           "source": "今日头条",
@@ -130,6 +141,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        },
+        {
+          "title": "消息人士：瑞士方面降低关税的协议要等到特朗普批准后才能确定。",
+          "url": "https://flash.jin10.com/detail/20251111183736123800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
         },
         {
           "title": "美联储理事米兰：特朗普政府关门不会影响到我对美国经济的看法。",
@@ -186,17 +208,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[14时18分 ~ 17时13分]"
-        },
-        {
-          "title": "特朗普：美国不再资助乌克兰，将通过北约向乌方收钱",
-          "url": "https://news.ifeng.com/c/8oC9ysNtJAU",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时15分"
         },
         {
           "title": "美国总统特朗普：期待再次与叙利亚总统会面并交谈。一个稳定繁荣的叙利亚对该地区所有国家都至关重要。",
@@ -280,6 +291,18 @@
           "time_info": "[14时19分 ~ 15时13分]"
         },
         {
+          "title": "激怒特朗普，BBC身陷数十年来“最严重危机”",
+          "url": "https://news.ifeng.com/c/8oCBMrJmQx8",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时13分 ~ 19时11分]"
+        },
+        {
           "title": "牛弹琴：特朗普宣布一个大消息",
           "url": "https://www.toutiao.com/trending/7570877314167213595/",
           "source": "今日头条",
@@ -292,16 +315,15 @@
           "time_info": "[06时12分 ~ 07时12分]"
         },
         {
-          "title": "激怒特朗普，BBC身陷数十年来“最严重危机”",
-          "url": "https://news.ifeng.com/c/8oCBMrJmQx8",
+          "title": "换了件“马甲”，他见上特朗普了(图)",
+          "url": "https://news.ifeng.com/c/8oCDS4GYWAj",
           "source": "凤凰网",
           "ranks": [
-            10,
-            7
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时13分 ~ 18时15分]"
+          "time_info": "[18时15分 ~ 19时11分]"
         },
         {
           "title": "白宫经济顾问哈塞特被问及50年期抵押贷款方案，称：我支持美国总统特朗普（加密货币担保的按揭贷款）的想法。 白宫将举行一系列会议。",
@@ -460,15 +482,15 @@
           "time_info": "[06时12分 ~ 07时12分]"
         },
         {
-          "title": "换了件“马甲”，他见上特朗普了(图)",
-          "url": "https://news.ifeng.com/c/8oCDS4GYWAj",
-          "source": "凤凰网",
+          "title": "特朗普回应高市早苗涉台错误言论",
+          "url": "https://www.toutiao.com/trending/7571253212158689290/",
+          "source": "今日头条",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时15分"
+          "time_info": "19时11分"
         },
         {
           "title": "特朗普敦促空中交通管制员立即复工",
@@ -587,7 +609,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
         },
@@ -631,7 +653,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
         },
@@ -985,7 +1007,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
         },
@@ -996,7 +1018,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
         },
@@ -1097,6 +1119,19 @@
           "time_info": "[02时17分 ~ 06时12分]"
         },
         {
+          "title": "最高至1500元！国际金价重回4100美元后，多家银行今日再上调积存金起购门槛",
+          "url": "https://www.cls.cn/detail/2197016",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时13分 ~ 19时11分]"
+        },
+        {
           "title": "金价大涨但黄金首饰难卖了",
           "url": "https://www.toutiao.com/trending/7571079598381731371/",
           "source": "今日头条",
@@ -1108,18 +1143,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时15分 ~ 06时12分]"
-        },
-        {
-          "title": "最高至1500元！国际金价重回4100美元后，多家银行今日再上调积存金起购门槛",
-          "url": "https://www.cls.cn/detail/2197016",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时13分 ~ 18时15分]"
         },
         {
           "title": "非洲股市收盘播报｜南非股指收涨约2%，兰特涨超0.8%，追随金价一度涨穿4100美元的表现",
@@ -1266,11 +1289,12 @@
           "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%8D%83%E4%BA%BF%E5%B8%82%E5%80%BC%E6%B8%B8%E6%88%8F%E5%A4%A7%E5%8E%82%E2%80%9C%E6%91%98%E5%B8%BD%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            14
+            14,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 19时11分]"
         }
       ]
     }

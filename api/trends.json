@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T21:28:56.376331+08:00",
-  "total_titles_processed": 1934,
+  "generated_at": "2025-11-12T22:13:45.171348+08:00",
+  "total_titles_processed": 2011,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 57,
+      "match_count": 62,
       "titles": [
         {
           "title": "特朗普宣布美国不再资助乌克兰",
@@ -124,6 +124,22 @@
           "time_info": "[00时15分 ~ 06时12分]"
         },
         {
+          "title": "特朗普为何拒为高市涉台谬论撑腰",
+          "url": "https://www.toutiao.com/trending/7571742416873459251/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            7,
+            8,
+            10,
+            27,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时14分 ~ 22时13分]"
+        },
+        {
           "title": "特朗普回应高市早苗涉台错误言论",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%B6%89%E5%8F%B0%E9%94%99%E8%AF%AF%E8%A8%80%E8%AE%BA%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26band_rank%3D27%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%259B%259E%25E5%25BA%2594%25E9%25AB%2598%25E5%25B8%2582%25E6%2597%25A9%25E8%258B%2597%25E6%25B6%2589%25E5%258F%25B0%25E9%2594%2599%25E8%25AF%25AF%25E8%25A8%2580%25E8%25AE%25BA%2523%26dgr%3D0%26stream_entry_id%3D31%26cate%3D5001%26pos%3D26%26realpos%3D27%26flag%3D0%26filter_type%3Drealtimehot%26lcate%3D5001%26display_time%3D1762888037%26pre_seqid%3D1762888037354025322115&launchid=10000360-page_H5",
           "source": "微博",
@@ -151,21 +167,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时15分 ~ 08时54分]"
-        },
-        {
-          "title": "特朗普为何拒为高市涉台谬论撑腰",
-          "url": "https://www.toutiao.com/trending/7571742416873459251/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            7,
-            8,
-            10,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时14分 ~ 21时28分]"
         },
         {
           "title": "美最高法院：特朗普政府可继续暂扣食品援助金",
@@ -440,6 +441,17 @@
           "time_info": "08时54分"
         },
         {
+          "title": "特朗普致信以色列总统 呼吁赦免内塔尼亚胡",
+          "url": "https://wallstreetcn.com/livenews/3003469",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
+        },
+        {
           "title": "特朗普：将降低部分咖啡关税。",
           "url": "https://wallstreetcn.com/livenews/3003047",
           "source": "华尔街见闻-快讯",
@@ -506,6 +518,28 @@
           "time_info": "02时17分"
         },
         {
+          "title": "据纽约时报：爱泼斯坦曾在电子邮件中称，美国总统特朗普知晓他的行为。",
+          "url": "https://flash.jin10.com/detail/20251112213935558800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
+        },
+        {
+          "title": "美国财长贝森特：关税分红有很多选择。 关税分红正在讨论中，尚未做出决定。 特朗普谈到向年收入低于10万美元的家庭发放2000美元的退税。 希望引进熟练技术工进行3-7年的培训。 海外工作者可以培训美国人，然后回国。",
+          "url": "https://wallstreetcn.com/livenews/3003465",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
+        },
+        {
           "title": "据英国金融时报：英国国家安全顾问乔纳森·鲍威尔试图打开与俄罗斯总统普京的秘密沟通渠道。英国及其欧洲盟友担心，特朗普政府可能会在乌克兰问题上置它们的利益于不顾。",
           "url": "https://flash.jin10.com/detail/20251112132543128800",
           "source": "金十数据",
@@ -526,6 +560,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "美国财长：特朗普很快会采取降低咖啡和香蕉价格的重大措施",
+          "url": "https://wallstreetcn.com/livenews/3003461",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
         },
         {
           "title": "据Politico：特朗普政府宣布消费者金融保护局拨款非法。",
@@ -671,6 +716,17 @@
           "time_info": "08时54分"
         },
         {
+          "title": "美国财长贝森特：美国总统特朗普谈的是为收入低于10万美元的家庭提供2000美元的退税。",
+          "url": "https://flash.jin10.com/detail/20251112213012842800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
+        },
+        {
           "title": "评论员：明年中期选举特朗普或遇挫",
           "url": "https://www.toutiao.com/trending/7570679186156077097/",
           "source": "今日头条",
@@ -685,7 +741,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美股收盘：三大股指涨跌不一 市场押注美国政府停摆即将结束",
@@ -708,9 +764,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时28分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3003475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
         },
         {
           "title": "AMD美股盘前涨近6%，CEO苏姿丰预计到2030年AI数据中心市场规模料突破1万亿美元，AMD营收年增或超35%。",
@@ -846,7 +913,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时28分"
         }
@@ -976,8 +1043,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[08时54分 ~ 21时28分]"
+          "appearance_count": 18,
+          "time_info": "[08时54分 ~ 22时13分]"
+        },
+        {
+          "title": "摩根大通美债客户净多头占比升至4月7日以来最高水平",
+          "url": "https://wallstreetcn.com/livenews/3003444",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 22时13分]"
         },
         {
           "title": "分析师：预测十年期美债收益率将在3.6%至5%区间波动",
@@ -989,17 +1068,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
-        },
-        {
-          "title": "摩根大通美债客户净多头占比升至4月7日以来最高水平",
-          "url": "https://wallstreetcn.com/livenews/3003444",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
         },
         {
           "title": "机构：10年期美债收益率近期或升至4.50%",

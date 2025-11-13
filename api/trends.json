@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-13T19:12:55.580434+08:00",
-  "total_titles_processed": 1753,
+  "generated_at": "2025-11-13T20:24:00.803652+08:00",
+  "total_titles_processed": 1841,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 59,
       "titles": [
         {
           "title": "特朗普签署法案，美国史上最长政府“停摆”结束",
@@ -47,8 +47,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[01时12分 ~ 19时12分]"
+          "appearance_count": 25,
+          "time_info": "[01时12分 ~ 20时24分]"
         },
         {
           "title": "特朗普致信以总统求赦免内塔尼亚胡",
@@ -91,6 +91,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[15时12分 ~ 18时14分]"
+        },
+        {
+          "title": "特朗普带记者逛白宫“总统星光大道”走廊：拜登最差，奥巴马第五差",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31951055",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时14分 ~ 20时24分]"
         },
         {
           "title": "特朗普罕见为中国留学生辩护",
@@ -159,6 +171,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[15时12分 ~ 18时14分]"
+        },
+        {
+          "title": "特朗普：美政府停摆损失1.5万亿美元",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E6%94%BF%E5%BA%9C%E5%81%9C%E6%91%86%E6%8D%9F%E5%A4%B11.5%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时14分 ~ 20时24分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：特朗普政府正在认真考虑美国总统特朗普主张的50年期抵押贷款。",
@@ -247,28 +270,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时43分 ~ 13时13分]"
-        },
-        {
-          "title": "特朗普：美政府停摆损失1.5万亿美元",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E6%94%BF%E5%BA%9C%E5%81%9C%E6%91%86%E6%8D%9F%E5%A4%B11.5%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时14分 ~ 19时12分]"
-        },
-        {
-          "title": "特朗普带记者逛白宫“总统星光大道”走廊：拜登最差，奥巴马第五差",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31951055",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时14分 ~ 19时12分]"
         },
         {
           "title": "特朗普：呼吁直接向民众支付资金以购买医疗保健服务。",
@@ -449,6 +450,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时18分 ~ 03时11分]"
+        },
+        {
+          "title": "特朗普问叙政权领导人有几个妻子",
+          "url": "https://www.toutiao.com/trending/7570946745501614090/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时23分 ~ 20时24分]"
         },
         {
           "title": "特朗普致信以总统求赦免内塔尼亚胡",
@@ -645,7 +657,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -830,7 +842,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },

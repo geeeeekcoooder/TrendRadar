@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-14T14:18:45.289176+08:00",
-  "total_titles_processed": 1290,
+  "generated_at": "2025-11-14T15:12:26.061922+08:00",
+  "total_titles_processed": 1352,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时53分 ~ 14时18分]"
+          "appearance_count": 9,
+          "time_info": "[08时53分 ~ 15时12分]"
+        },
+        {
+          "title": "美军1.5万兵力压境委内瑞拉，地面打击方案提交特朗普待批",
+          "url": "https://news.ifeng.com/c/8oGsK5I0blR",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时41分 ~ 15时12分]"
         },
         {
           "title": "特朗普政府撤回最高法院紧急食品券案",
@@ -30,17 +41,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
-        },
-        {
-          "title": "美军1.5万兵力压境委内瑞拉，地面打击方案提交特朗普待批",
-          "url": "https://news.ifeng.com/c/8oGsK5I0blR",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时41分 ~ 14时18分]"
         },
         {
           "title": "美国小企业管理局（SBA）：特朗普政府关门妨碍SBA向小企业投放50亿美元（资金支持措施）。",
@@ -286,7 +286,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
         },

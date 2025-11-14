@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-11-14T17:13:36.580757+08:00",
-  "total_titles_processed": 1567,
+  "generated_at": "2025-11-14T18:14:40.712901+08:00",
+  "total_titles_processed": 1652,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 37,
       "titles": [
+        {
+          "title": "美军1.5万兵力压境委内瑞拉，地面打击方案提交特朗普待批",
+          "url": "https://news.ifeng.com/c/8oGsK5I0blR",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时41分 ~ 18时14分]"
+        },
         {
           "title": "BBC拒绝赔偿特朗普 贝莱德三季度增持英伟达 | 环球市场",
           "url": "https://www.cls.cn/detail/2200266",
@@ -21,15 +32,16 @@
           "time_info": "[08时53分 ~ 15时12分]"
         },
         {
-          "title": "美军1.5万兵力压境委内瑞拉，地面打击方案提交特朗普待批",
-          "url": "https://news.ifeng.com/c/8oGsK5I0blR",
-          "source": "凤凰网",
+          "title": "美国务院批准特朗普二任首笔对台军售，外交部回应",
+          "url": "https://www.cls.cn/detail/2200844",
+          "source": "财联社热门",
           "ranks": [
-            7
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时41分 ~ 17时13分]"
+          "appearance_count": 2,
+          "time_info": "[17时13分 ~ 18时14分]"
         },
         {
           "title": "特朗普政府撤回最高法院紧急食品券案",
@@ -44,14 +56,15 @@
         },
         {
           "title": "美国务院批准特朗普二任首笔对台军售，外交部回应",
-          "url": "https://www.cls.cn/detail/2200844",
-          "source": "财联社热门",
+          "url": "https://news.ifeng.com/c/8oHCvkQXwvo",
+          "source": "凤凰网",
           "ranks": [
-            5
+            6,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时13分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时16分 ~ 18时14分]"
         },
         {
           "title": "美国小企业管理局（SBA）：特朗普政府关门妨碍SBA向小企业投放50亿美元（资金支持措施）。",
@@ -138,17 +151,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时53分 ~ 10时28分]"
-        },
-        {
-          "title": "美国务院批准特朗普二任首笔对台军售，外交部回应",
-          "url": "https://news.ifeng.com/c/8oHCvkQXwvo",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时16分 ~ 17时13分]"
         },
         {
           "title": "市场消息：特朗普签署行政令以扩大寄养服务。",
@@ -735,7 +737,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时13分"
         }

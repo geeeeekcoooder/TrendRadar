@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-14T18:14:40.712901+08:00",
-  "total_titles_processed": 1652,
+  "generated_at": "2025-11-14T19:11:01.017060+08:00",
+  "total_titles_processed": 1720,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
         {
           "title": "美军1.5万兵力压境委内瑞拉，地面打击方案提交特朗普待批",
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时41分 ~ 18时14分]"
+          "appearance_count": 11,
+          "time_info": "[11时41分 ~ 19时11分]"
         },
         {
           "title": "BBC拒绝赔偿特朗普 贝莱德三季度增持英伟达 | 环球市场",
@@ -40,8 +40,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时13分 ~ 18时14分]"
+          "appearance_count": 4,
+          "time_info": "[17时13分 ~ 19时11分]"
+        },
+        {
+          "title": "美国务院批准特朗普二任首笔对台军售，外交部回应",
+          "url": "https://news.ifeng.com/c/8oHCvkQXwvo",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时16分 ~ 19时11分]"
         },
         {
           "title": "特朗普政府撤回最高法院紧急食品券案",
@@ -53,18 +65,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
-        },
-        {
-          "title": "美国务院批准特朗普二任首笔对台军售，外交部回应",
-          "url": "https://news.ifeng.com/c/8oHCvkQXwvo",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时16分 ~ 18时14分]"
         },
         {
           "title": "美国小企业管理局（SBA）：特朗普政府关门妨碍SBA向小企业投放50亿美元（资金支持措施）。",
@@ -304,6 +304,17 @@
           "time_info": "06时12分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-14）",
+          "url": "https://flash.jin10.com/detail/20251114180335424800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
+        },
+        {
           "title": "美国务院批准特朗普二任首笔对台军售，外交部回应",
           "url": "https://wallstreetcn.com/livenews/3004701",
           "source": "华尔街见闻-快讯",
@@ -439,7 +450,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "美股收盘：美联储降息预期骤降 科技股抛售加剧 纳指大跌2.3%",
@@ -468,6 +479,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时12分 ~ 07时12分]"
+        },
+        {
+          "title": "随着比特币价格跌至六个月以来新低，美股数字货币概念股盘前走低。Riot Platforms跌2.4%，Hut 8 Mining跌3.7%，Mara Holdings跌1.3%。",
+          "url": "https://flash.jin10.com/detail/20251114183904894800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
         },
         {
           "title": "应用材料美股盘后跌超4.5%。",
@@ -666,6 +688,92 @@
       ]
     },
     {
+      "keyword_group": "半导体",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "标普500指数跌超1%，道指跌300点跌幅0.6%，纳指跌1.69%。 半导体指数跌2.89%，罗素2000指数跌1.17%。 特斯拉跌5.79%。",
+          "url": "https://wallstreetcn.com/livenews/3004276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 01时13分]"
+        },
+        {
+          "title": "纳斯达克100指数跌超2%，费城半导体指数跌幅扩大至约4%。",
+          "url": "https://wallstreetcn.com/livenews/3004331",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时10分 ~ 04时14分]"
+        },
+        {
+          "title": "恐慌指数VIX波动率日内涨幅达21.5%，报21.31。 标普500指数目前则跌1.79%。 道指跌830点跌幅1.73%，纳指跌587点跌幅2.5%，半导体指数维持4.5%的跌幅，银行指数跌2.3%，小盘股指跌2.8%。",
+          "url": "https://wallstreetcn.com/livenews/3004366",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时12分 ~ 06时12分]"
+        },
+        {
+          "title": "金十图示：2025年11月14日（周五）富时中国A50指数成分股午盘收盘行情一览：酿酒、半导体、汽车、煤炭等多个板块表现低迷，银行股逆势普涨",
+          "url": "https://flash.jin10.com/detail/20251114113324835800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时16分"
+        },
+        {
+          "title": "英伟达下跌5%，费城半导体指数跌超4.5%。",
+          "url": "https://wallstreetcn.com/livenews/3004337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时10分"
+        },
+        {
+          "title": "英伟达下跌5%，费城半导体指数跌超4.5%。 纳斯达克中国金龙指数跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3004337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
+        {
+          "title": "费城半导体指数下跌4.5%",
+          "url": "https://flash.jin10.com/detail/20251114025015028800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 4,
       "titles": [
@@ -758,6 +866,40 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时12分 ~ 06时12分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "电力",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "德国总理默茨：预计欧盟委员会将批准工业电力价格。",
+          "url": "https://flash.jin10.com/detail/20251114023735368800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "游戏行业",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "AI会如何改编游戏行业",
+          "url": "https://search.bilibili.com/all?keyword=AI%E4%BC%9A%E5%A6%82%E4%BD%95%E6%94%B9%E7%BC%96%E6%B8%B8%E6%88%8F%E8%A1%8C%E4%B8%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
         }
       ]
     }

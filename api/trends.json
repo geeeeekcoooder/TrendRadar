@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-17T01:10:14.105627+08:00",
-  "total_titles_processed": 347,
+  "generated_at": "2025-11-17T02:15:39.326756+08:00",
+  "total_titles_processed": 370,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 01时10分]"
+          "appearance_count": 4,
+          "time_info": "[00时12分 ~ 02时15分]"
         },
         {
           "title": "释疑｜爱泼斯坦案2万份新文件，揭了特朗普哪些短？",
@@ -27,8 +27,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 01时10分]"
+          "appearance_count": 4,
+          "time_info": "[00时12分 ~ 02时15分]"
         },
         {
           "title": "据AXIOS网站：以色列希望美国总统特朗普将向沙特出售F-35的条件与以色列实现关系正常化挂钩。",
@@ -39,8 +39,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 01时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 02时15分]"
         },
         {
           "title": "特朗普首席贸易谈判代表警告欧盟：欧盟对美国的关税仍然过高",
@@ -51,19 +51,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 01时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 02时15分]"
         },
         {
           "title": "博主：特朗普正走向众叛亲离",
           "url": "https://www.toutiao.com/trending/7573306165895892506/",
           "source": "今日头条",
           "ranks": [
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
+          "appearance_count": 2,
+          "time_info": "[00时12分 ~ 02时15分]"
         }
       ]
     },
@@ -80,8 +81,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 01时10分]"
+          "appearance_count": 4,
+          "time_info": "[00时12分 ~ 02时15分]"
         }
       ]
     },
@@ -95,11 +96,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            26
+            26,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 01时10分]"
+          "appearance_count": 4,
+          "time_info": "[00时12分 ~ 02时15分]"
         }
       ]
     },

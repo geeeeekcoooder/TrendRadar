@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-17T06:11:13.133352+08:00",
-  "total_titles_processed": 436,
+  "generated_at": "2025-11-17T07:11:25.548485+08:00",
+  "total_titles_processed": 462,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "10亿至50亿！特朗普开口了",
@@ -15,8 +15,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 06时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 07时11分]"
         },
         {
           "title": "释疑｜爱泼斯坦案2万份新文件，揭了特朗普哪些短？",
@@ -24,11 +24,12 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 06时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 07时11分]"
         },
         {
           "title": "据AXIOS网站：以色列希望美国总统特朗普将向沙特出售F-35的条件与以色列实现关系正常化挂钩。",
@@ -60,6 +61,17 @@
           "time_info": "[00时12分 ~ 05时10分]"
         },
         {
+          "title": "特朗普与得力干将反目成仇",
+          "url": "https://flash.jin10.com/detail/20251117062945107800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时11分"
+        },
+        {
           "title": "博主：特朗普正走向众叛亲离",
           "url": "https://www.toutiao.com/trending/7573306165895892506/",
           "source": "今日头条",
@@ -69,8 +81,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时12分 ~ 05时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 07时11分]"
         }
       ]
     },
@@ -88,8 +100,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 06时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 07时11分]"
         }
       ]
     },
@@ -107,11 +119,12 @@
             22,
             24,
             29,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 06时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 07时11分]"
         }
       ]
     },

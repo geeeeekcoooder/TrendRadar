@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T06:12:11.809222+08:00",
-  "total_titles_processed": 621,
+  "generated_at": "2025-11-20T07:11:56.125113+08:00",
+  "total_titles_processed": 681,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
         {
           "title": "特朗普称“已经知道我的美联储主席人选”，贝森特：可能在圣诞节前宣布",
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时15分 ~ 06时12分]"
+          "appearance_count": 12,
+          "time_info": "[00时15分 ~ 07时11分]"
         },
         {
           "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
@@ -27,8 +27,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时15分 ~ 06时12分]"
+          "appearance_count": 12,
+          "time_info": "[00时15分 ~ 07时11分]"
         },
         {
           "title": "C罗马斯克现身白宫 出席特朗普晚宴",
@@ -38,11 +38,25 @@
             26,
             24,
             16,
-            13
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时17分 ~ 07时11分]"
+        },
+        {
+          "title": "马斯克出席特朗普与沙特王储晚宴",
+          "url": "https://www.toutiao.com/trending/7573762239518228521/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            29,
+            26
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[02时17分 ~ 06时12分]"
+          "time_info": "[00时15分 ~ 07时11分]"
         },
         {
           "title": "知情人士：特朗普政府考虑暂缓征收半导体关税",
@@ -56,18 +70,6 @@
           "time_info": "03时10分"
         },
         {
-          "title": "马斯克出席特朗普与沙特王储晚宴",
-          "url": "https://www.toutiao.com/trending/7573762239518228521/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 04时12分]"
-        },
-        {
           "title": "克里姆林宫：如有需要，我们可立即安排俄罗斯总统普京与美国总统特朗普通话。",
           "url": "https://flash.jin10.com/detail/20251120023716214800",
           "source": "金十数据",
@@ -77,6 +79,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
+        },
+        {
+          "title": "市场消息：一项草案显示，美国总统特朗普正在考虑签署一项行政令，以优先于各州AI法规实施联邦规定。",
+          "url": "https://flash.jin10.com/detail/20251120063519485800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时11分"
         },
         {
           "title": "据官员们透露，美国总统特朗普的半导体关税计划可能会被推迟。（路透）",
@@ -461,18 +474,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "英伟达财报前夕，美股集体上涨，谷歌新高，日本股债汇三杀，现货黄金逼近4120美元",
           "url": "https://wallstreetcn.com/articles/3759700",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时15分 ~ 06时12分]"
+          "appearance_count": 12,
+          "time_info": "[00时15分 ~ 07时11分]"
         },
         {
           "title": "美股三大期指小幅走高 市场紧盯英伟达盘后业绩 | 今夜看点",
@@ -485,8 +499,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时15分 ~ 06时12分]"
+          "appearance_count": 12,
+          "time_info": "[00时15分 ~ 07时11分]"
         },
         {
           "title": "（美股）费城金银指数收涨1.34%，报296.82点。 纽约证交所ARCA金矿开采商指数收涨1.36%，报2151.78点，北京时间22:30美股开盘前持稳于2135点附近——一直维持微幅上涨状态，随扈跳空走高，22:37刷新日高至2193.46点，之后快速回吐这一波涨幅。",
@@ -495,18 +509,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "英伟达(NVDA.O)涨势带动美股芯片股盘后行情，AMD(AMD.O)、台积电(TSM.N)和美光科技(MU.O)均涨于3%一线。",
-          "url": "https://flash.jin10.com/detail/20251120054640235800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         },
@@ -528,7 +531,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         },
@@ -539,9 +542,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "美股收盘：三大指数集体收涨 英伟达财报再超预期",
+          "url": "https://www.cls.cn/detail/2205612",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时11分 ~ 07时11分]"
         },
         {
           "title": "美股三大指数再次转涨，道琼斯指数涨0.03%，标普500指数涨0.35%，纳斯达克综合指数涨0.47%。",
@@ -556,6 +571,18 @@
           "time_info": "[02时17分 ~ 03时10分]"
         },
         {
+          "title": "英伟达(NVDA.O)涨势带动美股芯片股盘后行情，AMD(AMD.O)、台积电(TSM.N)和美光科技(MU.O)均涨于3%一线。",
+          "url": "https://flash.jin10.com/detail/20251120054640235800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时12分 ~ 07时11分]"
+        },
+        {
           "title": "美股收盘：三大股指收涨 谷歌创新高",
           "url": "https://flash.jin10.com/detail/20251120050112244800",
           "source": "金十数据",
@@ -566,17 +593,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时10分 ~ 06时12分]"
-        },
-        {
-          "title": "美股收盘：三大指数集体收涨 英伟达财报再超预期",
-          "url": "https://www.cls.cn/detail/2205612",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时11分 ~ 06时12分]"
         },
         {
           "title": "摩根大通交易台：抄底美股正当其时 技术性洗盘可能已结束",
@@ -596,7 +612,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         },
@@ -607,7 +623,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         },
@@ -618,9 +634,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "英伟达美股盘后涨幅扩大至超过5.5%。",
+          "url": "https://wallstreetcn.com/livenews/3007446",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时11分"
         },
         {
           "title": "金十图示：2025年11月19日（周三）美股热门股票行情一览（美股收盘）",
@@ -629,7 +656,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         },
@@ -640,7 +667,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         },
@@ -659,7 +686,7 @@
     },
     {
       "keyword_group": "半导体",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "荷兰高官表示已暂停对安世半导体的干预，这一决策有哪些考量？会带来哪些影响？",
@@ -671,21 +698,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时15分 ~ 06时12分]"
-        },
-        {
-          "title": "商务部：中方对荷兰主动暂停安世半导体行政令表示欢迎",
-          "url": "https://www.cls.cn/detail/2205468",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时15分 ~ 06时12分]"
+          "appearance_count": 12,
+          "time_info": "[00时15分 ~ 07时11分]"
         },
         {
           "title": "荷兰暂停对安世半导体行政令",
@@ -695,11 +709,26 @@
             5,
             6,
             7,
-            8
+            8,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时15分 ~ 06时12分]"
+          "appearance_count": 12,
+          "time_info": "[00时15分 ~ 07时11分]"
+        },
+        {
+          "title": "商务部：中方对荷兰主动暂停安世半导体行政令表示欢迎",
+          "url": "https://www.cls.cn/detail/2205468",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时15分 ~ 07时11分]"
         },
         {
           "title": "荷兰高官：已暂停对安世半导体的干预",
@@ -709,8 +738,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时15分 ~ 06时12分]"
+          "appearance_count": 12,
+          "time_info": "[00时15分 ~ 07时11分]"
         },
         {
           "title": "荷兰政府宣布暂停对安世半导体的行政令",
@@ -721,8 +750,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时15分 ~ 06时12分]"
+          "appearance_count": 12,
+          "time_info": "[00时15分 ~ 07时11分]"
         },
         {
           "title": "商务部回应中荷安世半导体磋商情况",
@@ -733,11 +762,12 @@
             25,
             26,
             29,
-            28
+            28,
+            23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时11分 ~ 06时12分]"
+          "appearance_count": 10,
+          "time_info": "[01时11分 ~ 07时11分]"
         },
         {
           "title": "荷兰宣布暂停对安世半导体行政令",
@@ -755,13 +785,24 @@
           "time_info": "[00时15分 ~ 06时12分]"
         },
         {
+          "title": "美国商务部：已批准向位于阿联酋的G42公司和位于沙特的Humain公司出口先进的美国半导体产品。",
+          "url": "https://flash.jin10.com/detail/20251120064243930800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时11分"
+        },
+        {
           "title": "标普500指数收涨24.84点，涨幅0.38%，结束之前连续四个交易日下跌的趋势，报6642.16点。 道琼斯工业平均指数收涨47.03点，涨幅0.10%，报46138.77点。 纳斯达克综合指数（纳指）收涨131.383点，涨幅0.59%，报22564.229点。 纳斯达克100指数收涨137.419点，涨幅0.56%，报24640.515点。 纳斯达克生物科技指数收跌0.92%，报5558.33点。 费城半导体指数收涨1.82%，报6670.03点。 费城证交所KBW银行指数收涨1.00%，报147.64点。 道琼斯KBW地区银行指数收涨1.17%，报115.06点。",
           "url": "https://wallstreetcn.com/livenews/3007413",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         },
@@ -813,7 +854,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         },
@@ -864,7 +905,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         },

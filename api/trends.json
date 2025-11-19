@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-19T20:23:07.480043+08:00",
-  "total_titles_processed": 1632,
+  "generated_at": "2025-11-19T21:27:46.373256+08:00",
+  "total_titles_processed": 1707,
   "failed_sources": [],
   "trends": [
     {
@@ -37,11 +37,12 @@
           "ranks": [
             9,
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时27分 ~ 20时23分]"
+          "appearance_count": 18,
+          "time_info": "[10时27分 ~ 21时27分]"
         },
         {
           "title": "马斯克出席特朗普与沙特王储晚宴",
@@ -55,11 +56,12 @@
             19,
             22,
             23,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时40分 ~ 20时23分]"
+          "appearance_count": 16,
+          "time_info": "[11时40分 ~ 21时27分]"
         },
         {
           "title": "特朗普：已确定下一任美联储主席人选",
@@ -101,17 +103,6 @@
           "time_info": "[16时16分 ~ 20时23分]"
         },
         {
-          "title": "特朗普怒怼ABC女记者",
-          "url": "https://www.toutiao.com/trending/7574268540435136563/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时22分 ~ 20时23分]"
-        },
-        {
           "title": "特朗普怒怼提问记者",
           "url": "https://www.douyin.com/hot/2310914",
           "source": "抖音",
@@ -132,6 +123,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时53分"
+        },
+        {
+          "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
+          "url": "https://news.ifeng.com/c/8oPR2bxaXLd",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时14分 ~ 21时27分]"
         },
         {
           "title": "美国总统特朗普：伊朗非常希望达成协议。",
@@ -211,6 +213,18 @@
           "time_info": "07时11分"
         },
         {
+          "title": "特朗普怒怼ABC女记者",
+          "url": "https://www.toutiao.com/trending/7574268540435136563/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时22分 ~ 21时27分]"
+        },
+        {
           "title": "美国白宫：美国总统特朗普将于周三中午在华盛顿举行的美沙投资论坛上发表讲话。",
           "url": "https://flash.jin10.com/detail/20251119080838378800",
           "source": "金十数据",
@@ -220,17 +234,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时53分"
-        },
-        {
-          "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
-          "url": "https://news.ifeng.com/c/8oPR2bxaXLd",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时14分 ~ 20时23分]"
         },
         {
           "title": "美国总统特朗普：对与伊朗达成协议完全持开放态度。",
@@ -244,6 +247,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时18分 ~ 04时14分]"
+        },
+        {
+          "title": "沙特王储七年来首次访美给特朗普派“大礼”，确认对美国投资增至1万亿",
+          "url": "https://wallstreetcn.com/articles/3759658",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时10分 ~ 21时27分]"
         },
         {
           "title": "特朗普怼记者：沙特王储对卡舒吉案“一无所知”，别让他难堪",
@@ -280,17 +294,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时18分 ~ 04时14分]"
-        },
-        {
-          "title": "沙特王储七年来首次访美给特朗普派“大礼”，确认对美国投资增至1万亿",
-          "url": "https://wallstreetcn.com/articles/3759658",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时10分 ~ 20时23分]"
         },
         {
           "title": "特朗普：沙特将获得F-35战机，已就此达成协议",
@@ -338,6 +341,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时10分 ~ 04时14分]"
+        },
+        {
+          "title": "美媒：特朗普批准中情局在委内瑞拉实施秘密行动",
+          "url": "https://wallstreetcn.com/livenews/3007210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时23分 ~ 21时27分]"
         },
         {
           "title": "美国总统特朗普结束在白宫的讲话。",
@@ -497,17 +512,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
-        },
-        {
-          "title": "美媒：特朗普批准中情局在委内瑞拉实施秘密行动",
-          "url": "https://wallstreetcn.com/livenews/3007210",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
         },
         {
           "title": "美国总统特朗普：南非的行为极其恶劣。",
@@ -904,6 +908,21 @@
           "time_info": "[00时15分 ~ 10时27分]"
         },
         {
+          "title": "美股AI牛市年末何去何从？黄仁勋和鲍威尔成“关键先生”……",
+          "url": "https://www.cls.cn/detail/2204885",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时14分 ~ 21时27分]"
+        },
+        {
           "title": "劳氏第三季度调整后每股收益3.06美元，预估3.00美元。 第三季度同店销售增长0.4％，预估增长1.02％。 劳氏预计全年调整后每股收益大约12.25美元，市场预估12.40美元。 劳氏预计全年资本支出不超过25亿美元，此前预计大约25亿美元。 劳氏预计全年调整后运营利润率12.1％。 劳氏美股盘前涨3.5%。",
           "url": "https://wallstreetcn.com/livenews/3007175",
           "source": "华尔街见闻-快讯",
@@ -913,20 +932,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时10分"
-        },
-        {
-          "title": "美股AI牛市年末何去何从？黄仁勋和鲍威尔成“关键先生”……",
-          "url": "https://www.cls.cn/detail/2204885",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时14分 ~ 20时23分]"
         },
         {
           "title": "周二（11月18日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘涨1.25%，报93120美元，日内交投于89325-93960美元区间。 CME以太币期货DCR主力合约涨4.09%，报3129.50美元，日内交投于2948-3175.50美元区间。 美股加密货币与加密货币关联指数收涨2.74%，报65.33点。 MarketVector数字资产100小盘指数最近24小时涨约2.90%，暂报19435.73点。",
@@ -1137,7 +1142,7 @@
     },
     {
       "keyword_group": "半导体",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "荷兰暂停对安世半导体行政令",
@@ -1147,8 +1152,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时22分 ~ 20时23分]"
+          "appearance_count": 3,
+          "time_info": "[20时22分 ~ 21时27分]"
+        },
+        {
+          "title": "商务部新闻发言人就安世半导体相关问题答记者问",
+          "url": "https://wallstreetcn.com/livenews/3007247",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
         },
         {
           "title": "荷兰政府表示，已暂停对安世半导体的干预。",
@@ -1160,6 +1176,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时14分"
+        },
+        {
+          "title": "荷兰高官表示已暂停对安世半导体的干预，这一决策有哪些考量？会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1974527840201438797",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时22分 ~ 21时27分]"
+        },
+        {
+          "title": "荷兰高官：已暂停对安世半导体的干预",
+          "url": "https://finance.ifeng.com/c/8oPabbAybVZ",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时14分 ~ 21时27分]"
+        },
+        {
+          "title": "荷兰暂停干预安世半导体",
+          "url": "https://www.douyin.com/hot/2311451",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时14分 ~ 21时27分]"
         },
         {
           "title": "金十图示：2025年11月19日（周三）富时中国A50指数成分股午盘收盘行情一览：银行、保险、通信设备等多个板块走高，半导体、汽车整车板块走软",
@@ -1175,49 +1225,29 @@
           "time_info": "[11时40分 ~ 13时13分]"
         },
         {
-          "title": "荷兰高官：已暂停对安世半导体的干预",
-          "url": "https://finance.ifeng.com/c/8oPabbAybVZ",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时14分 ~ 20时23分]"
-        },
-        {
-          "title": "荷兰暂停干预安世半导体",
-          "url": "https://www.douyin.com/hot/2311451",
-          "source": "抖音",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时14分 ~ 20时23分]"
-        },
-        {
           "title": "荷兰暂停干预安世半导体",
           "url": "https://www.toutiao.com/trending/7574291540118634539/",
           "source": "今日头条",
           "ranks": [
             9,
-            14
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时10分 ~ 21时27分]"
+        },
+        {
+          "title": "荷兰宣布暂停对安世半导体行政令",
+          "url": "https://www.baidu.com/s?wd=%E8%8D%B7%E5%85%B0%E5%AE%A3%E5%B8%83%E6%9A%82%E5%81%9C%E5%AF%B9%E5%AE%89%E4%B8%96%E5%8D%8A%E5%AF%BC%E4%BD%93%E8%A1%8C%E6%94%BF%E4%BB%A4",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            25
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[19时10分 ~ 20时23分]"
-        },
-        {
-          "title": "荷兰高官表示已暂停对安世半导体的干预，这一决策有哪些考量？会带来哪些影响？",
-          "url": "https://www.zhihu.com/question/1974527840201438797",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时22分 ~ 20时23分]"
+          "time_info": "[20时22分 ~ 21时27分]"
         },
         {
           "title": "纳斯达克综合指数跌超2%，纳指跌2%，标普跌1.4%，道指跌648点跌幅1.4%，半导体指数跌3.2%。",
@@ -1230,17 +1260,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时13分 ~ 02时18分]"
-        },
-        {
-          "title": "荷兰宣布暂停对安世半导体行政令",
-          "url": "https://www.baidu.com/s?wd=%E8%8D%B7%E5%85%B0%E5%AE%A3%E5%B8%83%E6%9A%82%E5%81%9C%E5%AF%B9%E5%AE%89%E4%B8%96%E5%8D%8A%E5%AF%BC%E4%BD%93%E8%A1%8C%E6%94%BF%E4%BB%A4",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时22分 ~ 20时23分]"
         },
         {
           "title": "荷兰政府宣布暂停对安世半导体的行政令",
@@ -1274,6 +1293,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "荷兰政府宣布暂停对安世半导体的行政令",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31999398",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
         },
         {
           "title": "费城半导体指数跌超2%。",
@@ -1444,6 +1474,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "电力",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Oklo（OKLO.N）与西门子能源签署具有约束力的合同，以加快商用发电厂电力转换系统的采购。",
+          "url": "https://flash.jin10.com/detail/20251119210319244800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
         }
       ]
     }

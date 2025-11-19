@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T00:16:09.947773+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-20T01:12:02.961468+08:00",
+  "total_titles_processed": 383,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "半导体",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "荷兰高官表示已暂停对安世半导体的干预，这一决策有哪些考量？会带来哪些影响？",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 00时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 01时12分]"
         },
         {
           "title": "荷兰暂停对安世半导体行政令",
@@ -26,19 +26,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 00时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 01时12分]"
         },
         {
           "title": "商务部：中方对荷兰主动暂停安世半导体行政令表示欢迎",
           "url": "https://www.cls.cn/detail/2205468",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 00时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 01时12分]"
         },
         {
           "title": "荷兰高官：已暂停对安世半导体的干预",
@@ -48,8 +49,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 00时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 01时12分]"
         },
         {
           "title": "荷兰政府宣布暂停对安世半导体的行政令",
@@ -59,8 +60,19 @@
             15
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 01时12分]"
+        },
+        {
+          "title": "商务部回应中荷安世半导体磋商情况",
+          "url": "https://www.toutiao.com/trending/7574038650388778550/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时15分 ~ 00时16分]"
+          "time_info": "[01时11分 ~ 01时12分]"
         },
         {
           "title": "荷兰宣布暂停对安世半导体行政令",
@@ -80,7 +92,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
         }
@@ -98,8 +110,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 00时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 01时12分]"
         },
         {
           "title": "沙特王储七年来首次访美给特朗普派“大礼”，确认对美国投资增至1万亿",
@@ -109,8 +121,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 00时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 01时12分]"
         },
         {
           "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
@@ -120,8 +132,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 00时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 01时12分]"
         },
         {
           "title": "马斯克出席特朗普与沙特王储晚宴",
@@ -131,8 +143,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 00时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 01时12分]"
         },
         {
           "title": "特朗普的经济顾问哈塞特：我们失去了对美国通胀的控制",
@@ -141,7 +153,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
         },
@@ -152,7 +164,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
         }
@@ -160,7 +172,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "英伟达财报前夕，美股集体上涨，谷歌新高，日本股债汇三杀，现货黄金逼近4120美元",
@@ -170,19 +182,42 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 00时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 01时12分]"
+        },
+        {
+          "title": "摩根大通交易台：抄底美股正当其时，技术性洗盘可能已结束",
+          "url": "https://wallstreetcn.com/livenews/3007331",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时12分"
         },
         {
           "title": "美股三大期指小幅走高 市场紧盯英伟达盘后业绩 | 今夜看点",
           "url": "https://www.cls.cn/detail/2205477",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 00时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 01时12分]"
+        },
+        {
+          "title": "摩根大通交易台：抄底美股正当其时 技术性洗盘可能已结束",
+          "url": "https://flash.jin10.com/detail/20251120004043816800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时12分"
         },
         {
           "title": "行业ETF美股盘初多数走高，全球航空业ETF涨1.32%，区域银行ETF涨0.61%，银行业ETF涨0.54%，半导体ETF涨0.39%，网络股指数ETF则跌0.15%，能源业ETF跌1.88%。",
@@ -191,7 +226,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
         }
@@ -206,11 +241,12 @@
           "url": "https://wallstreetcn.com/livenews/3007307",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 01时12分]"
         },
         {
           "title": "现货黄金涨至4130美元/盎司上方，日内涨1.57％。 标普500指数涨超1%，道指涨193点涨幅0.42%，纳指涨1.7%，半导体指数涨超3%。",
@@ -219,7 +255,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
         },
@@ -230,7 +266,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
         }
@@ -238,7 +274,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "东方汇理：美联储独立性受损对美元和美债构成重大风险。",
@@ -247,9 +283,48 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        },
+        {
+          "title": "东方汇理：美联储独立性受损对美元和美债构成重大风险",
+          "url": "https://wallstreetcn.com/livenews/3007311",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "电力",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "巴西电力公司Axia Energia：可能会考虑建立合作伙伴关系，以竞标大型电力输送项目。",
+          "url": "https://flash.jin10.com/detail/20251120003119892800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时12分"
+        },
+        {
+          "title": "巴西电力公司Axia Energia：公司正密切关注数据中心市场，为相关项目提供技术咨询。",
+          "url": "https://flash.jin10.com/detail/20251120003111418800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时12分"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-20T14:17:54.753869+08:00",
-  "total_titles_processed": 1205,
+  "generated_at": "2025-11-20T15:12:57.410398+08:00",
+  "total_titles_processed": 1280,
   "failed_sources": [],
   "trends": [
     {
@@ -104,6 +104,18 @@
           "time_info": "[08时52分 ~ 12时14分]"
         },
         {
+          "title": "特朗普签署法案，批准公布爱泼斯坦案档案",
+          "url": "https://news.ifeng.com/c/8oQjsLX6MqD",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时39分 ~ 15时12分]"
+        },
+        {
           "title": "特朗普批准公布爱泼斯坦案档案",
           "url": "https://www.toutiao.com/trending/7574614385700851210/",
           "source": "今日头条",
@@ -143,16 +155,16 @@
           "time_info": "[03时10分 ~ 05时10分]"
         },
         {
-          "title": "特朗普签署法案，批准公布爱泼斯坦案档案",
-          "url": "https://news.ifeng.com/c/8oQjsLX6MqD",
-          "source": "凤凰网",
+          "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
+          "url": "https://wallstreetcn.com/articles/3759743",
+          "source": "华尔街见闻",
           "ranks": [
-            9,
+            10,
             8
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时39分 ~ 14时17分]"
+          "time_info": "[12时14分 ~ 15时12分]"
         },
         {
           "title": "沙特王储七年来首次访美给特朗普派“大礼”，确认对美国投资增至1万亿",
@@ -192,16 +204,16 @@
           "time_info": "[02时17分 ~ 04时12分]"
         },
         {
-          "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
-          "url": "https://wallstreetcn.com/articles/3759743",
-          "source": "华尔街见闻",
+          "title": "大力推进美国AI发展，特朗普又有“新计划”！",
+          "url": "https://www.cls.cn/detail/2205764",
+          "source": "财联社热门",
           "ranks": [
-            10,
+            13,
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时14分 ~ 14时17分]"
+          "appearance_count": 2,
+          "time_info": "[14时17分 ~ 15时12分]"
         },
         {
           "title": "美国总统特朗普：马斯克，我支持你。",
@@ -425,17 +437,6 @@
           "time_info": "00时16分"
         },
         {
-          "title": "大力推进美国AI发展，特朗普又有“新计划”！",
-          "url": "https://www.cls.cn/detail/2205764",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时17分"
-        },
-        {
           "title": "据美国能源部一位官员透露，美国总统特朗普计划周一在白宫签署的一项行政命令中，推出一项“创世使命”，以加强美国的人工智能发展。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3007558",
           "source": "华尔街见闻-快讯",
@@ -552,7 +553,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时17分"
         },
@@ -684,8 +685,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时11分 ~ 14时17分]"
+          "appearance_count": 11,
+          "time_info": "[06时11分 ~ 15时12分]"
         },
         {
           "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
@@ -695,8 +696,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时52分 ~ 14时17分]"
+          "appearance_count": 8,
+          "time_info": "[08时52分 ~ 15时12分]"
         },
         {
           "title": "美股三大期指小幅走高 市场紧盯英伟达盘后业绩 | 今夜看点",
@@ -907,7 +908,7 @@
     },
     {
       "keyword_group": "半导体",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "荷兰高官表示已暂停对安世半导体的干预，这一决策有哪些考量？会带来哪些影响？",
@@ -951,11 +952,12 @@
             9,
             11,
             12,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时15分 ~ 14时17分]"
+          "appearance_count": 20,
+          "time_info": "[00时15分 ~ 15时12分]"
         },
         {
           "title": "荷兰政府宣布暂停对安世半导体的行政令",
@@ -970,8 +972,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时15分 ~ 14时17分]"
+          "appearance_count": 20,
+          "time_info": "[00时15分 ~ 15时12分]"
         },
         {
           "title": "荷兰高官：已暂停对安世半导体的干预",
@@ -1047,6 +1049,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时52分"
+        },
+        {
+          "title": "欧盟驻华大使：安世半导体问题的进展对中欧关系是一个好消息",
+          "url": "https://wallstreetcn.com/livenews/3007700",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
         },
         {
           "title": "标普500指数收涨24.84点，涨幅0.38%，结束之前连续四个交易日下跌的趋势，报6642.16点。 道琼斯工业平均指数收涨47.03点，涨幅0.10%，报46138.77点。 纳斯达克综合指数（纳指）收涨131.383点，涨幅0.59%，报22564.229点。 纳斯达克100指数收涨137.419点，涨幅0.56%，报24640.515点。 纳斯达克生物科技指数收跌0.92%，报5558.33点。 费城半导体指数收涨1.82%，报6670.03点。 费城证交所KBW银行指数收涨1.00%，报147.64点。 道琼斯KBW地区银行指数收涨1.17%，报115.06点。",
@@ -1199,8 +1212,19 @@
     },
     {
       "keyword_group": "电力",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "法国电网运营商ENEDIS：巴黎部分地区遭遇电力中断。",
+          "url": "https://flash.jin10.com/detail/20251120144951569800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
+        },
         {
           "title": "巴西电力公司Axia Energia：可能会考虑建立合作伙伴关系，以竞标大型电力输送项目。",
           "url": "https://flash.jin10.com/detail/20251120003119892800",
@@ -1227,8 +1251,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "英伟达业绩提振全球市场情绪，日经225涨超3%，纳指100期货涨1.9%，比特币升至9.2万美元，金价跌至4070美元",
+          "url": "https://wallstreetcn.com/articles/3759753",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
+        },
         {
           "title": "美联储纪要公布后金价回吐涨幅 市场聚焦利率路径线索",
           "url": "https://flash.jin10.com/detail/20251120040028916800",

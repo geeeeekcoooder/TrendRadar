@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T15:12:57.410398+08:00",
-  "total_titles_processed": 1280,
+  "generated_at": "2025-11-20T16:17:01.146195+08:00",
+  "total_titles_processed": 1370,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 56,
+      "match_count": 57,
       "titles": [
         {
           "title": "特朗普称“已经知道我的美联储主席人选”，贝森特：可能在圣诞节前宣布",
@@ -46,6 +46,18 @@
           "time_info": "[02时17分 ~ 07时11分]"
         },
         {
+          "title": "特朗普签署法案，批准公布爱泼斯坦案档案",
+          "url": "https://news.ifeng.com/c/8oQjsLX6MqD",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时39分 ~ 16时17分]"
+        },
+        {
           "title": "马斯克出席特朗普与沙特王储晚宴",
           "url": "https://www.toutiao.com/trending/7573762239518228521/",
           "source": "今日头条",
@@ -57,6 +69,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时15分 ~ 07时11分]"
+        },
+        {
+          "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
+          "url": "https://wallstreetcn.com/articles/3759743",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时14分 ~ 16时17分]"
         },
         {
           "title": "知情人士：特朗普政府考虑暂缓征收半导体关税",
@@ -81,6 +105,19 @@
           "time_info": "03时10分"
         },
         {
+          "title": "大力推进美国AI发展，特朗普又有“新计划”！",
+          "url": "https://www.cls.cn/detail/2205764",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时17分 ~ 16时17分]"
+        },
+        {
           "title": "市场消息：一项草案显示，美国总统特朗普正在考虑签署一项行政令，以优先于各州AI法规实施联邦规定。",
           "url": "https://flash.jin10.com/detail/20251120063519485800",
           "source": "金十数据",
@@ -102,18 +139,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[08时52分 ~ 12时14分]"
-        },
-        {
-          "title": "特朗普签署法案，批准公布爱泼斯坦案档案",
-          "url": "https://news.ifeng.com/c/8oQjsLX6MqD",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时39分 ~ 15时12分]"
         },
         {
           "title": "特朗普批准公布爱泼斯坦案档案",
@@ -155,18 +180,6 @@
           "time_info": "[03时10分 ~ 05时10分]"
         },
         {
-          "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
-          "url": "https://wallstreetcn.com/articles/3759743",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时14分 ~ 15时12分]"
-        },
-        {
           "title": "沙特王储七年来首次访美给特朗普派“大礼”，确认对美国投资增至1万亿",
           "url": "https://wallstreetcn.com/articles/3759658",
           "source": "华尔街见闻",
@@ -202,18 +215,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时17分 ~ 04时12分]"
-        },
-        {
-          "title": "大力推进美国AI发展，特朗普又有“新计划”！",
-          "url": "https://www.cls.cn/detail/2205764",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时17分 ~ 15时12分]"
         },
         {
           "title": "美国总统特朗普：马斯克，我支持你。",
@@ -358,6 +359,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时17分 ~ 03时10分]"
+        },
+        {
+          "title": "曝特朗普计划推迟半导体关税",
+          "url": "https://www.toutiao.com/trending/7574689647519862308/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时16分 ~ 16时17分]"
         },
         {
           "title": "C罗随特朗普参观白宫开怀大笑",
@@ -663,6 +675,17 @@
       "match_count": 21,
       "titles": [
         {
+          "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
+          "url": "https://wallstreetcn.com/articles/3759700",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[08时52分 ~ 16时17分]"
+        },
+        {
           "title": "英伟达财报前夕，美股集体上涨，谷歌新高，日本股债汇三杀，现货黄金逼近4120美元",
           "url": "https://wallstreetcn.com/articles/3759700",
           "source": "华尔街见闻",
@@ -687,17 +710,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[06时11分 ~ 15时12分]"
-        },
-        {
-          "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
-          "url": "https://wallstreetcn.com/articles/3759700",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时52分 ~ 15时12分]"
         },
         {
           "title": "美股三大期指小幅走高 市场紧盯英伟达盘后业绩 | 今夜看点",
@@ -908,7 +920,7 @@
     },
     {
       "keyword_group": "半导体",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "荷兰高官表示已暂停对安世半导体的干预，这一决策有哪些考量？会带来哪些影响？",
@@ -956,8 +968,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时15分 ~ 15时12分]"
+          "appearance_count": 22,
+          "time_info": "[00时15分 ~ 16时17分]"
         },
         {
           "title": "荷兰政府宣布暂停对安世半导体的行政令",
@@ -972,8 +984,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时15分 ~ 15时12分]"
+          "appearance_count": 22,
+          "time_info": "[00时15分 ~ 16时17分]"
         },
         {
           "title": "荷兰高官：已暂停对安世半导体的干预",
@@ -1018,6 +1030,17 @@
           "time_info": "[00时15分 ~ 06时12分]"
         },
         {
+          "title": "港股收盘，恒生指数收涨0.02%，恒生科技指数收跌0.58%，李宁涨4%，小鹏汽车跌超4%，华虹半导体跌超3%，携程集团跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3007800",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
           "title": "美国商务部：已批准向位于阿联酋的G42公司和位于沙特的Humain公司出口先进的美国半导体产品。",
           "url": "https://flash.jin10.com/detail/20251120064243930800",
           "source": "金十数据",
@@ -1057,7 +1080,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
         },
@@ -1071,6 +1094,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "商务部：希望荷方切实采取实际行动，迅速且有效推动安世半导体问题早日解决",
+          "url": "https://wallstreetcn.com/livenews/3007774",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
         },
         {
           "title": "谷歌A涨约6%创历史新高，纳指涨超1%，半导体指数涨超2%",
@@ -1221,7 +1255,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
         },
@@ -1258,11 +1292,12 @@
           "url": "https://wallstreetcn.com/articles/3759753",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时12分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时12分 ~ 16时17分]"
         },
         {
           "title": "美联储纪要公布后金价回吐涨幅 市场聚焦利率路径线索",

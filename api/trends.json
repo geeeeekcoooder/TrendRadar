@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T07:11:56.125113+08:00",
-  "total_titles_processed": 681,
+  "generated_at": "2025-11-20T08:52:57.021263+08:00",
+  "total_titles_processed": 823,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 44,
       "titles": [
         {
           "title": "特朗普称“已经知道我的美联储主席人选”，贝森特：可能在圣诞节前宣布",
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时15分 ~ 07时11分]"
+          "appearance_count": 13,
+          "time_info": "[00时15分 ~ 08时52分]"
         },
         {
           "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
@@ -87,7 +87,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -273,6 +273,17 @@
           "time_info": "[02时17分 ~ 03时10分]"
         },
         {
+          "title": "特朗普：应起诉鲍威尔",
+          "url": "https://news.ifeng.com/c/8oQBc00t0BE",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
+        },
+        {
           "title": "英国外交部发言人：英国支持特朗普总统希望结束俄乌冲突愿望，只要俄罗斯撤回军队、停止其非法入侵，明天就能做到这一点。",
           "url": "https://flash.jin10.com/detail/20251120021550939800",
           "source": "金十数据",
@@ -372,6 +383,17 @@
           "time_info": "00时16分"
         },
         {
+          "title": "特朗普政府宣布拆解教育部计划",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E6%8B%86%E8%A7%A3%E6%95%99%E8%82%B2%E9%83%A8%E8%AE%A1%E5%88%92",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
+        },
+        {
           "title": "美国总统特朗普：我们应该从能源中获利，而不是遭受损失。我们正在简化所有新能源和矿业项目的审批流程，显著缩短之前28天的时间。",
           "url": "https://flash.jin10.com/detail/20251120015210196800",
           "source": "金十数据",
@@ -460,6 +482,17 @@
           "time_info": "02时17分"
         },
         {
+          "title": "美媒：特朗普考虑最早于周五签署有关人工智能的行政令",
+          "url": "https://flash.jin10.com/detail/20251120073946574800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
+        },
+        {
           "title": "美国总统特朗普：（美国与沙特之间）数十家公司今天签署2700亿美元协议和销售（合同）。",
           "url": "https://wallstreetcn.com/livenews/3007345",
           "source": "华尔街见闻-快讯",
@@ -469,12 +502,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
+        },
+        {
+          "title": "特朗普考虑最早周五签署有关AI的行政令。（The Verge）",
+          "url": "https://wallstreetcn.com/livenews/3007479",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "英伟达财报前夕，美股集体上涨，谷歌新高，日本股债汇三杀，现货黄金逼近4120美元",
@@ -499,8 +543,32 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时15分 ~ 07时11分]"
+          "appearance_count": 13,
+          "time_info": "[00时15分 ~ 08时52分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体收涨 英伟达财报再超预期",
+          "url": "https://www.cls.cn/detail/2205612",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时11分 ~ 08时52分]"
+        },
+        {
+          "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
+          "url": "https://wallstreetcn.com/articles/3759700",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
         },
         {
           "title": "（美股）费城金银指数收涨1.34%，报296.82点。 纽约证交所ARCA金矿开采商指数收涨1.36%，报2151.78点，北京时间22:30美股开盘前持稳于2135点附近——一直维持微幅上涨状态，随扈跳空走高，22:37刷新日高至2193.46点，之后快速回吐这一波涨幅。",
@@ -512,6 +580,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "美股期货涨幅扩大，标普500指数期货现涨1.2%，纳斯达克100指数期货涨1.7%。",
+          "url": "https://wallstreetcn.com/livenews/3007513",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
         },
         {
           "title": "摩根大通交易台：抄底美股正当其时，技术性洗盘可能已结束",
@@ -545,18 +624,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
-        },
-        {
-          "title": "美股收盘：三大指数集体收涨 英伟达财报再超预期",
-          "url": "https://www.cls.cn/detail/2205612",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时11分 ~ 07时11分]"
         },
         {
           "title": "美股三大指数再次转涨，道琼斯指数涨0.03%，标普500指数涨0.35%，纳斯达克综合指数涨0.47%。",
@@ -645,9 +712,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "美股三大指数收涨 英伟达财报超预期",
+          "url": "https://www.toutiao.com/trending/7574038650388860470/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
         },
         {
           "title": "金十图示：2025年11月19日（周三）美股热门股票行情一览（美股收盘）",
@@ -686,7 +764,7 @@
     },
     {
       "keyword_group": "半导体",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "荷兰高官表示已暂停对安世半导体的干预，这一决策有哪些考量？会带来哪些影响？",
@@ -698,8 +776,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时15分 ~ 07时11分]"
+          "appearance_count": 13,
+          "time_info": "[00时15分 ~ 08时52分]"
         },
         {
           "title": "荷兰暂停对安世半导体行政令",
@@ -710,11 +788,12 @@
             6,
             7,
             8,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时15分 ~ 07时11分]"
+          "appearance_count": 13,
+          "time_info": "[00时15分 ~ 08时52分]"
         },
         {
           "title": "商务部：中方对荷兰主动暂停安世半导体行政令表示欢迎",
@@ -727,8 +806,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时15分 ~ 07时11分]"
+          "appearance_count": 13,
+          "time_info": "[00时15分 ~ 08时52分]"
         },
         {
           "title": "荷兰高官：已暂停对安世半导体的干预",
@@ -747,11 +826,12 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            16
+            16,
+            12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时15分 ~ 07时11分]"
+          "appearance_count": 13,
+          "time_info": "[00时15分 ~ 08时52分]"
         },
         {
           "title": "商务部回应中荷安世半导体磋商情况",
@@ -791,9 +871,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "荷兰暂停对安世半导体的行政令出于何种考虑？",
+          "url": "https://news.ifeng.com/c/8oQI4BiodSd",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
+        },
+        {
+          "title": "日本半导体测试设备供应商爱德万测试股价上涨10%。",
+          "url": "https://flash.jin10.com/detail/20251120081510793800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
         },
         {
           "title": "标普500指数收涨24.84点，涨幅0.38%，结束之前连续四个交易日下跌的趋势，报6642.16点。 道琼斯工业平均指数收涨47.03点，涨幅0.10%，报46138.77点。 纳斯达克综合指数（纳指）收涨131.383点，涨幅0.59%，报22564.229点。 纳斯达克100指数收涨137.419点，涨幅0.56%，报24640.515点。 纳斯达克生物科技指数收跌0.92%，报5558.33点。 费城半导体指数收涨1.82%，报6670.03点。 费城证交所KBW银行指数收涨1.00%，报147.64点。 道琼斯KBW地区银行指数收涨1.17%，报115.06点。",

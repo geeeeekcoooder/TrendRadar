@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T18:14:12.558295+08:00",
-  "total_titles_processed": 1537,
+  "generated_at": "2025-11-20T19:11:22.856752+08:00",
+  "total_titles_processed": 1634,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 57,
+      "match_count": 60,
       "titles": [
         {
           "title": "特朗普称“已经知道我的美联储主席人选”，贝森特：可能在圣诞节前宣布",
@@ -20,6 +20,18 @@
           "time_info": "[00时15分 ~ 08时52分]"
         },
         {
+          "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
+          "url": "https://wallstreetcn.com/articles/3759743",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时14分 ~ 19时11分]"
+        },
+        {
           "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
           "url": "https://news.ifeng.com/c/8oPR2bxaXLd",
           "source": "凤凰网",
@@ -29,18 +41,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时15分 ~ 07时11分]"
-        },
-        {
-          "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
-          "url": "https://wallstreetcn.com/articles/3759743",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时14分 ~ 18时14分]"
         },
         {
           "title": "大力推进美国AI发展，特朗普又有“新计划”！",
@@ -128,6 +128,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-20）",
+          "url": "https://flash.jin10.com/detail/20251120183902087800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
         },
         {
           "title": "特朗普：应起诉鲍威尔",
@@ -494,6 +505,28 @@
           "time_info": "03时10分"
         },
         {
+          "title": "美媒：特朗普批准结束俄乌冲突的新计划",
+          "url": "https://wallstreetcn.com/livenews/3007866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
+        },
+        {
+          "title": "克里姆林宫就“乌克兰28点和平计划”的报道作出回应：除了在阿拉斯加举行的俄罗斯总统普京与美国总统特朗普峰会上所说的内容外，我们没有新的补充。",
+          "url": "https://flash.jin10.com/detail/20251120181150851800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
+        },
+        {
           "title": "白宫国家经济委员会主任凯文·哈塞特：（美国总统特朗普挑起的）关税对美国通胀的最终影响还有待观察。 未来的数据修正可能会表明生产力更加强劲。 美国85%的经济正经历“大幅的”生产力转变。 生产力繁荣是“空前绝后”的。 失业率“略微高于”均衡水平。",
           "url": "https://wallstreetcn.com/livenews/3007285",
           "source": "华尔街见闻-快讯",
@@ -684,8 +717,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时52分 ~ 18时14分]"
+          "appearance_count": 15,
+          "time_info": "[08时52分 ~ 19时11分]"
         },
         {
           "title": "英伟达财报前夕，美股集体上涨，谷歌新高，日本股债汇三杀，现货黄金逼近4120美元",
@@ -859,7 +892,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         },
@@ -870,7 +903,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         },
@@ -944,7 +977,7 @@
     },
     {
       "keyword_group": "半导体",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "荷兰高官表示已暂停对安世半导体的干预，这一决策有哪些考量？会带来哪些影响？",
@@ -1006,11 +1039,12 @@
             10,
             7,
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时15分 ~ 18时14分]"
+          "appearance_count": 27,
+          "time_info": "[00时15分 ~ 19时11分]"
         },
         {
           "title": "荷兰高官：已暂停对安世半导体的干预",
@@ -1089,6 +1123,17 @@
           "time_info": "[08时52分 ~ 10时26分]"
         },
         {
+          "title": "华融化学：公司主要产品为氢氧化钾及多种含氯产品，部分电子级化学品可用于半导体、光伏领域的蚀刻、清洗环节，公司目前尚未导入光刻胶或光刻机相关领域客户。",
+          "url": "https://wallstreetcn.com/livenews/3007885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
+        },
+        {
           "title": "日本半导体测试设备供应商爱德万测试股价上涨10%。",
           "url": "https://flash.jin10.com/detail/20251120081510793800",
           "source": "金十数据",
@@ -1153,6 +1198,69 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "英伟达业绩提振全球市场情绪，日经225涨超3%，纳指100期货涨1.9%，比特币升至9.2万美元，金价跌至4070美元",
+          "url": "https://wallstreetcn.com/articles/3759753",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时12分 ~ 17时13分]"
+        },
+        {
+          "title": "英伟达业绩驱散悲观情绪，纳指100期货涨1.9%，日经225涨超3%，比特币反弹至9.2万美元，金价冲高回落跌破4100美元",
+          "url": "https://wallstreetcn.com/articles/3759753",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时13分 ~ 18时14分]"
+        },
+        {
+          "title": "英伟达业绩驱散悲观情绪，纳指100期货涨1.9%，日经225涨超3%，比特币反弹至9.2万美元，金价跌破4100美元",
+          "url": "https://wallstreetcn.com/articles/3759753",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时10分 ~ 19时11分]"
+        },
+        {
+          "title": "伦敦金属交易所：2026年中起将停止管理LBMA铂金和钯金价格",
+          "url": "https://wallstreetcn.com/livenews/3007872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
+        },
+        {
+          "title": "美联储纪要公布后金价回吐涨幅 市场聚焦利率路径线索",
+          "url": "https://flash.jin10.com/detail/20251120040028916800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时10分"
         }
       ]
     },
@@ -1267,47 +1375,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "英伟达业绩提振全球市场情绪，日经225涨超3%，纳指100期货涨1.9%，比特币升至9.2万美元，金价跌至4070美元",
-          "url": "https://wallstreetcn.com/articles/3759753",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时12分 ~ 17时13分]"
-        },
-        {
-          "title": "英伟达业绩驱散悲观情绪，纳指100期货涨1.9%，日经225涨超3%，比特币反弹至9.2万美元，金价冲高回落跌破4100美元",
-          "url": "https://wallstreetcn.com/articles/3759753",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时13分 ~ 18时14分]"
-        },
-        {
-          "title": "美联储纪要公布后金价回吐涨幅 市场聚焦利率路径线索",
-          "url": "https://flash.jin10.com/detail/20251120040028916800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时10分"
         }
       ]
     },

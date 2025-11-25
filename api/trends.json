@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-25T14:19:07.315413+08:00",
-  "total_titles_processed": 1254,
+  "generated_at": "2025-11-25T15:14:02.476127+08:00",
+  "total_titles_processed": 1358,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 65,
+      "match_count": 66,
       "titles": [
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -60,8 +60,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时11分 ~ 14时19分]"
+          "appearance_count": 13,
+          "time_info": "[07时11分 ~ 15时14分]"
         },
         {
           "title": "美乌日内瓦会谈，美方称“取得良好进展”，特朗普发帖猛喷欧乌，泽连斯基立刻“致谢”",
@@ -83,8 +83,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时13分 ~ 14时19分]"
+          "appearance_count": 23,
+          "time_info": "[00时13分 ~ 15时14分]"
         },
         {
           "title": "泽连斯基直面“28点”：历史性艰难抉择在即，还要对特朗普说谢谢",
@@ -98,8 +98,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时13分 ~ 14时19分]"
+          "appearance_count": 23,
+          "time_info": "[00时13分 ~ 15时14分]"
         },
         {
           "title": "特朗普要求与高市早苗通话",
@@ -111,8 +111,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时43分 ~ 14时19分]"
+          "appearance_count": 9,
+          "time_info": "[11时43分 ~ 15时14分]"
         },
         {
           "title": "“创世纪计划”启动！特朗普签署AI新政 对标“曼哈顿计划”",
@@ -125,8 +125,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时29分 ~ 14时19分]"
+          "appearance_count": 10,
+          "time_info": "[10时29分 ~ 15时14分]"
+        },
+        {
+          "title": "日媒：特朗普要求与高市早苗通话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32037044",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时43分 ~ 15时14分]"
         },
         {
           "title": "“跌疯了”的币圈“阴谋论满天飞”：美国政府“抢钱”，华尔街“做空”，甚至是“摩根大通大战特朗普”",
@@ -140,8 +153,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时13分 ~ 14时19分]"
+          "appearance_count": 23,
+          "time_info": "[00时13分 ~ 15时14分]"
         },
         {
           "title": "特朗普：将于明年4月访华",
@@ -166,40 +179,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时52分 ~ 14时19分]"
-        },
-        {
-          "title": "日媒：特朗普要求与高市早苗通话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32037044",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时43分 ~ 14时19分]"
-        },
-        {
-          "title": "曝特朗普最后一刻才知28点计划内容",
-          "url": "https://www.toutiao.com/trending/7575287851869323300/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            7,
-            9,
-            6,
-            20,
-            10,
-            14,
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时13分 ~ 14时19分]"
+          "appearance_count": 12,
+          "time_info": "[08时52分 ~ 15时14分]"
         },
         {
           "title": "特朗普要求跟高市早苗通话",
@@ -215,6 +196,26 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[10时29分 ~ 14时19分]"
+        },
+        {
+          "title": "曝特朗普最后一刻才知28点计划内容",
+          "url": "https://www.toutiao.com/trending/7575287851869323300/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            7,
+            9,
+            6,
+            20,
+            10,
+            14,
+            24,
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 23,
+          "time_info": "[00时13分 ~ 15时14分]"
         },
         {
           "title": "高市早苗与特朗普通话",
@@ -257,6 +258,69 @@
           "time_info": "[10时29分 ~ 13时13分]"
         },
         {
+          "title": "与特朗普通话是否谈及涉台言论？高市早苗回应",
+          "url": "https://news.ifeng.com/c/8oZ8o93y559",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时18分 ~ 15时14分]"
+        },
+        {
+          "title": "特朗普与高市早苗通话",
+          "url": "https://www.douyin.com/hot/2317172",
+          "source": "抖音",
+          "ranks": [
+            15,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时18分 ~ 15时14分]"
+        },
+        {
+          "title": "与特朗普通话谈及涉台言论？高市回应",
+          "url": "https://www.toutiao.com/trending/7576495986903089178/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            7,
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时18分 ~ 15时14分]"
+        },
+        {
+          "title": "特朗普称明年四月访华",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%98%8E%E5%B9%B4%E5%9B%9B%E6%9C%88%E8%AE%BF%E5%8D%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时18分 ~ 15时14分]"
+        },
+        {
+          "title": "特朗普 25 日要求与高市早苗通话，高市早苗通话后回应「细节不便透露」，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1976581502214107178",
+          "source": "知乎",
+          "ranks": [
+            8,
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时12分 ~ 15时14分]"
+        },
+        {
           "title": "日媒：特朗普要求与高市早苗通话",
           "url": "https://www.toutiao.com/trending/7576254631207043118/",
           "source": "今日头条",
@@ -279,17 +343,6 @@
           "time_info": "10时29分"
         },
         {
-          "title": "与特朗普通话是否谈及涉台言论？高市早苗回应",
-          "url": "https://news.ifeng.com/c/8oZ8o93y559",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时18分 ~ 14时19分]"
-        },
-        {
           "title": "特朗普暗示乌克兰危机将有重大进展：或许要有好事发生",
           "url": "https://news.ifeng.com/c/8oYqBjfSzd0",
           "source": "凤凰网",
@@ -300,31 +353,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[08时52分 ~ 11时44分]"
-        },
-        {
-          "title": "与特朗普通话谈及涉台言论？高市回应",
-          "url": "https://www.toutiao.com/trending/7576495986903089178/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时18分 ~ 14时19分]"
-        },
-        {
-          "title": "特朗普与高市早苗通话",
-          "url": "https://www.douyin.com/hot/2317172",
-          "source": "抖音",
-          "ranks": [
-            15,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时18分 ~ 14时19分]"
         },
         {
           "title": "特朗普签令启动“创世纪计划”",
@@ -338,18 +366,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[08时52分 ~ 11时44分]"
-        },
-        {
-          "title": "特朗普 25 日要求与高市早苗通话，高市早苗通话后回应「细节不便透露」，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1976581502214107178",
-          "source": "知乎",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时12分 ~ 14时19分]"
         },
         {
           "title": "与特朗普通话是否谈及涉台言论？高市早苗：细节不便透露",
@@ -375,6 +391,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时08分 ~ 04时14分]"
+        },
+        {
+          "title": "高市早苗回应与特朗普通话",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%9B%9E%E5%BA%94%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E8%AF%9D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时18分 ~ 15时14分]"
         },
         {
           "title": "美国白宫发言人：特朗普对打击“贩毒恐怖分子”的行动感到满意。",
@@ -475,14 +503,15 @@
         },
         {
           "title": "高市早苗回应与特朗普通话",
-          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%9B%9E%E5%BA%94%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E8%AF%9D",
-          "source": "bilibili 热搜",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%9B%9E%E5%BA%94%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E8%AF%9D%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
           "ranks": [
+            9,
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时18分 ~ 14时19分]"
+          "time_info": "[15时13分 ~ 15时14分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普一直在对俄罗斯总统普京和乌克兰总统泽连斯基施加压力。",
@@ -519,17 +548,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时12分 ~ 06时10分]"
-        },
-        {
-          "title": "特朗普称明年四月访华",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%98%8E%E5%B9%B4%E5%9B%9B%E6%9C%88%E8%AE%BF%E5%8D%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时18分 ~ 14时19分]"
         },
         {
           "title": "特朗普下令启动“创世使命” 计划 大力推动AI科研革命",
@@ -800,8 +818,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时52分 ~ 14时19分]"
+          "appearance_count": 12,
+          "time_info": "[08时52分 ~ 15时14分]"
         },
         {
           "title": "美股高开，中概指数早盘涨超2%跑赢大盘，比特币持续位于8.7万美元下方",
@@ -840,8 +858,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时13分 ~ 14时19分]"
+          "appearance_count": 23,
+          "time_info": "[00时13分 ~ 15时14分]"
         },
         {
           "title": "美联储12月降息预期飙升，美股科技股领衔“万物齐涨”，加密货币和黄金同步走高",

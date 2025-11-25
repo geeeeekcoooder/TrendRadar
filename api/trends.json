@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-11-26T06:12:07.041867+08:00",
-  "total_titles_processed": 601,
+  "generated_at": "2025-11-26T07:12:03.003507+08:00",
+  "total_titles_processed": 643,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 33,
       "titles": [
         {
           "title": "日媒：特朗普要求与高市早苗通话",
           "url": "https://m.thepaper.cn/newsDetail_forward_32037044",
           "source": "澎湃新闻",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 06时12分]"
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 07时12分]"
         },
         {
           "title": "与特朗普通话是否谈及涉台言论？高市早苗：不便透露",
@@ -25,11 +26,12 @@
           "ranks": [
             3,
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 06时12分]"
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 07时12分]"
         },
         {
           "title": "胡锡进：台海与中日危机，特朗普的沉默震耳欲聋",
@@ -39,19 +41,31 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 06时12分]"
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 07时12分]"
         },
         {
           "title": "特朗普与高市早苗通话",
           "url": "https://www.douyin.com/hot/2317172",
           "source": "抖音",
           "ranks": [
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 06时12分]"
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 07时12分]"
+        },
+        {
+          "title": "快评｜特朗普与中方通话后致电高市早苗，专家：“背后信号不言自明”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32040611",
+          "source": "澎湃新闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时11分 ~ 07时12分]"
         },
         {
           "title": "白宫否认特朗普考虑撤掉联邦调查局局长卡什·帕特尔。",
@@ -267,6 +281,17 @@
           "time_info": "[00时15分 ~ 01时13分]"
         },
         {
+          "title": "特朗普：俄乌和平协议已“非常接近达成”",
+          "url": "https://www.cls.cn/detail/2210903",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时11分 ~ 07时12分]"
+        },
+        {
           "title": "特朗普：将于明年4月访华",
           "url": "https://www.douyin.com/hot/2316962",
           "source": "抖音",
@@ -289,6 +314,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时13分 ~ 02时18分]"
+        },
+        {
+          "title": "美国白宫：美国总统特朗普不考虑直接延长两年补贴，将在近期提出医改政策改进建议。",
+          "url": "https://flash.jin10.com/detail/20251126061216297800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
         },
         {
           "title": "外媒：泽连斯基希望在感恩节期间与特朗普会面 敲定和平协议",
@@ -371,7 +407,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美国9月PPI同比增长2.7% 美股期指涨跌不一 | 今夜看点",
@@ -379,11 +415,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 06时12分]"
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 07时12分]"
         },
         {
           "title": "“矛盾”数据加剧降息分歧，美股指涨跌不一，英伟达跌超5%，原油走低，加密货币跳水",
@@ -391,22 +428,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时13分 ~ 06时12分]"
-        },
-        {
-          "title": "周二（11月25日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘跌2.35%，报87080美元。 CME以太币期货DCR主力合约跌1.38%，报2935.50美元。 美股加密货币与加密货币关联指数涨0.31%，报64.80点，呈现出W形走势。 最近24小时，MarketVector数字资产100小盘指数跌1.48%，暂报18261.32点。",
-          "url": "https://wallstreetcn.com/livenews/3010418",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时12分"
+          "appearance_count": 9,
+          "time_info": "[01时13分 ~ 07时12分]"
         },
         {
           "title": "WTI原油期货约3%，报57.10美元/桶，美股盘前消息，美国官员称乌克兰同意和平协议条款。 布伦特原油跌破61美元/桶关口，报60.96美元/桶。",
@@ -419,6 +446,42 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时15分 ~ 01时13分]"
+        },
+        {
+          "title": "周二（11月25日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘跌2.35%，报87080美元。 CME以太币期货DCR主力合约跌1.38%，报2935.50美元。 美股加密货币与加密货币关联指数涨0.31%，报64.80点，呈现出W形走势。 最近24小时，MarketVector数字资产100小盘指数跌1.48%，暂报18261.32点。",
+          "url": "https://wallstreetcn.com/livenews/3010418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时12分 ~ 07时12分]"
+        },
+        {
+          "title": "（美股）费城金银指数收涨0.68%，报301.82点。 纽约证交所ARCA金矿开采商指数收涨0.77%，报2179.87点；北京时间22:30美股开盘之前持稳于2172点附近——保持微幅上涨状态、之后出现一波V形反转行情。",
+          "url": "https://wallstreetcn.com/livenews/3010414",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时12分 ~ 07时12分]"
+        },
+        {
+          "title": "区域银行ETF收涨超2.8%，领跑美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3010410",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时12分 ~ 07时12分]"
         },
         {
           "title": "金十图示：2025年11月25日（周二）美股热门股票行情一览（美股盘中）",
@@ -445,35 +508,13 @@
           "time_info": "[02时18分 ~ 03时10分]"
         },
         {
-          "title": "（美股）费城金银指数收涨0.68%，报301.82点。 纽约证交所ARCA金矿开采商指数收涨0.77%，报2179.87点；北京时间22:30美股开盘之前持稳于2172点附近——保持微幅上涨状态、之后出现一波V形反转行情。",
-          "url": "https://wallstreetcn.com/livenews/3010414",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "区域银行ETF收涨超2.8%，领跑美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3010410",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
           "title": "金十图示：2025年11月25日（周二）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251126050732950800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         },
@@ -484,7 +525,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         },
@@ -506,9 +547,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜Meta收涨约3.8%，英伟达则跌约2.6%",
+          "url": "https://wallstreetcn.com/livenews/3010399",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
         },
         {
           "title": "周二美股盘前你需要了解的全球要闻",
@@ -586,11 +638,12 @@
           "url": "https://wallstreetcn.com/livenews/3010419",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时12分 ~ 07时12分]"
         },
         {
           "title": "短端美债收益率走低，报道称哈塞特在美联储主席人选中领先",
@@ -608,7 +661,7 @@
     },
     {
       "keyword_group": "半导体",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "标普500指数涨幅扩大至0.5%，道指涨475点涨幅超过1%，纳指涨0.1%，半导体指数跌1.4%。",
@@ -622,6 +675,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时13分 ~ 03时10分]"
+        },
+        {
+          "title": "戴尔(DELL.N)首席运营官：前所未有的成本快速上涨不仅影响DRAM，还波及NAND、硬盘以及尖端半导体节点。",
+          "url": "https://flash.jin10.com/detail/20251126055645815800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
         }
       ]
     }

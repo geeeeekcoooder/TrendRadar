@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-27T18:14:06.120101+08:00",
-  "total_titles_processed": 1663,
+  "generated_at": "2025-11-27T19:11:45.335722+08:00",
+  "total_titles_processed": 1739,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 42,
       "titles": [
         {
           "title": "中方是否请特朗普向高市传口信？外交部回应",
@@ -54,11 +54,28 @@
             9,
             13,
             17,
-            20
+            20,
+            10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时26分 ~ 18时14分]"
+          "appearance_count": 13,
+          "time_info": "[10时26分 ~ 19时11分]"
+        },
+        {
+          "title": "特朗普施压高市别在台湾问题上挑衅",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%BD%E5%8E%8B%E9%AB%98%E5%B8%82%E5%88%AB%E5%9C%A8%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E4%B8%8A%E6%8C%91%E8%A1%85",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            7,
+            11,
+            16,
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时40分 ~ 19时11分]"
         },
         {
           "title": "特朗普力推,尖峰时刻4要来了?",
@@ -75,21 +92,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时15分 ~ 18时14分]"
-        },
-        {
-          "title": "特朗普称俄乌和平协议「非常接近达成」，已派特使赴莫斯科，协议内容由 28 点改为 19 点，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1976945155765465978",
-          "source": "知乎",
-          "ranks": [
-            13,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时26分 ~ 18时14分]"
+          "appearance_count": 25,
+          "time_info": "[00时15分 ~ 19时11分]"
         },
         {
           "title": "观察｜俄乌和谈中的特朗普之道：让亲信而非外交官“撮合交易”",
@@ -101,7 +105,21 @@
             17,
             16,
             15,
-            14
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[10时26分 ~ 19时11分]"
+        },
+        {
+          "title": "特朗普称俄乌和平协议「非常接近达成」，已派特使赴莫斯科，协议内容由 28 点改为 19 点，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1976945155765465978",
+          "source": "知乎",
+          "ranks": [
+            13,
+            11,
+            12
           ],
           "is_new": false,
           "appearance_count": 12,
@@ -121,21 +139,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时15分 ~ 07时11分]"
-        },
-        {
-          "title": "特朗普施压高市别在台湾问题上挑衅",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%BD%E5%8E%8B%E9%AB%98%E5%B8%82%E5%88%AB%E5%9C%A8%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E4%B8%8A%E6%8C%91%E8%A1%85",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            7,
-            11,
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时40分 ~ 18时14分]"
         },
         {
           "title": "委内瑞拉谴责美国犯下反人类罪行，欢迎与特朗普直接对话",
@@ -311,6 +314,19 @@
           "time_info": "[08时53分 ~ 12时16分]"
         },
         {
+          "title": "特朗普致电高市：别在台湾问题上挑衅",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32053388",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时18分 ~ 19时11分]"
+        },
+        {
           "title": "加拿大总理卡尼：周二与美国总统特朗普通电话。 与美国的贸易谈判还没有重启，加方已经做好准备。",
           "url": "https://wallstreetcn.com/livenews/3011051",
           "source": "华尔街见闻-快讯",
@@ -333,18 +349,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时13分 ~ 14时19分]"
-        },
-        {
-          "title": "特朗普致电高市：别在台湾问题上挑衅",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32053388",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时18分 ~ 18时14分]"
         },
         {
           "title": "特朗普与高市通话说了啥？郭正亮蔡正元异口同声：高市早苗挨骂了",
@@ -439,6 +443,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时12分 ~ 07时11分]"
+        },
+        {
+          "title": "特朗普所有刑事指控已终结",
+          "url": "https://www.toutiao.com/trending/7576562131659702313/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
         },
         {
           "title": "美高官密集造访加勒比 特朗普：可能会与马杜罗对话",
@@ -732,6 +747,18 @@
           "time_info": "[00时15分 ~ 10时26分]"
         },
         {
+          "title": "就安世半导体等经贸问题，商务部部长王文涛与欧方举行视频会谈",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32049168",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时13分 ~ 19时11分]"
+        },
+        {
           "title": "金十图示：2025年11月27日（周四）富时中国A50指数成分股午盘收盘行情一览：半导体板块走强，酿酒股涨跌不一",
           "url": "https://flash.jin10.com/detail/20251127113238661800",
           "source": "金十数据",
@@ -766,17 +793,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时11分 ~ 02时15分]"
-        },
-        {
-          "title": "就安世半导体等经贸问题，商务部部长王文涛与欧方举行视频会谈",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32049168",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时13分 ~ 18时14分]"
         },
         {
           "title": "恒生科技指数日内涨幅扩大至1%。华虹半导体涨超5%，中芯国际、小米涨超3%。",
@@ -846,7 +862,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         },

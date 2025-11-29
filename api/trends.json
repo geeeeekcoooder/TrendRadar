@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T15:11:24.172152+08:00",
-  "total_titles_processed": 996,
+  "generated_at": "2025-11-29T16:15:42.428401+08:00",
+  "total_titles_processed": 1061,
   "failed_sources": [],
   "trends": [
     {
@@ -300,8 +300,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时14分 ~ 15时11分]"
+          "appearance_count": 12,
+          "time_info": "[00时14分 ~ 16时15分]"
         },
         {
           "title": "感恩节美股休市，美股指期货走平，欧股交投清淡，原油盘中闪跌",
@@ -338,8 +338,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时52分 ~ 15时11分]"
+          "appearance_count": 9,
+          "time_info": "[08时52分 ~ 16时15分]"
         },
         {
           "title": "金十图示：2025年11月28日（周五）美股热门股票行情一览（美股收盘）",
@@ -518,11 +518,12 @@
           "ranks": [
             14,
             11,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时12分 ~ 15时11分]"
+          "appearance_count": 4,
+          "time_info": "[13时12分 ~ 16时15分]"
         },
         {
           "title": "金价",

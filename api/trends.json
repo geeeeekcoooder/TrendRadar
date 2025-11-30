@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T11:55:40.030755+08:00",
-  "total_titles_processed": 690,
+  "generated_at": "2025-11-30T12:27:47.821266+08:00",
+  "total_titles_processed": 719,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时13分 ~ 11时55分]"
+          "appearance_count": 12,
+          "time_info": "[00时13分 ~ 12时27分]"
         },
         {
           "title": "特朗普的乌克兰和平蓝图：以商业取代战争",
@@ -166,11 +166,12 @@
           "url": "https://www.toutiao.com/trending/7578337181966552617/",
           "source": "今日头条",
           "ranks": [
-            27
+            27,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时55分 ~ 12时27分]"
         }
       ]
     },

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T04:14:33.236010+08:00",
-  "total_titles_processed": 485,
+  "generated_at": "2025-12-03T05:17:57.018836+08:00",
+  "total_titles_processed": 545,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 58,
       "titles": [
         {
           "title": "白宫：特朗普已终止“无休止”援乌",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时48分 ~ 04时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时48分 ~ 05时17分]"
         },
         {
           "title": "美国清空G20官网南非创建内容，将首页换上特朗普海报(图)",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时48分 ~ 04时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时48分 ~ 05时17分]"
         },
         {
           "title": "内塔尼亚胡请求特朗普就其赦免问题提供更多支持",
@@ -36,7 +36,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
         },
@@ -47,7 +47,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
         },
@@ -58,9 +58,22 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
+        },
+        {
+          "title": "美国总统特朗普：我和马斯克相处得很好。 但我就是不希望只有电动汽车。",
+          "url": "https://wallstreetcn.com/livenews/3013871",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时13分 ~ 05时17分]"
         },
         {
           "title": "美国总统特朗普：乌克兰局势并不简单，真是乱成一团。",
@@ -102,16 +115,17 @@
           "time_info": "[01时17分 ~ 03时13分]"
         },
         {
-          "title": "美国总统特朗普：我和马斯克相处得很好。 但我就是不希望只有电动汽车。",
-          "url": "https://wallstreetcn.com/livenews/3013871",
+          "title": "美国总统特朗普：我们已经将美联储主席候选人精简到一个人（本来有十个人）。 财政部长贝森特面试了一些我不知道的候选人。",
+          "url": "https://wallstreetcn.com/livenews/3013870",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            9
+            3,
+            10,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时13分 ~ 04时14分]"
+          "appearance_count": 3,
+          "time_info": "[03时13分 ~ 05时17分]"
         },
         {
           "title": "美国总统特朗普：我的体检全部得了A。",
@@ -138,18 +152,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时17分 ~ 03时13分]"
-        },
-        {
-          "title": "美国总统特朗普：我们已经将美联储主席候选人精简到一个人（本来有十个人）。 财政部长贝森特面试了一些我不知道的候选人。",
-          "url": "https://wallstreetcn.com/livenews/3013870",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时13分 ~ 04时14分]"
         },
         {
           "title": "美国卫生部长RFK Jr.：另外12家医药公司准备（与总统特朗普）达成药品价格协议。",
@@ -363,7 +365,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
         },
@@ -374,7 +376,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
         },
@@ -385,9 +387,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
+        },
+        {
+          "title": "周二（12月2日）纽约尾盘，美国10年期国债收益率微跌0.23个基点，在特朗普介绍哈塞特为“潜在的”美联储主席之际刷新日低至4.0788%，北京时间20:33刷新日高至4.1136%，之后持续回落。",
+          "url": "https://wallstreetcn.com/livenews/3013902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
         },
         {
           "title": "美国总统特朗普：如果必须打击地面上的毒贩，我们会这么做。",
@@ -396,7 +409,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
         },
@@ -418,9 +431,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
+        },
+        {
+          "title": "美国总统特朗普：与巴西总统卢拉的谈话很棒。 我喜欢卢拉。",
+          "url": "https://wallstreetcn.com/livenews/3013899",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
         },
         {
           "title": "美国总统特朗普：将于明年年初宣布新任美联储主席，贝森特不想要美联储的工作。",
@@ -440,9 +464,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
+        },
+        {
+          "title": "美国总统特朗普结束在白宫活动上的讲话。",
+          "url": "https://flash.jin10.com/detail/20251203043755291800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
         },
         {
           "title": "金十提示：特朗普开始在白宫内阁会议上发表讲话。",
@@ -462,9 +497,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
+        },
+        {
+          "title": "美国总统特朗普：我喜欢他（指巴西总统卢拉）。",
+          "url": "https://flash.jin10.com/detail/20251203043716378800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
         },
         {
           "title": "美国总统特朗普：牛肉价格正在下降。",
@@ -473,9 +519,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
+        },
+        {
+          "title": "美国总统特朗普：与巴西总统卢拉的通话很棒，谈到了贸易与制裁的问题。",
+          "url": "https://flash.jin10.com/detail/20251203043530932800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
         },
         {
           "title": "市场消息：普京开始与美国特使维特科夫以及特朗普的女婿库什纳举行会谈。",
@@ -495,9 +552,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
+        },
+        {
+          "title": "特朗普在白宫称凯文·哈塞特为“潜在的”美联储主席，说：潜在的美联储主席也在场。",
+          "url": "https://wallstreetcn.com/livenews/3013893",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
         },
         {
           "title": "美国总统特朗普：评估了10位美联储候选人，我们只剩下最后一个人选了。",
@@ -506,7 +574,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
         },
@@ -531,12 +599,89 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "特朗普：不清楚有关委内瑞拉船只遭到第二次袭击的事",
+          "url": "https://flash.jin10.com/detail/20251203042601542800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
+        },
+        {
+          "title": "一封信函显示，AT&T(T.N)承诺将终止多元、公平与包容项目（DEI），此举旨在争取特朗普政府批准其收购US Cellular公司频谱牌照。",
+          "url": "https://flash.jin10.com/detail/20251203041325787800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
+        },
+        {
+          "title": "美国总统特朗普：特朗普账户（旨在帮助美国儿童建立财富的储蓄计划）将于2026年7月4日起开放。",
+          "url": "https://flash.jin10.com/detail/20251203040632369800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
+        },
+        {
+          "title": "特朗普：将对任何涉嫌向美“走私毒品”的国家实施打击",
+          "url": "https://wallstreetcn.com/livenews/3013896",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
+        },
+        {
+          "title": "特朗普积极暗示哈塞特为下任美联储主席",
+          "url": "https://flash.jin10.com/detail/20251203040443497800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
+        },
+        {
+          "title": "内阁会议时长超2小时 特朗普睡眼惺忪",
+          "url": "https://flash.jin10.com/detail/20251203035324570800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
+        },
+        {
+          "title": "特朗普：美国很快将对贩毒集团进行陆地打击",
+          "url": "https://flash.jin10.com/detail/20251203034420715800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "美日政策预期分化，美股指集体高开，金银油回落，加密货币止跌反弹，拍卖需求强劲推高日债",
@@ -547,8 +692,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时48分 ~ 04时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时48分 ~ 05时17分]"
         },
         {
           "title": "美股三大指数小幅高开 英伟达涨超1%",
@@ -558,8 +703,30 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时48分 ~ 04时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时48分 ~ 05时17分]"
+        },
+        {
+          "title": "金十图示：2025年12月02日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251203050524229800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
+        },
+        {
+          "title": "金十图示：2025年12月02日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251203050515362800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
         },
         {
           "title": "美股三大期指集体走高 波音盘前涨超3% | 今夜看点",
@@ -569,8 +736,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时26分 ~ 04时14分]"
+          "appearance_count": 4,
+          "time_info": "[02时26分 ~ 05时17分]"
         },
         {
           "title": "金十图示：2025年12月02日（周二）美股热门股票行情一览（美股盘中）",
@@ -597,6 +764,17 @@
           "time_info": "[02时26分 ~ 03时13分]"
         },
         {
+          "title": "美股收盘：三大股指收涨 小鹏跌近8%",
+          "url": "https://flash.jin10.com/detail/20251203050114408800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
+        },
+        {
           "title": "英特尔(INTC.O)美股涨超8%。",
           "url": "https://flash.jin10.com/detail/20251202235849459800",
           "source": "金十数据",
@@ -611,7 +789,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "非洲股市收盘播报｜周二（12月2日），南非富时/JSE非洲领先40可交易指数收跌1.13%，报10.3万点。 南非兰特兑美元跌0.21%，暂报17.1273兰特。 南非10年期国债收益率一度下跌5个基点，至8.45%，创2017年9月份以来新低。",
@@ -624,6 +802,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时48分 ~ 01时17分]"
+        },
+        {
+          "title": "美元指数2日下跌",
+          "url": "https://flash.jin10.com/detail/20251203044855190800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
+        },
+        {
+          "title": "美元指数刷新日低，特朗普“换种方式”介绍哈塞特",
+          "url": "https://wallstreetcn.com/livenews/3013901",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
         },
         {
           "title": "恒天然：12月2日全球乳品贸易（GDT）拍卖价格指数下降4.3%，奶粉各合同期FAS拍卖均价3,507美元/吨。 批发奶粉价格指数下跌2.4%，报3,364美元/吨。",
@@ -651,8 +851,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时48分 ~ 04时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时48分 ~ 05时17分]"
         },
         {
           "title": "费城半导体指数涨幅扩大至2.4%，英伟达涨2.7%。",

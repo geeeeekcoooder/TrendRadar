@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-02T13:13:21.068721+08:00",
-  "total_titles_processed": 1064,
+  "generated_at": "2025-12-02T14:19:58.397427+08:00",
+  "total_titles_processed": 1143,
   "failed_sources": [],
   "trends": [
     {
@@ -44,11 +44,23 @@
             16,
             17,
             13,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时16分 ~ 13时13分]"
+          "appearance_count": 16,
+          "time_info": "[00时16分 ~ 14时19分]"
+        },
+        {
+          "title": "“即将宣布”，特朗普称已选定下任美联储主席",
+          "url": "https://news.ifeng.com/c/8okTPLnScLu",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时55分 ~ 14时19分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普将于周二主持内阁会议。",
@@ -76,17 +88,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时15分 ~ 05时10分]"
-        },
-        {
-          "title": "“即将宣布”，特朗普称已选定下任美联储主席",
-          "url": "https://news.ifeng.com/c/8okTPLnScLu",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时55分 ~ 13时13分]"
         },
         {
           "title": "美国总统特朗普：任何事情都不应妨碍叙利亚的改变。",
@@ -257,6 +258,18 @@
           "time_info": "[01时14分 ~ 02时19分]"
         },
         {
+          "title": "特朗普面临支持率“大麻烦”",
+          "url": "https://www.toutiao.com/trending/7578565783584784438/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时13分 ~ 14时19分]"
+        },
+        {
           "title": "美媒：民调显示特朗普正面临麻烦",
           "url": "https://www.toutiao.com/trending/7577944008061108270/",
           "source": "今日头条",
@@ -356,17 +369,6 @@
           "time_info": "01时14分"
         },
         {
-          "title": "特朗普面临支持率“大麻烦”",
-          "url": "https://www.toutiao.com/trending/7578565783584784438/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时13分"
-        },
-        {
           "title": "美国参议院商务委员会将于12月8日就特朗普提名的美国航空航天局（NASA）局长人选进行投票。",
           "url": "https://flash.jin10.com/detail/20251202075843909800",
           "source": "金十数据",
@@ -413,11 +415,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时11分 ~ 13时13分]"
+          "appearance_count": 7,
+          "time_info": "[07时11分 ~ 14时19分]"
         },
         {
           "title": "金十图示：2025年12月01日（周一）热门中概股行情一览（美股收盘）",
@@ -641,7 +644,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         }
@@ -662,6 +665,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时10分 ~ 06时11分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "风电",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "维斯塔斯 (Vestas)：为满足欧洲陆上风电需求的持续增长，将把位于波兰的工厂产能翻倍，并招聘300名员工。",
+          "url": "https://flash.jin10.com/detail/20251202135505713800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
         }
       ]
     }

@@ -1,33 +1,35 @@
 {
-  "generated_at": "2025-12-03T07:11:44.198036+08:00",
-  "total_titles_processed": 632,
+  "generated_at": "2025-12-03T08:54:52.589319+08:00",
+  "total_titles_processed": 775,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 63,
+      "match_count": 66,
       "titles": [
         {
           "title": "白宫：特朗普已终止“无休止”援乌",
           "url": "https://news.ifeng.com/c/8okzUol0Uy6",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时48分 ~ 07时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时48分 ~ 08时54分]"
         },
         {
           "title": "美国清空G20官网南非创建内容，将首页换上特朗普海报(图)",
           "url": "https://news.ifeng.com/c/8oksAa0SOcr",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时48分 ~ 07时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时48分 ~ 08时54分]"
         },
         {
           "title": "内塔尼亚胡请求特朗普就其赦免问题提供更多支持",
@@ -47,7 +49,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -224,6 +226,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时17分 ~ 02时26分]"
+        },
+        {
+          "title": "特朗普定档！计划明年初再揭晓美联储新主席人选",
+          "url": "https://www.cls.cn/detail/2217685",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时11分 ~ 08时54分]"
         },
         {
           "title": "首位美籍教皇利奥十四世敦促特朗普政府不要试图通过军事手段推翻委内瑞拉总统马杜罗，利奥十四世表示，如果华盛顿寻求变革，与其采取对抗，不如尝试对话或施加经济压力。",
@@ -406,6 +420,17 @@
           "time_info": "[05时17分 ~ 06时11分]"
         },
         {
+          "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
+          "url": "https://wallstreetcn.com/articles/3760565",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        },
+        {
           "title": "美国总统特朗普：（被问及维特科夫与普京的会晤）会后我会了解会谈的最新进展。",
           "url": "https://flash.jin10.com/detail/20251203030337791800",
           "source": "金十数据",
@@ -445,18 +470,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时11分"
-        },
-        {
-          "title": "特朗普定档！计划明年初再揭晓美联储新主席人选",
-          "url": "https://www.cls.cn/detail/2217685",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -533,7 +547,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -577,7 +591,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -670,6 +684,17 @@
           "time_info": "05时17分"
         },
         {
+          "title": "哥伦比亚总统回应特朗普威胁：侵犯主权即宣战",
+          "url": "https://flash.jin10.com/detail/20251203075451348800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        },
+        {
           "title": "一封信函显示，AT&T(T.N)承诺将终止多元、公平与包容项目（DEI），此举旨在争取特朗普政府批准其收购US Cellular公司频谱牌照。",
           "url": "https://flash.jin10.com/detail/20251203041325787800",
           "source": "金十数据",
@@ -679,6 +704,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
+        },
+        {
+          "title": "美媒：特朗普取消本周的美联储主席遴选面试",
+          "url": "https://flash.jin10.com/detail/20251203075259305800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
         },
         {
           "title": "美国总统特朗普：特朗普账户（旨在帮助美国儿童建立财富的储蓄计划）将于2026年7月4日起开放。",
@@ -739,7 +775,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美日政策预期分化，美股指集体高开，金银油回落，加密货币止跌反弹，拍卖需求强劲推高日债",
@@ -769,11 +805,35 @@
           "url": "https://www.cls.cn/detail/2217558",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时26分 ~ 07时11分]"
+          "appearance_count": 7,
+          "time_info": "[02时26分 ~ 08时54分]"
+        },
+        {
+          "title": "美股涨，数字货币大体收复周一暴跌失地，离岸人民币迈向14个月高位，白银V形反转",
+          "url": "https://wallstreetcn.com/articles/3760523",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        },
+        {
+          "title": "美股收盘：三大指数震荡收高 光通信牛股再创新高",
+          "url": "https://www.cls.cn/detail/2217711",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时11分 ~ 08时54分]"
         },
         {
           "title": "金十图示：2025年12月02日（周二）美股热门股票行情一览（美股收盘）",
@@ -860,24 +920,13 @@
           "time_info": "[02时26分 ~ 03时13分]"
         },
         {
-          "title": "美股收盘：三大指数震荡收高 光通信牛股再创新高",
-          "url": "https://www.cls.cn/detail/2217711",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时11分"
-        },
-        {
           "title": "周二（12月2日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘涨5.42%，报91860美元，北京时间22:00之前大致持平，之后显著走高，03:41刷新日高至92705美元。 CME以太币期货DCR主力合约涨7.37%，报3000美元。 美股加密货币与加密货币关联指数跌2.70%，报66.63点。 最近24小时，MarketVector数字资产100小盘指数涨6.31%，暂报18906.56点。",
           "url": "https://wallstreetcn.com/livenews/3013930",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -888,7 +937,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -899,7 +948,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -982,8 +1031,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时48分 ~ 07时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时48分 ~ 08时54分]"
         },
         {
           "title": "费城半导体指数涨幅扩大至2.4%，英伟达涨2.7%。",
@@ -995,6 +1044,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "摩根大通预计美债收益率明年将上升，降息预期料减弱",
+          "url": "https://wallstreetcn.com/livenews/3013963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
         }
       ]
     },

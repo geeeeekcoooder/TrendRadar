@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T10:31:31.945751+08:00",
-  "total_titles_processed": 888,
+  "generated_at": "2025-12-03T11:46:48.623419+08:00",
+  "total_titles_processed": 1018,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 74,
+      "match_count": 75,
       "titles": [
         {
           "title": "白宫：特朗普已终止“无休止”援乌",
@@ -32,6 +32,17 @@
           "time_info": "[00时48分 ~ 08时54分]"
         },
         {
+          "title": "特朗普“点名”日本",
+          "url": "https://news.ifeng.com/c/8omI9QpRNFm",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时31分 ~ 11时46分]"
+        },
+        {
           "title": "内塔尼亚胡请求特朗普就其赦免问题提供更多支持",
           "url": "https://flash.jin10.com/detail/20251203033616090800",
           "source": "金十数据",
@@ -43,17 +54,6 @@
           "time_info": "04时14分"
         },
         {
-          "title": "特朗普“点名”日本",
-          "url": "https://news.ifeng.com/c/8omI9QpRNFm",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
           "title": "美国总统特朗普：与巴西总统卢拉的通话富有成效。 我们讨论了贸易、关税、制裁问题。 期待很快就会见卢拉。",
           "url": "https://wallstreetcn.com/livenews/3013948",
           "source": "华尔街见闻-快讯",
@@ -63,6 +63,31 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "特朗普定档！计划明年初再揭晓美联储新主席人选",
+          "url": "https://www.cls.cn/detail/2217685",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时11分 ~ 11时46分]"
+        },
+        {
+          "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
+          "url": "https://wallstreetcn.com/articles/3760565",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时54分 ~ 11时46分]"
         },
         {
           "title": "金十提示：特朗普内阁会议讲话结束。",
@@ -152,17 +177,16 @@
           "time_info": "[03时13分 ~ 05时17分]"
         },
         {
-          "title": "特朗普定档！计划明年初再揭晓美联储新主席人选",
-          "url": "https://www.cls.cn/detail/2217685",
-          "source": "财联社热门",
+          "title": "特朗普“点名”日本",
+          "url": "https://www.toutiao.com/trending/7579444252149763593/",
+          "source": "今日头条",
           "ranks": [
-            13,
-            8,
-            5
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时11分 ~ 10时31分]"
+          "appearance_count": 2,
+          "time_info": "[10时31分 ~ 11时46分]"
         },
         {
           "title": "美国总统特朗普：我的体检全部得了A。",
@@ -214,17 +238,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时26分 ~ 04时14分]"
-        },
-        {
-          "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
-          "url": "https://wallstreetcn.com/articles/3760565",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时54分 ~ 10时31分]"
         },
         {
           "title": "美国总统特朗普：我们将通过关税向人民发放红利。",
@@ -347,6 +360,18 @@
           "time_info": "[01时17分 ~ 02时26分]"
         },
         {
+          "title": "特朗普宣布拜登时期文件全部作废",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E6%8B%9C%E7%99%BB%E6%97%B6%E6%9C%9F%E6%96%87%E4%BB%B6%E5%85%A8%E9%83%A8%E4%BD%9C%E5%BA%9F%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时31分 ~ 11时46分]"
+        },
+        {
           "title": "美国总统特朗普重申对鲍威尔的批评，特朗普表示连摩根大通CEO戴蒙都说鲍威尔应该降低利率。",
           "url": "https://flash.jin10.com/detail/20251203005821190800",
           "source": "金十数据",
@@ -454,17 +479,6 @@
           "time_info": "04时14分"
         },
         {
-          "title": "特朗普“点名”日本",
-          "url": "https://www.toutiao.com/trending/7579444252149763593/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
           "title": "美国总统特朗普：任何向美国贩毒的国家都将遭到打击。",
           "url": "https://flash.jin10.com/detail/20251203030247273800",
           "source": "金十数据",
@@ -504,7 +518,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
         },
@@ -515,18 +529,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "特朗普宣布拜登时期文件全部作废",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E6%8B%9C%E7%99%BB%E6%97%B6%E6%9C%9F%E6%96%87%E4%BB%B6%E5%85%A8%E9%83%A8%E4%BD%9C%E5%BA%9F%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
         },
@@ -537,7 +540,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
         },
@@ -559,7 +562,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
         },
@@ -746,7 +749,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
         },
@@ -771,6 +774,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
+        },
+        {
+          "title": "特朗普支持的共和党人在田纳西州险胜 中期选举前景堪忧",
+          "url": "https://flash.jin10.com/detail/20251203110617903800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时46分"
         },
         {
           "title": "哥伦比亚总统回应特朗普威胁：侵犯主权即宣战",
@@ -892,6 +906,18 @@
           "time_info": "[02时26分 ~ 10时31分]"
         },
         {
+          "title": "美股涨，数字货币大体收复周一暴跌失地，离岸人民币迈向14个月高位，白银V形反转",
+          "url": "https://wallstreetcn.com/articles/3760523",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时54分 ~ 11时46分]"
+        },
+        {
           "title": "美股三大指数小幅高开 英伟达涨超1%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%B0%8F%E5%B9%85%E9%AB%98%E5%BC%80+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%B6%A8%E8%B6%851%25",
           "source": "百度热搜",
@@ -903,18 +929,6 @@
           "time_info": "[00时48分 ~ 06时11分]"
         },
         {
-          "title": "美股涨，数字货币大体收复周一暴跌失地，离岸人民币迈向14个月高位，白银V形反转",
-          "url": "https://wallstreetcn.com/articles/3760523",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时54分 ~ 10时31分]"
-        },
-        {
           "title": "美股收盘：三大指数震荡收高 光通信牛股再创新高",
           "url": "https://www.cls.cn/detail/2217711",
           "source": "财联社热门",
@@ -924,8 +938,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时11分 ~ 10时31分]"
+          "appearance_count": 4,
+          "time_info": "[07时11分 ~ 11时46分]"
         },
         {
           "title": "金十图示：2025年12月02日（周二）美股热门股票行情一览（美股收盘）",
@@ -1059,7 +1073,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "非洲股市收盘播报｜周二（12月2日），南非富时/JSE非洲领先40可交易指数收跌1.13%，报10.3万点。 南非兰特兑美元跌0.21%，暂报17.1273兰特。 南非10年期国债收益率一度下跌5个基点，至8.45%，创2017年9月份以来新低。",
@@ -1098,6 +1112,17 @@
           "time_info": "[05时17分 ~ 06时11分]"
         },
         {
+          "title": "新西兰联储上调贸易加权指数中的美元权重",
+          "url": "https://wallstreetcn.com/livenews/3014135",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时46分"
+        },
+        {
           "title": "恒天然：12月2日全球乳品贸易（GDT）拍卖价格指数下降4.3%，奶粉各合同期FAS拍卖均价3,507美元/吨。 批发奶粉价格指数下跌2.4%，报3,364美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3013801",
           "source": "华尔街见闻-快讯",
@@ -1112,7 +1137,7 @@
     },
     {
       "keyword_group": "半导体",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "价值36亿！半导体大佬虞仁荣再度大手笔捐赠股份",
@@ -1125,6 +1150,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时48分 ~ 08时54分]"
+        },
+        {
+          "title": "英诺赛科与安森美半导体达成共同加速推进氮化镓产业生态建设的战略合作协议",
+          "url": "https://wallstreetcn.com/livenews/3014116",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时46分"
         },
         {
           "title": "费城半导体指数涨幅扩大至2.4%，英伟达涨2.7%。",
@@ -1150,7 +1186,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
         }

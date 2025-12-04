@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-04T17:16:43.043739+08:00",
-  "total_titles_processed": 1529,
+  "generated_at": "2025-12-04T18:15:22.705683+08:00",
+  "total_titles_processed": 1614,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 62,
+      "match_count": 63,
       "titles": [
         {
           "title": "【早报】特朗普签署涉台法案，外交部发声；摩尔线程周五上市",
@@ -29,6 +29,21 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时17分 ~ 08时55分]"
+        },
+        {
+          "title": "哈塞特若出任美联储主席，贝森特或“一统”特朗普政府经济政策",
+          "url": "https://wallstreetcn.com/articles/3760676",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时48分 ~ 18时15分]"
         },
         {
           "title": "特朗普就美俄会谈表态：“相当不错”，普京想结束战争！",
@@ -85,20 +100,6 @@
           "time_info": "[00时17分 ~ 04时14分]"
         },
         {
-          "title": "哈塞特若出任美联储主席，贝森特或“一统”特朗普政府经济政策",
-          "url": "https://wallstreetcn.com/articles/3760676",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时48分 ~ 17时16分]"
-        },
-        {
           "title": "观察｜特朗普的俄乌“和平计划”背后：生意，生意，还是生意",
           "url": "https://m.thepaper.cn/newsDetail_forward_32096930",
           "source": "澎湃新闻",
@@ -109,8 +110,21 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时22分 ~ 17时16分]"
+          "appearance_count": 8,
+          "time_info": "[12时22分 ~ 18时15分]"
+        },
+        {
+          "title": "特朗普政府转向机器人之际 两大顶流厂商上演“隔空赛跑”",
+          "url": "https://www.cls.cn/detail/2219555",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时18分 ~ 18时15分]"
         },
         {
           "title": "特朗普：将很快在拉美开展地面打击",
@@ -219,18 +233,6 @@
           "time_info": "[01时16分 ~ 03时12分]"
         },
         {
-          "title": "特朗普政府转向机器人之际 两大顶流厂商上演“隔空赛跑”",
-          "url": "https://www.cls.cn/detail/2219555",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时18分 ~ 17时16分]"
-        },
-        {
           "title": "特朗普提议大幅削减燃油经济性要求",
           "url": "https://flash.jin10.com/detail/20251204033431474800",
           "source": "金十数据",
@@ -316,6 +318,18 @@
           "time_info": "[02时18分 ~ 04时14分]"
         },
         {
+          "title": "特朗普政府All in！据称考虑明年发机器人行政令，iRobot盘中飙涨近80%",
+          "url": "https://wallstreetcn.com/articles/3760664",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时18分 ~ 18时15分]"
+        },
+        {
           "title": "英伟达CEO黄仁勋：特朗普总统的促增长能源政策“拯救了人工智能产业”。",
           "url": "https://flash.jin10.com/detail/20251204032609838800",
           "source": "金十数据",
@@ -386,17 +400,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时12分 ~ 07时10分]"
-        },
-        {
-          "title": "特朗普政府All in！据称考虑明年发机器人行政令，iRobot盘中飙涨近80%",
-          "url": "https://wallstreetcn.com/articles/3760664",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时18分 ~ 17时16分]"
         },
         {
           "title": "美国总统特朗普：我们要么让美墨加协定到期失效，要么与墨西哥和加拿大另行达成协议。",
@@ -504,6 +507,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时12分 ~ 14时19分]"
+        },
+        {
+          "title": "美部长花式“拍特朗普马屁”，特朗普听完直接笑了",
+          "url": "https://v.ifeng.com/c/8ooVjzBecEz",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         },
         {
           "title": "戴尔夫妇豪捐62.5亿美元，为2500万儿童开设特朗普账户，特朗普：慷慨！",

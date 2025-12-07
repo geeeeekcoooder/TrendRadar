@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T07:11:37.562931+08:00",
-  "total_titles_processed": 405,
+  "generated_at": "2025-12-07T09:00:56.392890+08:00",
+  "total_titles_processed": 501,
   "failed_sources": [],
   "trends": [
     {
@@ -39,8 +39,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 07时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时13分 ~ 09时00分]"
         },
         {
           "title": "特朗普最终果然如媒体和大众判断的那样，顺利获得国际足联新设立的和平奖，对此你怎么看？",
@@ -48,11 +48,12 @@
           "source": "知乎",
           "ranks": [
             16,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 07时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时13分 ~ 09时00分]"
         }
       ]
     },
@@ -80,8 +81,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 07时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时13分 ~ 09时00分]"
         },
         {
           "title": "美股三大指数小幅收涨",
@@ -90,7 +91,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         }
@@ -105,11 +106,12 @@
           "url": "https://wallstreetcn.com/livenews/3016309",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 07时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 09时00分]"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T16:15:02.355696+08:00",
-  "total_titles_processed": 928,
+  "generated_at": "2025-12-07T17:12:49.933090+08:00",
+  "total_titles_processed": 992,
   "failed_sources": [],
   "trends": [
     {
@@ -79,11 +79,12 @@
             1,
             6,
             11,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时11分 ~ 16时15分]"
+          "appearance_count": 5,
+          "time_info": "[13时11分 ~ 17时12分]"
         },
         {
           "title": "美防长：特朗普政府将“把国家实际利益放在首位”",
@@ -93,11 +94,12 @@
             4,
             9,
             14,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时11分 ~ 16时15分]"
+          "appearance_count": 5,
+          "time_info": "[13时11分 ~ 17时12分]"
         },
         {
           "title": "年终总结特朗普重返白宫",
@@ -146,33 +148,36 @@
           "url": "https://flash.jin10.com/detail/20251207151054908800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时15分 ~ 17时12分]"
         },
         {
           "title": "印度电力部秘书：计划到2035年实现煤炭发电装机容量307吉瓦。",
           "url": "https://flash.jin10.com/detail/20251207150625798800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时15分 ~ 17时12分]"
         },
         {
           "title": "印度电力部秘书：希望以煤炭作为基荷电源，保障能源需求。",
           "url": "https://flash.jin10.com/detail/20251207150529141800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时15分 ~ 17时12分]"
         }
       ]
     },
@@ -231,22 +236,24 @@
             9,
             10,
             11,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时27分 ~ 16时15分]"
+          "appearance_count": 6,
+          "time_info": "[12时27分 ~ 17时12分]"
         },
         {
           "title": "荷兰经济大臣就安世半导体接受质询，坦承对中方反制措施“措手不及”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32124420",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时14分 ~ 16时15分]"
+          "appearance_count": 3,
+          "time_info": "[16时14分 ~ 17时12分]"
         }
       ]
     }

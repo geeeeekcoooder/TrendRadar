@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T13:13:21.821708+08:00",
-  "total_titles_processed": 1187,
+  "generated_at": "2025-12-09T14:20:16.081571+08:00",
+  "total_titles_processed": 1291,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 51,
       "titles": [
         {
           "title": "特朗普发帖暗示高院会否决“对等关税”？美国公司已“争先恐后”争夺“退税”",
@@ -22,6 +22,19 @@
           "time_info": "[00时16分 ~ 11时46分]"
         },
         {
+          "title": "特朗普宣布：允许英伟达向中国出售H200芯片",
+          "url": "https://www.cls.cn/detail/2223487",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时43分 ~ 14时20分]"
+        },
+        {
           "title": "特朗普的国安战略：“卖台保台”“捧华反华”都是一回事",
           "url": "https://news.ifeng.com/c/8ov552jltTT",
           "source": "凤凰网",
@@ -33,16 +46,15 @@
           "time_info": "[00时16分 ~ 03时10分]"
         },
         {
-          "title": "特朗普宣布：允许英伟达向中国出售H200芯片",
-          "url": "https://www.cls.cn/detail/2223487",
-          "source": "财联社热门",
+          "title": "日媒更慌了，“特朗普还不说话，这下怎么搞”",
+          "url": "https://news.ifeng.com/c/8owNK695xvD",
+          "source": "凤凰网",
           "ranks": [
-            11,
-            4
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时43分 ~ 13时13分]"
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 14时20分]"
         },
         {
           "title": "美国总统特朗普在一场圆桌会议上声称：将把一部分关税“收入”用于救济农民经济。",
@@ -231,6 +243,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时18分 ~ 04时13分]"
+        },
+        {
+          "title": "特朗普女婿，“杀回来了”",
+          "url": "https://news.ifeng.com/c/8owSp96lgRc",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 14时20分]"
         },
         {
           "title": "美国总统特朗普：尚未就派拉蒙收购案与库什纳（特朗普女婿）交流。",
@@ -592,8 +615,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时11分 ~ 13时13分]"
+          "appearance_count": 10,
+          "time_info": "[07时11分 ~ 14时20分]"
         },
         {
           "title": "静待美联储决议，美股高开，10年期日债收益率创18年新高，铜价再创新高",
@@ -907,11 +930,12 @@
           "url": "https://wallstreetcn.com/articles/3760903",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时54分 ~ 13时13分]"
+          "appearance_count": 9,
+          "time_info": "[08时54分 ~ 14时20分]"
         },
         {
           "title": "美债收益率冲高回落，投资者对美联储降息预期一度降温",

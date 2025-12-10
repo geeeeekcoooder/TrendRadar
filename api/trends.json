@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T11:52:46.454720+08:00",
-  "total_titles_processed": 1101,
+  "generated_at": "2025-12-10T12:26:23.399846+08:00",
+  "total_titles_processed": 1158,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 46,
       "titles": [
         {
           "title": "胡锡进：特朗普对H200放行，显然受到了两大压力",
@@ -41,11 +41,12 @@
             9,
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 11时52分]"
+          "appearance_count": 15,
+          "time_info": "[00时23分 ~ 12时26分]"
         },
         {
           "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
@@ -111,8 +112,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时56分 ~ 11时52分]"
+          "appearance_count": 4,
+          "time_info": "[08时56分 ~ 12时26分]"
         },
         {
           "title": "采访中特朗普突然发飙怒斥记者",
@@ -171,6 +172,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
+        },
+        {
+          "title": "特朗普发长文回击：自诩政绩空前，晒“满分”健康报告，斥责《纽约时报》为“人民公敌”",
+          "url": "https://flash.jin10.com/detail/20251210121528240800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
         },
         {
           "title": "美国总统特朗普：我们现在的重点必须放在赢得中期选举上。",
@@ -304,6 +316,18 @@
           "time_info": "[03时40分 ~ 05时10分]"
         },
         {
+          "title": "美国企业界对特朗普执政表现评价不高",
+          "url": "https://www.toutiao.com/trending/7581666417361092614/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时52分 ~ 12时26分]"
+        },
+        {
           "title": "泽连斯基回应特朗普：已准备好举行选举",
           "url": "https://news.ifeng.com/c/8oxUGggjWaR",
           "source": "凤凰网",
@@ -420,7 +444,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
         },
@@ -522,17 +546,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
-        },
-        {
-          "title": "美国企业界对特朗普执政表现评价不高",
-          "url": "https://www.toutiao.com/trending/7581666417361092614/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时52分"
         }
       ]
     },
@@ -555,17 +568,6 @@
           "time_info": "[00时23分 ~ 08时56分]"
         },
         {
-          "title": "美利率决议前市场谨慎，劳动力数据提振美股上涨，现货白银突破60美元创新高，加密货币转涨",
-          "url": "https://wallstreetcn.com/articles/3760999",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 04时13分]"
-        },
-        {
           "title": "美股收盘：三大股指涨跌不一 摩根大通成本预警施压大盘",
           "url": "https://www.cls.cn/detail/2224722",
           "source": "财联社热门",
@@ -576,8 +578,19 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时11分 ~ 12时26分]"
+        },
+        {
+          "title": "美利率决议前市场谨慎，劳动力数据提振美股上涨，现货白银突破60美元创新高，加密货币转涨",
+          "url": "https://wallstreetcn.com/articles/3760999",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[07时11分 ~ 11时52分]"
+          "time_info": "[01时14分 ~ 04时13分]"
         },
         {
           "title": "金十图示：2025年12月09日（周二）热门中概股行情一览（美股收盘）",
@@ -718,8 +731,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时56分 ~ 11时52分]"
+          "appearance_count": 4,
+          "time_info": "[08时56分 ~ 12时26分]"
         },
         {
           "title": "美利率决议前市场谨慎，美股指集体低开，美债收益率高位回落，美元企稳，现货黄金重新站上4200美元",
@@ -799,8 +812,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时48分 ~ 11时52分]"
+          "appearance_count": 3,
+          "time_info": "[10时48分 ~ 12时26分]"
         },
         {
           "title": "四川“十五五”规划建议：加快发展人工智能、低空经济、智能网联汽车、核医疗等新兴产业",
@@ -824,11 +837,12 @@
           "url": "https://flash.jin10.com/detail/20251210111107526800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时52分 ~ 12时26分]"
         }
       ]
     },
@@ -841,11 +855,12 @@
           "url": "https://flash.jin10.com/detail/20251210113458134800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时52分 ~ 12时26分]"
         }
       ]
     }

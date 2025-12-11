@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T20:25:28.650505+08:00",
-  "total_titles_processed": 1963,
+  "generated_at": "2025-12-11T21:33:43.847175+08:00",
+  "total_titles_processed": 2065,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 59,
+      "match_count": 60,
       "titles": [
         {
           "title": "高市早苗求见特朗普",
@@ -67,8 +67,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时18分 ~ 20时25分]"
+          "appearance_count": 5,
+          "time_info": "[17时18分 ~ 21时33分]"
         },
         {
           "title": "特朗普：被扣押油轮上的石油归美国了",
@@ -80,6 +80,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时18分 ~ 17时18分]"
+        },
+        {
+          "title": "美国商务部长卢特尼克：（谈英伟达H200芯片）是美国总统特朗普与英伟达CEO之间的交易。",
+          "url": "https://flash.jin10.com/detail/20251211210900621800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         },
         {
           "title": "美国总统特朗普：墨西哥的水资源和污水问题是“对得克萨斯州、加利福尼亚州及美国的真正威胁”。",
@@ -113,6 +124,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "泰国总理回应特朗普：一通电话无法解决泰柬冲突",
+          "url": "https://news.ifeng.com/c/8ozyUBmNa9F",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时18分 ~ 21时33分]"
         },
         {
           "title": "美国总统特朗普：听苹果(AAPL.O)CEO库克说，招聘人才很难。",
@@ -149,17 +171,6 @@
           "time_info": "[05时14分 ~ 06时13分]"
         },
         {
-          "title": "泰国总理回应特朗普：一通电话无法解决泰柬冲突",
-          "url": "https://news.ifeng.com/c/8ozyUBmNa9F",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时18分 ~ 20时25分]"
-        },
-        {
           "title": "华纳收购案再迎变数 特朗普称CNN必须被出售",
           "url": "https://flash.jin10.com/detail/20251211055914043800",
           "source": "金十数据",
@@ -182,6 +193,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时16分 ~ 14时20分]"
+        },
+        {
+          "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32144570",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时12分 ~ 21时33分]"
         },
         {
           "title": "特朗普向哥伦比亚总统发出威胁：“他将是下一个”",
@@ -242,18 +266,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时57分 ~ 10时50分]"
-        },
-        {
-          "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32144570",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时12分 ~ 20时25分]"
         },
         {
           "title": "美国总统特朗普：我们刚刚在委内瑞拉附近扣押了一艘油轮。",
@@ -677,7 +689,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "美联储降息，鲍威尔言论比预期温和，美股三大指数收涨，白银再创新高，原油V形反转",
@@ -687,8 +699,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时57分 ~ 20时25分]"
+          "appearance_count": 14,
+          "time_info": "[08时57分 ~ 21时33分]"
         },
         {
           "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
@@ -713,6 +725,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时15分 ~ 07时11分]"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-12-11）",
+          "url": "https://flash.jin10.com/detail/20251211211225908800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         },
         {
           "title": "甲骨文美股盘前跌超12%，公司业绩不及预期，资本开支比预期多约150亿美元。",
@@ -1159,7 +1182,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时25分"
         },
@@ -1265,7 +1288,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时25分"
         }

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T21:33:43.847175+08:00",
-  "total_titles_processed": 2065,
+  "generated_at": "2025-12-11T22:16:40.131454+08:00",
+  "total_titles_processed": 2148,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 63,
       "titles": [
         {
           "title": "高市早苗求见特朗普",
@@ -88,7 +88,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -148,6 +148,17 @@
           "time_info": "04时25分"
         },
         {
+          "title": "印度总理莫迪：与美国总统特朗普通话，讨论双边关系进展。",
+          "url": "https://flash.jin10.com/detail/20251211220429597800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
           "title": "特朗普发飙怒斥记者",
           "url": "https://www.douyin.com/hot/2332016",
           "source": "抖音",
@@ -204,8 +215,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时12分 ~ 21时33分]"
+          "appearance_count": 4,
+          "time_info": "[19时12分 ~ 22时16分]"
         },
         {
           "title": "特朗普向哥伦比亚总统发出威胁：“他将是下一个”",
@@ -266,6 +277,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时57分 ~ 10时50分]"
+        },
+        {
+          "title": "美英法德领导人就乌克兰问题通话，特朗普：言辞相当激烈",
+          "url": "https://news.ifeng.com/c/8p0EFlr6GTe",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
         },
         {
           "title": "美国总统特朗普：我们刚刚在委内瑞拉附近扣押了一艘油轮。",
@@ -609,6 +631,17 @@
           "time_info": "04时25分"
         },
         {
+          "title": "特朗普为何突然搞“西半球优先”",
+          "url": "https://www.toutiao.com/trending/7581978972871917594/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
           "title": "美国总统特朗普：有充分理由扣押委内瑞拉附近的船只。",
           "url": "https://flash.jin10.com/detail/20251211044531960800",
           "source": "金十数据",
@@ -699,8 +732,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时57分 ~ 21时33分]"
+          "appearance_count": 15,
+          "time_info": "[08时57分 ~ 22时16分]"
         },
         {
           "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
@@ -733,7 +766,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },

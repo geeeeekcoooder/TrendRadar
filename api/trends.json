@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T17:17:13.976431+08:00",
-  "total_titles_processed": 1665,
+  "generated_at": "2025-12-12T18:14:00.772382+08:00",
+  "total_titles_processed": 1758,
   "failed_sources": [],
   "trends": [
     {
@@ -22,6 +22,21 @@
           "time_info": "[00时18分 ~ 11时53分]"
         },
         {
+          "title": "特朗普拉小群,想拿C5替代G7",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347914&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%89%E5%B0%8F%E7%BE%A4%2C%E6%83%B3%E6%8B%BFC5%E6%9B%BF%E4%BB%A3G7",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            5,
+            6,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时14分 ~ 18时14分]"
+        },
+        {
           "title": "白宫：特朗普对俄乌都很失望",
           "url": "https://news.ifeng.com/c/8p1LpVJOOIe",
           "source": "凤凰网",
@@ -38,11 +53,12 @@
           "source": "知乎",
           "ranks": [
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时48分 ~ 17时17分]"
+          "appearance_count": 14,
+          "time_info": "[10时48分 ~ 18时14分]"
         },
         {
           "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
@@ -58,20 +74,6 @@
           "time_info": "[00时18分 ~ 07时12分]"
         },
         {
-          "title": "特朗普拉小群,想拿C5替代G7",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347914&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%89%E5%B0%8F%E7%BE%A4%2C%E6%83%B3%E6%8B%BFC5%E6%9B%BF%E4%BB%A3G7",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            5,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时14分 ~ 17时17分]"
-        },
-        {
           "title": "特朗普破大妨：美国AI电力遥遥领先，都归功于我",
           "url": "https://news.ifeng.com/c/8p1EpDusf8A",
           "source": "凤凰网",
@@ -83,6 +85,18 @@
           "time_info": "[10时48分 ~ 15时17分]"
         },
         {
+          "title": "C5替换G7？梅德韦杰夫：特朗普公然羞辱欧洲",
+          "url": "https://news.ifeng.com/c/8p1L6GS7kXE",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时17分 ~ 18时14分]"
+        },
+        {
           "title": "特朗普：只有泽连斯基不喜欢和平计划",
           "url": "https://news.ifeng.com/c/8p1VFhun2fI",
           "source": "凤凰网",
@@ -92,6 +106,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时17分 ~ 16时18分]"
+        },
+        {
+          "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
+          "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时17分 ~ 18时14分]"
         },
         {
           "title": "特朗普：若和平协议达成 美愿参与欧洲安全安排",
@@ -137,18 +163,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
-        },
-        {
-          "title": "C5替换G7？梅德韦杰夫：特朗普公然羞辱欧洲",
-          "url": "https://news.ifeng.com/c/8p1L6GS7kXE",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时17分 ~ 17时17分]"
         },
         {
           "title": "美国印第安纳州由共和党掌控的参议院否决了美国总统特朗普支持的国会选区重划方案。",
@@ -198,18 +212,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时53分 ~ 12时27分]"
-        },
-        {
-          "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
-          "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时17分 ~ 17时17分]"
         },
         {
           "title": "美国总统特朗普：关税带来了数千亿美元的收入，我们作为一个国家再次受到尊重。",
@@ -282,6 +284,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时14分 ~ 14时20分]"
+        },
+        {
+          "title": "面对特朗普施压 泽连斯基最新表态：领土问题应由乌人民决定",
+          "url": "https://www.cls.cn/detail/2227581",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时16分 ~ 18时14分]"
         },
         {
           "title": "泰国总理给特朗普“泼冷水”",
@@ -367,17 +381,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时17分 ~ 03时14分]"
-        },
-        {
-          "title": "面对特朗普施压 泽连斯基最新表态：领土问题应由乌人民决定",
-          "url": "https://www.cls.cn/detail/2227581",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时16分 ~ 17时17分]"
         },
         {
           "title": "美媒：特朗普计划制裁马杜罗的侄子及多个运送委内瑞拉石油的公司",
@@ -1156,7 +1159,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
         },

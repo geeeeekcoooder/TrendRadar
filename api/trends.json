@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T18:14:08.564542+08:00",
-  "total_titles_processed": 1686,
+  "generated_at": "2025-12-18T19:12:45.419649+08:00",
+  "total_titles_processed": 1787,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 68,
+      "match_count": 69,
       "titles": [
         {
           "title": "特朗普称委内瑞拉政府“外国恐怖组织”，21世纪再现“大棒加胡萝卜”",
@@ -68,22 +68,24 @@
             10,
             5,
             4,
-            6
+            6,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时16分 ~ 18时14分]"
+          "appearance_count": 8,
+          "time_info": "[15时16分 ~ 19时12分]"
         },
         {
           "title": "“宣战”猜测甚嚣尘上，特朗普全国讲话却只字未提",
           "url": "https://news.ifeng.com/c/8pBZNpaMDrn",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时17分 ~ 18时14分]"
+          "appearance_count": 7,
+          "time_info": "[16时17分 ~ 19时12分]"
         },
         {
           "title": "美国记者卡尔森：特朗普或将对委内瑞拉宣战",
@@ -155,6 +157,19 @@
           "time_info": "10时45分"
         },
         {
+          "title": "特朗普即将宣布新任美联储主席人选：必须认同低利率！",
+          "url": "https://www.cls.cn/detail/2233203",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时18分 ~ 19时12分]"
+        },
+        {
           "title": "据悉特朗普希望渐进式施压让马杜罗低头，最终目标仍然让其下台",
           "url": "https://flash.jin10.com/detail/20251218121134659800",
           "source": "金十数据",
@@ -215,18 +230,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时16分 ~ 02时19分]"
-        },
-        {
-          "title": "特朗普即将宣布新任美联储主席人选：必须认同低利率！",
-          "url": "https://www.cls.cn/detail/2233203",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时18分 ~ 18时14分]"
         },
         {
           "title": "特朗普政府计划拆解主要气候研究中心",
@@ -562,7 +565,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         },
@@ -587,6 +590,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
+        },
+        {
+          "title": "俄外交部：希望特朗普政府在委内瑞拉问题上“别犯致命错误”",
+          "url": "https://wallstreetcn.com/livenews/3023059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
         },
         {
           "title": "美国财长贝森特：预计达利欧对特朗普账户的贡献可能高达1亿美元，但尚未看到最终数据。",
@@ -801,8 +815,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[06时12分 ~ 18时14分]"
+          "appearance_count": 17,
+          "time_info": "[06时12分 ~ 19时12分]"
         },
         {
           "title": "美股收盘：甲骨文带崩大盘 三大指数齐跌 纳指跌近2%",
@@ -1097,6 +1111,35 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "长端美债收益率涨超1个基点，2/10年期美债收益率曲线于20年期国债拍卖后趋陡",
+          "url": "https://wallstreetcn.com/livenews/3022598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时12分 ~ 06时13分]"
+        },
+        {
+          "title": "美国市场“流动性紧张”谜底揭晓？摩根大通从美联储账户提取近3500亿美元，投向美债",
+          "url": "https://wallstreetcn.com/articles/3761610",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -1122,24 +1165,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "长端美债收益率涨超1个基点，2/10年期美债收益率曲线于20年期国债拍卖后趋陡",
-          "url": "https://wallstreetcn.com/livenews/3022598",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时12分 ~ 06时13分]"
         }
       ]
     },

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T13:15:10.073736+08:00",
-  "total_titles_processed": 1294,
+  "generated_at": "2025-12-19T14:19:50.624251+08:00",
+  "total_titles_processed": 1375,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 69,
+      "match_count": 70,
       "titles": [
         {
           "title": "特朗普+核聚变概念股诞生 美国CPI刺激期指拉涨 | 今夜看点",
@@ -21,6 +21,29 @@
           "time_info": "[00时17分 ~ 10时49分]"
         },
         {
+          "title": "特朗普再次向乌克兰施压",
+          "url": "https://news.ifeng.com/c/8pCpqaXsvao",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时49分 ~ 14时19分]"
+        },
+        {
+          "title": "特朗普签署行政令：2028年登月、推进“太空核能计划”、商业化吸金！",
+          "url": "https://www.cls.cn/detail/2234192",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时49分 ~ 14时19分]"
+        },
+        {
           "title": "特朗普对台军售创四大最恶劣纪录，中国大陆发出反制信号",
           "url": "https://news.ifeng.com/c/8pBrdVMrLgT",
           "source": "凤凰网",
@@ -32,27 +55,31 @@
           "time_info": "[00时17分 ~ 07时13分]"
         },
         {
-          "title": "特朗普再次向乌克兰施压",
-          "url": "https://news.ifeng.com/c/8pCpqaXsvao",
-          "source": "凤凰网",
+          "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
+          "url": "https://wallstreetcn.com/articles/3761652",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            8,
+            5,
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时49分 ~ 13时15分]"
+          "appearance_count": 9,
+          "time_info": "[08时56分 ~ 14时19分]"
         },
         {
-          "title": "特朗普签署行政令：2028年登月、推进“太空核能计划”、商业化吸金！",
-          "url": "https://www.cls.cn/detail/2234192",
-          "source": "财联社热门",
+          "title": "特朗普签署行政命令，重申2028年登月目标",
+          "url": "https://news.ifeng.com/c/8pCbX95hrxq",
+          "source": "凤凰网",
           "ranks": [
+            7,
             5,
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时49分 ~ 13时15分]"
+          "appearance_count": 7,
+          "time_info": "[10时49分 ~ 14时19分]"
         },
         {
           "title": "特朗普发表18分钟全国电视讲话：给自己点赞并7次点名拜登",
@@ -66,35 +93,19 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[02时18分 ~ 13时15分]"
+          "appearance_count": 17,
+          "time_info": "[02时18分 ~ 14时19分]"
         },
         {
-          "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
-          "url": "https://wallstreetcn.com/articles/3761652",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时56分 ~ 13时15分]"
-        },
-        {
-          "title": "特朗普签署行政命令，重申2028年登月目标",
-          "url": "https://news.ifeng.com/c/8pCbX95hrxq",
+          "title": "特朗普，敢不敢动武？",
+          "url": "https://news.ifeng.com/c/8pCr08QqAFx",
           "source": "凤凰网",
           "ranks": [
-            7,
-            5,
-            4
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时49分 ~ 13时15分]"
+          "appearance_count": 7,
+          "time_info": "[10时49分 ~ 14时19分]"
         },
         {
           "title": "特朗普：美国将在月球部署核反应堆",
@@ -106,17 +117,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时56分 ~ 08时57分]"
-        },
-        {
-          "title": "特朗普，敢不敢动武？",
-          "url": "https://news.ifeng.com/c/8pCr08QqAFx",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时49分 ~ 13时15分]"
         },
         {
           "title": "特朗普下令要求美国人2028年登月",
@@ -213,6 +213,18 @@
           "time_info": "[10时49分 ~ 12时27分]"
         },
         {
+          "title": "特朗普家族入局！核聚变能源是什么，谁在积极布局？一文读懂",
+          "url": "https://www.cls.cn/detail/2234375",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时14分 ~ 14时19分]"
+        },
+        {
           "title": "特朗普18分钟全国电视讲话说了什么",
           "url": "https://www.toutiao.com/trending/7585366067095014931/",
           "source": "今日头条",
@@ -270,17 +282,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时12分 ~ 04时13分]"
-        },
-        {
-          "title": "特朗普家族入局！核聚变能源是什么，谁在积极布局？一文读懂",
-          "url": "https://www.cls.cn/detail/2234375",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时14分 ~ 13时15分]"
         },
         {
           "title": "美国总统特朗普：希望国会山不至于泄露关于打击委内瑞拉的情报。",
@@ -396,7 +397,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
         },
@@ -465,6 +466,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "特朗普又签行政令 美国要在月球“大兴土木” 可回收火箭或成关键",
+          "url": "https://www.cls.cn/detail/2234355",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
         },
         {
           "title": "美国总统特朗普：（宣布美联储主席人选）可能要到年底之后。",
@@ -848,8 +860,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时49分 ~ 13时15分]"
+          "appearance_count": 7,
+          "time_info": "[10时49分 ~ 14时19分]"
         },
         {
           "title": "甲骨文美股盘后涨3.59%。",
@@ -1051,7 +1063,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美国市场“流动性紧张”谜底揭晓？摩根大通从美联储账户提取近3500亿美元，投向美债",
@@ -1110,6 +1122,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "中国10月美债持仓跌破7000亿美元大关",
+          "url": "https://www.toutiao.com/trending/7585293619852673033/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
         },
         {
           "title": "日本增持美债至2022年7月以来新高，加拿大锐减约570亿美元",

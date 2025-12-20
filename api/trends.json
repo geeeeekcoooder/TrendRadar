@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T06:11:10.317299+08:00",
-  "total_titles_processed": 442,
+  "generated_at": "2025-12-21T07:11:35.171370+08:00",
+  "total_titles_processed": 448,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时14分 ~ 06时11分]"
+          "appearance_count": 8,
+          "time_info": "[00时14分 ~ 07时11分]"
         },
         {
           "title": "以色列官员计划向特朗普通报可能对伊朗发动新一轮打击的计划",
@@ -26,8 +26,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时14分 ~ 06时11分]"
+          "appearance_count": 8,
+          "time_info": "[00时14分 ~ 07时11分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-20）",
+          "url": "https://flash.jin10.com/detail/20251220184219205800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时14分 ~ 07时11分]"
         },
         {
           "title": "特朗普入股核聚变公司",
@@ -42,17 +53,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时09分 ~ 06时11分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-20）",
-          "url": "https://flash.jin10.com/detail/20251220184219205800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时14分 ~ 06时11分]"
         },
         {
           "title": "特朗普提名特战副司令执掌南方司令部",
@@ -118,8 +118,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 06时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时13分 ~ 07时11分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 纳指涨逾1% 英伟达涨约4%",
@@ -127,11 +127,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 06时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时13分 ~ 07时11分]"
         },
         {
           "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
@@ -142,8 +143,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 01时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 07时11分]"
         }
       ]
     }

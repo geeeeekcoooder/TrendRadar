@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T01:10:02.328317+08:00",
-  "total_titles_processed": 357,
+  "generated_at": "2025-12-21T02:15:41.970221+08:00",
+  "total_titles_processed": 375,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 01时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 02时15分]"
         },
         {
           "title": "以色列官员计划向特朗普通报可能对伊朗发动新一轮打击的计划",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 01时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 02时15分]"
         },
         {
           "title": "特朗普提名特战副司令执掌南方司令部",
@@ -37,8 +37,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 01时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 02时15分]"
         },
         {
           "title": "Coinbase：特朗普的“大漂亮法案”或将赌客推向预测市场",
@@ -48,8 +48,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 01时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 02时15分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-20）",
@@ -59,19 +59,20 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 01时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 02时15分]"
         },
         {
           "title": "特朗普入股核聚变公司",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%A5%E8%82%A1%E6%A0%B8%E8%81%9A%E5%8F%98%E5%85%AC%E5%8F%B8",
           "source": "百度热搜",
           "ranks": [
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 01时10分]"
+          "appearance_count": 3,
+          "time_info": "[01时09分 ~ 02时15分]"
         },
         {
           "title": "特朗普为何推出史上最高金额对台军售",
@@ -110,8 +111,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 01时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 02时15分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 纳指涨逾1% 英伟达涨约4%",
@@ -122,8 +123,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 01时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 02时15分]"
         },
         {
           "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",

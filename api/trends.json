@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T20:21:12.461130+08:00",
-  "total_titles_processed": 1221,
+  "generated_at": "2025-12-21T21:22:29.377639+08:00",
+  "total_titles_processed": 1275,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
             7,
             6,
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时13分 ~ 20时21分]"
+          "appearance_count": 11,
+          "time_info": "[13时13分 ~ 21时22分]"
         },
         {
           "title": "特朗普提名特战副司令执掌南方司令部",
@@ -89,6 +90,17 @@
           "time_info": "[00时14分 ~ 07时11分]"
         },
         {
+          "title": "爱泼斯坦案16份文档上线不到一天离奇消失，含特朗普照片",
+          "url": "https://news.ifeng.com/c/8pGiw6orh2a",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时20分 ~ 21时22分]"
+        },
+        {
           "title": "特朗普入股核聚变公司",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%A5%E8%82%A1%E6%A0%B8%E8%81%9A%E5%8F%98%E5%85%AC%E5%8F%B8",
           "source": "百度热搜",
@@ -101,17 +113,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时09分 ~ 06时11分]"
-        },
-        {
-          "title": "爱泼斯坦案16份文档上线不到一天离奇消失，含特朗普照片",
-          "url": "https://news.ifeng.com/c/8pGiw6orh2a",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时20分 ~ 20时21分]"
         },
         {
           "title": "特朗普提名特战副司令执掌南方司令部",
@@ -183,11 +184,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时10分 ~ 20时21分]"
+          "appearance_count": 3,
+          "time_info": "[19时10分 ~ 21时22分]"
         },
         {
           "title": "美外交人员协会称特朗普正解雇多名拜登任命的驻外大使",
@@ -270,8 +272,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时18分 ~ 20时21分]"
+          "appearance_count": 9,
+          "time_info": "[14时18分 ~ 21时22分]"
         },
         {
           "title": "通胀降温令美股回暖，交易员希望利用2025年剩余时间喘口气",

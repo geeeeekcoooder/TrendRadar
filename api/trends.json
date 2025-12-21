@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-21T13:14:15.971722+08:00",
-  "total_titles_processed": 821,
+  "generated_at": "2025-12-21T14:18:27.597902+08:00",
+  "total_titles_processed": 895,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "美司法部副部长否认删掉爱泼斯坦案中提及特朗普的内容",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时00分 ~ 13时14分]"
+          "appearance_count": 9,
+          "time_info": "[09时00分 ~ 14时18分]"
         },
         {
           "title": "特朗普提名特战副司令执掌南方司令部",
@@ -95,6 +95,17 @@
           "time_info": "[00时14分 ~ 05时10分]"
         },
         {
+          "title": "美外交人员协会称特朗普正解雇多名拜登任命的驻外大使",
+          "url": "https://flash.jin10.com/detail/20251221140435040800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
+        },
+        {
           "title": "特朗普为何推出史上最高金额对台军售",
           "url": "https://www.toutiao.com/trending/7585013065943859238/",
           "source": "今日头条",
@@ -115,22 +126,24 @@
           "ranks": [
             6,
             9,
-            11
+            11,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时00分 ~ 13时14分]"
+          "appearance_count": 4,
+          "time_info": "[12时00分 ~ 14时18分]"
         },
         {
           "title": "美联储主席之争进入白热化了，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
           "url": "https://wallstreetcn.com/articles/3761784",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时13分 ~ 13时14分]"
+          "appearance_count": 3,
+          "time_info": "[13时13分 ~ 14时18分]"
         },
         {
           "title": "美反对乌入约 泽连斯基疑诅咒特朗普",
@@ -142,6 +155,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时09分 ~ 01时10分]"
+        },
+        {
+          "title": "美外交人员协会称特朗普正解雇多名拜登任命的驻外大使",
+          "url": "https://wallstreetcn.com/livenews/3024384",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
         },
         {
           "title": "特朗普对华“降调”能持续吗",
@@ -158,7 +182,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "“三巫日”科技股撑美股指两连阳，日元重挫1.4%，银铜齐创新高",
@@ -183,8 +207,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时13分 ~ 13时14分]"
+          "appearance_count": 20,
+          "time_info": "[00时13分 ~ 14时18分]"
         },
         {
           "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
@@ -203,17 +227,29 @@
           "url": "https://flash.jin10.com/detail/20251221123146651800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时14分 ~ 14时18分]"
+        },
+        {
+          "title": "美银Hartnett：市场聚焦美股大涨“迎新”可能性，唯一风险是“市场过于乐观”",
+          "url": "https://wallstreetcn.com/articles/3761788",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时14分"
+          "time_info": "14时18分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "金价又涨了",
@@ -231,11 +267,23 @@
           "url": "https://www.douyin.com/hot/2342947",
           "source": "抖音",
           "ranks": [
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时13分 ~ 13时14分]"
+          "appearance_count": 3,
+          "time_info": "[13时13分 ~ 14时18分]"
+        },
+        {
+          "title": "金价又涨了",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E5%8F%88%E6%B6%A8%E4%BA%86&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
         }
       ]
     },

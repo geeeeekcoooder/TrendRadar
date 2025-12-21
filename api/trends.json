@@ -1,33 +1,35 @@
 {
-  "generated_at": "2025-12-21T07:11:35.171370+08:00",
-  "total_titles_processed": 448,
+  "generated_at": "2025-12-21T09:01:12.833082+08:00",
+  "total_titles_processed": 560,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "特朗普提名特战副司令执掌南方司令部",
           "url": "https://flash.jin10.com/detail/20251220214727409800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 07时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时14分 ~ 09时01分]"
         },
         {
           "title": "以色列官员计划向特朗普通报可能对伊朗发动新一轮打击的计划",
           "url": "https://flash.jin10.com/detail/20251220214239757800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 07时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时14分 ~ 09时01分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-20）",
@@ -53,6 +55,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时09分 ~ 06时11分]"
+        },
+        {
+          "title": "美司法部副部长否认删掉爱泼斯坦案中提及特朗普的内容",
+          "url": "https://news.ifeng.com/c/8pFTv3cncwR",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时00分 ~ 09时01分]"
         },
         {
           "title": "特朗普提名特战副司令执掌南方司令部",
@@ -131,8 +144,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时13分 ~ 07时11分]"
+          "appearance_count": 13,
+          "time_info": "[00时13分 ~ 09时01分]"
         },
         {
           "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
@@ -143,8 +156,25 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时13分 ~ 07时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时13分 ~ 09时01分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "风电",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中国风电领跑全球",
+          "url": "https://www.douyin.com/hot/2342126",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时00分 ~ 09时01分]"
         }
       ]
     }

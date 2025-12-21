@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-21T19:10:40.075351+08:00",
-  "total_titles_processed": 1167,
+  "generated_at": "2025-12-21T20:21:12.461130+08:00",
+  "total_titles_processed": 1221,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "美司法部副部长否认删掉爱泼斯坦案中提及特朗普的内容",
@@ -18,6 +18,21 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[09时00分 ~ 15时12分]"
+        },
+        {
+          "title": "美联储主席之争进入白热化了，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
+          "url": "https://wallstreetcn.com/articles/3761784",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时13分 ~ 20时21分]"
         },
         {
           "title": "特朗普提名特战副司令执掌南方司令部",
@@ -46,19 +61,21 @@
           "time_info": "[00时14分 ~ 10时59分]"
         },
         {
-          "title": "美联储主席之争进入白热化了，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
-          "url": "https://wallstreetcn.com/articles/3761784",
-          "source": "华尔街见闻",
+          "title": "美外交人员协会称特朗普正解雇多名拜登任命的驻外大使",
+          "url": "https://flash.jin10.com/detail/20251221140435040800",
+          "source": "金十数据",
           "ranks": [
+            2,
+            3,
+            9,
             10,
-            7,
-            6,
-            5,
-            3
+            14,
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时13分 ~ 19时10分]"
+          "appearance_count": 7,
+          "time_info": "[14时18分 ~ 20时21分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-20）",
@@ -70,22 +87,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时14分 ~ 07时11分]"
-        },
-        {
-          "title": "美外交人员协会称特朗普正解雇多名拜登任命的驻外大使",
-          "url": "https://flash.jin10.com/detail/20251221140435040800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            3,
-            9,
-            10,
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时18分 ~ 19时10分]"
         },
         {
           "title": "特朗普入股核聚变公司",
@@ -100,6 +101,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时09分 ~ 06时11分]"
+        },
+        {
+          "title": "爱泼斯坦案16份文档上线不到一天离奇消失，含特朗普照片",
+          "url": "https://news.ifeng.com/c/8pGiw6orh2a",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时20分 ~ 20时21分]"
         },
         {
           "title": "特朗普提名特战副司令执掌南方司令部",
@@ -137,17 +149,6 @@
           "time_info": "18时12分"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-21）",
-          "url": "https://flash.jin10.com/detail/20251221182933074800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时10分"
-        },
-        {
           "title": "美联储主席之争白热化，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
           "url": "https://wallstreetcn.com/livenews/3024367",
           "source": "华尔街见闻-快讯",
@@ -175,6 +176,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时09分 ~ 05时10分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-21）",
+          "url": "https://flash.jin10.com/detail/20251221182933074800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时10分 ~ 20时21分]"
         },
         {
           "title": "美外交人员协会称特朗普正解雇多名拜登任命的驻外大使",
@@ -243,8 +256,22 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时13分 ~ 19时10分]"
+          "appearance_count": 27,
+          "time_info": "[00时13分 ~ 20时21分]"
+        },
+        {
+          "title": "美银Hartnett：市场聚焦美股大涨“迎新”可能性，唯一风险是“市场过于乐观”",
+          "url": "https://wallstreetcn.com/articles/3761788",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时18分 ~ 20时21分]"
         },
         {
           "title": "通胀降温令美股回暖，交易员希望利用2025年剩余时间喘口气",
@@ -274,19 +301,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时13分 ~ 09时01分]"
-        },
-        {
-          "title": "美银Hartnett：市场聚焦美股大涨“迎新”可能性，唯一风险是“市场过于乐观”",
-          "url": "https://wallstreetcn.com/articles/3761788",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时18分 ~ 19时10分]"
         }
       ]
     },

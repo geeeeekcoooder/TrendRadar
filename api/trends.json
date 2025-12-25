@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T05:12:03.943745+08:00",
-  "total_titles_processed": 448,
+  "generated_at": "2025-12-26T06:11:59.641779+08:00",
+  "total_titles_processed": 468,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 05时12分]"
+          "appearance_count": 9,
+          "time_info": "[00时14分 ~ 06时11分]"
         },
         {
           "title": "特朗普政府的移民局：要求阿富汗移民在圣诞节及元旦报到",
@@ -25,23 +25,12 @@
           "ranks": [
             2,
             5,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时17分 ~ 05时12分]"
-        },
-        {
-          "title": "特朗普政府节假日严查阿富汗移民 要求于圣诞节与元旦报到",
-          "url": "https://flash.jin10.com/detail/20251226025244857800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时14分 ~ 05时12分]"
+          "appearance_count": 5,
+          "time_info": "[02时17分 ~ 06时11分]"
         },
         {
           "title": "乌克兰总统泽连斯基：与美国特使威特科夫和特朗普高级顾问库什纳通话约一小时。",
@@ -51,11 +40,25 @@
             7,
             10,
             15,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时17分 ~ 05时12分]"
+          "appearance_count": 5,
+          "time_info": "[02时17分 ~ 06时11分]"
+        },
+        {
+          "title": "特朗普政府节假日严查阿富汗移民 要求于圣诞节与元旦报到",
+          "url": "https://flash.jin10.com/detail/20251226025244857800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时14分 ~ 06时11分]"
         },
         {
           "title": "乌克兰总统泽连斯基：今天与美国特使威特科夫、特朗普高级顾问库什纳进行了通话。",
@@ -85,8 +88,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 05时12分]"
+          "appearance_count": 9,
+          "time_info": "[00时14分 ~ 06时11分]"
         },
         {
           "title": "事关TikTok、美对华半导体产品加征301关税，商务部回应",
@@ -97,8 +100,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 05时12分]"
+          "appearance_count": 9,
+          "time_info": "[00时14分 ~ 06时11分]"
         },
         {
           "title": "商务部：坚决反对美对华半导体产品加征301关税，已提出严正交涉",
@@ -109,8 +112,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 05时12分]"
+          "appearance_count": 9,
+          "time_info": "[00时14分 ~ 06时11分]"
         }
       ]
     },
@@ -125,11 +128,12 @@
           "ranks": [
             11,
             12,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 05时12分]"
+          "appearance_count": 9,
+          "time_info": "[00时14分 ~ 06时11分]"
         },
         {
           "title": "加拿大皇家银行BlueBay资管公司首席投资官马克·道丁：新任美联储主席不会简单迎合特朗普，金价或难重现2025年强劲涨幅。（每经网）",
@@ -157,11 +161,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时14分 ~ 05时12分]"
+          "appearance_count": 3,
+          "time_info": "[04时14分 ~ 06时11分]"
         },
         {
           "title": "伊拉克库尔德媒体Rudaw：由于霍尔莫尔气田出现“技术问题”，库尔德斯坦地区的电力供应骤降1000兆瓦。",
@@ -190,8 +195,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 05时12分]"
+          "appearance_count": 9,
+          "time_info": "[00时14分 ~ 06时11分]"
         }
       ]
     }

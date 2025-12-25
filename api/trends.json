@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-25T21:27:15.769817+08:00",
-  "total_titles_processed": 1750,
+  "generated_at": "2025-12-25T22:12:48.743138+08:00",
+  "total_titles_processed": 1803,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "特朗普发小作文称《怦然心动》导演“精神错乱”招批评",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时15分 ~ 21时27分]"
+          "appearance_count": 9,
+          "time_info": "[17时15分 ~ 22时12分]"
         },
         {
           "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
@@ -39,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时15分 ~ 21时27分]"
+          "appearance_count": 9,
+          "time_info": "[17时15分 ~ 22时12分]"
         },
         {
           "title": "特朗普要“确保太空优势”，美国“太空股”会成为下一个“量子科技”吗？",
@@ -222,9 +222,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时27分"
+        },
+        {
+          "title": "特朗普暴力改建白宫合法吗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%9A%B4%E5%8A%9B%E6%94%B9%E5%BB%BA%E7%99%BD%E5%AE%AB%E5%90%88%E6%B3%95%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         }
       ]
     },
@@ -241,8 +252,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[08时56分 ~ 21时27分]"
+          "appearance_count": 21,
+          "time_info": "[08时56分 ~ 22时12分]"
         },
         {
           "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
@@ -413,8 +424,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时17分 ~ 21时27分]"
+          "appearance_count": 10,
+          "time_info": "[16时17分 ~ 22时12分]"
         },
         {
           "title": "美方拟自2027年起对华半导体产业征关税，外交部：损人害己",
@@ -446,6 +457,19 @@
           "time_info": "[11时56分 ~ 15时15分]"
         },
         {
+          "title": "兮璞材料“抢跑”上市 向日葵跨界半导体“暗礁”隐现",
+          "url": "https://www.cls.cn/detail/2240231",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时22分 ~ 22时12分]"
+        },
+        {
           "title": "美银筛出2026年六大芯片股 看好半导体行业销售额突破1万亿美元",
           "url": "https://www.cls.cn/detail/2239389",
           "source": "财联社热门",
@@ -459,18 +483,6 @@
           "time_info": "[08时56分 ~ 12时32分]"
         },
         {
-          "title": "兮璞材料“抢跑”上市 向日葵跨界半导体“暗礁”隐现",
-          "url": "https://www.cls.cn/detail/2240231",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时22分 ~ 21时27分]"
-        },
-        {
           "title": "美方拟自2027年起对华半导体产业征关税，外交部：损人害己",
           "url": "https://www.cls.cn/detail/2238769",
           "source": "财联社热门",
@@ -482,6 +494,18 @@
           "time_info": "00时15分"
         },
         {
+          "title": "商务部：坚决反对美对华半导体产品加征301关税，已提出严正交涉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32253416",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时11分 ~ 22时12分]"
+        },
+        {
           "title": "金十图示：2025年12月25日（周四）富时中国A50指数成分股今日收盘行情一览：保险、酿酒行业全天飘红，半导体板块午后走势分化",
           "url": "https://flash.jin10.com/detail/20251225150323067800",
           "source": "金十数据",
@@ -491,18 +515,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
-        },
-        {
-          "title": "商务部：坚决反对美对华半导体产品加征301关税，已提出严正交涉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32253416",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时11分 ~ 21时27分]"
         },
         {
           "title": "金十图示：2025年12月25日（周四）富时中国A50指数成分股午盘收盘行情一览：保险、煤炭、酿酒板块全线飘红，半导体板块走低",
@@ -584,6 +596,20 @@
           "time_info": "[10时51分 ~ 13时17分]"
         },
         {
+          "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
+          "url": "https://www.zhihu.com/question/1987171318681068732",
+          "source": "知乎",
+          "ranks": [
+            14,
+            6,
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时11分 ~ 22时12分]"
+        },
+        {
           "title": "金十图示：2025年12月25日（周四）上海金午盘价为1002.83元/克，较国际金价(1008.17元/克)，低5.34元/克",
           "url": "https://flash.jin10.com/detail/20251225150449280800",
           "source": "金十数据",
@@ -593,19 +619,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
-        },
-        {
-          "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
-          "url": "https://www.zhihu.com/question/1987171318681068732",
-          "source": "知乎",
-          "ranks": [
-            14,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时11分 ~ 21时27分]"
         },
         {
           "title": "金价又创历史新高",

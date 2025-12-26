@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T18:14:11.331101+08:00",
-  "total_titles_processed": 1447,
+  "generated_at": "2025-12-26T19:12:06.478791+08:00",
+  "total_titles_processed": 1537,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时49分 ~ 18时14分]"
+          "appearance_count": 15,
+          "time_info": "[10时49分 ~ 19时12分]"
         },
         {
           "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
@@ -79,6 +79,17 @@
           "time_info": "07时12分"
         },
         {
+          "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
+          "url": "https://news.ifeng.com/c/8pOsqY3DwLX",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时14分 ~ 19时12分]"
+        },
+        {
           "title": "乌克兰总统泽连斯基：与美国特使威特科夫和特朗普高级顾问库什纳通话约一小时。",
           "url": "https://flash.jin10.com/detail/20251226013420505800",
           "source": "金十数据",
@@ -122,17 +133,6 @@
           "time_info": "[01时11分 ~ 04时14分]"
         },
         {
-          "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
-          "url": "https://news.ifeng.com/c/8pOsqY3DwLX",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时14分 ~ 18时14分]"
-        },
-        {
           "title": "特朗普人事强震引爆新争议",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%BA%BA%E4%BA%8B%E5%BC%BA%E9%9C%87%E5%BC%95%E7%88%86%E6%96%B0%E4%BA%89%E8%AE%AE",
           "source": "百度热搜",
@@ -173,7 +173,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         },
@@ -271,8 +271,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时49分 ~ 18时14分]"
+          "appearance_count": 15,
+          "time_info": "[10时49分 ~ 19时12分]"
         },
         {
           "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
@@ -438,7 +438,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         },
@@ -505,7 +505,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         },
@@ -548,8 +548,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时54分 ~ 18时14分]"
+          "appearance_count": 14,
+          "time_info": "[11时54分 ~ 19时12分]"
         },
         {
           "title": "工信部：2026年要打造集成电路、新型显示、新材料、航空航天、低空经济、生物医药等新兴支柱产业",
@@ -561,8 +561,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时15分 ~ 18时14分]"
+          "appearance_count": 9,
+          "time_info": "[15时15分 ~ 19时12分]"
         },
         {
           "title": "2025年终盘点|主机厂深度跨界机器人、低空经济赛道 产业融合带动数万亿经济增量",
@@ -576,8 +576,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时19分 ~ 18时14分]"
+          "appearance_count": 10,
+          "time_info": "[14时19分 ~ 19时12分]"
         },
         {
           "title": "全国工业和信息化工作会议：打造集成电路、新型显示、新材料、航空航天、低空经济、生物医药等新兴支柱产业",
@@ -629,7 +629,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         }

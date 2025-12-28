@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T20:22:11.206302+08:00",
-  "total_titles_processed": 1134,
+  "generated_at": "2025-12-28T21:24:47.977885+08:00",
+  "total_titles_processed": 1207,
   "failed_sources": [],
   "trends": [
     {
@@ -43,8 +43,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时17分 ~ 20时22分]"
+          "appearance_count": 12,
+          "time_info": "[13时17分 ~ 21时24分]"
         },
         {
           "title": "美国总统特朗普：关税正在为美国创造巨大财富，并带来前所未有的国家安全保障。贸易逆差已削减60%，实属史无前例。GDP增长率达4.3%，且持续攀升。没有通货膨胀！！！我们国家再次赢得世界尊重。",
@@ -119,8 +119,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时12分 ~ 20时22分]"
+          "appearance_count": 5,
+          "time_info": "[18时12分 ~ 21时24分]"
         },
         {
           "title": "乌媒：泽连斯基概述想和特朗普讨论“和平计划”的5个问题",
@@ -244,8 +244,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时13分 ~ 20时22分]"
+          "appearance_count": 8,
+          "time_info": "[15时13分 ~ 21时24分]"
         },
         {
           "title": "铂金价格一周涨了超20% 黄金白银铂金价格都爆了什么原因?",
@@ -259,6 +259,36 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时31分 ~ 13时17分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "电力",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "据俄新社援引电站代表：扎波罗热核电站局势受控，电力由单条高压线路供应。",
+          "url": "https://flash.jin10.com/detail/20251228203916875800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
+        },
+        {
+          "title": "国际原子能机构：在国际原子能机构促成的又一轮局部停火后，乌克兰扎波罗热核电站附近的关键电力线路维修工作已启动。",
+          "url": "https://flash.jin10.com/detail/20251228161934019800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时12分 ~ 19时10分]"
         }
       ]
     },
@@ -298,25 +328,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时14分 ~ 07时12分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "电力",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国际原子能机构：在国际原子能机构促成的又一轮局部停火后，乌克兰扎波罗热核电站附近的关键电力线路维修工作已启动。",
-          "url": "https://flash.jin10.com/detail/20251228161934019800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            18,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时12分 ~ 19时10分]"
         }
       ]
     },

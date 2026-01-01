@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T19:11:42.798997+08:00",
-  "total_titles_processed": 1332,
+  "generated_at": "2026-01-01T20:23:59.204598+08:00",
+  "total_titles_processed": 1381,
   "failed_sources": [],
   "trends": [
     {
@@ -45,17 +45,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-01）",
-          "url": "https://flash.jin10.com/detail/20260101184638613800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时11分"
         },
         {
           "title": "迫于物价压力 特朗普推迟对家具及橱柜加征关税至2027年",
@@ -106,6 +95,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时13分 ~ 07时12分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-01）",
+          "url": "https://flash.jin10.com/detail/20260101184638613800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时11分 ~ 20时23分]"
         },
         {
           "title": "美国白宫：特朗普总统签署公告，将软包家具、厨房橱柜和浴室柜的关税上调计划推迟一年。",
@@ -254,8 +255,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时03分 ~ 19时11分]"
+          "appearance_count": 17,
+          "time_info": "[09时03分 ~ 20时23分]"
         },
         {
           "title": "美股三大期指小幅走弱 年末获利了结情绪升温 | 今夜看点",
@@ -369,7 +370,7 @@
     },
     {
       "keyword_group": "半导体",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "展望半导体2026三大关键词：存储、AI、国产化",
@@ -378,11 +379,12 @@
           "ranks": [
             9,
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时20分 ~ 19时11分]"
+          "appearance_count": 10,
+          "time_info": "[14时20分 ~ 20时23分]"
         },
         {
           "title": "华虹半导体：拟以82.7亿元人民币收购华力微电子股权",
@@ -395,6 +397,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时15分 ~ 01时11分]"
+        },
+        {
+          "title": "美为何允许韩企向华出口半导体设备",
+          "url": "https://www.toutiao.com/trending/7590336479671356964/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         },
         {
           "title": "标普2025年累涨16%，连续三年出现两位数百分比涨幅，半导体指数全年涨超42%",

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-01T18:14:15.896531+08:00",
-  "total_titles_processed": 1276,
+  "generated_at": "2026-01-01T19:11:42.798997+08:00",
+  "total_titles_processed": 1332,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普：将从芝加哥、洛杉矶和波特兰撤走国民警卫队",
@@ -45,6 +45,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-01）",
+          "url": "https://flash.jin10.com/detail/20260101184638613800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
         },
         {
           "title": "迫于物价压力 特朗普推迟对家具及橱柜加征关税至2027年",
@@ -243,8 +254,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时03分 ~ 18时14分]"
+          "appearance_count": 16,
+          "time_info": "[09时03分 ~ 19时11分]"
         },
         {
           "title": "美股三大期指小幅走弱 年末获利了结情绪升温 | 今夜看点",
@@ -370,8 +381,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时20分 ~ 18时14分]"
+          "appearance_count": 9,
+          "time_info": "[14时20分 ~ 19时11分]"
         },
         {
           "title": "华虹半导体：拟以82.7亿元人民币收购华力微电子股权",

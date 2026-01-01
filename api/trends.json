@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-01T22:12:47.692852+08:00",
-  "total_titles_processed": 1487,
+  "generated_at": "2026-01-01T23:13:18.382925+08:00",
+  "total_titles_processed": 1530,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "特朗普：将从芝加哥、洛杉矶和波特兰撤走国民警卫队",
@@ -34,6 +34,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[03时09分 ~ 09时04分]"
+        },
+        {
+          "title": "决定从三个城市撤走国民警卫队，特朗普政策反复为哪般？",
+          "url": "https://news.ifeng.com/c/8pZG8Eef0SN",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
         },
         {
           "title": "美国总统特朗普宣布：从芝加哥、洛杉矶、波特兰撤走国民警卫队。",
@@ -254,11 +265,12 @@
             6,
             7,
             4,
-            3
+            3,
+            9
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时03分 ~ 22时12分]"
+          "appearance_count": 20,
+          "time_info": "[09时03分 ~ 23时13分]"
         },
         {
           "title": "美股三大期指小幅走弱 年末获利了结情绪升温 | 今夜看点",
@@ -385,8 +397,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时20分 ~ 22时12分]"
+          "appearance_count": 13,
+          "time_info": "[14时20分 ~ 23时13分]"
         },
         {
           "title": "华虹半导体：拟以82.7亿元人民币收购华力微电子股权",

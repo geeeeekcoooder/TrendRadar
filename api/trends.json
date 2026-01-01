@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T02:18:18.190988+08:00",
-  "total_titles_processed": 390,
+  "generated_at": "2026-01-02T03:10:43.730433+08:00",
+  "total_titles_processed": 410,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时18分]"
-        },
-        {
-          "title": "白宫：特朗普总统已签署一项行政命令，修改对进口到美国的木材、木料及其衍生产品的关税。",
-          "url": "https://flash.jin10.com/detail/20260102011611465800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时18分"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 03时10分]"
         },
         {
           "title": "美国缩减对意大利面关税，意大利称特朗普时期政策回调",
@@ -35,11 +24,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            8
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 03时10分]"
+        },
+        {
+          "title": "白宫：特朗普总统已签署一项行政命令，修改对进口到美国的木材、木料及其衍生产品的关税。",
+          "url": "https://flash.jin10.com/detail/20260102011611465800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时13分 ~ 02时18分]"
+          "time_info": "[02时18分 ~ 03时10分]"
         },
         {
           "title": "美媒：特朗普每日服用阿司匹林剂量超出医嘱范围",
@@ -79,8 +81,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 03时10分]"
         }
       ]
     },
@@ -96,8 +98,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 03时10分]"
         }
       ]
     }

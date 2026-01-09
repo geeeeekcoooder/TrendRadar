@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-09T12:42:16.280140+08:00",
-  "total_titles_processed": 1197,
+  "generated_at": "2026-01-09T13:18:29.522727+08:00",
+  "total_titles_processed": 1247,
   "failed_sources": [],
   "trends": [
     {
@@ -71,6 +71,18 @@
           "time_info": "[00时17分 ~ 07时12分]"
         },
         {
+          "title": "特朗普：美联储主席人选已定，但我暂时不想说",
+          "url": "https://www.cls.cn/detail/2252430",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时59分 ~ 13时18分]"
+        },
+        {
           "title": "特朗普 ：禁止囤房",
           "url": "https://www.douyin.com/hot/2360816",
           "source": "抖音",
@@ -96,19 +108,32 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时12分 ~ 12时42分]"
+          "appearance_count": 8,
+          "time_info": "[07时12分 ~ 13时18分]"
         },
         {
-          "title": "特朗普：美联储主席人选已定，但我暂时不想说",
-          "url": "https://www.cls.cn/detail/2252430",
+          "title": "特朗普关税实施半年后美国贸易逆差大幅收窄，降至2009年以来最低水平",
+          "url": "https://www.cls.cn/detail/2252393",
           "source": "财联社热门",
           "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时59分 ~ 13时18分]"
+        },
+        {
+          "title": "特朗普创纪录1.5万亿军费要打“世界大战”？军工股大反弹，无人机厂商两位数高涨",
+          "url": "https://wallstreetcn.com/articles/3762893",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
             6
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[08时59分 ~ 12时42分]"
+          "time_info": "[10时57分 ~ 13时18分]"
         },
         {
           "title": "美国总统特朗普：就“参议院寻求限制我对委内瑞拉继续动武”的表决结果谴责参议院共和党。 “战争权法案”是违反宪法的。",
@@ -122,16 +147,18 @@
           "time_info": "02时17分"
         },
         {
-          "title": "特朗普关税实施半年后美国贸易逆差大幅收窄，降至2009年以来最低水平",
-          "url": "https://www.cls.cn/detail/2252393",
-          "source": "财联社热门",
+          "title": "一图看懂｜特朗普一口气退出了哪66个国际组织？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32341974",
+          "source": "澎湃新闻",
           "ranks": [
+            16,
+            11,
             10,
-            11
+            9
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[08时59分 ~ 12时42分]"
+          "time_info": "[08时59分 ~ 13时18分]"
         },
         {
           "title": "特朗普称必须拥有整个格陵兰 芝商所再度上调贵金属期货保证金 | 环球市场",
@@ -168,6 +195,17 @@
           "time_info": "10时57分"
         },
         {
+          "title": "特朗普放话“我不需要国际法”",
+          "url": "https://news.ifeng.com/c/8plmHsoaK5L",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时01分 ~ 13时18分]"
+        },
+        {
           "title": "韩华航空股价暴涨7.3%。此前美国总统特朗普表示将2027财年美国军费提高至1.5万亿美元。",
           "url": "https://wallstreetcn.com/livenews/3033641",
           "source": "华尔街见闻-快讯",
@@ -179,18 +217,6 @@
           "time_info": "08时59分"
         },
         {
-          "title": "特朗普创纪录1.5万亿军费要打“世界大战”？军工股大反弹，无人机厂商两位数高涨",
-          "url": "https://wallstreetcn.com/articles/3762893",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时57分 ~ 12时42分]"
-        },
-        {
           "title": "美国总统特朗普就美联储主席人选表示：我心里已经有决定了。 还没有与任何人讨论过对美联储主席的（最终）选择。（纽约时报）",
           "url": "https://wallstreetcn.com/livenews/3033489",
           "source": "华尔街见闻-快讯",
@@ -200,6 +226,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
+        },
+        {
+          "title": "“特朗普版QE”？特朗普指示“两房”购买2000亿美元美国抵押贷款债券",
+          "url": "https://wallstreetcn.com/articles/3762899",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时01分 ~ 13时18分]"
         },
         {
           "title": "特朗普为何想要格陵兰岛",
@@ -224,18 +262,16 @@
           "time_info": "02时17分"
         },
         {
-          "title": "一图看懂｜特朗普一口气退出了哪66个国际组织？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32341974",
+          "title": "崔天凯：特朗普退出66个国际组织求“破”，中方应以“立”为主",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32345211",
           "source": "澎湃新闻",
           "ranks": [
-            16,
-            11,
-            10,
-            9
+            14,
+            13
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[08时59分 ~ 12时42分]"
+          "time_info": "[10时57分 ~ 13时18分]"
         },
         {
           "title": "特朗普退群“弃子”都有哪些",
@@ -249,17 +285,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时19分 ~ 07时12分]"
-        },
-        {
-          "title": "特朗普放话“我不需要国际法”",
-          "url": "https://news.ifeng.com/c/8plmHsoaK5L",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时01分 ~ 12时42分]"
         },
         {
           "title": "美国总统特朗普8日在接受福克斯新闻网采访时说，美国要开始对贩毒集团进行“陆地打击”。（新华社）",
@@ -322,18 +347,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时57分 ~ 12时42分]"
-        },
-        {
-          "title": "“特朗普版QE”？特朗普指示“两房”购买2000亿美元美国抵押贷款债券",
-          "url": "https://wallstreetcn.com/articles/3762899",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时01分 ~ 12时42分]"
         },
         {
           "title": "特朗普：希望能访问委内瑞拉",
@@ -420,18 +433,6 @@
           "time_info": "[02时17分 ~ 03时13分]"
         },
         {
-          "title": "崔天凯：特朗普退出66个国际组织求“破”，中方应以“立”为主",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32345211",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时57分 ~ 12时42分]"
-        },
-        {
           "title": "观察｜特朗普势在必得格陵兰岛，欧洲还能争取何种“交易”？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32342597",
           "source": "澎湃新闻",
@@ -440,8 +441,54 @@
             15
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时02分 ~ 13时18分]"
+        },
+        {
+          "title": "特朗普称不担心美俄《新削减战略武器条约》即将到期",
+          "url": "https://wallstreetcn.com/livenews/3033738",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            16,
+            25
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时02分 ~ 12时42分]"
+          "time_info": "[12时02分 ~ 13时18分]"
+        },
+        {
+          "title": "特朗普放话必须“拥有”整个格陵兰 欧盟高官：“极其令人担忧”",
+          "url": "https://www.cls.cn/detail/2252516",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时01分 ~ 13时18分]"
+        },
+        {
+          "title": "释疑｜美国要“吞并”格陵兰岛！特朗普可能有5种方案，细看棋局推演",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32345352",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时41分 ~ 13时18分]"
+        },
+        {
+          "title": "特朗普表示，美国必须「拥有」整个格陵兰，释放了什么信号？",
+          "url": "https://www.zhihu.com/question/1992865566088721749",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时41分 ~ 13时18分]"
         },
         {
           "title": "特朗普称支持对俄制裁法案",
@@ -478,18 +525,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时57分 ~ 12时02分]"
-        },
-        {
-          "title": "特朗普称不担心美俄《新削减战略武器条约》即将到期",
-          "url": "https://wallstreetcn.com/livenews/3033738",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 12时42分]"
         },
         {
           "title": "据消息人士透露，委内瑞拉正积极与特朗普政府合作，推进其向美国出口石油的计划，委临时领导人德尔茜·罗德里格斯与美国国务卿鲁比奥保持密切沟通。（英国金融时报）",
@@ -636,17 +671,6 @@
           "time_info": "[10时57分 ~ 12时02分]"
         },
         {
-          "title": "特朗普放话必须“拥有”整个格陵兰 欧盟高官：“极其令人担忧”",
-          "url": "https://www.cls.cn/detail/2252516",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 12时02分]"
-        },
-        {
           "title": "美参院推进限制特朗普对委动武决议",
           "url": "https://wallstreetcn.com/livenews/3033478",
           "source": "华尔街见闻-快讯",
@@ -681,28 +705,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时57分 ~ 12时02分]"
-        },
-        {
-          "title": "释疑｜美国要“吞并”格陵兰岛！特朗普可能有5种方案，细看棋局推演",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32345352",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时41分 ~ 12时42分]"
-        },
-        {
-          "title": "特朗普表示，美国必须「拥有」整个格陵兰，释放了什么信号？",
-          "url": "https://www.zhihu.com/question/1992865566088721749",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时41分 ~ 12时42分]"
         },
         {
           "title": "特朗普称支持对俄制裁法案",
@@ -1512,8 +1514,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时12分 ~ 12时42分]"
+          "appearance_count": 8,
+          "time_info": "[07时12分 ~ 13时18分]"
         },
         {
           "title": "临近周五，美股轮动加剧，芯片股两连阴、小盘股指新高，地缘风险撑原油强劲反弹",
@@ -1523,8 +1525,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时59分 ~ 12时42分]"
+          "appearance_count": 7,
+          "time_info": "[08时59分 ~ 13时18分]"
         },
         {
           "title": "美股三大期指集体走低 特朗普提高军费防务板块大涨 | 今夜看点",
@@ -1724,11 +1726,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时57分 ~ 12时42分]"
+          "appearance_count": 6,
+          "time_info": "[10时57分 ~ 13时18分]"
         },
         {
           "title": "黄金成全球最大储备资产，30年来首次超越美债！",
@@ -1738,8 +1741,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时59分 ~ 12时42分]"
+          "appearance_count": 4,
+          "time_info": "[08时59分 ~ 13时18分]"
         },
         {
           "title": "10年期美债收益率涨超3个基点",
@@ -1756,8 +1759,19 @@
     },
     {
       "keyword_group": "半导体",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "韩国财政部：将为半导体、国防、生物制药、石化和钢铁行业制定政策支持。",
+          "url": "https://flash.jin10.com/detail/20260109130606683800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
+        },
         {
           "title": "金十图示：2026年01月09日（周五）富时中国A50指数成分股午盘收盘行情一览：银行股全线下跌，酿酒、半导体、石油等板块涨跌不一，有色金属、煤炭股上涨",
           "url": "https://flash.jin10.com/detail/20260109113209288800",
@@ -1775,11 +1789,12 @@
           "url": "https://flash.jin10.com/detail/20260109115236663800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 13时18分]"
         },
         {
           "title": "标普500指数转涨，道指涨163点涨幅0.3%，纳指跌0.6%，半导体指数跌1.9%。",
@@ -1864,7 +1879,7 @@
     },
     {
       "keyword_group": "电力",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "报道：黑石集团寻求26亿美元债务融资，以支持电力业务合并",
@@ -1877,6 +1892,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时14分 ~ 05时13分]"
+        },
+        {
+          "title": "第聂伯罗的电力危机",
+          "url": "https://search.bilibili.com/all?keyword=%E7%AC%AC%E8%81%82%E4%BC%AF%E7%BD%97%E7%9A%84%E7%94%B5%E5%8A%9B%E5%8D%B1%E6%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
         }
       ]
     }

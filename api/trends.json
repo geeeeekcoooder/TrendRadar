@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T13:18:29.522727+08:00",
-  "total_titles_processed": 1247,
+  "generated_at": "2026-01-09T14:20:43.141499+08:00",
+  "total_titles_processed": 1335,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 130,
+      "match_count": 133,
       "titles": [
         {
           "title": "彻底不减支了？特朗普称2027年美军事预算应是1.5万亿美元，较今年暴增50%",
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时17分 ~ 07时12分]"
+        },
+        {
+          "title": "特朗普：美联储主席人选已定，但我暂时不想说",
+          "url": "https://www.cls.cn/detail/2252430",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时59分 ~ 14时20分]"
         },
         {
           "title": "特朗普一口气退出了哪66个国际组织？",
@@ -71,16 +83,19 @@
           "time_info": "[00时17分 ~ 07时12分]"
         },
         {
-          "title": "特朗普：美联储主席人选已定，但我暂时不想说",
-          "url": "https://www.cls.cn/detail/2252430",
-          "source": "财联社热门",
+          "title": "委内瑞拉代总统称「委未受外部势力统治」，回应特朗普日前声称美国已「掌控」委内瑞拉，目前其国内局势如何？",
+          "url": "https://www.zhihu.com/question/1992163357625643469",
+          "source": "知乎",
           "ranks": [
-            6,
-            5
+            18,
+            17,
+            10,
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时59分 ~ 13时18分]"
+          "appearance_count": 9,
+          "time_info": "[07时12分 ~ 14时20分]"
         },
         {
           "title": "特朗普 ：禁止囤房",
@@ -98,20 +113,6 @@
           "time_info": "[01时19分 ~ 07时12分]"
         },
         {
-          "title": "委内瑞拉代总统称「委未受外部势力统治」，回应特朗普日前声称美国已「掌控」委内瑞拉，目前其国内局势如何？",
-          "url": "https://www.zhihu.com/question/1992163357625643469",
-          "source": "知乎",
-          "ranks": [
-            18,
-            17,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时12分 ~ 13时18分]"
-        },
-        {
           "title": "特朗普关税实施半年后美国贸易逆差大幅收窄，降至2009年以来最低水平",
           "url": "https://www.cls.cn/detail/2252393",
           "source": "财联社热门",
@@ -120,8 +121,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时59分 ~ 13时18分]"
+          "appearance_count": 8,
+          "time_info": "[08时59分 ~ 14时20分]"
         },
         {
           "title": "特朗普创纪录1.5万亿军费要打“世界大战”？军工股大反弹，无人机厂商两位数高涨",
@@ -132,8 +133,45 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时57分 ~ 14时20分]"
+        },
+        {
+          "title": "一图看懂｜特朗普一口气退出了哪66个国际组织？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32341974",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时59分 ~ 14时20分]"
+        },
+        {
+          "title": "特朗普放话“我不需要国际法”",
+          "url": "https://news.ifeng.com/c/8plmHsoaK5L",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[10时57分 ~ 13时18分]"
+          "time_info": "[12时01分 ~ 14时20分]"
+        },
+        {
+          "title": "“特朗普版QE”？特朗普指示“两房”购买2000亿美元美国抵押贷款债券",
+          "url": "https://wallstreetcn.com/articles/3762899",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时01分 ~ 14时20分]"
         },
         {
           "title": "美国总统特朗普：就“参议院寻求限制我对委内瑞拉继续动武”的表决结果谴责参议院共和党。 “战争权法案”是违反宪法的。",
@@ -147,20 +185,6 @@
           "time_info": "02时17分"
         },
         {
-          "title": "一图看懂｜特朗普一口气退出了哪66个国际组织？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32341974",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时59分 ~ 13时18分]"
-        },
-        {
           "title": "特朗普称必须拥有整个格陵兰 芝商所再度上调贵金属期货保证金 | 环球市场",
           "url": "https://www.cls.cn/detail/2252459",
           "source": "财联社热门",
@@ -171,6 +195,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[08时59分 ~ 12时42分]"
+        },
+        {
+          "title": "崔天凯：特朗普退出66个国际组织求“破”，中方应以“立”为主",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32345211",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时57分 ~ 14时20分]"
         },
         {
           "title": "“美联储传声筒”Nick Timiraos：特朗普称，他已指示代表购买价值2000亿美元的住房抵押贷款支持证券，以缩小抵押贷款利差并降低利率。实现这一目标的主要机制是通过房利美和房地美的自留投资组合，根据它们与美国财政部的现有协议，这两家公司（每家公司）持有的抵押贷款投资不得超过2250亿美元。截至2025年11月，两家公司在这些投资组合中各持有约1240亿美元，这意味着它们各自可以再购买1000亿美元的住房抵押贷款支持证券。",
@@ -195,17 +231,6 @@
           "time_info": "10时57分"
         },
         {
-          "title": "特朗普放话“我不需要国际法”",
-          "url": "https://news.ifeng.com/c/8plmHsoaK5L",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时01分 ~ 13时18分]"
-        },
-        {
           "title": "韩华航空股价暴涨7.3%。此前美国总统特朗普表示将2027财年美国军费提高至1.5万亿美元。",
           "url": "https://wallstreetcn.com/livenews/3033641",
           "source": "华尔街见闻-快讯",
@@ -226,18 +251,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
-        },
-        {
-          "title": "“特朗普版QE”？特朗普指示“两房”购买2000亿美元美国抵押贷款债券",
-          "url": "https://wallstreetcn.com/articles/3762899",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时01分 ~ 13时18分]"
         },
         {
           "title": "特朗普为何想要格陵兰岛",
@@ -262,16 +275,16 @@
           "time_info": "02时17分"
         },
         {
-          "title": "崔天凯：特朗普退出66个国际组织求“破”，中方应以“立”为主",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32345211",
+          "title": "观察｜特朗普势在必得格陵兰岛，欧洲还能争取何种“交易”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32342597",
           "source": "澎湃新闻",
           "ranks": [
-            14,
-            13
+            18,
+            15
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[10时57分 ~ 13时18分]"
+          "time_info": "[12时02分 ~ 14时20分]"
         },
         {
           "title": "特朗普退群“弃子”都有哪些",
@@ -433,16 +446,39 @@
           "time_info": "[02时17分 ~ 03时13分]"
         },
         {
-          "title": "观察｜特朗普势在必得格陵兰岛，欧洲还能争取何种“交易”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32342597",
+          "title": "释疑｜美国要“吞并”格陵兰岛！特朗普可能有5种方案，细看棋局推演",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32345352",
           "source": "澎湃新闻",
           "ranks": [
-            18,
+            17,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时41分 ~ 14时20分]"
+        },
+        {
+          "title": "特朗普放话必须“拥有”整个格陵兰 欧盟高官：“极其令人担忧”",
+          "url": "https://www.cls.cn/detail/2252516",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时01分 ~ 14时20分]"
+        },
+        {
+          "title": "特朗普表示，美国必须「拥有」整个格陵兰，释放了什么信号？",
+          "url": "https://www.zhihu.com/question/1992865566088721749",
+          "source": "知乎",
+          "ranks": [
+            17,
             15
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时02分 ~ 13时18分]"
+          "time_info": "[12时41分 ~ 14时20分]"
         },
         {
           "title": "特朗普称不担心美俄《新削减战略武器条约》即将到期",
@@ -456,39 +492,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时02分 ~ 13时18分]"
-        },
-        {
-          "title": "特朗普放话必须“拥有”整个格陵兰 欧盟高官：“极其令人担忧”",
-          "url": "https://www.cls.cn/detail/2252516",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时01分 ~ 13时18分]"
-        },
-        {
-          "title": "释疑｜美国要“吞并”格陵兰岛！特朗普可能有5种方案，细看棋局推演",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32345352",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时41分 ~ 13时18分]"
-        },
-        {
-          "title": "特朗普表示，美国必须「拥有」整个格陵兰，释放了什么信号？",
-          "url": "https://www.zhihu.com/question/1992865566088721749",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时41分 ~ 13时18分]"
         },
         {
           "title": "特朗普称支持对俄制裁法案",
@@ -950,6 +953,17 @@
           "time_info": "01时20分"
         },
         {
+          "title": "英媒：特朗普委油计划引发得州页岩油企高管不满",
+          "url": "https://flash.jin10.com/detail/20260109131843351800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
           "title": "万斯告诉欧洲领导人：要认真对待特朗普关于格陵兰的表态",
           "url": "https://wallstreetcn.com/livenews/3033516",
           "source": "华尔街见闻-快讯",
@@ -1014,6 +1028,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
+        },
+        {
+          "title": "据英国金融时报：页岩油巨头警告特朗普，他试图控制委内瑞拉石油行业并压低原油价格的计划，将使美国的石油产量面临削减的风险。",
+          "url": "https://flash.jin10.com/detail/20260109131706178800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
         },
         {
           "title": "美国财长贝森特：呼吁明尼苏达州企业匹配政府为该州儿童“特朗普账户”提供的1000美元捐款。",
@@ -1201,6 +1226,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "特朗普宣称自己不需要国际法",
+          "url": "https://wallstreetcn.com/livenews/3033777",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
         },
         {
           "title": "特朗普政府考虑砸钱说服格陵兰人“加入”美国",
@@ -1514,8 +1550,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时12分 ~ 13时18分]"
+          "appearance_count": 9,
+          "time_info": "[07时12分 ~ 14时20分]"
         },
         {
           "title": "临近周五，美股轮动加剧，芯片股两连阴、小盘股指新高，地缘风险撑原油强劲反弹",
@@ -1525,8 +1561,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时59分 ~ 13时18分]"
+          "appearance_count": 8,
+          "time_info": "[08时59分 ~ 14时20分]"
         },
         {
           "title": "美股三大期指集体走低 特朗普提高军费防务板块大涨 | 今夜看点",
@@ -1730,8 +1766,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时57分 ~ 13时18分]"
+          "appearance_count": 7,
+          "time_info": "[10时57分 ~ 14时20分]"
         },
         {
           "title": "黄金成全球最大储备资产，30年来首次超越美债！",
@@ -1741,8 +1777,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时59分 ~ 13时18分]"
+          "appearance_count": 5,
+          "time_info": "[08时59分 ~ 14时20分]"
         },
         {
           "title": "10年期美债收益率涨超3个基点",
@@ -1766,11 +1802,12 @@
           "url": "https://flash.jin10.com/detail/20260109130606683800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时18分 ~ 14时20分]"
         },
         {
           "title": "金十图示：2026年01月09日（周五）富时中国A50指数成分股午盘收盘行情一览：银行股全线下跌，酿酒、半导体、石油等板块涨跌不一，有色金属、煤炭股上涨",
@@ -1822,8 +1859,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "大华银行：地缘政治风险强化避险需求 上调全年金价目标",
+          "url": "https://flash.jin10.com/detail/20260109140547677800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
         {
           "title": "金十图示：2026年01月09日（周五）上海金早盘价为1003.49元/克，较国际金价(1003.21元/克)，高0.28元/克",
           "url": "https://flash.jin10.com/detail/20260109101722694800",
@@ -1900,7 +1948,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
         }

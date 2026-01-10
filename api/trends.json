@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-10T16:16:11.850631+08:00",
-  "total_titles_processed": 1244,
+  "generated_at": "2026-01-10T17:12:48.887217+08:00",
+  "total_titles_processed": 1318,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 122,
+      "match_count": 126,
       "titles": [
         {
           "title": "特朗普威胁石油巨头在委投资：你们不干有的是人干",
@@ -19,6 +19,17 @@
           "time_info": "[10时48分 ~ 16时16分]"
         },
         {
+          "title": "特朗普极力拉投资声称“委美加起来有全球55%石油”",
+          "url": "https://news.ifeng.com/c/8pnVKuGn9sJ",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时53分 ~ 17时12分]"
+        },
+        {
           "title": "特朗普：取消对委内瑞拉第二波打击",
           "url": "https://news.ifeng.com/c/8pmFjAsY9wc",
           "source": "凤凰网",
@@ -30,17 +41,6 @@
           "time_info": "[00时16分 ~ 06时13分]"
         },
         {
-          "title": "特朗普极力拉投资声称“委美加起来有全球55%石油”",
-          "url": "https://news.ifeng.com/c/8pnVKuGn9sJ",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时53分 ~ 16时16分]"
-        },
-        {
           "title": "美国最高法院暂未公布对特朗普关税的判决，市场紧盯下周三",
           "url": "https://wallstreetcn.com/articles/3762987",
           "source": "华尔街见闻",
@@ -48,11 +48,12 @@
             8,
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时12分 ~ 16时16分]"
+          "appearance_count": 15,
+          "time_info": "[07时12分 ~ 17时12分]"
         },
         {
           "title": "外交部回应特朗普涉台言论",
@@ -80,8 +81,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时48分 ~ 16时16分]"
+          "appearance_count": 12,
+          "time_info": "[10时48分 ~ 17时12分]"
         },
         {
           "title": "“特朗普版QE”？特朗普指示“两房”购买2000亿美元美国抵押贷款债券",
@@ -107,8 +108,20 @@
             16
           ],
           "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[10时48分 ~ 17时12分]"
+        },
+        {
+          "title": "关税裁决交易指南：如果最高法院说“不”，特朗普还有什么牌？",
+          "url": "https://wallstreetcn.com/articles/3762973",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
           "appearance_count": 11,
-          "time_info": "[10时48分 ~ 16时16分]"
+          "time_info": "[10时48分 ~ 17时12分]"
         },
         {
           "title": "特朗普表示，美国必须「拥有」整个格陵兰，释放了什么信号？",
@@ -122,17 +135,6 @@
           "time_info": "[00时16分 ~ 08时57分]"
         },
         {
-          "title": "关税裁决交易指南：如果最高法院说“不”，特朗普还有什么牌？",
-          "url": "https://wallstreetcn.com/articles/3762973",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时48分 ~ 16时16分]"
-        },
-        {
           "title": "特朗普妄称中国若在其任内改变台湾现状，他将非常不悦，中方回应",
           "url": "https://news.ifeng.com/c/8pm6HIDB94W",
           "source": "凤凰网",
@@ -142,6 +144,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时16分 ~ 06时13分]"
+        },
+        {
+          "title": "特朗普：美国将立即开始提炼和销售多达5000万桶委内瑞拉石油，所有国家都可购买",
+          "url": "https://www.cls.cn/detail/2253739",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时26分 ~ 17时12分]"
         },
         {
           "title": "5名共和党议员倒戈，美参议院限制对委继续动武，特朗普怒了",
@@ -154,18 +169,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时56分 ~ 10时49分]"
-        },
-        {
-          "title": "特朗普：美国将立即开始提炼和销售多达5000万桶委内瑞拉石油，所有国家都可购买",
-          "url": "https://www.cls.cn/detail/2253739",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时26分 ~ 16时16分]"
         },
         {
           "title": "俄方感谢特朗普释放俄船员",
@@ -186,11 +189,12 @@
           "url": "https://news.ifeng.com/c/8pnjeKLWxbZ",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时15分 ~ 16时16分]"
+          "appearance_count": 3,
+          "time_info": "[16时15分 ~ 17时12分]"
         },
         {
           "title": "美国消费者银行家协会：美国银行业回应信用卡利率设限提案，表示认同美国总统特朗普帮助美国人获得更实惠信贷的目标。",
@@ -218,6 +222,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时13分 ~ 08时57分]"
+        },
+        {
+          "title": "印度否认莫迪未致电特朗普让印美贸易谈判停滞",
+          "url": "https://wallstreetcn.com/livenews/3034503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            5,
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时18分 ~ 17时12分]"
         },
         {
           "title": "美国总统特朗普：期待在不久的将来与哥伦比亚总统会晤。",
@@ -254,19 +272,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时13分 ~ 08时57分]"
-        },
-        {
-          "title": "印度否认莫迪未致电特朗普让印美贸易谈判停滞",
-          "url": "https://wallstreetcn.com/livenews/3034503",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时18分 ~ 16时16分]"
         },
         {
           "title": "特朗普到底退出了什么组织",
@@ -372,17 +377,6 @@
           "time_info": "05时13分"
         },
         {
-          "title": "泽连斯基想让你抓普京？特朗普：没这必要，我跟普京关系很好",
-          "url": "https://wallstreetcn.com/livenews/3034512",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时16分"
-        },
-        {
           "title": "特朗普：将推行为期一年的信用卡利率上限政策，限定为10%",
           "url": "https://flash.jin10.com/detail/20260110092636627800",
           "source": "金十数据",
@@ -453,17 +447,6 @@
           "time_info": "04时15分"
         },
         {
-          "title": "会去抓普京吗？特朗普：没必要 我们关系很好",
-          "url": "https://flash.jin10.com/detail/20260110152727783800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时16分"
-        },
-        {
           "title": "美国财长贝森特：美国目前发现，关税以物价上涨的形式转嫁给消费者的比例“非常、非常小”。 如果最高法院做出不利于特朗普政府的裁决，财政部有充足的资金支付任何关税退款。 任何关税退款都将在数周、数月、甚至可能是一年的时间内陆续流出。",
           "url": "https://wallstreetcn.com/livenews/3034466",
           "source": "华尔街见闻-快讯",
@@ -523,6 +506,17 @@
           "time_info": "[10时49分 ~ 14时18分]"
         },
         {
+          "title": "会下令“抓捕”普京吗？特朗普回应",
+          "url": "https://v.ifeng.com/c/8pngFh4oVip",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时12分 ~ 17时12分]"
+        },
+        {
           "title": "美国总统特朗普：进行了一场非常不错的会议。",
           "url": "https://wallstreetcn.com/livenews/3034457",
           "source": "华尔街见闻-快讯",
@@ -561,6 +555,18 @@
           "time_info": "[05时13分 ~ 06时13分]"
         },
         {
+          "title": "泽连斯基想让你抓普京？特朗普：没这必要，我跟普京关系很好",
+          "url": "https://wallstreetcn.com/livenews/3034512",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时16分 ~ 17时12分]"
+        },
+        {
           "title": "美国总统特朗普：委内瑞拉似乎是盟友。",
           "url": "https://flash.jin10.com/detail/20260110045154253800",
           "source": "金十数据",
@@ -597,6 +603,18 @@
           "time_info": "[05时13分 ~ 08时57分]"
         },
         {
+          "title": "特朗普“泄密”！提前12小时发帖曝光美非农就业数据",
+          "url": "https://wallstreetcn.com/articles/3762989",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时12分 ~ 17时12分]"
+        },
+        {
           "title": "特朗普讲话期间，康菲石油(COP.N)股价下跌1%。",
           "url": "https://flash.jin10.com/detail/20260110045006833800",
           "source": "金十数据",
@@ -607,6 +625,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时13分 ~ 08时57分]"
+        },
+        {
+          "title": "会去抓普京吗？特朗普：没必要 我们关系很好",
+          "url": "https://flash.jin10.com/detail/20260110152727783800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时16分 ~ 17时12分]"
         },
         {
           "title": "美国抵押贷款利率创将近三年新低，现阶段总统特朗普正推动住房经适性。",
@@ -689,17 +719,6 @@
           "time_info": "[11时53分 ~ 14时18分]"
         },
         {
-          "title": "会下令“抓捕”普京吗？特朗普回应",
-          "url": "https://v.ifeng.com/c/8pngFh4oVip",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时12分 ~ 16时16分]"
-        },
-        {
           "title": "美国农业部长（USDA）部长Rollins：特朗普政府暂停向明尼苏达州发放联邦资金，立即生效。 这包括当前激活的资金和未来可能会审批的资金。",
           "url": "https://wallstreetcn.com/livenews/3034452",
           "source": "华尔街见闻-快讯",
@@ -713,15 +732,17 @@
           "time_info": "[07时12分 ~ 10时49分]"
         },
         {
-          "title": "特朗普“泄密”！提前12小时发帖曝光美非农就业数据",
-          "url": "https://wallstreetcn.com/articles/3762989",
-          "source": "华尔街见闻",
+          "title": "印度否认莫迪未致电特朗普让印美贸易谈判停滞",
+          "url": "https://flash.jin10.com/detail/20260110135717759800",
+          "source": "金十数据",
           "ranks": [
-            9
+            9,
+            15,
+            29
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时12分 ~ 16时16分]"
+          "time_info": "[15时12分 ~ 17时12分]"
         },
         {
           "title": "美国总统特朗普：没人真正知道古巴局势会如何发展。",
@@ -861,18 +882,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时12分 ~ 08时57分]"
-        },
-        {
-          "title": "印度否认莫迪未致电特朗普让印美贸易谈判停滞",
-          "url": "https://flash.jin10.com/detail/20260110135717759800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时12分 ~ 16时16分]"
         },
         {
           "title": "特朗普的MBS购买计划被比作“准QE”，为交易员带来买入长债的理由",
@@ -1093,6 +1102,17 @@
           "time_info": "04时15分"
         },
         {
+          "title": "北约担忧特朗普将以“艰难”方式得到格陵兰岛",
+          "url": "https://wallstreetcn.com/livenews/3034516",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时12分"
+        },
+        {
           "title": "特朗普称一艘被扣押的委内瑞拉油轮正在返回该国",
           "url": "https://flash.jin10.com/detail/20260110040454099800",
           "source": "金十数据",
@@ -1102,6 +1122,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
+        },
+        {
+          "title": "北约担忧特朗普将以“艰难”方式得到格陵兰岛",
+          "url": "https://flash.jin10.com/detail/20260110160947892800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时12分"
         },
         {
           "title": "美国总统特朗普：将在2月份第一周会见哥伦比亚总统Petro。",
@@ -1214,6 +1245,17 @@
           "time_info": "05时13分"
         },
         {
+          "title": "特朗普觊觎格陵兰岛背后：科技寡头的建城雄心和现代淘金热",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32353506",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时12分"
+        },
+        {
           "title": "美国总统特朗普：期待在二月第一周与哥伦比亚总统佩特罗在白宫会面。",
           "url": "https://flash.jin10.com/detail/20260110024635635800",
           "source": "金十数据",
@@ -1289,6 +1331,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
+        },
+        {
+          "title": "特朗普政府称ICE特工枪杀事件是自卫",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E7%A7%B0ICE%E7%89%B9%E5%B7%A5%E6%9E%AA%E6%9D%80%E4%BA%8B%E4%BB%B6%E6%98%AF%E8%87%AA%E5%8D%AB",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时12分"
         },
         {
           "title": "美国总统特朗普：今天的非农就业报告非常惊艳。 （谈及提前在自家社交媒体平台贴出数据，声称）他们给了我一些数据。 他们给我，我就贴。",
@@ -1485,11 +1538,12 @@
           "ranks": [
             10,
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时56分 ~ 16时16分]"
+          "appearance_count": 14,
+          "time_info": "[08时56分 ~ 17时12分]"
         },
         {
           "title": "（美股）费城金银指数收涨1.97%，报374.53点，本周累计上涨9.32%，整体震荡上行。 （全球时段）纽约证交所ARCA金矿开采商指数收涨1.38%，报2619.57点，美股盘初显著拉升，本周累涨7.39%。 （美股）原材料指数涨2.38%，报245.15点，本周累涨6.19%。 （美股）金属与矿业指数涨1.34%，报231.57点，本周累涨3.44%。",
@@ -1551,8 +1605,22 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            12,
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时26分 ~ 17时12分]"
+        },
         {
           "title": "中信证券：特朗普任期内黄金价格将因委内瑞拉事件加速上行",
           "url": "https://flash.jin10.com/detail/20260110115435338800",
@@ -1567,20 +1635,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时27分 ~ 16时16分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10,
-            12,
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时26分 ~ 15时12分]"
         },
         {
           "title": "金价波动",
@@ -1607,6 +1661,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时57分 ~ 11时53分]"
+        },
+        {
+          "title": "金价飙涨美元一跌再跌",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%A3%99%E6%B6%A8%E7%BE%8E%E5%85%83%E4%B8%80%E8%B7%8C%E5%86%8D%E8%B7%8C%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时12分"
         }
       ]
     },
@@ -1623,8 +1688,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时56分 ~ 16时16分]"
+          "appearance_count": 14,
+          "time_info": "[08时56分 ~ 17时12分]"
         },
         {
           "title": "非农数据”温和“，标普新高，美元指数四连涨，黄金重回4500关口",
@@ -1662,6 +1727,57 @@
       ]
     },
     {
+      "keyword_group": "半导体",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "本田汽车将向包括Rohm在内的芯片制造商采购汽车半导体，以弥补安世半导体短缺的供应。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3034518",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时12分"
+        },
+        {
+          "title": "纳斯达克100指数涨超1%，英特尔涨10.4%领跑，拉姆研究涨8.4%，阿斯麦ADR涨6.9%，应用材料涨5.9%，科磊涨5.7%。 标普500指数涨超0.7%，道指涨0.5%，半导体指数涨2.8%，银行指数微跌。",
+          "url": "https://wallstreetcn.com/livenews/3034357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时14分 ~ 04时15分]"
+        },
+        {
+          "title": "据日经新闻：本田在安世半导体停产期间找到替代芯片供应。",
+          "url": "https://flash.jin10.com/detail/20260110161550385800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时12分"
+        },
+        {
+          "title": "本周，标普累涨约1.7%，道指累涨2.3%，纳指累涨1.9%，半导体指数累涨4%，银行指数涨2.2%。 标普500指数初步收涨0.7%，原材料、公用事业、可选消费、工业、日用品板块涨超1%，科技板块涨0.9%，保健板块跌0.5%。 纳斯达克100指数初步收涨1%，成分股中，英特尔初步收跌10.9%，拉姆研究涨9%，应用材料涨7.4%，阿斯麦ADR、希捷科技、西部数据、核电股CEG涨超6%，Datadog跌4.1%，CoStar跌4.7%，Strategy跌5.6%。 家得宝初步收涨4.3%，SHW涨3.4%，波音涨3%，雪佛龙涨1.8%，可口可乐涨1.7%，领跑道指成分股，联合健康跌0.9%，安进跌1.2%，美国运通跌1.8%。",
+          "url": "https://wallstreetcn.com/livenews/3034405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
@@ -1688,35 +1804,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "纳斯达克100指数涨超1%，英特尔涨10.4%领跑，拉姆研究涨8.4%，阿斯麦ADR涨6.9%，应用材料涨5.9%，科磊涨5.7%。 标普500指数涨超0.7%，道指涨0.5%，半导体指数涨2.8%，银行指数微跌。",
-          "url": "https://wallstreetcn.com/livenews/3034357",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时14分 ~ 04时15分]"
-        },
-        {
-          "title": "本周，标普累涨约1.7%，道指累涨2.3%，纳指累涨1.9%，半导体指数累涨4%，银行指数涨2.2%。 标普500指数初步收涨0.7%，原材料、公用事业、可选消费、工业、日用品板块涨超1%，科技板块涨0.9%，保健板块跌0.5%。 纳斯达克100指数初步收涨1%，成分股中，英特尔初步收跌10.9%，拉姆研究涨9%，应用材料涨7.4%，阿斯麦ADR、希捷科技、西部数据、核电股CEG涨超6%，Datadog跌4.1%，CoStar跌4.7%，Strategy跌5.6%。 家得宝初步收涨4.3%，SHW涨3.4%，波音涨3%，雪佛龙涨1.8%，可口可乐涨1.7%，领跑道指成分股，联合健康跌0.9%，安进跌1.2%，美国运通跌1.8%。",
-          "url": "https://wallstreetcn.com/livenews/3034405",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时13分"
         }
       ]
     }

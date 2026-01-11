@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-11T19:11:03.607897+08:00",
-  "total_titles_processed": 1113,
+  "generated_at": "2026-01-11T20:22:57.269980+08:00",
+  "total_titles_processed": 1207,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 52,
       "titles": [
         {
           "title": "为保护所持委石油收入，特朗普宣布进入国家紧急状态",
@@ -91,11 +91,29 @@
           "ranks": [
             4,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时41分 ~ 19时11分]"
+          "appearance_count": 12,
+          "time_info": "[12时41分 ~ 20时22分]"
+        },
+        {
+          "title": "特朗普再次威胁伊朗，被曝已听取军事打击方案汇报 伊朗军方：团结起来挫败敌人阴谋",
+          "url": "https://wallstreetcn.com/articles/3763030",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6,
+            5,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[12时41分 ~ 20时22分]"
         },
         {
           "title": "俄罗斯回应特朗普释放俄船员",
@@ -113,22 +131,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时13分 ~ 09时04分]"
-        },
-        {
-          "title": "特朗普再次威胁伊朗，被曝已听取军事打击方案汇报 伊朗军方：团结起来挫败敌人阴谋",
-          "url": "https://wallstreetcn.com/articles/3763030",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            6,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时41分 ~ 19时11分]"
         },
         {
           "title": "特朗普暗示：突袭式军事行动，或成美未来海外用兵主要模式",
@@ -323,15 +325,15 @@
           "time_info": "15时15分"
         },
         {
-          "title": "特朗普威胁夺取格陵兰岛，德国副总理表态：国际法原则适用于所有人，包括美国",
-          "url": "https://flash.jin10.com/detail/20260111185036309800",
-          "source": "金十数据",
+          "title": "特朗普画饼翻车,油企拒投不接盘",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348965&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E7%94%BB%E9%A5%BC%E7%BF%BB%E8%BD%A6%2C%E6%B2%B9%E4%BC%81%E6%8B%92%E6%8A%95%E4%B8%8D%E6%8E%A5%E7%9B%98",
+          "source": "贴吧",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时11分"
+          "time_info": "20时22分"
         },
         {
           "title": "特朗普宣布进入国家紧急状态",
@@ -343,6 +345,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
+        },
+        {
+          "title": "有网友在社交媒体平台上称，美国国务卿鲁比奥将成为“古巴总统”，美国总统特朗普随后截图并评论称：“听起来不错！”",
+          "url": "https://flash.jin10.com/detail/20260111195052467800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
         },
         {
           "title": "石油巨头齐聚白宫探讨委内瑞拉原油，特朗普“你们投千亿、政府不出钱”，美孚“没改革就没投资”",
@@ -371,6 +384,18 @@
           "time_info": "[11时42分 ~ 13时19分]"
         },
         {
+          "title": "美银Hartnett谈“一季度策略”：特朗普为中选“压通胀、降利率”，投资者“做多经济繁荣、做空AI泡沫”",
+          "url": "https://wallstreetcn.com/articles/3763032",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时13分 ~ 20时22分]"
+        },
+        {
           "title": "特朗普被曝已听取军事打击伊朗方案汇报",
           "url": "https://m.thepaper.cn/newsDetail_forward_32362509",
           "source": "澎湃新闻",
@@ -396,6 +421,18 @@
           "time_info": "[17时13分 ~ 19时11分]"
         },
         {
+          "title": "特朗普威胁夺取格陵兰岛，德国副总理表态：国际法原则适用于所有人，包括美国",
+          "url": "https://flash.jin10.com/detail/20260111185036309800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时11分 ~ 20时22分]"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-11）",
           "url": "https://flash.jin10.com/detail/20260111175613540800",
           "source": "金十数据",
@@ -418,18 +455,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时12分 ~ 09时04分]"
-        },
-        {
-          "title": "美银Hartnett谈“一季度策略”：特朗普为中选“压通胀、降利率”，投资者“做多经济繁荣、做空AI泡沫”",
-          "url": "https://wallstreetcn.com/articles/3763032",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时13分 ~ 19时11分]"
         },
         {
           "title": "英媒爆料：特朗普已下令美军司令部制定“入侵”格陵兰岛计划，遭军方抵制",
@@ -563,6 +588,17 @@
           "time_info": "[09时03分 ~ 09时04分]"
         },
         {
+          "title": "有网友在社交媒体平台上称，美国国务卿鲁比奥将成为“古巴总统”。 美国总统特朗普随后截图并在自家社交媒体平台评论称：“听起来不错！”",
+          "url": "https://wallstreetcn.com/livenews/3034723",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        },
+        {
           "title": "达尔环球CEO表示，达尔环球公司与特朗普集团将启动价值100亿美元的新沙特房地产项目。",
           "url": "https://wallstreetcn.com/livenews/3034676",
           "source": "华尔街见闻-快讯",
@@ -572,6 +608,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时13分"
+        },
+        {
+          "title": "2026最大的交易主题：输不起的特朗普，国际秩序的终结",
+          "url": "https://wallstreetcn.com/articles/3763038",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        },
+        {
+          "title": "特朗普自称从不觉得快乐 直至让美国再次伟大",
+          "url": "https://flash.jin10.com/detail/20260111194008167800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
         },
         {
           "title": "意大利总理：不同意特朗普的许多做法，国际法必须得到充分捍卫",
@@ -645,14 +703,14 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时12分"
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 20时22分]"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美股收盘：道指、标普均创历史新高 非农并未动摇美联储年内降息预期",
@@ -666,6 +724,17 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时13分 ~ 09时04分]"
+        },
+        {
+          "title": "下周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
+          "url": "https://wallstreetcn.com/articles/3762924",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
         }
       ]
     },

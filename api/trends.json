@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T15:19:02.192259+08:00",
-  "total_titles_processed": 1371,
+  "generated_at": "2026-01-13T16:18:50.745999+08:00",
+  "total_titles_processed": 1468,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 80,
+      "match_count": 81,
       "titles": [
         {
           "title": "特朗普威胁古巴，委内瑞拉发声",
@@ -62,19 +62,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时54分 ~ 15时19分]"
+          "appearance_count": 9,
+          "time_info": "[08时54分 ~ 16时18分]"
         },
         {
           "title": "特朗普：最高法若作出对美不利裁决，我们就完蛋了",
           "url": "https://news.ifeng.com/c/8prryx4FgQx",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时52分 ~ 15时19分]"
+          "appearance_count": 8,
+          "time_info": "[10时52分 ~ 16时18分]"
         },
         {
           "title": "鲍威尔被诉，共和党关键议员翻脸：我就投反对票，特朗普别想提名新联储主席！",
@@ -86,8 +87,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时18分 ~ 15时19分]"
+          "appearance_count": 19,
+          "time_info": "[00时18分 ~ 16时18分]"
         },
         {
           "title": "从“架空美联储”到“起诉鲍威尔”--“输不起中选”的特朗普决定“接管美联储”",
@@ -125,8 +126,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时54分 ~ 15时19分]"
+          "appearance_count": 9,
+          "time_info": "[08时54分 ~ 16时18分]"
         },
         {
           "title": "特朗普称接管格陵兰岛是为防中俄觊觎，外交部：谋私利别拿他国当借口",
@@ -140,8 +141,35 @@
             15
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时54分 ~ 16时18分]"
+        },
+        {
+          "title": "“美联储通讯社”：鲍威尔上周五接到传票，思考整个周末后，美联储主席决定“公开对抗特朗普”",
+          "url": "https://wallstreetcn.com/articles/3763132",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[08时54分 ~ 15时19分]"
+          "time_info": "[10时52分 ~ 16时18分]"
+        },
+        {
+          "title": "调查鲍威尔引内讧？FHFA局长被指幕后推手，贝森特警告“制造混乱”，白宫称特朗普未指示行动",
+          "url": "https://wallstreetcn.com/articles/3763119",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时52分 ~ 16时18分]"
         },
         {
           "title": "民调称美民众不爱听特朗普对华叫嚷",
@@ -157,30 +185,15 @@
           "time_info": "[01时17分 ~ 06时12分]"
         },
         {
-          "title": "“美联储通讯社”：鲍威尔上周五接到传票，思考整个周末后，美联储主席决定“公开对抗特朗普”",
-          "url": "https://wallstreetcn.com/articles/3763132",
-          "source": "华尔街见闻",
+          "title": "北约秘书长帮腔特朗普：中俄恐将越来越活跃",
+          "url": "https://news.ifeng.com/c/8psHSxQTXOP",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            8,
-            7,
             6
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[10时52分 ~ 15时19分]"
-        },
-        {
-          "title": "调查鲍威尔引内讧？FHFA局长被指幕后推手，贝森特警告“制造混乱”，白宫称特朗普未指示行动",
-          "url": "https://wallstreetcn.com/articles/3763119",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时52分 ~ 15时19分]"
+          "time_info": "[11时59分 ~ 16时18分]"
         },
         {
           "title": "特朗普：对伊朗贸易伙伴征收25%关税",
@@ -196,15 +209,17 @@
           "time_info": "[10时52分 ~ 15时19分]"
         },
         {
-          "title": "北约秘书长帮腔特朗普：中俄恐将越来越活跃",
-          "url": "https://news.ifeng.com/c/8psHSxQTXOP",
-          "source": "凤凰网",
+          "title": "特朗普：对伊朗贸易伙伴征收25%关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32372812",
+          "source": "澎湃新闻",
           "ranks": [
-            6
+            17,
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时59分 ~ 15时19分]"
+          "appearance_count": 7,
+          "time_info": "[11时59分 ~ 16时18分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普对委内瑞拉反对派Machado的评估“是现实的”。",
@@ -227,19 +242,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
-        },
-        {
-          "title": "特朗普：对伊朗贸易伙伴征收25%关税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32372812",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时59分 ~ 15时19分]"
         },
         {
           "title": "特朗普称数据中心用电成本不应转嫁给消费者",
@@ -649,6 +651,17 @@
           "time_info": "02时19分"
         },
         {
+          "title": "#美国开年狂飙特朗普到底想干嘛#",
+          "url": "https://www.baidu.com/s?wd=%23%E7%BE%8E%E5%9B%BD%E5%BC%80%E5%B9%B4%E7%8B%82%E9%A3%99%E7%89%B9%E6%9C%97%E6%99%AE%E5%88%B0%E5%BA%95%E6%83%B3%E5%B9%B2%E5%98%9B%23",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
           "title": "白宫新闻秘书利维特：特朗普总统已与马斯克就互联网问题进行了沟通。",
           "url": "https://flash.jin10.com/detail/20260113022328859800",
           "source": "金十数据",
@@ -959,8 +972,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时54分 ~ 15时19分]"
+          "appearance_count": 9,
+          "time_info": "[08时54分 ~ 16时18分]"
         },
         {
           "title": "本周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
@@ -1171,7 +1184,7 @@
     },
     {
       "keyword_group": "电力",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美军称突袭委内瑞拉时使用「特殊专长」，让全城大规模断电发动突袭，这种「电力战」是如何发动的？",
@@ -1185,6 +1198,17 @@
           "time_info": "[00时18分 ~ 07时11分]"
         },
         {
+          "title": "自主研发电力示范机组实现核心技术突破",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%87%AA%E4%B8%BB%E7%A0%94%E5%8F%91%E7%94%B5%E5%8A%9B%E7%A4%BA%E8%8C%83%E6%9C%BA%E7%BB%84%E5%AE%9E%E7%8E%B0%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF%E7%AA%81%E7%A0%B4%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时18分 ~ 16时18分]"
+        },
+        {
           "title": "马斯克最新访谈：瓦特是未来货币，电力优势将令中国AI算力一骑绝尘",
           "url": "https://m.thepaper.cn/newsDetail_forward_32368937",
           "source": "澎湃新闻",
@@ -1196,17 +1220,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[04时15分 ~ 08时54分]"
-        },
-        {
-          "title": "自主研发电力示范机组实现核心技术突破",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%87%AA%E4%B8%BB%E7%A0%94%E5%8F%91%E7%94%B5%E5%8A%9B%E7%A4%BA%E8%8C%83%E6%9C%BA%E7%BB%84%E5%AE%9E%E7%8E%B0%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF%E7%AA%81%E7%A0%B4%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时18分 ~ 15时19分]"
         },
         {
           "title": "乌克兰电力公司UKRENERGO表示，俄罗斯昨夜发动袭击后，基辅已实施停电。",
@@ -1230,6 +1243,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时20分 ~ 15时19分]"
+        },
+        {
+          "title": "长江电力业绩快报：2025年净利润341.67亿元，同比增长5.14%。",
+          "url": "https://wallstreetcn.com/livenews/3035924",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         }
       ]
     },

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T22:17:49.670661+08:00",
-  "total_titles_processed": 2122,
+  "generated_at": "2026-01-14T23:17:21.373410+08:00",
+  "total_titles_processed": 2223,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 121,
+      "match_count": 124,
       "titles": [
         {
           "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
@@ -42,6 +42,18 @@
           "time_info": "[00时20分 ~ 07时13分]"
         },
         {
+          "title": "特朗普特使秘密见了伊朗末代王储",
+          "url": "https://news.ifeng.com/c/8puGHxn1NbX",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时20分 ~ 23时17分]"
+        },
+        {
           "title": "特朗普再度抨击鲍威尔：“那个混蛋”很快就要走人了",
           "url": "https://www.cls.cn/detail/2256844",
           "source": "财联社热门",
@@ -53,18 +65,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时00分 ~ 14时21分]"
-        },
-        {
-          "title": "特朗普特使秘密见了伊朗末代王储",
-          "url": "https://news.ifeng.com/c/8puGHxn1NbX",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时20分 ~ 22时17分]"
         },
         {
           "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
@@ -143,6 +143,23 @@
           "time_info": "[12时40分 ~ 17时20分]"
         },
         {
+          "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32382657",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            16,
+            10,
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时20分 ~ 23时17分]"
+        },
+        {
           "title": "伊朗驻联合国代表团指责美国总统特朗普鼓励政治动荡、煽动暴力、威胁伊朗主权，称美国和以色列应对由此造成平民生命损失承担法律责任，特别是青年群体中的伤亡。",
           "url": "https://flash.jin10.com/detail/20260114070919942800",
           "source": "金十数据",
@@ -165,22 +182,6 @@
           "time_info": "20时25分"
         },
         {
-          "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32382657",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            16,
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时20分 ~ 22时17分]"
-        },
-        {
           "title": "美媒：特朗普曾深夜发短信追问军舰“生锈”问题，美海军抓紧制定解决方案",
           "url": "https://wallstreetcn.com/livenews/3036708",
           "source": "华尔街见闻-快讯",
@@ -198,7 +199,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -1180,6 +1181,17 @@
           "time_info": "04时15分"
         },
         {
+          "title": "英特尔(INTC.O)上涨3%，特朗普暗示苹果已投资英特尔。",
+          "url": "https://flash.jin10.com/detail/20260114223505158800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "美国总统特朗普：将在底特律谈论经济。",
           "url": "https://wallstreetcn.com/livenews/3036280",
           "source": "华尔街见闻-快讯",
@@ -1279,6 +1291,17 @@
           "time_info": "03时14分"
         },
         {
+          "title": "特朗普政府执政近一年给世界带来了啥",
+          "url": "https://www.toutiao.com/trending/7595171405177684018/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "美国众议院议长约翰逊：周一就信用卡利率上限设定为10%一事与美国总统特朗普通话。",
           "url": "https://flash.jin10.com/detail/20260113233739122800",
           "source": "金十数据",
@@ -1367,6 +1390,17 @@
           "time_info": "19时14分"
         },
         {
+          "title": "据POLITICO报道，特朗普不急于在得克萨斯州共和党参议员竞选中为候选人背书。",
+          "url": "https://flash.jin10.com/detail/20260114222907174800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "美国总统特朗普：将在底特律谈论经济。",
           "url": "https://flash.jin10.com/detail/20260113233358056800",
           "source": "金十数据",
@@ -1392,7 +1426,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 26,
       "titles": [
         {
           "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
@@ -1402,8 +1436,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时00分 ~ 22时17分]"
+          "appearance_count": 18,
+          "time_info": "[09时00分 ~ 23时17分]"
         },
         {
           "title": "美股走V新高，谷歌破4万亿，阿里暴涨10%领衔中概大涨，金银大涨创新高",
@@ -1494,7 +1528,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -1508,6 +1542,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
+        },
+        {
+          "title": "伊朗局势担忧加剧，美股指集体下挫，纳指跌近0.8%，金属狂飙，现货白银站上92美元，锡铜新高",
+          "url": "https://wallstreetcn.com/articles/3763270",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "美国总统特朗普赞赏美股的表现。",
@@ -1564,7 +1609,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -1575,7 +1620,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -1589,6 +1634,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时25分"
+        },
+        {
+          "title": "美股集体低开 携程跌近17%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80+%E6%90%BA%E7%A8%8B%E8%B7%8C%E8%BF%9117%25",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "金十图示：2026年01月13日（周二）美股热门股票行情一览（美股盘中）",
@@ -1613,6 +1669,39 @@
           "time_info": "02时21分"
         },
         {
+          "title": "花旗集团美股盘初一度涨约1.5%，该公司四季度并购佣金收入飙升84%，为创纪录的投行业务之年画上句号。",
+          "url": "https://wallstreetcn.com/livenews/3037138",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "行业ETF美股盘初普跌，半导体ETF跌1.05%，可选消费ETF跌0.93%，科技行业ETF跌0.82%，全球科技股指数ETF、网络股指数ETF至多跌0.69%，银行业ETF跌0.46%，能源ETF涨0.91%。",
+          "url": "https://wallstreetcn.com/livenews/3037136",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "美股开盘，道指跌113点，标普500指数跌0.44%，纳指跌0.6%。部分明星科技股走低，AMD(AMD.O)跌1.7%、博通(AVGO.O)跌1.3%。纳斯达克中国金龙指数跌0.13%，携程(TCOM.O)跌17%。",
+          "url": "https://flash.jin10.com/detail/20260114223031737800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "现货白银涨约2.2%，美股盘初突破89美元创历史新高",
           "url": "https://wallstreetcn.com/livenews/3036425",
           "source": "华尔街见闻-快讯",
@@ -1622,6 +1711,102 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "富国银行低开3.7%，创2025年10月份以来最差盘中表现。 费城银行指数美股盘初跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3037140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "【焦点复盘】沪指午后跳水一度逼近4100点，商业航天概念分化持续，半导体设备股卷土重来",
+          "url": "https://www.cls.cn/detail/2257582",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时16分 ~ 23时17分]"
+        },
+        {
+          "title": "韩国2025年半导体出口额达1735亿美元 创历史新高",
+          "url": "https://wallstreetcn.com/livenews/3036746",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "新华百货：目前不存在市场传闻所述的向上市公司注入半导体等相关资产的事项",
+          "url": "https://wallstreetcn.com/livenews/3037095",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
+          "title": "恒生科技指数涨超1%。阿里健康涨超10%，华虹半导体、快手涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3036591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时05分"
+        },
+        {
+          "title": "英飞凌：与印度电子工业研究院（NIELIT）合作，旨在加强印度半导体生态系统和人才储备。",
+          "url": "https://flash.jin10.com/detail/20260114192929386800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
+          "title": "纳斯达克100指数指数下跌1%，创12月17日以来最大盘中跌幅。 成分股Applovin跌5.2%，Arm控股跌4.5%，Intuit跌4%，拉姆研究、ISRG、铿腾电子、博通等跌超3%，拼多多跌3%，AMD跌2.5%，英特尔涨超1%，Diamondback Energy涨2.3%，Strategy涨6.5%。 标普跌0.6%，纳斯达克综合指数（纳指）跌1%，半导体指数跌1.3%，银行指数跌1.2%。",
+          "url": "https://wallstreetcn.com/livenews/3037142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "市场消息：韩美半导体从SK海力士获得96.5亿韩元合同。",
+          "url": "https://flash.jin10.com/detail/20260114074831016800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
         }
       ]
     },
@@ -1709,80 +1894,6 @@
       ]
     },
     {
-      "keyword_group": "半导体",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "【焦点复盘】沪指午后跳水一度逼近4100点，商业航天概念分化持续，半导体设备股卷土重来",
-          "url": "https://www.cls.cn/detail/2257582",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时16分 ~ 22时17分]"
-        },
-        {
-          "title": "韩国2025年半导体出口额达1735亿美元 创历史新高",
-          "url": "https://wallstreetcn.com/livenews/3036746",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        },
-        {
-          "title": "新华百货：目前不存在市场传闻所述的向上市公司注入半导体等相关资产的事项",
-          "url": "https://wallstreetcn.com/livenews/3037095",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时17分"
-        },
-        {
-          "title": "恒生科技指数涨超1%。阿里健康涨超10%，华虹半导体、快手涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3036591",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时05分"
-        },
-        {
-          "title": "英飞凌：与印度电子工业研究院（NIELIT）合作，旨在加强印度半导体生态系统和人才储备。",
-          "url": "https://flash.jin10.com/detail/20260114192929386800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "市场消息：韩美半导体从SK海力士获得96.5亿韩元合同。",
-          "url": "https://flash.jin10.com/detail/20260114074831016800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
       "match_count": 4,
       "titles": [
@@ -1817,7 +1928,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -1874,6 +1985,35 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "两年期美债收益率跌超1个基点，美国CPI数据出炉时显著跳水",
+          "url": "https://wallstreetcn.com/livenews/3036390",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时13分 ~ 06时14分]"
+        },
+        {
+          "title": "美国国债价格上涨，10年期美债收益率刷新日低。",
+          "url": "https://wallstreetcn.com/livenews/3037144",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        }
+      ]
+    },
+    {
       "keyword_group": "黄金",
       "match_count": 1,
       "titles": [
@@ -1887,24 +2027,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "两年期美债收益率跌超1个基点，美国CPI数据出炉时显著跳水",
-          "url": "https://wallstreetcn.com/livenews/3036390",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时13分 ~ 06时14分]"
         }
       ]
     }

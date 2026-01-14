@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T04:13:10.320673+08:00",
-  "total_titles_processed": 585,
+  "generated_at": "2026-01-15T05:13:07.315548+08:00",
+  "total_titles_processed": 640,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 36,
       "titles": [
         {
           "title": "特朗普特使秘密见了伊朗末代王储",
@@ -28,19 +28,30 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 04时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 05时13分]"
         },
         {
-          "title": "标普500能源指数回吐涨幅，美国总统特朗普谈及伊朗。",
-          "url": "https://wallstreetcn.com/livenews/3037278",
-          "source": "华尔街见闻-快讯",
+          "title": "马上要谈，特朗普又来：北约应该带头帮我们拿下",
+          "url": "https://news.ifeng.com/c/8puu58c2sSy",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时12分 ~ 05时13分]"
+        },
+        {
+          "title": "美国总统特朗普：与委内瑞拉领导人进行了精彩的对话。",
+          "url": "https://flash.jin10.com/detail/20260115044111087800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时13分"
+          "time_info": "05时13分"
         },
         {
           "title": "欧盟议会领导人“毫不含糊地”谴责美国总统特朗普政府关于格陵兰岛的言论。",
@@ -54,6 +65,39 @@
           "time_info": "02时21分"
         },
         {
+          "title": "美国总统特朗普：我想会有办法的。",
+          "url": "https://flash.jin10.com/detail/20260115044104596800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
+          "title": "【特朗普称观望伊朗局势发展】当地时间1月14日下午，美国总统特朗普在白宫对媒体谈及伊朗局势时表示，“我们要先观望局势发展”。他同时指出美国政府收到了“来自伊朗非常积极的声明”。不过他也并未排除美国采取军事行动的可能性。美媒分析指出，特朗普的这番言论“似乎意在缓解外界对局势可能升级为更广泛地区冲突的担忧”。(CCTV国际时讯",
+          "url": "https://wallstreetcn.com/livenews/3037300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
+          "title": "美国总统特朗普：我不能指望丹麦。",
+          "url": "https://flash.jin10.com/detail/20260115044054055800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
           "title": "德国财长：敦促欧洲在特朗普时代展现强硬立场",
           "url": "https://wallstreetcn.com/livenews/3037193",
           "source": "华尔街见闻-快讯",
@@ -65,15 +109,75 @@
           "time_info": "00时19分"
         },
         {
+          "title": "美国总统特朗普：（被问及是否排除对伊朗采取军事行动）我们会观察事态发展，然后再做决定。",
+          "url": "https://flash.jin10.com/detail/20260115043926070800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
+          "title": "标普500能源指数回吐涨幅，美国总统特朗普谈及伊朗。",
+          "url": "https://wallstreetcn.com/livenews/3037278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时13分 ~ 05时13分]"
+        },
+        {
           "title": "美国总统特朗普签署行动，来保障国家稀土供应。",
           "url": "https://wallstreetcn.com/livenews/3037276",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时13分 ~ 05时13分]"
+        },
+        {
+          "title": "美国总统特朗普：泄密委内瑞拉消息的人已被找到，目前身陷囹圄。",
+          "url": "https://flash.jin10.com/detail/20260115040624036800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时13分 ~ 05时13分]"
+        },
+        {
+          "title": "油价大幅跳水 特朗普称伊朗的“杀戮”正在停止",
+          "url": "https://flash.jin10.com/detail/20260115040402898800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时13分 ~ 05时13分]"
+        },
+        {
+          "title": "特朗普敲定首笔委内瑞拉石油大单，5亿美金落袋",
+          "url": "https://wallstreetcn.com/livenews/3037268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时13分 ~ 05时13分]"
         },
         {
           "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
@@ -85,6 +189,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时18分 ~ 00时19分]"
+        },
+        {
+          "title": "美国总统特朗普：签署了一项行动，将允许我们对芯片销售征收25%的关税。",
+          "url": "https://flash.jin10.com/detail/20260115040309665800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时13分 ~ 05时13分]"
         },
         {
           "title": "美国特使Witkoff：我们正式宣布启动特朗普关于结束加沙冲突“二十点计划”的第二阶段。",
@@ -111,70 +227,105 @@
           "time_info": "[03时13分 ~ 04时13分]"
         },
         {
-          "title": "美国总统特朗普：泄密委内瑞拉消息的人已被找到，目前身陷囹圄。",
-          "url": "https://flash.jin10.com/detail/20260115040624036800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
-          "title": "油价大幅跳水 特朗普称伊朗的“杀戮”正在停止",
-          "url": "https://flash.jin10.com/detail/20260115040402898800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
-          "title": "特朗普敲定首笔委内瑞拉石油大单，5亿美金落袋",
-          "url": "https://wallstreetcn.com/livenews/3037268",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
-          "title": "美国总统特朗普：签署了一项行动，将允许我们对芯片销售征收25%的关税。",
-          "url": "https://flash.jin10.com/detail/20260115040309665800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
           "title": "美国总统特朗普：已被告知伊朗的“杀戮”正在停止，没有处决计划。",
           "url": "https://flash.jin10.com/detail/20260115040252991800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时13分 ~ 05时13分]"
         },
         {
           "title": "美国总统特朗普签署关键矿物行政命令。",
           "url": "https://flash.jin10.com/detail/20260115040151639800",
           "source": "金十数据",
           "ranks": [
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时13分 ~ 05时13分]"
+        },
+        {
+          "title": "特朗普政府执政近一年给世界带来了啥",
+          "url": "https://www.toutiao.com/trending/7595171405177684018/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时12分 ~ 05时13分]"
+        },
+        {
+          "title": "美国总统特朗普：（谈格陵兰岛）我们走着瞧。将很快听取有关会晤的汇报。我们与丹麦关系非常好。我们需要格陵兰岛。",
+          "url": "https://flash.jin10.com/detail/20260115043826743800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
+          "title": "美国总统特朗普：（谈伊朗“杀戮”已停止）我是从对方的消息来源那里得知此事的。",
+          "url": "https://flash.jin10.com/detail/20260115043746236800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
+          "title": "特朗普：对未用于美国AI的进口芯片征收25%关税",
+          "url": "https://flash.jin10.com/detail/20260115043632565800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
+          "title": "特朗普称与委内瑞拉代总统通话",
+          "url": "https://wallstreetcn.com/livenews/3037292",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
+          "title": "特朗普称伊朗“杀戮”已停止 或暗示暂缓对伊军事行动",
+          "url": "https://flash.jin10.com/detail/20260115042905002800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
+          "title": "美国总统特朗普：与丹麦关系很好。",
+          "url": "https://wallstreetcn.com/livenews/3037286",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时13分"
+          "time_info": "05时13分"
         },
         {
           "title": "美国总统特朗普：我有一些关于伊朗的消息，我们稍后会谈到。",
@@ -183,9 +334,31 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "特朗普一句话油价短线暴跌4%",
+          "url": "https://flash.jin10.com/detail/20260115041419369800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
+          "title": "花旗警告称特朗普设置信用卡利率上限的想法可能导致经济放缓",
+          "url": "https://wallstreetcn.com/livenews/3037280",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
         },
         {
           "title": "白宫新闻秘书莱维特：特朗普将于美国东部时间下午2点签署法案，允许学校提供全脂牛奶和2%低脂牛奶。",
@@ -246,7 +419,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
@@ -257,8 +430,31 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 04时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 05时13分]"
+        },
+        {
+          "title": "科技股暴跌，美股指跌幅扩大，纳指跌1.5%，金属狂飙，现货白银站上92美元，锡铜新高",
+          "url": "https://wallstreetcn.com/articles/3763270",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时13分 ~ 05时13分]"
+        },
+        {
+          "title": "美股集体低开 携程跌近17%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80+%E6%90%BA%E7%A8%8B%E8%B7%8C%E8%BF%9117%25",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 05时13分]"
         },
         {
           "title": "伊朗局势担忧加剧，美股指集体下挫，纳指跌近0.8%，金属狂飙，现货白银站上92美元，锡铜新高",
@@ -273,26 +469,15 @@
           "time_info": "[00时18分 ~ 02时21分]"
         },
         {
-          "title": "美股集体低开 携程跌近17%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80+%E6%90%BA%E7%A8%8B%E8%B7%8C%E8%BF%9117%25",
-          "source": "百度热搜",
+          "title": "网络股指数ETF收跌约1.7%，领跌美股行业ETF，标普能源板块涨超2.2%",
+          "url": "https://wallstreetcn.com/livenews/3037301",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            1
           ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 04时13分]"
-        },
-        {
-          "title": "科技股暴跌，美股指跌幅扩大，纳指跌1.5%，金属狂飙，现货白银站上92美元，锡铜新高",
-          "url": "https://wallstreetcn.com/articles/3763270",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时13分 ~ 04时13分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
         },
         {
           "title": "金十图示：2026年01月14日（周三）美股热门股票行情一览（美股盘中）",
@@ -319,6 +504,58 @@
       ]
     },
     {
+      "keyword_group": "半导体",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "【焦点复盘】沪指午后跳水一度逼近4100点，商业航天概念分化持续，半导体设备股卷土重来",
+          "url": "https://www.cls.cn/detail/2257582",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 05时13分]"
+        },
+        {
+          "title": "周三（1月14日），彭博电动汽车价格回报指数跌0.37%，报3611.80点。 亚太早盘，指数微幅上涨，北京时间13:00出现一波显著的跳水转跌行情，14:07刷新日低至3597.59点刷新日低，随后持续低位震荡。 成分股Rivian跌7.7%，微宏控股跌4.1%，意法半导体跌2.4%，特斯拉跌2.2%，小马智行则涨1.9%，普拉格动力公司2.4%，宝马涨2.7%，Solid Power涨3.6%，EVGO涨5.9%，MP材料涨8.3%。",
+          "url": "https://wallstreetcn.com/livenews/3037297",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
+          "title": "标普500指数跌幅扩大至1%，科技板块跌超1.8%，可选消费板块跌1.7%，电信板块跌1.2%，能源板块涨1.8%。 道指跌267点跌超0.5%，纳指跌348点跌幅1.5%，半导体指数跌1.5%，银行指数跌1.2%。",
+          "url": "https://wallstreetcn.com/livenews/3037194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 01时21分]"
+        },
+        {
+          "title": "标普500指数初步收跌0.6%，可选消费板块跌1.8%，科技板块跌1.5%，电信板块跌0.6%，必需品板块涨1.1%，能源板块涨2.2%。 纳斯达克100指数初步收跌1.1%，成分股中，Applovin跌7.8%，Intuit跌6.4%，Shopify跌5.9%，博通跌4.1%，拼多多跌3.8%，德州仪器涨2.5%，英特尔涨3%，卡夫亨氏涨3.4%，Strategy涨3.8%。 亚马逊初步收跌2.4%，微软跌2.4%，英伟达跌1.5%，思科跌1.4%，领跌道指成分股，雪佛龙、强生、Merck则涨超2%。 半导体指数跌0.6%，银行指数跌0.7%。",
+          "url": "https://wallstreetcn.com/livenews/3037293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        }
+      ]
+    },
+    {
       "keyword_group": "电力",
       "match_count": 3,
       "titles": [
@@ -331,8 +568,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时21分 ~ 04时13分]"
+          "appearance_count": 8,
+          "time_info": "[01时21分 ~ 05时13分]"
         },
         {
           "title": "乌克兰总统泽连斯基：宣布乌克兰能源业进入紧急状态。 乌克兰寻求增加电力进口。",
@@ -361,39 +598,20 @@
       ]
     },
     {
-      "keyword_group": "半导体",
+      "keyword_group": "美债",
       "match_count": 2,
       "titles": [
         {
-          "title": "【焦点复盘】沪指午后跳水一度逼近4100点，商业航天概念分化持续，半导体设备股卷土重来",
-          "url": "https://www.cls.cn/detail/2257582",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 04时13分]"
-        },
-        {
-          "title": "标普500指数跌幅扩大至1%，科技板块跌超1.8%，可选消费板块跌1.7%，电信板块跌1.2%，能源板块涨1.8%。 道指跌267点跌超0.5%，纳指跌348点跌幅1.5%，半导体指数跌1.5%，银行指数跌1.2%。",
-          "url": "https://wallstreetcn.com/livenews/3037194",
+          "title": "中长期美债收益率跌约4个基点",
+          "url": "https://wallstreetcn.com/livenews/3037290",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            30
+            10
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
         {
           "title": "避险情绪升温推低美债收益率 30年期国债创年内新低",
           "url": "https://flash.jin10.com/detail/20260115013842934800",
@@ -409,7 +627,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨3.15%，暂报4382.96点。 MarketVectorTM数字资产100中盘指数涨2.56%，报3980.94点。 MarketVector数字资产100指数涨4.39%，报20205.32点。 Solana目前涨2.49%，狗狗币涨3.96%，XRP涨1.32%。 比特币涨3.19%，暂报97353.99美元；以太坊涨5.26%，暂报3370.99美元。",
@@ -422,6 +640,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时21分 ~ 02时21分]"
+        },
+        {
+          "title": "周三（1月14日）纽约尾盘，ICE美元指数跌0.06%，报99.077点，日内交投区间为99.248-98.933点，北京时间00:02刷新日低，全天V形走势。 彭博美元指数跌0.10%，报1210.52点，09:35微涨至1212.63点刷新日高，最后震荡走低，00:03刷新日低至1209.09点。",
+          "url": "https://wallstreetcn.com/livenews/3037289",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
         }
       ]
     }

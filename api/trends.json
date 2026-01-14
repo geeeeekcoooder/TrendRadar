@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T19:14:43.029813+08:00",
-  "total_titles_processed": 1781,
+  "generated_at": "2026-01-14T20:25:52.798573+08:00",
+  "total_titles_processed": 1897,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 110,
+      "match_count": 117,
       "titles": [
         {
           "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
@@ -63,8 +63,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时40分 ~ 19时14分]"
+          "appearance_count": 11,
+          "time_info": "[12时40分 ~ 20时25分]"
         },
         {
           "title": "特朗普：对伊朗贸易伙伴征收25%关税，油价短线走高",
@@ -105,6 +105,18 @@
           "time_info": "[00时20分 ~ 06时14分]"
         },
         {
+          "title": "特朗普特使秘密见了伊朗末代王储",
+          "url": "https://news.ifeng.com/c/8puGHxn1NbX",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时20分 ~ 20时25分]"
+        },
+        {
           "title": "特朗普密集政策表态引发市场动荡 以色列宣布退出多家联合国机构 | 环球市场",
           "url": "https://www.cls.cn/detail/2256871",
           "source": "财联社热门",
@@ -131,17 +143,6 @@
           "time_info": "[12时40分 ~ 17时20分]"
         },
         {
-          "title": "特朗普特使秘密见了伊朗末代王储",
-          "url": "https://news.ifeng.com/c/8puGHxn1NbX",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时20分 ~ 19时14分]"
-        },
-        {
           "title": "伊朗驻联合国代表团指责美国总统特朗普鼓励政治动荡、煽动暴力、威胁伊朗主权，称美国和以色列应对由此造成平民生命损失承担法律责任，特别是青年群体中的伤亡。",
           "url": "https://flash.jin10.com/detail/20260114070919942800",
           "source": "金十数据",
@@ -151,6 +152,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "美国总统特朗普：自2月1日起，联邦政府将不再向各州支付用于其腐败的犯罪保护中心（即所谓的“庇护城市”）的款项。",
+          "url": "https://flash.jin10.com/detail/20260114195407071800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "美媒：特朗普曾深夜发短信追问军舰“生锈”问题，美海军抓紧制定解决方案",
@@ -366,6 +378,20 @@
           "time_info": "[04时15分 ~ 05时13分]"
         },
         {
+          "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32382657",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            16,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时20分 ~ 20时25分]"
+        },
+        {
           "title": "中方回应“特朗普称不需要国际法”",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E9%9C%80%E8%A6%81%E5%9B%BD%E9%99%85%E6%B3%95%E2%80%9D",
           "source": "百度热搜",
@@ -377,19 +403,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时18分 ~ 19时14分]"
-        },
-        {
-          "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32382657",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时20分 ~ 19时14分]"
         },
         {
           "title": "特朗普参观汽车工厂遭工人辱骂",
@@ -659,6 +672,17 @@
           "time_info": "09时01分"
         },
         {
+          "title": "美国总统特朗普：北约应该为我们获得格陵兰岛发挥带头作用。",
+          "url": "https://flash.jin10.com/detail/20260114194043935800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
           "title": "美国总统特朗普：目前信用卡利率太高了。",
           "url": "https://flash.jin10.com/detail/20260114034307085800",
           "source": "金十数据",
@@ -681,6 +705,17 @@
           "time_info": "05时13分"
         },
         {
+          "title": "美国总统特朗普：有了格陵兰岛，北约将变得强大且高效得多。",
+          "url": "https://flash.jin10.com/detail/20260114194015127800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
           "title": "美国总统特朗普：（当被问及是否会向伊朗提供援助时）你们会知道的。",
           "url": "https://flash.jin10.com/detail/20260114020057806800",
           "source": "金十数据",
@@ -701,6 +736,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
+        },
+        {
+          "title": "美国总统特朗普：格陵兰岛对“金穹”导弹防御系统至关重要。",
+          "url": "https://flash.jin10.com/detail/20260114194006362800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "美国总统特朗普：美联储主席人选将在未来几周内确定。",
@@ -734,6 +780,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
+        },
+        {
+          "title": "美国总统特朗普：美国出于国家安全需要格陵兰岛。",
+          "url": "https://flash.jin10.com/detail/20260114193933373800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "美国总统特朗普：（当被问及《美墨加协定》（USMCA）的日落条款时）该条款无关紧要，加拿大希望保留该协定，但美国并不需要它。",
@@ -945,6 +1002,17 @@
           "time_info": "04时15分"
         },
         {
+          "title": "美国总统特朗普：美国出于国家安全需要格陵兰岛。 格陵兰岛对“金穹”导弹防御系统至关重要。 北约应当牵头以便美国取得格陵兰。 如果格陵兰在美国手中，北约将强大得多。",
+          "url": "https://wallstreetcn.com/livenews/3037002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
           "title": "美国总统特朗普：希望看到油价出现在53美元/桶。",
           "url": "https://flash.jin10.com/detail/20260114024731670800",
           "source": "金十数据",
@@ -1154,6 +1222,17 @@
           "time_info": "04时15分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-14）",
+          "url": "https://flash.jin10.com/detail/20260114190924167800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
           "title": "美国总统特朗普谈及自己强迫更名的美国墨西哥加拿大贸易协议（USMCA）：加拿大想要USMCA，我们（美国）才不需要。",
           "url": "https://wallstreetcn.com/livenews/3036337",
           "source": "华尔街见闻-快讯",
@@ -1237,7 +1316,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -1267,7 +1346,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
@@ -1277,8 +1356,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时00分 ~ 19时14分]"
+          "appearance_count": 15,
+          "time_info": "[09时00分 ~ 20时25分]"
         },
         {
           "title": "美股走V新高，谷歌破4万亿，阿里暴涨10%领衔中概大涨，金银大涨创新高",
@@ -1411,6 +1490,17 @@
           "time_info": "06时14分"
         },
         {
+          "title": "美国银行：第四季度净利息收入157.5亿美元，市场预期为154.8亿美元。 第四季度每股收益0.98美元。 第四季度净利息收益率2.08%，市场预期为2.04%。 第四季度投资银行收入16.7亿美元，市场预期为16.6亿美元。 第四季度债务承销收入8.1亿美元，市场预期为8.64亿美元。 第四季度股权承销收入2.97亿美元，市场预期为3.01亿美元。 美国银行美股盘前涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3037009",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
           "title": "金十图示：2026年01月13日（周二）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260114013126429800",
           "source": "金十数据",
@@ -1530,7 +1620,7 @@
     },
     {
       "keyword_group": "半导体",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "【焦点复盘】沪指午后跳水一度逼近4100点，商业航天概念分化持续，半导体设备股卷土重来",
@@ -1538,11 +1628,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时16分 ~ 19时14分]"
+          "appearance_count": 3,
+          "time_info": "[18时16分 ~ 20时25分]"
         },
         {
           "title": "韩国2025年半导体出口额达1735亿美元 创历史新高",
@@ -1565,6 +1656,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时05分"
+        },
+        {
+          "title": "英飞凌：与印度电子工业研究院（NIELIT）合作，旨在加强印度半导体生态系统和人才储备。",
+          "url": "https://flash.jin10.com/detail/20260114192929386800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "市场消息：韩美半导体从SK海力士获得96.5亿韩元合同。",

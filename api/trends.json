@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T13:20:14.010628+08:00",
-  "total_titles_processed": 1236,
+  "generated_at": "2026-01-15T14:20:56.476499+08:00",
+  "total_titles_processed": 1331,
   "failed_sources": [],
   "trends": [
     {
@@ -50,8 +50,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 13时20分]"
+          "appearance_count": 3,
+          "time_info": "[13时19分 ~ 14时20分]"
         },
         {
           "title": "美国最高法院再次没能就特朗普关税政策的官司做出裁决，纳指维持1%跌幅",
@@ -62,8 +62,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时56分 ~ 13时20分]"
+          "appearance_count": 7,
+          "time_info": "[08时56分 ~ 14时20分]"
         },
         {
           "title": "多国敦促公民离开伊朗 特朗普称将观望伊朗局势发展 | 环球市场",
@@ -75,8 +75,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时56分 ~ 13时20分]"
+          "appearance_count": 7,
+          "time_info": "[08时56分 ~ 14时20分]"
         },
         {
           "title": "美国总统特朗普：与委内瑞拉领导人进行了精彩的对话。",
@@ -222,8 +222,31 @@
             16
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时02分 ~ 14时20分]"
+        },
+        {
+          "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
+          "url": "https://www.cls.cn/detail/2258223",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时02分 ~ 13时20分]"
+          "time_info": "[13时19分 ~ 14时20分]"
+        },
+        {
+          "title": "特朗普同委内瑞拉代总统通话",
+          "url": "https://www.toutiao.com/trending/7594631182898397227/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时19分 ~ 14时20分]"
         },
         {
           "title": "特朗普再批鲍威尔",
@@ -235,17 +258,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时13分 ~ 07时12分]"
-        },
-        {
-          "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
-          "url": "https://www.cls.cn/detail/2258223",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 13时20分]"
         },
         {
           "title": "美国总统特朗普：泄密委内瑞拉消息的人已被找到，目前身陷囹圄。",
@@ -530,17 +542,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时12分 ~ 05时13分]"
-        },
-        {
-          "title": "特朗普同委内瑞拉代总统通话",
-          "url": "https://www.toutiao.com/trending/7594631182898397227/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 13时20分]"
         },
         {
           "title": "美国总统特朗普：（谈格陵兰岛）我们走着瞧。将很快听取有关会晤的汇报。我们与丹麦关系非常好。我们需要格陵兰岛。",
@@ -847,6 +848,17 @@
           "time_info": "[00时18分 ~ 07时12分]"
         },
         {
+          "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
+          "url": "https://wallstreetcn.com/articles/3763270",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时56分 ~ 14时20分]"
+        },
+        {
           "title": "科技股暴跌，美股指跌幅扩大，纳指跌1.5%，金属狂飙，现货白银站上92美元，锡铜新高",
           "url": "https://wallstreetcn.com/articles/3763270",
           "source": "华尔街见闻",
@@ -859,17 +871,6 @@
           "time_info": "[03时13分 ~ 06时14分]"
         },
         {
-          "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
-          "url": "https://wallstreetcn.com/articles/3763270",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时56分 ~ 13时20分]"
-        },
-        {
           "title": "美股收盘：三大指数集体收跌 七巨头全军覆没 银行股持续回落",
           "url": "https://www.cls.cn/detail/2258154",
           "source": "财联社热门",
@@ -878,8 +879,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时56分 ~ 13时20分]"
+          "appearance_count": 7,
+          "time_info": "[08时56分 ~ 14时20分]"
         },
         {
           "title": "美股集体低开 携程跌近17%",
@@ -999,7 +1000,7 @@
     },
     {
       "keyword_group": "半导体",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美国宣布对特定半导体等加征25%关税",
@@ -1011,8 +1012,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时56分 ~ 13时20分]"
+          "appearance_count": 7,
+          "time_info": "[08时56分 ~ 14时20分]"
         },
         {
           "title": "【焦点复盘】沪指午后跳水一度逼近4100点，商业航天概念分化持续，半导体设备股卷土重来",
@@ -1036,8 +1037,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时56分 ~ 13时20分]"
+          "appearance_count": 7,
+          "time_info": "[08时56分 ~ 14时20分]"
         },
         {
           "title": "美国白宫宣布对特定半导体等加征25%关税",
@@ -1132,6 +1133,17 @@
           "time_info": "12时02分"
         },
         {
+          "title": "A股半导体设备午后持续走强，矽电股份涨超10%盘中创新高，芯源微、京仪装备、中科飞测、强一股份、微导纳米跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3037549",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
           "title": "纳指科技指数收跌将近1.5%，半导体指数跌0.6%，小盘股指涨0.7%",
           "url": "https://wallstreetcn.com/livenews/3037293",
           "source": "华尔街见闻-快讯",
@@ -1157,8 +1169,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时21分 ~ 13时20分]"
+          "appearance_count": 18,
+          "time_info": "[01时21分 ~ 14时20分]"
         },
         {
           "title": "乌克兰总统泽连斯基：宣布乌克兰能源业进入紧急状态。 乌克兰寻求增加电力进口。",
@@ -1180,7 +1192,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
         },
@@ -1310,11 +1322,12 @@
             14,
             28,
             26,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时18分 ~ 08时57分]"
+          "appearance_count": 14,
+          "time_info": "[00时18分 ~ 14时20分]"
         },
         {
           "title": "玩游戏较真有意义吗？",
@@ -1339,11 +1352,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             9,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时02分 ~ 13时20分]"
+          "appearance_count": 4,
+          "time_info": "[12时02分 ~ 14时20分]"
         },
         {
           "title": "谷歌：在Gemini推出个人智能。 用户可以通过APPs将Gemini个性化。 让Gemini更加个性化，更加主动，更加强大。",

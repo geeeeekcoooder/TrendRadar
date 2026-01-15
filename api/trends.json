@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T08:57:08.408222+08:00",
-  "total_titles_processed": 882,
+  "generated_at": "2026-01-15T10:55:24.575322+08:00",
+  "total_titles_processed": 1036,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 64,
       "titles": [
         {
           "title": "特朗普特使秘密见了伊朗末代王储",
@@ -178,15 +178,16 @@
           "time_info": "[06时14分 ~ 07时12分]"
         },
         {
-          "title": "特朗普再批鲍威尔",
-          "url": "https://www.douyin.com/hot/2367805",
-          "source": "抖音",
+          "title": "多国敦促公民离开伊朗 特朗普称将观望伊朗局势发展 | 环球市场",
+          "url": "https://www.cls.cn/detail/2258166",
+          "source": "财联社热门",
           "ranks": [
-            18
+            10,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[06时13分 ~ 07时12分]"
+          "time_info": "[08时56分 ~ 10时55分]"
         },
         {
           "title": "美国最高法院再次没能就特朗普关税政策的官司做出裁决，纳指维持1%跌幅",
@@ -196,8 +197,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时56分 ~ 08时57分]"
+          "appearance_count": 3,
+          "time_info": "[08时56分 ~ 10时55分]"
+        },
+        {
+          "title": "特朗普再批鲍威尔",
+          "url": "https://www.douyin.com/hot/2367805",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时13分 ~ 07时12分]"
         },
         {
           "title": "美国总统特朗普：泄密委内瑞拉消息的人已被找到，目前身陷囹圄。",
@@ -293,17 +305,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时18分 ~ 00时19分]"
-        },
-        {
-          "title": "多国敦促公民离开伊朗 特朗普称将观望伊朗局势发展 | 环球市场",
-          "url": "https://www.cls.cn/detail/2258166",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时56分 ~ 08时57分]"
         },
         {
           "title": "美国总统特朗普：签署了一项行动，将允许我们对芯片销售征收25%的关税。",
@@ -511,7 +512,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
         },
@@ -643,9 +644,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
+        },
+        {
+          "title": "哥伦比亚总统佩特罗：将于2月3日与美国总统特朗普会面。",
+          "url": "https://flash.jin10.com/detail/20260115100948862800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
         },
         {
           "title": "美国最高法院再次没能就特朗普关税政策的官司做出裁决。 标普500指数维持0.5%的跌幅，纳指跌超0.8%，半导体指数跌0.9%，银行指数跌1.1%。 标普1500服装指数跌1.3%，刷新日低。耐克、露露柠檬刷新日低。",
@@ -657,6 +669,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
+        },
+        {
+          "title": "特朗普称泽连斯基阻碍乌和平协议达成",
+          "url": "https://www.toutiao.com/trending/7595121166218641434/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "特朗普：虽然鲍威尔正面临调查 但暂时无意炒了他",
+          "url": "https://flash.jin10.com/detail/20260115100746794800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
         },
         {
           "title": "特朗普当场被激怒，白宫称抗议者是“歇斯底里的疯子”，福特将其停职",
@@ -676,9 +710,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
+        },
+        {
+          "title": "美国白宫：美国总统特朗普将于周四与委内瑞拉反对派领导人共进午餐。",
+          "url": "https://flash.jin10.com/detail/20260115100719486800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
         },
         {
           "title": "特朗普当场被激怒，白宫回应",
@@ -752,19 +797,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时56分 ~ 08时57分]"
+          "appearance_count": 3,
+          "time_info": "[08时56分 ~ 10时55分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 七巨头全军覆没 银行股持续回落",
           "url": "https://www.cls.cn/detail/2258154",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时56分 ~ 08时57分]"
+          "appearance_count": 3,
+          "time_info": "[08时56分 ~ 10时55分]"
         },
         {
           "title": "科技股重挫拖累美股，美小盘股指跑赢大盘，白银突破93美元，金银比跌破50",
@@ -883,8 +929,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时56分 ~ 08时57分]"
+          "appearance_count": 3,
+          "time_info": "[08时56分 ~ 10时55分]"
         },
         {
           "title": "美国白宫宣布对特定半导体等加征25%关税",
@@ -922,17 +968,6 @@
           "time_info": "[05时13分 ~ 06时14分]"
         },
         {
-          "title": "美国宣布对特定半导体等加征25%关税",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%AE%A3%E5%B8%83%E5%AF%B9%E7%89%B9%E5%AE%9A%E5%8D%8A%E5%AF%BC%E4%BD%93%E7%AD%89%E5%8A%A0%E5%BE%8125%25%E5%85%B3%E7%A8%8E",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时56分 ~ 08时57分]"
-        },
-        {
           "title": "美国白宫宣布对特定半导体等加征25%关税",
           "url": "https://wallstreetcn.com/articles/3763322",
           "source": "华尔街见闻",
@@ -940,8 +975,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时56分 ~ 08时57分]"
+          "appearance_count": 3,
+          "time_info": "[08时56分 ~ 10时55分]"
+        },
+        {
+          "title": "美国宣布对特定半导体等加征25%关税",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%AE%A3%E5%B8%83%E5%AF%B9%E7%89%B9%E5%AE%9A%E5%8D%8A%E5%AF%BC%E4%BD%93%E7%AD%89%E5%8A%A0%E5%BE%8125%25%E5%85%B3%E7%A8%8E",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时56分 ~ 10时55分]"
         },
         {
           "title": "美国对特定半导体等加征25%关税",
@@ -991,8 +1038,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时21分 ~ 08时57分]"
+          "appearance_count": 14,
+          "time_info": "[01时21分 ~ 10时55分]"
         },
         {
           "title": "乌克兰总统泽连斯基：宣布乌克兰能源业进入紧急状态。 乌克兰寻求增加电力进口。",

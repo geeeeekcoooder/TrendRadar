@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-01-15T22:18:24.821318+08:00",
-  "total_titles_processed": 2137,
+  "generated_at": "2026-01-15T23:16:28.704182+08:00",
+  "total_titles_processed": 2232,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 89,
+      "match_count": 92,
       "titles": [
+        {
+          "title": "特朗普：我会去委内瑞拉，委代总统将访美",
+          "url": "https://news.ifeng.com/c/8pw6KwgQUWD",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时19分 ~ 23时16分]"
+        },
         {
           "title": "特朗普被曝希望对伊朗的军事打击“快速且具决定性”",
           "url": "https://news.ifeng.com/c/8pvmkwWCoVQ",
@@ -18,18 +30,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[13时19分 ~ 18时15分]"
-        },
-        {
-          "title": "特朗普：我会去委内瑞拉，委代总统将访美",
-          "url": "https://news.ifeng.com/c/8pw6KwgQUWD",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时19分 ~ 22时18分]"
         },
         {
           "title": "特朗普特使秘密见了伊朗末代王储",
@@ -81,6 +81,17 @@
           "time_info": "[13时19分 ~ 19时13分]"
         },
         {
+          "title": "美军航母开往中东，特朗普要“速战速决”？",
+          "url": "https://news.ifeng.com/c/8pw5GkQd9wz",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时12分 ~ 23时16分]"
+        },
+        {
           "title": "美国最高法院再次没能就特朗普关税政策的官司做出裁决，纳指维持1%跌幅",
           "url": "https://wallstreetcn.com/articles/3763310",
           "source": "华尔街见闻",
@@ -90,19 +101,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[08时56分 ~ 22时18分]"
-        },
-        {
-          "title": "美军航母开往中东，特朗普要“速战速决”？",
-          "url": "https://news.ifeng.com/c/8pw5GkQd9wz",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时12分 ~ 22时18分]"
+          "appearance_count": 19,
+          "time_info": "[08时56分 ~ 23时16分]"
         },
         {
           "title": "多国敦促公民离开伊朗 特朗普称将观望伊朗局势发展 | 环球市场",
@@ -126,8 +126,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时14分 ~ 22时18分]"
+          "appearance_count": 8,
+          "time_info": "[18时14分 ~ 23时16分]"
         },
         {
           "title": "美国总统特朗普：与委内瑞拉领导人进行了精彩的对话。",
@@ -161,6 +161,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
+        },
+        {
+          "title": "特朗普预计将于三月初敲定2026年生物燃料掺混配额",
+          "url": "https://flash.jin10.com/detail/20260115225958433800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
         },
         {
           "title": "【特朗普称观望伊朗局势发展】当地时间1月14日下午，美国总统特朗普在白宫对媒体谈及伊朗局势时表示，“我们要先观望局势发展”。他同时指出美国政府收到了“来自伊朗非常积极的声明”。不过他也并未排除美国采取军事行动的可能性。美媒分析指出，特朗普的这番言论“似乎意在缓解外界对局势可能升级为更广泛地区冲突的担忧”。(CCTV国际时讯",
@@ -235,7 +246,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -674,6 +685,17 @@
           "time_info": "05时13分"
         },
         {
+          "title": "贝莱德CEO芬克：下周我将在达沃斯与特朗普会面。",
+          "url": "https://flash.jin10.com/detail/20260115225240448800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
+        },
+        {
           "title": "特朗普：对未用于美国AI的进口芯片征收25%关税",
           "url": "https://flash.jin10.com/detail/20260115043632565800",
           "source": "金十数据",
@@ -927,6 +949,17 @@
           "time_info": "06时14分"
         },
         {
+          "title": "特朗普直播打瞌睡被小女孩发现",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%9B%B4%E6%92%AD%E6%89%93%E7%9E%8C%E7%9D%A1%E8%A2%AB%E5%B0%8F%E5%A5%B3%E5%AD%A9%E5%8F%91%E7%8E%B0%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
+        },
+        {
           "title": "特朗普暗示暂缓对伊朗采取行动后，油价下跌",
           "url": "https://flash.jin10.com/detail/20260115074038151800",
           "source": "金十数据",
@@ -1029,7 +1062,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 27,
       "titles": [
         {
           "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
@@ -1039,8 +1072,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[08时56分 ~ 22时18分]"
+          "appearance_count": 19,
+          "time_info": "[08时56分 ~ 23时16分]"
         },
         {
           "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
@@ -1124,6 +1157,17 @@
           "time_info": "19时13分"
         },
         {
+          "title": "台积电财报点燃市场情绪，美股指集体高开，台积电涨超4%，伊朗局势暂时降温，原油跌5%，白银一度跌7%",
+          "url": "https://wallstreetcn.com/articles/3763348",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
+        },
+        {
           "title": "网络股指数ETF收跌约1.7%，领跌美股行业ETF，标普能源板块涨超2.2%",
           "url": "https://wallstreetcn.com/livenews/3037301",
           "source": "华尔街见闻-快讯",
@@ -1155,9 +1199,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
+        },
+        {
+          "title": "台积电涨超6%，美股盘中总市值突破1.8万亿美元",
+          "url": "https://wallstreetcn.com/livenews/3038101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
         },
         {
           "title": "美股盘前，明星科技股普涨，台积电涨超4%，台积电业绩指引全线超预期，未来三年资本支出将显著增加；阿斯麦涨超5%，英特尔涨超1%，美光科技涨超2%。SanDisk涨超3%，伯恩斯坦将其目标价从300调整到580美元。",
@@ -1177,9 +1232,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
+        },
+        {
+          "title": "美股集体高开 半导体板块领涨",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80+%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%9D%BF%E5%9D%97%E9%A2%86%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
         },
         {
           "title": "金十图示：2026年01月14日（周三）美股热门股票行情一览（美股盘中）",
@@ -1193,6 +1259,17 @@
           "time_info": "02时21分"
         },
         {
+          "title": "中概指数美股盘初跌超1%，世纪互联跌7%，万国数据跌约3%，小马智行涨约3%，富时A50回吐涨幅",
+          "url": "https://wallstreetcn.com/livenews/3038083",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
+        },
+        {
           "title": "金十图示：2026年01月14日（周三）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260115013047739800",
           "source": "金十数据",
@@ -1202,6 +1279,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时21分"
+        },
+        {
+          "title": "金十图示：2026年01月15日（周四）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260115223844779800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
+        },
+        {
+          "title": "行业ETF美股盘初多数走高，半导体ETF涨3.26%，科技行业ETF、全球科技股指数ETF至少涨1.57%，网络股指数ETF涨0.67%，能源业ETF跌1.29%。",
+          "url": "https://wallstreetcn.com/livenews/3038075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
         },
         {
           "title": "金十图示：2026年01月14日（周三）美股热门股票行情一览（美股收盘）",
@@ -1237,6 +1336,17 @@
           "time_info": "06时14分"
         },
         {
+          "title": "美股开盘，道指涨100点、标普500指数涨0.64%、纳指涨0.88%。明星科技股普涨，阿斯麦(ASML.O)涨6.8%，总市值突破5200亿美元；台积电(TSM.N)涨4%和美光科技(MU.O)涨3%。纳斯达克中国金龙指数涨0.1%。",
+          "url": "https://flash.jin10.com/detail/20260115223034290800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
+        },
+        {
           "title": "贝莱德第四财季管理资产总额14.04万亿美元，同比增长22%，市场预期13.94万亿美元。 第四财季调整后每股收益（EPS）13.16美元，去年同期为11.93美元，市场预期12.28美元。 第四财季营收70.1亿美元，同比增长23%，市场预期67.8亿美元。 第四财季股票类净流入1260.5亿美元，固定收益类净流入837.7亿美元。 贝莱德美股盘前涨超1.6%。",
           "url": "https://wallstreetcn.com/livenews/3037945",
           "source": "华尔街见闻-快讯",
@@ -1262,7 +1372,7 @@
     },
     {
       "keyword_group": "半导体",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "美国宣布对特定半导体等加征25%关税",
@@ -1287,8 +1397,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[08时56分 ~ 22时18分]"
+          "appearance_count": 19,
+          "time_info": "[08时56分 ~ 23时16分]"
         },
         {
           "title": "【焦点复盘】沪指午后跳水一度逼近4100点，商业航天概念分化持续，半导体设备股卷土重来",
@@ -1362,6 +1472,18 @@
           "time_info": "[05时13分 ~ 06时14分]"
         },
         {
+          "title": "【焦点复盘】创业板指低开高走涨0.56%，两市成交额跌破3万亿，半导体、算力硬件股卷土重来",
+          "url": "https://www.cls.cn/detail/2259030",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时18分 ~ 23时16分]"
+        },
+        {
           "title": "美国对特定半导体等加征25%关税",
           "url": "https://www.toutiao.com/trending/7595358438268358198/",
           "source": "今日头条",
@@ -1406,17 +1528,6 @@
           "time_info": "12时02分"
         },
         {
-          "title": "【焦点复盘】创业板指低开高走涨0.56%，两市成交额跌破3万亿，半导体、算力硬件股卷土重来",
-          "url": "https://www.cls.cn/detail/2259030",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时18分"
-        },
-        {
           "title": "中外联合团队在新型半导体材料领域取得重要进展",
           "url": "https://wallstreetcn.com/livenews/3037496",
           "source": "华尔街见闻-快讯",
@@ -1448,6 +1559,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
+        },
+        {
+          "title": "费城半导体指数上涨3.4%。",
+          "url": "https://flash.jin10.com/detail/20260115223205382800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
         }
       ]
     },
@@ -1464,8 +1586,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时19分 ~ 22时18分]"
+          "appearance_count": 9,
+          "time_info": "[17时19分 ~ 23时16分]"
         },
         {
           "title": "交付即正义！高盛：高龄的美国电网，正为中国电力产业链提供历史性机遇",
@@ -1562,7 +1684,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         }
@@ -1737,11 +1859,12 @@
             12,
             16,
             23,
-            24
+            24,
+            17
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时02分 ~ 22时18分]"
+          "appearance_count": 16,
+          "time_info": "[12时02分 ~ 23时16分]"
         },
         {
           "title": "谷歌：在Gemini推出个人智能。 用户可以通过APPs将Gemini个性化。 让Gemini更加个性化，更加主动，更加强大。",

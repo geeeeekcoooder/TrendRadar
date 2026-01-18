@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-18T07:12:38.867584+08:00",
-  "total_titles_processed": 412,
+  "generated_at": "2026-01-18T09:03:24.630110+08:00",
+  "total_titles_processed": 521,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普：对欧洲8国加征关税，直至完全收购格陵兰岛",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时16分 ~ 07时12分]"
+          "appearance_count": 11,
+          "time_info": "[02时16分 ~ 09时03分]"
         },
         {
           "title": "欧洲极右翼忙“割席”：特朗普过分了",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时16分 ~ 07时12分]"
+          "appearance_count": 11,
+          "time_info": "[02时16分 ~ 09时03分]"
         },
         {
           "title": "英媒刊文：特朗普羡慕中国",
@@ -39,8 +39,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时13分 ~ 07时12分]"
+          "appearance_count": 14,
+          "time_info": "[00时13分 ~ 09时03分]"
         },
         {
           "title": "特朗普首次提及：可能对不支持美获得格陵兰岛计划的国家加征关税",
@@ -72,11 +72,12 @@
           "url": "https://www.cls.cn/detail/2260948",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时13分 ~ 07时12分]"
+          "appearance_count": 14,
+          "time_info": "[00时13分 ~ 09时03分]"
         },
         {
           "title": "哈梅内伊：特朗普应被视为犯罪",
@@ -100,11 +101,12 @@
           "url": "https://flash.jin10.com/detail/20260117220514244800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 07时12分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 09时03分]"
         },
         {
           "title": "特朗普谈中加签协议",
@@ -116,8 +118,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时09分 ~ 07时12分]"
+          "appearance_count": 9,
+          "time_info": "[03时09分 ~ 09时03分]"
         },
         {
           "title": "土耳其总统府：特朗普邀请埃尔多安加入“加沙和平委员会”",
@@ -186,8 +188,19 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时13分 ~ 03时09分]"
+          "appearance_count": 7,
+          "time_info": "[00时13分 ~ 09时03分]"
+        },
+        {
+          "title": "完全错误！不可接受！欧洲多国强烈回应特朗普加税",
+          "url": "https://news.ifeng.com/c/8q0J15WIf0r",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时12分 ~ 09时03分]"
         },
         {
           "title": "英媒：特朗普羡慕中国",
@@ -201,15 +214,15 @@
           "time_info": "00时13分"
         },
         {
-          "title": "完全错误！不可接受！欧洲多国强烈回应特朗普加税",
-          "url": "https://news.ifeng.com/c/8q0J15WIf0r",
-          "source": "凤凰网",
+          "title": "美国总统特朗普表示，他从未向摩根大通CEO戴蒙提供美联储主席职位。",
+          "url": "https://flash.jin10.com/detail/20260118081338309800",
+          "source": "金十数据",
           "ranks": [
-            2
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时12分"
+          "time_info": "09时03分"
         },
         {
           "title": "特朗普称将对欧洲8国加征关税，直至“完全收购格陵兰岛”",
@@ -217,11 +230,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时11分 ~ 07时12分]"
+          "appearance_count": 4,
+          "time_info": "[05时11分 ~ 09时03分]"
+        },
+        {
+          "title": "美国总统特朗普表示，接下来两周内他将起诉摩根大通银行，原因是该银行在1月6日抗议活动后“剥夺”了他的银行业务。",
+          "url": "https://flash.jin10.com/detail/20260118081329307800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时03分"
         },
         {
           "title": "哈梅内伊：特朗普是罪犯",
@@ -246,15 +271,70 @@
           "time_info": "[00时13分 ~ 01时11分]"
         },
         {
+          "title": "法国总统马克龙：将对特朗普的格陵兰岛关税作出回应",
+          "url": "https://flash.jin10.com/detail/20260118081050241800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时03分"
+        },
+        {
+          "title": "特朗普因格陵兰岛向欧洲8国加税",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%A0%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E5%90%91%E6%AC%A7%E6%B4%B28%E5%9B%BD%E5%8A%A0%E7%A8%8E%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时03分"
+        },
+        {
           "title": "特朗普称他“说服了自己”暂缓对伊朗采取军事行动",
           "url": "https://wallstreetcn.com/articles/3763498",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "法国总统马克龙表示，美国总统特朗普关于格陵兰岛的关税威胁不可接受。",
+          "url": "https://flash.jin10.com/detail/20260118080920006800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时03分"
+        },
+        {
+          "title": "德国汽车游说组织VDA主席表示，美国总统特朗普威胁加征的关税成本将是巨大的。",
+          "url": "https://flash.jin10.com/detail/20260118080908901800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时03分"
+        },
+        {
+          "title": "特朗普因格陵兰岛向欧洲8国加税",
+          "url": "https://flash.jin10.com/detail/20260118080603759800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时03分"
         },
         {
           "title": "得罪特朗普的福特员工获众筹80万美元",
@@ -263,7 +343,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         }
@@ -278,11 +358,12 @@
           "url": "https://wallstreetcn.com/articles/3763508",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时13分 ~ 07时12分]"
+          "appearance_count": 14,
+          "time_info": "[00时13分 ~ 09时03分]"
         },
         {
           "title": "马斯克：用于Grok的“ Colossus 2 ”超级计算机现已投入运行。全球首个吉瓦级训练集群，将于4月升级至1.5吉瓦。",
@@ -356,8 +437,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时13分 ~ 07时12分]"
+          "appearance_count": 14,
+          "time_info": "[00时13分 ~ 09时03分]"
         },
         {
           "title": "半导体封测概念股两日累计涨超30% 本周披露并购重组进展的A股名单一览",
@@ -368,8 +449,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时13分 ~ 07时12分]"
+          "appearance_count": 14,
+          "time_info": "[00时13分 ~ 09时03分]"
         },
         {
           "title": "中国攻克半导体材料世界难题",
@@ -415,8 +496,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时13分 ~ 07时12分]"
+          "appearance_count": 14,
+          "time_info": "[00时13分 ~ 09时03分]"
         },
         {
           "title": "潜入类游戏除了用消声器和匕首杀人外，就没有其他武器能悄无声息地干掉敌人了么？",
@@ -442,11 +523,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时13分 ~ 07时12分]"
+          "appearance_count": 14,
+          "time_info": "[00时13分 ~ 09时03分]"
         }
       ]
     },
@@ -462,8 +544,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时13分 ~ 07时12分]"
+          "appearance_count": 14,
+          "time_info": "[00时13分 ~ 09时03分]"
         }
       ]
     },

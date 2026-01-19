@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T22:19:49.366600+08:00",
-  "total_titles_processed": 1791,
+  "generated_at": "2026-01-19T23:17:49.319387+08:00",
+  "total_titles_processed": 1875,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 97,
+      "match_count": 99,
       "titles": [
         {
           "title": "欧洲8国集体回应特朗普关税威胁",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时02分 ~ 22时19分]"
+          "appearance_count": 19,
+          "time_info": "[09时02分 ~ 23时17分]"
         },
         {
           "title": "特朗普挥关税大棒强索格陵兰岛，意大利总理：这是个“错误”",
@@ -90,8 +90,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时44分 ~ 22时19分]"
+          "appearance_count": 15,
+          "time_info": "[12时44分 ~ 23时17分]"
         },
         {
           "title": "伊朗总统警告特朗普：攻击哈梅内伊将引发全面战争",
@@ -131,8 +131,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时25分 ~ 22时19分]"
+          "appearance_count": 9,
+          "time_info": "[17时25分 ~ 23时17分]"
         },
         {
           "title": "联合国秘书长古特雷斯：（当被问及特朗普提出的和平委员会倡议时）会员国可以自由组成不同的团体。",
@@ -388,7 +388,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -415,6 +415,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
+        },
+        {
+          "title": "美媒爆料：特朗普私下“密集谈论”加拿大",
+          "url": "https://wallstreetcn.com/livenews/3039838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "布莱尔与特朗普“和平委员会”10亿美元成员费划清界限",
@@ -844,7 +855,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -921,7 +932,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -1014,13 +1025,24 @@
           "time_info": "19时15分"
         },
         {
+          "title": "分析师：若特朗普任命过于听话的美联储主席，债市将迅速惩罚美国",
+          "url": "https://wallstreetcn.com/livenews/3039827",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "荷兰经济大臣：特朗普在格陵兰岛问题上的表现不负责任。",
           "url": "https://flash.jin10.com/detail/20260119215216307800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -1042,7 +1064,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -1171,8 +1193,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时02分 ~ 22时19分]"
+          "appearance_count": 19,
+          "time_info": "[09时02分 ~ 23时17分]"
         },
         {
           "title": "全球首个GW级算力集群！马斯克宣布xAI旗下Colossus 2投入运行，距离开工建设不到1年！",
@@ -1229,7 +1251,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -1289,11 +1311,12 @@
           "url": "https://wallstreetcn.com/articles/3763546",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时39分 ~ 22时19分]"
+          "appearance_count": 3,
+          "time_info": "[21时39分 ~ 23时17分]"
         },
         {
           "title": "格陵兰引发美欧关税战风险，欧美股指期货齐跌，金银再创新高，铜价逼近13000",
@@ -1398,8 +1421,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时02分 ~ 22时19分]"
+          "appearance_count": 19,
+          "time_info": "[09时02分 ~ 23时17分]"
         },
         {
           "title": "为什么没有人学席德·梅尔把自己的名字放在游戏作品上？",
@@ -1479,6 +1502,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[21时39分 ~ 22时19分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "报道：过去一年谷歌Gemini模型授权业务规模实现爆发式增长",
+          "url": "https://wallstreetcn.com/livenews/3039830",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "谷歌的Gemini业务销售额预计将飙升",
+          "url": "https://flash.jin10.com/detail/20260119221021907800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         }
       ]
     }

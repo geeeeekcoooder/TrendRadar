@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T11:32:01.122332+08:00",
-  "total_titles_processed": 797,
+  "generated_at": "2026-01-19T12:44:37.493191+08:00",
+  "total_titles_processed": 907,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 52,
       "titles": [
         {
           "title": "特朗普挥关税大棒强索格陵兰岛，意大利总理：这是个“错误”",
@@ -74,11 +74,12 @@
             7,
             8,
             9,
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时14分 ~ 11时32分]"
+          "appearance_count": 15,
+          "time_info": "[00时14分 ~ 12时44分]"
         },
         {
           "title": "欧洲8国集体回应特朗普关税威胁",
@@ -88,8 +89,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时02分 ~ 11时32分]"
+          "appearance_count": 5,
+          "time_info": "[09时02分 ~ 12时44分]"
         },
         {
           "title": "【早报】中国商业航天首次！载人飞船着陆缓冲技术获成功验证；特朗普再打“关税牌”，欧盟多国：正考虑反制",
@@ -100,8 +101,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时02分 ~ 11时32分]"
+          "appearance_count": 5,
+          "time_info": "[09时02分 ~ 12时44分]"
         },
         {
           "title": "联合国秘书长古特雷斯：（当被问及特朗普提出的和平委员会倡议时）会员国可以自由组成不同的团体。",
@@ -317,6 +318,18 @@
           "time_info": "[04时14分 ~ 07时13分]"
         },
         {
+          "title": "伊朗：将追究特朗普等人责任",
+          "url": "https://news.ifeng.com/c/8q2B9XoMclS",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时02分 ~ 12时44分]"
+        },
+        {
           "title": "布莱尔与特朗普“和平委员会”10亿美元成员费划清界限",
           "url": "https://wallstreetcn.com/livenews/3039290",
           "source": "华尔街见闻-快讯",
@@ -421,15 +434,16 @@
           "time_info": "[06时12分 ~ 07时13分]"
         },
         {
-          "title": "伊朗：将追究特朗普等人责任",
-          "url": "https://news.ifeng.com/c/8q2B9XoMclS",
-          "source": "凤凰网",
+          "title": "特朗普称将对欧洲 8 国加征关税，直至「完全收购格陵兰岛」，对国际秩序有哪些影响？",
+          "url": "https://www.zhihu.com/question/1996211344383435054",
+          "source": "知乎",
           "ranks": [
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时02分 ~ 11时32分]"
+          "appearance_count": 3,
+          "time_info": "[11时31分 ~ 12时44分]"
         },
         {
           "title": "特朗普称加拿大需要增加国防开支。（NBC）",
@@ -469,17 +483,6 @@
           "time_info": "[00时14分 ~ 01时11分]"
         },
         {
-          "title": "特朗普称将对欧洲 8 国加征关税，直至「完全收购格陵兰岛」，对国际秩序有哪些影响？",
-          "url": "https://www.zhihu.com/question/1996211344383435054",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时31分 ~ 11时32分]"
-        },
-        {
           "title": "英国首相斯塔默与欧洲领导人及特朗普通话 重申反对美国关税政策",
           "url": "https://flash.jin10.com/detail/20260119040945227800",
           "source": "金十数据",
@@ -515,15 +518,103 @@
           "time_info": "[00时14分 ~ 01时11分]"
         },
         {
+          "title": "特朗普为何强夺格陵兰岛？贝森特：因为欧洲“软弱”",
+          "url": "https://wallstreetcn.com/articles/3763548",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
+          "title": "美国总统特朗普：在达拉斯建立“纽约证券交易所”对纽约来说是难以置信的坏事。",
+          "url": "https://flash.jin10.com/detail/20260119121744013800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
+          "title": "特朗普称将“清除格陵兰岛俄罗斯威胁”",
+          "url": "https://flash.jin10.com/detail/20260119121117362800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
+          "title": "从抢油到夺岛：解析特朗普的“唐罗主义”",
+          "url": "https://wallstreetcn.com/articles/3763551",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
+          "title": "特朗普称，在达拉斯建造一个“纽约证券交易所”对纽约来说是一件糟糕透顶的事。",
+          "url": "https://wallstreetcn.com/livenews/3039516",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
           "title": "特朗普关税大棒再度砸向欧洲，金银多头占比均超过70%。后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
           "url": "https://flash.jin10.com/detail/20260119103840922800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
+        },
+        {
+          "title": "市场分析：特朗普对欧洲的关税威胁最终将反噬自身",
+          "url": "https://flash.jin10.com/detail/20260119115225347800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
+          "title": "特朗普：北约20年来一直告诉丹麦，“你必须让俄罗斯的威胁远离格陵兰岛”。 丹麦在应对俄罗斯威胁方面无能为力。 现在是时候了，一定会采取行动！",
+          "url": "https://wallstreetcn.com/livenews/3039514",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
+          "title": "特朗普：明尼苏达州存在190亿美元索马里诈骗",
+          "url": "https://flash.jin10.com/detail/20260119114952164800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
         },
         {
           "title": "欧洲斯托克50指数期货下跌1%，德国DAX指数期货下跌1.1%。此前消息，特朗普称2月1日起对欧洲八国加征关税，直至“完全收购格陵兰岛”。报道称欧盟考虑对930亿欧元输欧美国商品加征关税反击。",
@@ -535,23 +626,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
+        },
+        {
+          "title": "美财长声援特朗普加税夺岛",
+          "url": "https://www.toutiao.com/trending/7595914700006211647/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
         }
       ]
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "马斯克提出天价索赔！最多将获9300亿元",
           "url": "https://news.ifeng.com/c/8q291JJH6vj",
           "source": "凤凰网",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时02分 ~ 11时32分]"
+          "appearance_count": 5,
+          "time_info": "[09时02分 ~ 12时44分]"
+        },
+        {
+          "title": "全球首个GW级算力集群！马斯克宣布xAI旗下Colossus 2投入运行，距离开工建设不到1年！",
+          "url": "https://wallstreetcn.com/articles/3763537",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
         },
         {
           "title": "马斯克：鉴于AI5芯片设计已进展顺利，特斯拉(TSLA.O)将重启Dojo3项目。",
@@ -578,6 +692,36 @@
       ]
     },
     {
+      "keyword_group": "半导体",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "半导体封测概念股两日累计涨超30% 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2261163",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时14分 ~ 07时13分]"
+        },
+        {
+          "title": "韩国与意大利签署半导体产业合作谅解备忘录，将加强芯片供应链，并共享信息。",
+          "url": "https://wallstreetcn.com/livenews/3039504",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 1,
       "titles": [
@@ -596,25 +740,6 @@
       ]
     },
     {
-      "keyword_group": "半导体",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "半导体封测概念股两日累计涨超30% 本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2261163",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 07时13分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "电力",
       "match_count": 1,
       "titles": [
@@ -625,7 +750,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
         }
@@ -640,11 +765,12 @@
           "url": "https://news.ifeng.com/c/8q2C37WCxW7",
           "source": "凤凰网",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时02分 ~ 11时32分]"
+          "appearance_count": 5,
+          "time_info": "[09时02分 ~ 12时44分]"
         }
       ]
     },

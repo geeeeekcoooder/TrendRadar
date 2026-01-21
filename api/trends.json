@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T15:21:11.474122+08:00",
-  "total_titles_processed": 1429,
+  "generated_at": "2026-01-21T16:20:29.451202+08:00",
+  "total_titles_processed": 1541,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 132,
+      "match_count": 137,
       "titles": [
         {
           "title": "“格陵兰2026年成为美国领土”！特朗普“深夜”P图：加拿大、委内瑞拉都被划入美国版图",
@@ -33,17 +33,6 @@
           "time_info": "[00时23分 ~ 15时21分]"
         },
         {
-          "title": "特朗普暗示吞并加拿大、格陵兰、委内瑞拉(图)",
-          "url": "https://news.ifeng.com/c/8q4QMT6vE0S",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 07时13分]"
-        },
-        {
           "title": "特朗普和马克龙，直接开干了",
           "url": "https://news.ifeng.com/c/8q5SVoWM0NJ",
           "source": "凤凰网",
@@ -52,17 +41,15 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时59分 ~ 15时21分]"
+          "appearance_count": 9,
+          "time_info": "[08时59分 ~ 16时20分]"
         },
         {
-          "title": "又会是“极限施压、最后时刻妥协”剧本？市场“很懂”特朗普",
-          "url": "https://wallstreetcn.com/articles/3763642",
-          "source": "华尔街见闻",
+          "title": "特朗普暗示吞并加拿大、格陵兰、委内瑞拉(图)",
+          "url": "https://news.ifeng.com/c/8q4QMT6vE0S",
+          "source": "凤凰网",
           "ranks": [
-            6,
-            5,
-            4
+            1
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -77,8 +64,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时01分 ~ 15时21分]"
+          "appearance_count": 7,
+          "time_info": "[11时01分 ~ 16时20分]"
+        },
+        {
+          "title": "又会是“极限施压、最后时刻妥协”剧本？市场“很懂”特朗普",
+          "url": "https://wallstreetcn.com/articles/3763642",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 07时13分]"
         },
         {
           "title": "“拿地”的诱惑：格陵兰岛替代方案全否定，特朗普想要的是产权",
@@ -148,8 +148,23 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时01分 ~ 15时21分]"
+          "appearance_count": 7,
+          "time_info": "[11时01分 ~ 16时20分]"
+        },
+        {
+          "title": "“拿地”的诱惑：格陵兰岛问题替代方案全否定，特朗普想要的是产权",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32426007",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16,
+            15,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时01分 ~ 16时20分]"
         },
         {
           "title": "马克龙在达沃斯喊话特朗普",
@@ -202,20 +217,6 @@
           "time_info": "[11时01分 ~ 15时21分]"
         },
         {
-          "title": "“拿地”的诱惑：格陵兰岛问题替代方案全否定，特朗普想要的是产权",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32426007",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16,
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时01分 ~ 15时21分]"
-        },
-        {
           "title": "特朗普2.0政府：月月惊奇桩桩怪象",
           "url": "https://www.toutiao.com/trending/7597438425674812937/",
           "source": "今日头条",
@@ -249,6 +250,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "应对特朗普威胁 欧盟预计将和印度达成“历史性”贸易协议",
+          "url": "https://flash.jin10.com/detail/20260121154950639800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
         },
         {
           "title": "空军一号因电路故障返航 导致特朗普的达沃斯之行延迟",
@@ -339,6 +351,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[08时59分 ~ 13时22分]"
+        },
+        {
+          "title": "特朗普：联合国应继续存在，但“和平委员会”或取而代之",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32429423",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时22分 ~ 16时20分]"
         },
         {
           "title": "美国总统特朗普将参加白宫在美东时间13:00（北京时间02:00）举办的新闻发布会。（CBS）",
@@ -437,18 +462,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时05分 ~ 07时13分]"
-        },
-        {
-          "title": "特朗普：联合国应继续存在，但“和平委员会”或取而代之",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32429423",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时22分 ~ 15时21分]"
         },
         {
           "title": "特朗普：不排除以武力夺取格陵兰岛可能性",
@@ -642,7 +655,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         },
@@ -1054,6 +1067,17 @@
           "time_info": "09时00分"
         },
         {
+          "title": "美国财长贝森特：早在2018年，特朗普就警告欧洲人不要修建北溪2号天然气管道项目。不要购买俄罗斯石油。俄乌冲突的资金来源是什么？欧洲购买俄罗斯石油。",
+          "url": "https://flash.jin10.com/detail/20260121153234637800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
+        },
+        {
           "title": "美国总统特朗普：关于关税。 如果我们败诉，我们可能就得尽力偿还这笔钱了。",
           "url": "https://flash.jin10.com/detail/20260121031204111800",
           "source": "金十数据",
@@ -1186,6 +1210,17 @@
           "time_info": "12时07分"
         },
         {
+          "title": "特朗普回归后签署「大而美」法案、开启全球贸易战，真的让制造业回归了吗？重塑了美国国内的经济结构吗？",
+          "url": "https://www.zhihu.com/question/1996540321803301777",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
+        },
+        {
           "title": "美国总统特朗普：不会前往巴黎参加G7会议。",
           "url": "https://flash.jin10.com/detail/20260121041942470800",
           "source": "金十数据",
@@ -1285,6 +1320,17 @@
           "time_info": "14时22分"
         },
         {
+          "title": "美国财长贝森特：我认为特朗普总统会迟到大约3个小时。",
+          "url": "https://flash.jin10.com/detail/20260121152638534800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
+        },
+        {
           "title": "特朗普好友是吞并格陵兰岛核心推动者",
           "url": "https://www.toutiao.com/trending/7597618682956615218/",
           "source": "今日头条",
@@ -1305,6 +1351,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "西班牙外交大臣：欧洲伙伴正在就美国总统特朗普提议的“和平委员会”进行密集磋商。",
+          "url": "https://flash.jin10.com/detail/20260121152626856800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
         },
         {
           "title": "特朗普：今天和土耳其总统埃尔多安的通话非常好。",
@@ -1508,7 +1565,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "日债风暴叠加格陵兰危机，“抛售美国”重现，美股债汇三杀，黄金再新高，加密货币重挫",
@@ -1518,8 +1575,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时13分 ~ 15时21分]"
+          "appearance_count": 10,
+          "time_info": "[07时13分 ~ 16时20分]"
         },
         {
           "title": "美股指集体低开，纳指跌1.6%，日债引领全球国债抛售潮，黄金一度突破4750美元",
@@ -1583,6 +1640,17 @@
           "time_info": "[07时13分 ~ 14时22分]"
         },
         {
+          "title": "拼多多美股夜盘一度涨超9%。",
+          "url": "https://wallstreetcn.com/livenews/3041116",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
+        },
+        {
           "title": "美股存储概念股齐刷新高！闪迪暴涨10% 投行大幅上调目标价",
           "url": "https://www.cls.cn/detail/2264507",
           "source": "财联社热门",
@@ -1592,8 +1660,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时22分 ~ 15时21分]"
+          "appearance_count": 5,
+          "time_info": "[13时22分 ~ 16时20分]"
         },
         {
           "title": "（美股）费城金银指数收涨5.23%，报415.65点，美股长周末归来跳空高开、全天持续高位窄幅震荡。 （全球时段）纽约证交所ARCA金矿开采商指数涨4.65%，报2912.14点，继续创收盘历史新高，北京时间22:30美股开盘之前大致持稳于2780点附近，随后跳空走高至2880点一线并持续高位窄幅震荡。 （美股）原材料指数收涨0.42%，（美股）金属与矿业指数收涨0.96%。",
@@ -1677,6 +1745,17 @@
           "time_info": "02时22分"
         },
         {
+          "title": "拼多多美股夜盘涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3041102",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
+        },
+        {
           "title": "金十图示：2026年01月20日（周二）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260121050558433800",
           "source": "金十数据",
@@ -1735,7 +1814,7 @@
     },
     {
       "keyword_group": "半导体",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "环球晶圆董事长：2026年将是半导体行业非常好的一年。",
@@ -1783,6 +1862,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时14分 ~ 07时13分]"
+        },
+        {
+          "title": "【午报】三大指数集体反弹，半导体产业链全线爆发，贵金属延续强势",
+          "url": "https://www.cls.cn/detail/2264674",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
         },
         {
           "title": "金十图示：2026年01月21日（周三）富时中国A50指数成分股午盘收盘行情一览：银行股飘绿，半导体板块涨跌不一",
@@ -1846,6 +1936,23 @@
       "match_count": 8,
       "titles": [
         {
+          "title": "贝森特“安抚”市场：欧洲抛售美债是“虚假叙事”，最早下周公布新美联储主席",
+          "url": "https://wallstreetcn.com/articles/3763688",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时23分 ~ 16时20分]"
+        },
+        {
           "title": "丹麦养老基金AkademikerPension拟清仓美债，称美国信用风险“不可忽视”",
           "url": "https://wallstreetcn.com/articles/3763734",
           "source": "华尔街见闻",
@@ -1857,24 +1964,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时14分 ~ 15时21分]"
-        },
-        {
-          "title": "贝森特“安抚”市场：欧洲抛售美债是“虚假叙事”，最早下周公布新美联储主席",
-          "url": "https://wallstreetcn.com/articles/3763688",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时23分 ~ 15时21分]"
+          "appearance_count": 11,
+          "time_info": "[06时14分 ~ 16时20分]"
         },
         {
           "title": "美债日债领跌！格陵兰危机与财政压力引发全球债市抛售潮",
@@ -1948,7 +2039,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "与瑞安航空CEO骂战升级 马斯克发起投票探讨收购可能",
@@ -1985,6 +2076,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时59分 ~ 09时00分]"
+        },
+        {
+          "title": "马斯克高调“复活”特斯拉Dojo3芯片项目，再度剑指“太空AI”！",
+          "url": "https://www.cls.cn/detail/2264568",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
         },
         {
           "title": "马斯克建议：不要让你的亲人使用ChatGPT",
@@ -2078,6 +2180,18 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "如何评价黄金价格史上首次突破 4800 美元 / 盎司，后面还会再继续涨吗？",
+          "url": "https://www.zhihu.com/question/1997239169450260384",
+          "source": "知乎",
+          "ranks": [
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时20分 ~ 16时20分]"
+        },
+        {
           "title": "金十图示：2026年01月21日（周三）今日黄金饰品价格对比",
           "url": "https://flash.jin10.com/detail/20260121115138760800",
           "source": "金十数据",
@@ -2088,17 +2202,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时07分 ~ 13时22分]"
-        },
-        {
-          "title": "如何评价黄金价格史上首次突破 4800 美元 / 盎司，后面还会再继续涨吗？",
-          "url": "https://www.zhihu.com/question/1997239169450260384",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时20分 ~ 15时21分]"
         },
         {
           "title": "钻石价格大跌 同期黄金价格涨超400%",

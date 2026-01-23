@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T19:14:27.958071+08:00",
-  "total_titles_processed": 1887,
+  "generated_at": "2026-01-23T20:27:12.725842+08:00",
+  "total_titles_processed": 1988,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 112,
+      "match_count": 113,
       "titles": [
         {
           "title": "特朗普称加拿大因美国而存在，加总理回应",
@@ -58,6 +58,21 @@
           "time_info": "[00时22分 ~ 14时21分]"
         },
         {
+          "title": "特朗普称将于4月访问中国，外交部回应",
+          "url": "https://www.cls.cn/detail/2267695",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时18分 ~ 20时27分]"
+        },
+        {
           "title": "马斯克用谐音梗暗讽特朗普的“和平委员会”",
           "url": "https://v.ifeng.com/c/8q8wrrYsxgK",
           "source": "凤凰网",
@@ -93,6 +108,18 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时22分 ~ 13时21分]"
+        },
+        {
+          "title": "特朗普称将于4月访问中国，外交部回应",
+          "url": "https://news.ifeng.com/c/8q9KkztYYLL",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时21分 ~ 20时27分]"
         },
         {
           "title": "泽连斯基批欧对俄施压不够：特朗普能拦截影子舰队，你们不能？",
@@ -187,20 +214,6 @@
           "time_info": "[00时22分 ~ 08时59分]"
         },
         {
-          "title": "特朗普称将于4月访问中国，外交部回应",
-          "url": "https://www.cls.cn/detail/2267695",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时18分 ~ 19时14分]"
-        },
-        {
           "title": "特朗普称将于4月访华 中方回应",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%BA%8E4%E6%9C%88%E8%AE%BF%E5%8D%8E%20%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94",
           "source": "bilibili 热搜",
@@ -211,6 +224,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[16时18分 ~ 18时16分]"
+        },
+        {
+          "title": "特朗普炫耀谈妥了，北约放话“把中俄踢出去”",
+          "url": "https://news.ifeng.com/c/8q9NkvGZCR6",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时15分 ~ 20时27分]"
         },
         {
           "title": "特朗普称「和平委员会」可能取代联合国，「和平委员会」到底是什么？特朗普成立该机构的真实意图是什么？",
@@ -227,16 +251,18 @@
           "time_info": "[00时22分 ~ 07时13分]"
         },
         {
-          "title": "特朗普称将于4月访问中国，外交部回应",
-          "url": "https://news.ifeng.com/c/8q9KkztYYLL",
-          "source": "凤凰网",
+          "title": "外交部回应特朗普称将于4月访问中国",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%BA%8E4%E6%9C%88%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD",
+          "source": "百度热搜",
           "ranks": [
-            5,
-            1
+            19,
+            14,
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时21分 ~ 19时14分]"
+          "appearance_count": 8,
+          "time_info": "[16时18分 ~ 20时27分]"
         },
         {
           "title": "释新闻｜特朗普“和平委员会”即将举行签约仪式，哪些国家已经拒绝？",
@@ -264,15 +290,15 @@
           "time_info": "[01时22分 ~ 07时13分]"
         },
         {
-          "title": "特朗普炫耀谈妥了，北约放话“把中俄踢出去”",
-          "url": "https://news.ifeng.com/c/8q9NkvGZCR6",
+          "title": "特朗普政府解雇2个涉华关键官员，负责应对所谓“中国技术威胁”",
+          "url": "https://news.ifeng.com/c/8q9ZlzBzIxe",
           "source": "凤凰网",
           "ranks": [
-            5
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时15分 ~ 19时14分]"
+          "appearance_count": 2,
+          "time_info": "[20时26分 ~ 20时27分]"
         },
         {
           "title": "特朗普达沃斯演讲：格陵兰岛是美国核心安全利益，但美不会武力夺取，寻求立即谈判",
@@ -292,7 +318,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -319,19 +345,6 @@
           "time_info": "04时16分"
         },
         {
-          "title": "外交部回应特朗普称将于4月访问中国",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%BA%8E4%E6%9C%88%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            14,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时18分 ~ 19时14分]"
-        },
-        {
           "title": "特朗普执政一年把美国推向何方",
           "url": "https://www.douyin.com/hot/2376099",
           "source": "抖音",
@@ -345,6 +358,30 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时19分 ~ 07时13分]"
+        },
+        {
+          "title": "中方回应特朗普称将于4月访华",
+          "url": "https://www.douyin.com/hot/2377206",
+          "source": "抖音",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时14分 ~ 20时27分]"
+        },
+        {
+          "title": "外交部回应特朗普称将于4月访华",
+          "url": "https://www.toutiao.com/trending/7597610597631033407/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时14分 ~ 20时27分]"
         },
         {
           "title": "特朗普称将于4月访华 中方回应",
@@ -367,6 +404,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
+        },
+        {
+          "title": "中方回应特朗普称将于4月访华",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%BA%8E4%E6%9C%88%E8%AE%BF%E5%8D%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时14分 ~ 20时27分]"
         },
         {
           "title": "外交部回应特朗普称将于4月访问中国",
@@ -653,28 +702,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
-        },
-        {
-          "title": "中方回应特朗普称将于4月访华",
-          "url": "https://www.douyin.com/hot/2377206",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时14分"
-        },
-        {
-          "title": "外交部回应特朗普称将于4月访华",
-          "url": "https://www.toutiao.com/trending/7597610597631033407/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时14分"
         },
         {
           "title": "特朗普要败诉？美最高法对罢免美联储理事库克态度谨慎，大法官警告“粉碎”央行独立性",
@@ -1194,17 +1221,6 @@
           "time_info": "08时59分"
         },
         {
-          "title": "中方回应特朗普称将于4月访华",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%BA%8E4%E6%9C%88%E8%AE%BF%E5%8D%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时14分"
-        },
-        {
           "title": "美国总统特朗普：（谈与乌克兰和俄罗斯的三边会晤）任何时候我们见面都是好事。",
           "url": "https://flash.jin10.com/detail/20260123055017750800",
           "source": "金十数据",
@@ -1307,7 +1323,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
         {
           "title": "机器人、火箭、Robotaxi、光伏....马斯克在达沃斯“又画了很多饼”",
@@ -1316,11 +1332,12 @@
           "ranks": [
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时01分 ~ 19时14分]"
+          "appearance_count": 14,
+          "time_info": "[11时01分 ~ 20时27分]"
         },
         {
           "title": "一图看懂 | 马斯克开年忙落子，太空、AI、机器人都有大动作",
@@ -1345,6 +1362,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[08时59分 ~ 14时21分]"
+        },
+        {
+          "title": "马斯克：星舰今年目标完全复用 进入太空成本将只有目前的1%！",
+          "url": "https://www.cls.cn/detail/2267732",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时21分 ~ 20时27分]"
         },
         {
           "title": "达沃斯迎来意外“客人”：马斯克首次现身 今晚发表讲话",
@@ -1383,19 +1414,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[13时21分 ~ 16时19分]"
-        },
-        {
-          "title": "马斯克：星舰今年目标完全复用 进入太空成本将只有目前的1%！",
-          "url": "https://www.cls.cn/detail/2267732",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时21分 ~ 19时14分]"
         },
         {
           "title": "特斯拉涨3.3%，刷新日高，马斯克称在美国得州的无人驾驶出租车RoboTaxi取消安全监督员。",
@@ -1549,6 +1567,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时18分 ~ 04时16分]"
+        },
+        {
+          "title": "马斯克首次亮相达沃斯：人形机器人明年底开售，FSD最快有望2月在华获批",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32447461",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时26分 ~ 20时27分]"
         },
         {
           "title": "特斯拉CEO埃隆·马斯克：特斯拉Robotaxi在奥斯汀启动无人驾驶测试，车内无安全员。",
@@ -1774,7 +1803,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
         {
           "title": "美股收盘：地缘扰动退潮 三大指数集体收涨 阿里涨5%",
@@ -1830,7 +1859,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -1926,6 +1955,17 @@
           "time_info": "00时22分"
         },
         {
+          "title": "斯伦贝谢第四季度营收为97.5 亿美元，预期95.5 亿美元。 第四季度经调整后每股收益0.78美元，预估0.74美元。 第四季度经调整后EBITDA 23.3亿美元，预估23.1亿美元。 第四季度资本支出5.16 亿美元，预估5.763 亿美元。 斯伦贝谢美股盘前涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3042921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
+        {
           "title": "美股盘前，英特尔跌约13%，AI需求兑现但供应将至“最低点”，英特尔Q1指引逊色。",
           "url": "https://wallstreetcn.com/livenews/3042776",
           "source": "华尔街见闻-快讯",
@@ -1935,6 +1975,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
+        },
+        {
+          "title": "AMD美股盘前涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3042920",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
         },
         {
           "title": "英特尔(INTC.O)美股盘后跌幅扩大至10%，其一季度营收展望不及预期。",
@@ -1959,6 +2010,17 @@
           "time_info": "06时14分"
         },
         {
+          "title": "美银：特朗普关税威胁下美股资金流出170亿美元 欧洲、日本获强势流入",
+          "url": "https://wallstreetcn.com/livenews/3042905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
+        {
           "title": "在银价创下历史新高之际，美股银矿股盘前普涨，赫克拉矿业上涨1.2%，库尔矿业上涨0.7%，西尔弗科普金属上涨0.7%，恩迪沃银业上涨1.5%，ABRDN实物白银股票ETF上涨2.1%，Global X白银矿业ETF上涨1%，iShares白银信托上涨2.1%。",
           "url": "https://flash.jin10.com/detail/20260123172804674800",
           "source": "金十数据",
@@ -1968,6 +2030,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
+        },
+        {
+          "title": "英伟达美股盘前拉升，现涨超2%。台积电涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3042893",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
         },
         {
           "title": "英特尔股价美股盘后跌9%。",
@@ -2327,6 +2400,63 @@
       ]
     },
     {
+      "keyword_group": "游戏",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "给你 9 亿 3458 万 3642.99 元预算，你会制作出一款什么样的理想中的游戏？",
+          "url": "https://www.zhihu.com/question/1995210642081215149",
+          "source": "知乎",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 05时15分]"
+        },
+        {
+          "title": "深圳高中生开启全城猎人游戏",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%9C%B3%E9%AB%98%E4%B8%AD%E7%94%9F%E5%BC%80%E5%90%AF%E5%85%A8%E5%9F%8E%E7%8C%8E%E4%BA%BA%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            10,
+            12,
+            13,
+            18,
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[12时05分 ~ 20时27分]"
+        },
+        {
+          "title": "「爆炸糖游戏」火了，许多家长借此教育孩子远离赌博，这游戏能起到警示作用吗？家长操作不当是否会弄巧成拙？",
+          "url": "https://www.zhihu.com/question/1996625744554586850",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时26分 ~ 20时27分]"
+        },
+        {
+          "title": "为何在游戏中获得一件稀有装备后，有时我们反而更舍不得使用它了？",
+          "url": "https://www.zhihu.com/question/1996182877226963345",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌",
       "match_count": 4,
       "titles": [
@@ -2360,8 +2490,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 18时16分]"
+          "appearance_count": 4,
+          "time_info": "[18时15分 ~ 20时27分]"
         },
         {
           "title": "谷歌：在谷歌搜索中将个人智能扩展至AI模式。",
@@ -2391,8 +2521,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时01分 ~ 19时14分]"
+          "appearance_count": 14,
+          "time_info": "[11时01分 ~ 20时27分]"
         },
         {
           "title": "现货黄金价格突破每盎司4940.78美元，创历史新高。",
@@ -2419,52 +2549,6 @@
       ]
     },
     {
-      "keyword_group": "游戏",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "给你 9 亿 3458 万 3642.99 元预算，你会制作出一款什么样的理想中的游戏？",
-          "url": "https://www.zhihu.com/question/1995210642081215149",
-          "source": "知乎",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 05时15分]"
-        },
-        {
-          "title": "深圳高中生开启全城猎人游戏",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%9C%B3%E9%AB%98%E4%B8%AD%E7%94%9F%E5%BC%80%E5%90%AF%E5%85%A8%E5%9F%8E%E7%8C%8E%E4%BA%BA%E6%B8%B8%E6%88%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            10,
-            12,
-            13,
-            18,
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时05分 ~ 19时14分]"
-        },
-        {
-          "title": "为何在游戏中获得一件稀有装备后，有时我们反而更舍不得使用它了？",
-          "url": "https://www.zhihu.com/question/1996182877226963345",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        }
-      ]
-    },
-    {
       "keyword_group": "英伟达",
       "match_count": 3,
       "titles": [
@@ -2477,8 +2561,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时18分 ~ 19时14分]"
+          "appearance_count": 8,
+          "time_info": "[16时18分 ~ 20时27分]"
         },
         {
           "title": "英伟达(NVDA.O)盘前拉升，涨超1%。",
@@ -2487,7 +2571,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },

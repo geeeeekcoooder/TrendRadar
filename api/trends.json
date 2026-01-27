@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T16:20:07.200203+08:00",
-  "total_titles_processed": 1445,
+  "generated_at": "2026-01-27T17:24:28.194050+08:00",
+  "total_titles_processed": 1571,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 66,
+      "match_count": 68,
       "titles": [
         {
           "title": "特朗普就加中贸易协定发出威胁，中方回应",
@@ -75,8 +75,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时14分 ~ 16时20分]"
+          "appearance_count": 11,
+          "time_info": "[07时14分 ~ 17时24分]"
         },
         {
           "title": "特朗普政府被爆试图颠覆古巴政权，克宫回应",
@@ -176,6 +176,19 @@
           "time_info": "[04时16分 ~ 09时02分]"
         },
         {
+          "title": "国家恐怖主义的分水岭？明尼阿波利斯枪击案恶化特朗普政治前景",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32466289",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时20分 ~ 17时24分]"
+        },
+        {
           "title": "美国白宫：总统特朗普并未放弃乌克兰和平进程。",
           "url": "https://flash.jin10.com/detail/20260127024854559800",
           "source": "金十数据",
@@ -231,18 +244,6 @@
           "ranks": [
             11,
             13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时20分 ~ 16时20分]"
-        },
-        {
-          "title": "国家恐怖主义的分水岭？明尼阿波利斯枪击案恶化特朗普政治前景",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32466289",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -493,6 +494,17 @@
           "time_info": "07时14分"
         },
         {
+          "title": "美媒：特朗普一周内两次妥协",
+          "url": "https://news.ifeng.com/c/8qG16xqtXtH",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
           "title": "美国总统特朗普：与明尼阿波利斯市长雅各布·弗雷进行了非常良好的电话交谈。",
           "url": "https://flash.jin10.com/detail/20260127061856226800",
           "source": "金十数据",
@@ -735,6 +747,17 @@
           "time_info": "09时02分"
         },
         {
+          "title": "韩国青瓦台：美国来信与美国总统特朗普关于关税的声明无直接关联。",
+          "url": "https://flash.jin10.com/detail/20260127164256155800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
           "title": "据福克斯新闻：美国财长贝森特表示，美国总统特朗普已于周一与加拿大总理卡尼通话。",
           "url": "https://flash.jin10.com/detail/20260127104804848800",
           "source": "金十数据",
@@ -771,7 +794,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "强劲耐用品数据提振美股齐涨，美日干预叠加政府关门预期，黄金站上5100、白银突破110，美元跌至四个月低点",
@@ -793,8 +816,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时14分 ~ 16时20分]"
+          "appearance_count": 11,
+          "time_info": "[07时14分 ~ 17时24分]"
         },
         {
           "title": "美股期指小幅走低 美国稀土盘前涨超20% | 今夜看点",
@@ -820,6 +843,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时14分 ~ 14时22分]"
+        },
+        {
+          "title": "美光科技(MU.O)美股盘前涨3%，此前该公司宣布计划在新加坡投资240亿美元建设一座存储芯片制造厂。",
+          "url": "https://flash.jin10.com/detail/20260127170515814800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
+          "title": "美国提议小幅上调医疗保险承保商支付额，联合健康(UNH.N)美股盘前跌超8%。",
+          "url": "https://flash.jin10.com/detail/20260127170453559800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.75%，暂报3615.83点，北京时间04:37跌至3455.34点刷新日低——至亚太早盘呈现出V形走势，09:00以来持稳于3600点下方，美股开盘以来微幅上涨。 MarketVectorTM数字资产100中盘指数跌0.30%，报3409.47点。 MarketVector数字资产100指数持平，报17939.14点。 目前，Solana涨5.33%，狗狗币涨3.81%，XRP涨5.57%。 比特币目前涨1.41%，暂报87563.98美元；以太坊涨3.62%，报2900.74美元。",
@@ -973,7 +1018,7 @@
     },
     {
       "keyword_group": "半导体",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "半导体景气蔓延？业内预测：春节后设计环节涨价态势或明朗",
@@ -986,8 +1031,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时20分 ~ 16时20分]"
+          "appearance_count": 7,
+          "time_info": "[13时20分 ~ 17时24分]"
         },
         {
           "title": "微软云计算与人工智能业务主管斯科特·古特里（Scott Guthrie）：首批Maia 200芯片单位将分配给微软的“超级智能（superintelligence）”团队，用于生成数据以改进下一代人工智能（AI）模型。 这些芯片还将用于驱动面向企业的Copilot助手，以及微软向云客户租用的各种AI模型（包括OpenAI的最新模型）。 第二代AI芯片Maia 200在某些AI任务上的性能优于谷歌和亚马逊的同类半导体。 Maia 200也是微软部署过的效率最高的推理（Inference）系统。 目前已在设计该芯片的继任者Maia 300。",
@@ -1024,6 +1069,28 @@
           "time_info": "14时22分"
         },
         {
+          "title": "【每日收评】三大指数探底回升集体收红，半导体芯片板块全线爆发，太空光伏概念午后反弹",
+          "url": "https://www.cls.cn/detail/2271239",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
+          "title": "【午报】三大指数缩量震荡涨跌不一，半导体、算力硬件方向双双走强",
+          "url": "https://www.cls.cn/detail/2270867",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
           "title": "创业板指涨超1%，早盘一度跌超1%，沪指涨0.29%，深成指涨0.09%，半导体芯片、培育钻石、商业航天、光伏设备等方向领涨，沪深京三市上涨个股超1800只。",
           "url": "https://wallstreetcn.com/livenews/3044480",
           "source": "华尔街见闻-快讯",
@@ -1044,6 +1111,88 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "游戏",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "以游戏之名描绘锦绣中华",
+          "url": "https://www.douyin.com/hot/2380249",
+          "source": "抖音",
+          "ranks": [
+            7,
+            6,
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时21分 ~ 11时31分]"
+        },
+        {
+          "title": "马上评｜让孩子远离致命游戏，不能只“讲大道理”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32464486",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            15,
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时31分 ~ 15时21分]"
+        },
+        {
+          "title": "游戏驿站(GME.N)股价创下三个月新高，上涨8%。",
+          "url": "https://flash.jin10.com/detail/20260127011144929800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 02时22分]"
+        },
+        {
+          "title": "游戏驿站（GME）涨6%，此前“大空头”Michael Burry讲话。",
+          "url": "https://wallstreetcn.com/livenews/3044127",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时23分 ~ 03时18分]"
+        },
+        {
+          "title": "由卡普空开发，与机器人女孩一同冒险的游戏 PRAGMATA 即将发售，但还缺正式中文名，你有什么好提案吗？",
+          "url": "https://www.zhihu.com/question/1999208523578512141",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 00时22分]"
+        },
+        {
+          "title": "游戏玩家把抢头福加入日常任务",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B8%B8%E6%88%8F%E7%8E%A9%E5%AE%B6%E6%8A%8A%E6%8A%A2%E5%A4%B4%E7%A6%8F%E5%8A%A0%E5%85%A5%E6%97%A5%E5%B8%B8%E4%BB%BB%E5%8A%A1%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         }
       ]
     },
@@ -1110,77 +1259,6 @@
       ]
     },
     {
-      "keyword_group": "游戏",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "以游戏之名描绘锦绣中华",
-          "url": "https://www.douyin.com/hot/2380249",
-          "source": "抖音",
-          "ranks": [
-            7,
-            6,
-            9,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时21分 ~ 11时31分]"
-        },
-        {
-          "title": "马上评｜让孩子远离致命游戏，不能只“讲大道理”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32464486",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            15,
-            14,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时31分 ~ 15时21分]"
-        },
-        {
-          "title": "游戏驿站(GME.N)股价创下三个月新高，上涨8%。",
-          "url": "https://flash.jin10.com/detail/20260127011144929800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 02时22分]"
-        },
-        {
-          "title": "游戏驿站（GME）涨6%，此前“大空头”Michael Burry讲话。",
-          "url": "https://wallstreetcn.com/livenews/3044127",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            19,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 03时18分]"
-        },
-        {
-          "title": "由卡普空开发，与机器人女孩一同冒险的游戏 PRAGMATA 即将发售，但还缺正式中文名，你有什么好提案吗？",
-          "url": "https://www.zhihu.com/question/1999208523578512141",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "英伟达",
       "match_count": 5,
       "titles": [
@@ -1243,6 +1321,57 @@
       ]
     },
     {
+      "keyword_group": "黄金",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32448436",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时21分 ~ 09时02分]"
+        },
+        {
+          "title": "丰业银行：与黄金价格脱节，黄金股存在“补涨”机会",
+          "url": "https://flash.jin10.com/detail/20260127032144088800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时16分 ~ 05时15分]"
+        },
+        {
+          "title": "德意志银行：在其他情境下，6900美元/盎司的黄金价格目标实际上更符合过去两年的跑赢表现。",
+          "url": "https://flash.jin10.com/detail/20260127165825924800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
+          "title": "德意志银行：我们认为，在今年美元走软的情况下，（黄金）每盎司6000美元的价格目标是可实现的。",
+          "url": "https://flash.jin10.com/detail/20260127164945513800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 3,
       "titles": [
@@ -1285,37 +1414,8 @@
       ]
     },
     {
-      "keyword_group": "黄金",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32448436",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 09时02分]"
-        },
-        {
-          "title": "丰业银行：与黄金价格脱节，黄金股存在“补涨”机会",
-          "url": "https://flash.jin10.com/detail/20260127032144088800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时16分 ~ 05时15分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "电力",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "贝克休斯公司表示，受人工智能运行所需电力需求激增的影响，该公司计划在三年内将数据中心设备订单目标提高一倍，达到30亿美元。",
@@ -1328,6 +1428,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时18分 ~ 04时16分]"
+        },
+        {
+          "title": "印度国有天然气公司GAIL CEO：价格是推动印度电力行业天然气需求的最大担忧。",
+          "url": "https://flash.jin10.com/detail/20260127165904615800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         },
         {
           "title": "多家微型电网公司表示：实现世界银行电力计划需460亿美元资金",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T19:16:51.807593+08:00",
-  "total_titles_processed": 1764,
+  "generated_at": "2026-01-27T20:27:32.098333+08:00",
+  "total_titles_processed": 1863,
   "failed_sources": [],
   "trends": [
     {
@@ -75,8 +75,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时14分 ~ 19时16分]"
+          "appearance_count": 14,
+          "time_info": "[07时14分 ~ 20时27分]"
         },
         {
           "title": "特朗普政府被爆试图颠覆古巴政权，克宫回应",
@@ -136,11 +136,12 @@
             19,
             18,
             16,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时20分 ~ 19时16分]"
+          "appearance_count": 8,
+          "time_info": "[15时20分 ~ 20时27分]"
         },
         {
           "title": "特朗普为何对韩国加征关税",
@@ -227,6 +228,17 @@
           "time_info": "[04时16分 ~ 05时15分]"
         },
         {
+          "title": "美媒：特朗普一周内两次妥协",
+          "url": "https://news.ifeng.com/c/8qG16xqtXtH",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时24分 ~ 20时27分]"
+        },
+        {
           "title": "美国白宫：总统特朗普并未承诺允许进行地方调查。",
           "url": "https://flash.jin10.com/detail/20260127024457827800",
           "source": "金十数据",
@@ -249,17 +261,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时20分 ~ 16时20分]"
-        },
-        {
-          "title": "美媒：特朗普一周内两次妥协",
-          "url": "https://news.ifeng.com/c/8qG16xqtXtH",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时24分 ~ 19时16分]"
         },
         {
           "title": "特朗普政府将入股美国稀土公司，涉资16亿美元持股将多达16%",
@@ -795,7 +796,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 26,
       "titles": [
         {
           "title": "强劲耐用品数据提振美股齐涨，美日干预叠加政府关门预期，黄金站上5100、白银突破110，美元跌至四个月低点",
@@ -817,8 +818,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时14分 ~ 19时16分]"
+          "appearance_count": 14,
+          "time_info": "[07时14分 ~ 20时27分]"
         },
         {
           "title": "美股期指小幅走低 美国稀土盘前涨超20% | 今夜看点",
@@ -868,6 +869,17 @@
           "time_info": "17时24分"
         },
         {
+          "title": "美国航空第四季度调整后客运营收126.6亿美元，预期127.6亿美元。 第四季度调整后每股收益16美分，预估34美分。 美国航空预计2026年调整后每股收益1.7-2.7美元，市场预估2.01美元。 美国航空预计2026年资本支出约为40亿至45亿美元，市场预估41.7亿美元。 美国航空预计2027年资本支出约为45亿美元。 美国航空美股盘前跌3.5%。",
+          "url": "https://wallstreetcn.com/livenews/3044771",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
+        {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.75%，暂报3615.83点，北京时间04:37跌至3455.34点刷新日低——至亚太早盘呈现出V形走势，09:00以来持稳于3600点下方，美股开盘以来微幅上涨。 MarketVectorTM数字资产100中盘指数跌0.30%，报3409.47点。 MarketVector数字资产100指数持平，报17939.14点。 目前，Solana涨5.33%，狗狗币涨3.81%，XRP涨5.57%。 比特币目前涨1.41%，暂报87563.98美元；以太坊涨3.62%，报2900.74美元。",
           "url": "https://wallstreetcn.com/livenews/3044129",
           "source": "华尔街见闻-快讯",
@@ -915,6 +927,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时14分 ~ 07时14分]"
+        },
+        {
+          "title": "雷神技术四季度调整后销售额242.4亿美元， 预估226.3亿美元。 四季度调整后每股收益1.55美元，预估1.47美元。 雷神技术预计2026年调整后销售额920亿美元-930亿美元，市场预估924.3亿美元。 雷神技术预计2026年调整后每股收益6.6-6.8美元，市场预估6.7美元。 雷神技术美股盘前涨近3%。",
+          "url": "https://wallstreetcn.com/livenews/3044769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
+        {
+          "title": "美国航空集团(AAL.O)美股盘前涨2.8%，此前该公司预计2026年利润将高于预期。",
+          "url": "https://flash.jin10.com/detail/20260127201308161800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
+        {
+          "title": "通用汽车第四季度净销售额和营收452.9亿美元，预估453.7亿美元。 第四季度调整后每股收益2.51美元，预估2.28美元。 通用汽车预计2026年净利润103亿美元至117亿美元。 通用汽车预计2026年调整后EBIT 130亿美元至150亿美元。 通用汽车预计2026年调整后每股收益11美元至13美元。 通用汽车预计2026年资本支出100亿美元至120亿美元。 通用汽车批准新的60亿美元股票回购授权。 通用汽车美股盘前涨1.4%。",
+          "url": "https://wallstreetcn.com/livenews/3044761",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
         },
         {
           "title": "在美上市韩国ETF美股盘后跌幅扩大至1%，特朗普称将韩国对等关税从15%提高至25%。",
@@ -1005,6 +1050,28 @@
           "time_info": "00时22分"
         },
         {
+          "title": "UPS四季度营收245亿美元，预估239.9亿美元。 四季度营调整后每股收益2.38美元，预估2.21美元。 UPS预计2026年营收约897亿美元，市场预估879.5亿美元。 UPS预计2026年资本支出约为30亿美元，市场预估37.2亿美元。 UPS美股盘前涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3044744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
+        {
+          "title": "联合健康四季度营收1132.2亿美元，预估1138.7亿美元。 四季度经调整后每股收益2.11美元，预估2.1美元。 联合健康预计2026年全年经调整后每股收益在17.75美元上方，市场预估17.69美元。 联合健康美股盘前跌近13%。",
+          "url": "https://wallstreetcn.com/livenews/3044739",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
+        {
           "title": "美股三大指数集体收涨",
           "url": "https://www.toutiao.com/trending/7599348623989850153/",
           "source": "今日头条",
@@ -1014,12 +1081,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
+        },
+        {
+          "title": "通用汽车(GM.N)美股盘前涨幅扩大至6.3%，四季度核心利润高于预期。",
+          "url": "https://flash.jin10.com/detail/20260127193856675800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
         }
       ]
     },
     {
       "keyword_group": "半导体",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "半导体景气蔓延？业内预测：春节后设计环节涨价态势或明朗",
@@ -1030,11 +1108,12 @@
             9,
             5,
             4,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时20分 ~ 19时16分]"
+          "appearance_count": 10,
+          "time_info": "[13时20分 ~ 20时27分]"
         },
         {
           "title": "诺基亚通过与半导体和软件技术公司Blaize在亚太地区开展战略合作，强化边缘人工智能能力，打造混合推理解决方案。",
@@ -1068,8 +1147,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时24分 ~ 19时16分]"
+          "appearance_count": 4,
+          "time_info": "[17时24分 ~ 20时27分]"
         },
         {
           "title": "时隔6年首次易主！白酒股均价遭半导体反超，3成标的近期回撤超一成",
@@ -1080,8 +1159,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时18分 ~ 19时16分]"
+          "appearance_count": 3,
+          "time_info": "[18时18分 ~ 20时27分]"
         },
         {
           "title": "A股收盘：创业板指探底回升涨0.71%，半导体产业链集体走强",
@@ -1126,6 +1205,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
+        },
+        {
+          "title": "盈新发展：拟以5.2亿元收购长兴半导体60%股权",
+          "url": "https://wallstreetcn.com/livenews/3044753",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
         },
         {
           "title": "金十图示：2026年01月27日（周二）富时中国A50指数成分股午盘收盘行情一览：银行、保险、半导体等板块普涨，酿酒、煤炭等板块表现低迷",
@@ -1173,7 +1263,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -1195,7 +1285,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -1434,7 +1524,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -1529,7 +1619,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -1593,7 +1683,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         }

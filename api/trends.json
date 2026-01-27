@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T21:40:32.772502+08:00",
-  "total_titles_processed": 1974,
+  "generated_at": "2026-01-27T22:22:48.925720+08:00",
+  "total_titles_processed": 2041,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 70,
+      "match_count": 73,
       "titles": [
         {
           "title": "特朗普就加中贸易协定发出威胁，中方回应",
@@ -75,8 +75,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时14分 ~ 21时40分]"
+          "appearance_count": 16,
+          "time_info": "[07时14分 ~ 22时22分]"
         },
         {
           "title": "特朗普政府被爆试图颠覆古巴政权，克宫回应",
@@ -144,6 +144,18 @@
           "time_info": "[15时20分 ~ 20时27分]"
         },
         {
+          "title": "美媒：特朗普一周内两次妥协",
+          "url": "https://news.ifeng.com/c/8qG16xqtXtH",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时24分 ~ 22时22分]"
+        },
+        {
           "title": "特朗普为何对韩国加征关税",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E9%9F%A9%E5%9B%BD%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E",
           "source": "bilibili 热搜",
@@ -156,23 +168,12 @@
         },
         {
           "title": "加拿大总理卡尼：与特朗普总统进行了良好的对话。",
-          "url": "https://wallstreetcn.com/livenews/3044806",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时40分"
-        },
-        {
-          "title": "加拿大总理卡尼：与特朗普总统进行了良好的对话。",
           "url": "https://flash.jin10.com/detail/20260127212721886800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
         },
@@ -186,18 +187,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
-        },
-        {
-          "title": "美媒：特朗普一周内两次妥协",
-          "url": "https://news.ifeng.com/c/8qG16xqtXtH",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时24分 ~ 21时40分]"
         },
         {
           "title": "特朗普：提高对韩国多种商品关税税率至25%",
@@ -248,6 +237,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时15分 ~ 06时14分]"
+        },
+        {
+          "title": "加拿大总理卡尼：与特朗普总统进行了良好的对话。",
+          "url": "https://wallstreetcn.com/livenews/3044806",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时40分 ~ 22时22分]"
         },
         {
           "title": "特朗普：与明州州长“想法相近” 将处理执法枪击事件",
@@ -761,6 +762,17 @@
           "time_info": "11时31分"
         },
         {
+          "title": "美国总统特朗普：格陵兰岛的情况进展顺利。",
+          "url": "https://flash.jin10.com/detail/20260127215902817800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "韩国KOSPI指数跌幅扩大至1%，特朗普此前对韩国发出贸易威胁。",
           "url": "https://flash.jin10.com/detail/20260127080833438800",
           "source": "金十数据",
@@ -770,6 +782,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
+        },
+        {
+          "title": "美国总统特朗普：庞大的舰队正驶往伊朗，希望我们不必动用它。",
+          "url": "https://flash.jin10.com/detail/20260127215541311800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "韩国青瓦台：美国来信与美国总统特朗普关于关税的声明无直接关联。",
@@ -805,6 +828,17 @@
           "time_info": "03时18分"
         },
         {
+          "title": "美国总统特朗普：与明尼阿波利斯市长进行了精彩的对话。",
+          "url": "https://flash.jin10.com/detail/20260127215213078800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "高盛CEO：经济形势具有建设性。特朗普政府正在减轻监管负担。与政府的关系“非常好”。美国政府对商业持开放态度。",
           "url": "https://wallstreetcn.com/livenews/3044375",
           "source": "华尔街见闻-快讯",
@@ -819,7 +853,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "强劲耐用品数据提振美股齐涨，美日干预叠加政府关门预期，黄金站上5100、白银突破110，美元跌至四个月低点",
@@ -841,8 +875,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时14分 ~ 21时40分]"
+          "appearance_count": 16,
+          "time_info": "[07时14分 ~ 22时22分]"
         },
         {
           "title": "美股期指小幅走低 美国稀土盘前涨超20% | 今夜看点",
@@ -890,6 +924,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
+        },
+        {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3044819",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-01-27）",
+          "url": "https://flash.jin10.com/detail/20260127220608508800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.75%，暂报3615.83点，北京时间04:37跌至3455.34点刷新日低——至亚太早盘呈现出V形走势，09:00以来持稳于3600点下方，美股开盘以来微幅上涨。 MarketVectorTM数字资产100中盘指数跌0.30%，报3409.47点。 MarketVector数字资产100指数持平，报17939.14点。 目前，Solana涨5.33%，狗狗币涨3.81%，XRP涨5.57%。 比特币目前涨1.41%，暂报87563.98美元；以太坊涨3.62%，报2900.74美元。",
@@ -963,6 +1019,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时14分 ~ 07时14分]"
+        },
+        {
+          "title": "康宁美股盘前涨8.5%，报道：Meta准备向康宁公司支付高达60亿美元用于购买光纤电缆",
+          "url": "https://wallstreetcn.com/livenews/3044789",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时40分 ~ 22时22分]"
+        },
+        {
+          "title": "波音四季度营收239.5亿美元，预估225.8亿美元。 四季度核心每股收益9.92美元。 四季度调整后自由现金流3.75亿美元，预估2.719亿美元。 波音美股盘前涨1.2%。",
+          "url": "https://wallstreetcn.com/livenews/3044785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时40分 ~ 22时22分]"
         },
         {
           "title": "美国航空集团(AAL.O)美股盘前涨2.8%，此前该公司预计2026年利润将高于预期。",
@@ -1042,17 +1122,6 @@
           "time_info": "06时14分"
         },
         {
-          "title": "康宁美股盘前涨8.5%，报道：Meta准备向康宁公司支付高达60亿美元用于购买光纤电缆",
-          "url": "https://wallstreetcn.com/livenews/3044789",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时40分"
-        },
-        {
           "title": "金十图示：2026年01月26日（周一）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260127050519889800",
           "source": "金十数据",
@@ -1062,17 +1131,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
-        },
-        {
-          "title": "波音四季度营收239.5亿美元，预估225.8亿美元。 四季度核心每股收益9.92美元。 四季度调整后自由现金流3.75亿美元，预估2.719亿美元。 波音美股盘前涨1.2%。",
-          "url": "https://wallstreetcn.com/livenews/3044785",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时40分"
         },
         {
           "title": "美股收盘：三大股指收涨 苹果涨近3%",
@@ -1125,7 +1183,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
         },
@@ -1174,6 +1232,20 @@
           "time_info": "[13时20分 ~ 20时27分]"
         },
         {
+          "title": "【每日收评】三大指数探底回升集体收红，半导体芯片板块全线爆发，太空光伏概念午后反弹",
+          "url": "https://www.cls.cn/detail/2271239",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时24分 ~ 22时22分]"
+        },
+        {
           "title": "诺基亚通过与半导体和软件技术公司Blaize在亚太地区开展战略合作，强化边缘人工智能能力，打造混合推理解决方案。",
           "url": "https://flash.jin10.com/detail/20260127180105304800",
           "source": "金十数据",
@@ -1185,17 +1257,17 @@
           "time_info": "18时18分"
         },
         {
-          "title": "【每日收评】三大指数探底回升集体收红，半导体芯片板块全线爆发，太空光伏概念午后反弹",
-          "url": "https://www.cls.cn/detail/2271239",
+          "title": "时隔6年首次易主！白酒股均价遭半导体反超，3成标的近期回撤超一成",
+          "url": "https://www.cls.cn/detail/2271319",
           "source": "财联社热门",
           "ranks": [
             12,
-            10,
-            7
+            11,
+            10
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[17时24分 ~ 21时40分]"
+          "time_info": "[18时18分 ~ 22时22分]"
         },
         {
           "title": "微软云计算与人工智能业务主管斯科特·古特里（Scott Guthrie）：首批Maia 200芯片单位将分配给微软的“超级智能（superintelligence）”团队，用于生成数据以改进下一代人工智能（AI）模型。 这些芯片还将用于驱动面向企业的Copilot助手，以及微软向云客户租用的各种AI模型（包括OpenAI的最新模型）。 第二代AI芯片Maia 200在某些AI任务上的性能优于谷歌和亚马逊的同类半导体。 Maia 200也是微软部署过的效率最高的推理（Inference）系统。 目前已在设计该芯片的继任者Maia 300。",
@@ -1208,19 +1280,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时22分 ~ 01时23分]"
-        },
-        {
-          "title": "时隔6年首次易主！白酒股均价遭半导体反超，3成标的近期回撤超一成",
-          "url": "https://www.cls.cn/detail/2271319",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时18分 ~ 21时40分]"
         },
         {
           "title": "A股收盘：创业板指探底回升涨0.71%，半导体产业链集体走强",
@@ -1318,6 +1377,18 @@
           "time_info": "[05时15分 ~ 06时14分]"
         },
         {
+          "title": "彭博美元即期指数触及2022年3月以来最弱水平。",
+          "url": "https://wallstreetcn.com/livenews/3044792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时40分 ~ 22时22分]"
+        },
+        {
           "title": "美元指数DXY短线下挫 非美货币走高",
           "url": "https://flash.jin10.com/detail/20260127175649548800",
           "source": "金十数据",
@@ -1340,17 +1411,6 @@
           "time_info": "00时22分"
         },
         {
-          "title": "彭博美元即期指数触及2022年3月以来最弱水平。",
-          "url": "https://wallstreetcn.com/livenews/3044792",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时40分"
-        },
-        {
           "title": "美元指数DXY失守97，日内跌幅0.48%。",
           "url": "https://flash.jin10.com/detail/20260127050513890800",
           "source": "金十数据",
@@ -1368,7 +1428,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
         },
@@ -1401,7 +1461,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
         }
@@ -1409,7 +1469,7 @@
     },
     {
       "keyword_group": "谷歌",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "欧盟依据数字市场法案对谷歌的在线搜索和数据共享展开调查。",
@@ -1421,6 +1481,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
+        },
+        {
+          "title": "谷歌云正式官宣涨价，其中北美地区翻倍",
+          "url": "https://wallstreetcn.com/livenews/3044812",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "谷歌法律顾问：然而，我们担心，那些往往由竞争对手投诉驱动而非以消费者利益为导向的进一步规则，将损害用户隐私、安全和创新。",
@@ -1514,7 +1585,7 @@
     },
     {
       "keyword_group": "游戏",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "以游戏之名描绘锦绣中华",
@@ -1591,6 +1662,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
+        },
+        {
+          "title": "女朋友和自己身边的好朋友都喜欢玩《三角洲行动》，要我和他们一起玩，可是我游戏天赋很差，太菜了怎么办?",
+          "url": "https://www.zhihu.com/question/1997804208259346636",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         }
       ]
     },

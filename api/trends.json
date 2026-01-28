@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T06:18:14.026099+08:00",
-  "total_titles_processed": 728,
+  "generated_at": "2026-01-29T07:19:01.926626+08:00",
+  "total_titles_processed": 801,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 06时18分]"
+          "appearance_count": 13,
+          "time_info": "[00时25分 ~ 07时19分]"
         },
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 06时18分]"
+          "appearance_count": 13,
+          "time_info": "[00时25分 ~ 07时19分]"
         },
         {
           "title": "满嘴跑火车，特朗普这回真撞“枪口”上了",
@@ -61,11 +61,12 @@
             7,
             6,
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 06时18分]"
+          "appearance_count": 13,
+          "time_info": "[00时25分 ~ 07时19分]"
         },
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
@@ -75,11 +76,12 @@
             14,
             12,
             9,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 06时18分]"
+          "appearance_count": 13,
+          "time_info": "[00时25分 ~ 07时19分]"
         },
         {
           "title": "美国总统特朗普称赞英伟达为“特朗普账户”捐款。",
@@ -286,9 +288,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
+        },
+        {
+          "title": "消息人士称，特朗普政府正逐步取消关键矿产项目的价格下限。",
+          "url": "https://flash.jin10.com/detail/20260129064430759800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
         },
         {
           "title": "美国财长贝森特接受CBS新闻采访，为总统特朗普的司法部刑事调查美联储主席鲍威尔一事“辩护”。 贝森特声称：美联储的独立性不等于“无需担责”。",
@@ -297,7 +310,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
         },
@@ -437,7 +450,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "美股“七巨头”财报即将亮相：投资者该关注哪些要点？",
@@ -449,8 +462,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 06时18分]"
+          "appearance_count": 13,
+          "time_info": "[00时25分 ~ 07时19分]"
         },
         {
           "title": "美股期指走高 美联储决议来袭 微软、Meta和特斯拉盘后公布财报 | 今夜看点",
@@ -461,8 +474,30 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 06时18分]"
+          "appearance_count": 13,
+          "time_info": "[00时25分 ~ 07时19分]"
+        },
+        {
+          "title": "美联储决议无新意，美股涨跌互现，希捷飙升19%领涨存储股，黄金突破5400美元",
+          "url": "https://wallstreetcn.com/articles/3764338",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时18分 ~ 07时19分]"
+        },
+        {
+          "title": "特斯拉美股盘后快速回吐涨幅，该公司称2026年资本开支将超200亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3045885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
         },
         {
           "title": "美股七巨头收盘播报｜周三（1月28日），美国科技股七巨头（Magnificent 7）指数涨0.22%，报209.62点，整体呈现出V形反转行情，美联储发布决议声明后持续走高。 “超大”市值科技股指数涨0.04%，报398.55点，跳空高开之后持续回吐涨幅并多次转跌。",
@@ -471,7 +506,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
         },
@@ -493,7 +528,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
         },
@@ -527,7 +562,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
         },
@@ -554,13 +589,24 @@
           "time_info": "02时26分"
         },
         {
+          "title": "谷歌母公司Alphabet美股盘后涨3%，投资者关注Meta业绩报告。",
+          "url": "https://wallstreetcn.com/livenews/3045867",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
           "title": "微软第二财季营收812.7亿美元，分析师预期803.1亿美元。第二财季智能云营收329.1亿美元，分析师预期323.9亿美元。 第二财季Azure与其他云营收（剔除汇率因素之后）增长38%，分析师预期增长38%。 第二财季资本开支包括375亿美元租赁，分析师预期362.6亿美元。 微软美股盘后重挫8.1%。",
           "url": "https://wallstreetcn.com/livenews/3045829",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
         },
@@ -571,7 +617,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
         },
@@ -585,6 +631,145 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "马斯克：特斯拉“有望”在4月份首发下一代Roadster。",
+          "url": "https://wallstreetcn.com/livenews/3045887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "报道：SpaceX上市时间可能定在6月以契合天象及马斯克生日",
+          "url": "https://wallstreetcn.com/livenews/3045700",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时26分 ~ 02时26分]"
+        },
+        {
+          "title": "特斯拉CEO埃隆·马斯克：从长远来看，Optimus将对美国GDP产生非常重大的影响。",
+          "url": "https://flash.jin10.com/detail/20260129064449017800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "特斯拉CEO埃隆·马斯克：预计到今年年底，美国将有四分之一到一半的地区拥有完全自动驾驶汽车。",
+          "url": "https://flash.jin10.com/detail/20260129064128500800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "特斯拉CEO埃隆·马斯克：工厂中原本用于生产Model S和Model X的空间将用于生产Optimus人形机器人",
+          "url": "https://flash.jin10.com/detail/20260129064100713800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "特斯拉CEO埃隆·马斯克：奥斯汀的自动驾驶出租车不再有追踪车跟随。",
+          "url": "https://flash.jin10.com/detail/20260129063925747800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "马斯克：2026年将是“资本开支非常庞大的一年”。",
+          "url": "https://wallstreetcn.com/livenews/3045872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "提醒：特斯拉电话会开始，马斯克发表开场白讲话。",
+          "url": "https://wallstreetcn.com/livenews/3045871",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "特斯拉CEO埃隆·马斯克：预计下个季度将逐步停产Model S和X。",
+          "url": "https://flash.jin10.com/detail/20260129063752077800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "特斯拉CEO埃隆·马斯克：2026年将是“非常大的资本支出年”。",
+          "url": "https://flash.jin10.com/detail/20260129063628907800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "特斯拉CEO埃隆·马斯克：将终止Model S和Model X项目。",
+          "url": "https://flash.jin10.com/detail/20260129063551897800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "特斯拉CEO埃隆·马斯克：公司正在对人工智能芯片进行“大规模投资”。",
+          "url": "https://flash.jin10.com/detail/20260129063537110800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
         }
       ]
     },
@@ -669,8 +854,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 06时18分]"
+          "appearance_count": 13,
+          "time_info": "[00时25分 ~ 07时19分]"
         }
       ]
     },
@@ -688,24 +873,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "报道：SpaceX上市时间可能定在6月以契合天象及马斯克生日",
-          "url": "https://wallstreetcn.com/livenews/3045700",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时26分 ~ 02时26分]"
         }
       ]
     },

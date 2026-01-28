@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-01-28T15:19:28.416593+08:00",
-  "total_titles_processed": 1381,
+  "generated_at": "2026-01-28T16:20:00.009789+08:00",
+  "total_titles_processed": 1481,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 67,
+      "match_count": 71,
       "titles": [
-        {
-          "title": "【早报】特朗普最新表态！美元跌至近四年新低、金价再攀新高；多家半导体公司芯片涨价",
-          "url": "https://www.cls.cn/detail/2271933",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时59分 ~ 15时19分]"
-        },
         {
           "title": "特朗普：将很快宣布新的美联储主席人选",
           "url": "https://news.ifeng.com/c/8qH7ZqPC79B",
@@ -25,6 +14,17 @@
           "ranks": [
             4,
             3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时59分 ~ 16时19分]"
+        },
+        {
+          "title": "【早报】特朗普最新表态！美元跌至近四年新低、金价再攀新高；多家半导体公司芯片涨价",
+          "url": "https://www.cls.cn/detail/2271933",
+          "source": "财联社热门",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -64,8 +64,23 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时03分 ~ 15时19分]"
+          "appearance_count": 7,
+          "time_info": "[11时03分 ~ 16时19分]"
+        },
+        {
+          "title": "为抛售美元打开“绿灯”？特朗普声称：不担心美元贬值！",
+          "url": "https://www.cls.cn/detail/2271977",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            12,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时03分 ~ 16时19分]"
         },
         {
           "title": "特朗普，两天内动手？",
@@ -100,20 +115,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时04分"
-        },
-        {
-          "title": "为抛售美元打开“绿灯”？特朗普声称：不担心美元贬值！",
-          "url": "https://www.cls.cn/detail/2271977",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时03分 ~ 15时19分]"
         },
         {
           "title": "美国总统特朗普：美元表现很好。 日本一直都向让货币贬值。 可以让美元像一个Yo Yo（悠悠球）一样波动。",
@@ -270,6 +271,18 @@
           "time_info": "[03时20分 ~ 04时26分]"
         },
         {
+          "title": "特朗普：若遭暗杀，将把伊朗“从地球上抹去”！美航母已抵达中东，建国250年只有16年没打仗，美国的“武力执念”为何这么强？",
+          "url": "https://wallstreetcn.com/articles/3764257",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时21分 ~ 16时19分]"
+        },
+        {
           "title": "以色列总理内塔尼亚胡未否认曾要求特朗普不要攻击伊朗。",
           "url": "https://flash.jin10.com/detail/20260128030532843800",
           "source": "金十数据",
@@ -280,18 +293,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时20分 ~ 04时26分]"
-        },
-        {
-          "title": "特朗普：若遭暗杀，将把伊朗“从地球上抹去”！美航母已抵达中东，建国250年只有16年没打仗，美国的“武力执念”为何这么强？",
-          "url": "https://wallstreetcn.com/articles/3764257",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时21分 ~ 15时19分]"
         },
         {
           "title": "美国总统特朗普：美方准备支持叙利亚重建。",
@@ -355,6 +356,17 @@
           "time_info": "[03时20分 ~ 04时26分]"
         },
         {
+          "title": "韩国总统顾问：美国总统特朗普发出的对韩国加征关税的信息，反映了他对国会审议贸易协定进度缓慢的沮丧。",
+          "url": "https://flash.jin10.com/detail/20260128161628174800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
           "title": "美国总统特朗普：许多人向我问及乙醇。",
           "url": "https://wallstreetcn.com/livenews/3045025",
           "source": "华尔街见闻-快讯",
@@ -397,6 +409,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
+        },
+        {
+          "title": "韩国总统顾问：正如美国总统特朗普所说，我们会共同寻求关税解决方案。",
+          "url": "https://flash.jin10.com/detail/20260128161606852800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         },
         {
           "title": "投资者押注辛鲍姆能保护墨西哥比索免受特朗普冲击",
@@ -669,7 +692,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -694,6 +717,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
+        },
+        {
+          "title": "悠悠球世界冠军上线！特朗普亲自画出大阴线丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260128155108590800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         },
         {
           "title": "美国总统特朗普：（当被问及提高对韩关税时）我们将与韩国一道找到解决方案。",
@@ -738,6 +772,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
+        },
+        {
+          "title": "白宫悬挂特朗普与普京的合影",
+          "url": "https://www.toutiao.com/trending/7599941766590693382/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         },
         {
           "title": "美国总统特朗普：我们与叙利亚共同解决了一个巨大的问题。",
@@ -869,17 +914,6 @@
           "time_info": "14时23分"
         },
         {
-          "title": "【但斌91亿元的美股持仓出炉 谷歌取代英伟达成第一重仓股】据私募排排网，美国证券交易委员会(SEC)官网披露了但斌掌舵的东方港湾旗下海外基金2025年四季度的美股持仓数据。数据显示，2025年末东方港湾共持有10只美股标的，持股市值合计13.16亿美元，折合人民币超91亿元，相比2025年三季度末约12.92亿美元的持股市值略有增长。四季度，东方港湾清仓了Coinbase、奈飞、AsteraLabs、BitMineImmersionTechnologies、博通、台积电等美股标的。此外，变化较大的是，谷歌取代英伟达，跃升为东方港湾的第一大重仓股。",
-          "url": "https://wallstreetcn.com/livenews/3045359",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        },
-        {
           "title": "（美股）费城金银指数收涨1.00%，报440.62点，早盘显著下挫，随后逐步收复失地。 （全球时段）纽约证交所ARCA金矿开采商指数涨0.98%，报3099.58点，美股时段呈现出V形反转。 （美股）原材料指数收涨0.39%，（美股）金属与矿业指数收涨2.24%。",
           "url": "https://wallstreetcn.com/livenews/3045005",
           "source": "华尔街见闻-快讯",
@@ -890,6 +924,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时14分 ~ 07时14分]"
+        },
+        {
+          "title": "【但斌91亿元的美股持仓出炉 谷歌取代英伟达成第一重仓股】据私募排排网，美国证券交易委员会(SEC)官网披露了但斌掌舵的东方港湾旗下海外基金2025年四季度的美股持仓数据。数据显示，2025年末东方港湾共持有10只美股标的，持股市值合计13.16亿美元，折合人民币超91亿元，相比2025年三季度末约12.92亿美元的持股市值略有增长。四季度，东方港湾清仓了Coinbase、奈飞、AsteraLabs、BitMineImmersionTechnologies、博通、台积电等美股标的。此外，变化较大的是，谷歌取代英伟达，跃升为东方港湾的第一大重仓股。",
+          "url": "https://wallstreetcn.com/livenews/3045359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时19分 ~ 16时19分]"
         },
         {
           "title": "半导体ETF收涨2.1%，领跑美股行业ETF，标普保健板块跌超1.6%",
@@ -966,7 +1012,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         }
@@ -1124,73 +1170,8 @@
       ]
     },
     {
-      "keyword_group": "半导体",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "时隔6年首次易主！白酒股均价遭半导体反超，3成标的近期回撤超一成",
-          "url": "https://www.cls.cn/detail/2271319",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 07时14分]"
-        },
-        {
-          "title": "【每日收评】三大指数探底回升集体收红，半导体芯片板块全线爆发，太空光伏概念午后反弹",
-          "url": "https://www.cls.cn/detail/2271239",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 05时11分]"
-        },
-        {
-          "title": "恒生科技指数日内涨超1%，华虹半导体涨近4%，阿里健康涨超3%，快手涨近3%。",
-          "url": "https://wallstreetcn.com/livenews/3045193",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时04分"
-        },
-        {
-          "title": "联合声明草案显示，欧盟与越南拟就关键矿物和半导体深化合作达成一致。",
-          "url": "https://flash.jin10.com/detail/20260128151024059800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        },
-        {
-          "title": "金十图示：2026年01月28日（周三）富时中国A50指数成分股午盘收盘行情一览：板块走势分化，有色金属、小金属、石油板块涨幅居前，半导体、汽车板块表现低迷",
-          "url": "https://flash.jin10.com/detail/20260128113402087800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时37分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "谷歌云正式官宣涨价，其中北美地区翻倍",
@@ -1201,8 +1182,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时59分 ~ 15时19分]"
+          "appearance_count": 8,
+          "time_info": "[08时59分 ~ 16时19分]"
         },
         {
           "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。在美国，Google AI Plus每月收费7.99美元。",
@@ -1251,13 +1232,100 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时21分 ~ 02时24分]"
+        },
+        {
+          "title": "谷歌、亚马逊宣布云服务涨价！打破20年来行业惯例 第一块多米诺骨牌已推倒？",
+          "url": "https://www.cls.cn/detail/2272037",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "时隔6年首次易主！白酒股均价遭半导体反超，3成标的近期回撤超一成",
+          "url": "https://www.cls.cn/detail/2271319",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 07时14分]"
+        },
+        {
+          "title": "【每日收评】三大指数探底回升集体收红，半导体芯片板块全线爆发，太空光伏概念午后反弹",
+          "url": "https://www.cls.cn/detail/2271239",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 05时11分]"
+        },
+        {
+          "title": "恒生科技指数日内涨超1%，华虹半导体涨近4%，阿里健康涨超3%，快手涨近3%。",
+          "url": "https://wallstreetcn.com/livenews/3045193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时04分"
+        },
+        {
+          "title": "联合声明草案显示，欧盟与越南拟就关键矿物和半导体深化合作达成一致。",
+          "url": "https://flash.jin10.com/detail/20260128151024059800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "金十图示：2026年01月28日（周三）富时中国A50指数成分股午盘收盘行情一览：板块走势分化，有色金属、小金属、石油板块涨幅居前，半导体、汽车板块表现低迷",
+          "url": "https://flash.jin10.com/detail/20260128113402087800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时37分"
         }
       ]
     },
     {
       "keyword_group": "电力",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "京能电力：预计2025年年度净利润同比增长约91.90%-121.64%",
+          "url": "https://wallstreetcn.com/livenews/3045401",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
         {
           "title": "得克萨斯州电力可靠性委员会ERCOT：天气预警将于今日中午解除，电网仍有充足资源满足需求，预计电网运行状况将恢复正常。",
           "url": "https://flash.jin10.com/detail/20260128015419818800",
@@ -1319,8 +1387,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时19分 ~ 15时19分]"
+          "appearance_count": 16,
+          "time_info": "[00时19分 ~ 16时19分]"
         },
         {
           "title": "黄金价格暴涨暴跌 是走还是留",
@@ -1333,8 +1401,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时37分 ~ 15时19分]"
+          "appearance_count": 5,
+          "time_info": "[12时37分 ~ 16时19分]"
         },
         {
           "title": "德意志银行表示，如果美元持续疲软，投资者将增加对非美元资产和实体资产的配置，那么2026年黄金价格可能会达到每盎司6000美元。",

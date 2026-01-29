@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T19:24:26.171004+08:00",
-  "total_titles_processed": 1869,
+  "generated_at": "2026-01-29T20:33:25.733909+08:00",
+  "total_titles_processed": 1970,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 59,
       "titles": [
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
@@ -138,8 +138,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时06分 ~ 19时24分]"
+          "appearance_count": 11,
+          "time_info": "[13时06分 ~ 20时33分]"
         },
         {
           "title": "国际金银价格再度创出历史新高 特朗普威胁将再次打击伊朗 | 环球市场",
@@ -257,11 +257,12 @@
           "ranks": [
             15,
             14,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时33分 ~ 19时24分]"
+          "appearance_count": 4,
+          "time_info": "[17时33分 ~ 20时33分]"
         },
         {
           "title": "特朗普升级对伊施压，布油重回70美元，白银冲上120后回落，黄金突破5500，美元持续下挫",
@@ -272,8 +273,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时27分 ~ 19时24分]"
+          "appearance_count": 3,
+          "time_info": "[18时27分 ~ 20时33分]"
         },
         {
           "title": "特朗普“称赞美元贬值”引发抛售后 贝森特出面救火",
@@ -623,6 +624,17 @@
           "time_info": "00时25分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-29）",
+          "url": "https://flash.jin10.com/detail/20260129200059103800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
+        },
+        {
           "title": "特朗普暗示可以操控美元汇率",
           "url": "https://www.toutiao.com/trending/7600301655842291754/",
           "source": "今日头条",
@@ -692,7 +704,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "美股“七巨头”财报即将亮相：投资者该关注哪些要点？",
@@ -743,6 +755,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时18分 ~ 07时19分]"
+        },
+        {
+          "title": "黑石集团(BX.N)美股盘前涨1.1%，四季度利润和收入超出预期。",
+          "url": "https://flash.jin10.com/detail/20260129201634269800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
         },
         {
           "title": "微软(MSFT.O)美股盘前跌5.6%，此前该公司报告第二季度资本支出大幅跃升近66%，但云收入表现不及预期。",
@@ -867,6 +890,17 @@
           "time_info": "02时26分"
         },
         {
+          "title": "卡特彼勒公司第四季度营收191.3亿美元，预估179.1亿美元。 第四季度调整后每股收益5.16美元，预估4.69美元。 第四季度每股收益5.12美元，上年同期5.78美元。 第四季度调整后运营收益29.8亿美元，预估27.6亿美元。 第四季度机械、能源与交通业务营收182.0亿美元。 卡特彼勒美股盘前涨近5%。",
+          "url": "https://wallstreetcn.com/livenews/3046443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
+        },
+        {
           "title": "金十图示：2026年01月28日（周三）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260129013023144800",
           "source": "金十数据",
@@ -942,6 +976,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
+        },
+        {
+          "title": "陶氏化学第四季度净销售额94.6亿美元，预期95亿美元。 第四季度调整后运营每股亏损0.34美元，去年同期为盈亏平衡。 第四季度调整后运营EBITDA为7.41亿美元，预期6.644亿美元。 陶氏化学美股盘前涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3046431",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
         },
         {
           "title": "彭博数据显示，阿斯麦控股（荷兰阿姆斯特丹股价）转跌，此前一度涨7.5%。 阿斯麦ADR也转跌，美股盘初也一度涨超2.67%。",
@@ -1144,17 +1189,6 @@
       "match_count": 8,
       "titles": [
         {
-          "title": "标普500指数初步大致收平，能源板块涨0.8%，科技板块涨0.6%，保健板块跌0.7%，房地产板块跌0.8%。 纳斯达克100指数初步收涨0.4%，成分股中，希捷科技初步收涨超19%，英特尔涨10.9%，西部数据涨10%，德州仪器、微芯科技、MPWR、美光科技、恩智浦至少涨超4.6%，拼多多则跌超3%，Arm控股跌4.4%，Palantir跌4.8%，AXON跌9.5%。 联合健康收盘初步反弹4%，英伟达、强生、SHW涨超1%，领跑道指成分股，波音则跌0.9%，家得宝跌1.3%，霍尼韦尔跌1.8%，安进跌2.5%。",
-          "url": "https://wallstreetcn.com/livenews/3045825",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
           "title": "中方回应是否批准进口英伟达H200芯片",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%98%AF%E5%90%A6%E6%89%B9%E5%87%86%E8%BF%9B%E5%8F%A3%E8%8B%B1%E4%BC%9F%E8%BE%BEH200%E8%8A%AF%E7%89%87",
           "source": "百度热搜",
@@ -1164,8 +1198,19 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时27分 ~ 19时24分]"
+          "appearance_count": 6,
+          "time_info": "[16时27分 ~ 20时33分]"
+        },
+        {
+          "title": "标普500指数初步大致收平，能源板块涨0.8%，科技板块涨0.6%，保健板块跌0.7%，房地产板块跌0.8%。 纳斯达克100指数初步收涨0.4%，成分股中，希捷科技初步收涨超19%，英特尔涨10.9%，西部数据涨10%，德州仪器、微芯科技、MPWR、美光科技、恩智浦至少涨超4.6%，拼多多则跌超3%，Arm控股跌4.4%，Palantir跌4.8%，AXON跌9.5%。 联合健康收盘初步反弹4%，英伟达、强生、SHW涨超1%，领跑道指成分股，波音则跌0.9%，家得宝跌1.3%，霍尼韦尔跌1.8%，安进跌2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3045825",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时21分"
         },
         {
           "title": "中国已批准进口首批英伟达H200人工智能芯片？外交部回应",
@@ -1237,80 +1282,8 @@
       ]
     },
     {
-      "keyword_group": "半导体",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "意法半导体Q4销售回升 汽车芯片需求仍疲弱",
-          "url": "https://flash.jin10.com/detail/20260129162442665800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        },
-        {
-          "title": "A股半导体板块大涨",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%9D%BF%E5%9D%97%E5%A4%A7%E6%B6%A8%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时27分 ~ 16时28分]"
-        },
-        {
-          "title": "美联储发布1月决议声明前，标普500指数和道指微幅下跌，纳斯达克100指数涨幅不足0.4%，科技股七巨头指数涨0.1%，半导体指数涨2.2%，银行指数跌1%。",
-          "url": "https://wallstreetcn.com/livenews/3045753",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "【焦点复盘】科创50跌超3%，半导体等硬科技方向低迷，贵州茅台大涨近9%收复1400元大关",
-          "url": "https://www.cls.cn/detail/2274253",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时24分"
-        },
-        {
-          "title": "金十图示：2026年01月29日（周四）富时中国A50指数成分股今日收盘行情一览：酿酒板块午后走强，山西汾酒、五粮液涨停，贵州茅台收涨超8%，半导体板块维持弱势",
-          "url": "https://flash.jin10.com/detail/20260129150829206800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时34分"
-        },
-        {
-          "title": "金十图示：2026年01月29日（周四）富时中国A50指数成分股午盘收盘行情一览：金属板块维持涨势，酿酒板块表现活跃，半导体、银行、石油等板块多数下跌",
-          "url": "https://flash.jin10.com/detail/20260129113401579800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时01分"
-        }
-      ]
-    },
-    {
       "keyword_group": "黄金",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "黄金价格为何一路猛涨",
@@ -1326,8 +1299,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时25分 ~ 19时24分]"
+          "appearance_count": 26,
+          "time_info": "[00时25分 ~ 20时33分]"
         },
         {
           "title": "北方铜业：公司近期经营情况及内外部经营环境未发生重大变化。公司的主要产品阴极铜、黄金、白银等产品的市场价格大幅上涨，系本次股价异动的主要原因。",
@@ -1348,7 +1321,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         },
@@ -1373,6 +1346,89 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
+        },
+        {
+          "title": "【四川黄金：预计2025年净利润同比增长69.23%-93.40%】四川黄金公告，预计2025年度净利润为4.2亿元—4.8亿元，同比增长69.23%—93.40%。预计归属于上市公司股东的净利润同比上升主要系金精矿销售量同比有所增加及黄金价格上涨所致。",
+          "url": "https://wallstreetcn.com/livenews/3046433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "意法半导体Q4销售回升 汽车芯片需求仍疲弱",
+          "url": "https://flash.jin10.com/detail/20260129162442665800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "【焦点复盘】科创50跌超3%，半导体等硬科技方向低迷，贵州茅台大涨近9%收复1400元大关",
+          "url": "https://www.cls.cn/detail/2274253",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时24分 ~ 20时33分]"
+        },
+        {
+          "title": "A股半导体板块大涨",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%9D%BF%E5%9D%97%E5%A4%A7%E6%B6%A8%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 16时28分]"
+        },
+        {
+          "title": "美联储发布1月决议声明前，标普500指数和道指微幅下跌，纳斯达克100指数涨幅不足0.4%，科技股七巨头指数涨0.1%，半导体指数涨2.2%，银行指数跌1%。",
+          "url": "https://wallstreetcn.com/livenews/3045753",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时20分"
+        },
+        {
+          "title": "金十图示：2026年01月29日（周四）富时中国A50指数成分股今日收盘行情一览：酿酒板块午后走强，山西汾酒、五粮液涨停，贵州茅台收涨超8%，半导体板块维持弱势",
+          "url": "https://flash.jin10.com/detail/20260129150829206800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        },
+        {
+          "title": "金十图示：2026年01月29日（周四）富时中国A50指数成分股午盘收盘行情一览：金属板块维持涨势，酿酒板块表现活跃，半导体、银行、石油等板块多数下跌",
+          "url": "https://flash.jin10.com/detail/20260129113401579800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时01分"
         }
       ]
     },
@@ -1409,7 +1465,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         },
@@ -1427,6 +1483,45 @@
       ]
     },
     {
+      "keyword_group": "电力",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "晋控电力：预计2025年净利润同比上升383.21%-507.90%",
+          "url": "https://wallstreetcn.com/livenews/3046267",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "乌克兰央行：由于物流中断和电力短缺，将乌克兰2026年GDP增长预期从2%下调至1.8%。",
+          "url": "https://flash.jin10.com/detail/20260129200109997800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
+        },
+        {
+          "title": "电力现货市场来了 哪些行业将洗牌",
+          "url": "https://www.toutiao.com/trending/7599599391104630794/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时07分"
+        }
+      ]
+    },
+    {
       "keyword_group": "游戏",
       "match_count": 3,
       "titles": [
@@ -1439,11 +1534,12 @@
             21,
             23,
             24,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时01分 ~ 18时27分]"
+          "appearance_count": 11,
+          "time_info": "[12时01分 ~ 20时33分]"
         },
         {
           "title": "2025年国产游戏销量榜",
@@ -1499,34 +1595,6 @@
       ]
     },
     {
-      "keyword_group": "电力",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "晋控电力：预计2025年净利润同比上升383.21%-507.90%",
-          "url": "https://wallstreetcn.com/livenews/3046267",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        },
-        {
-          "title": "电力现货市场来了 哪些行业将洗牌",
-          "url": "https://www.toutiao.com/trending/7599599391104630794/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时07分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌",
       "match_count": 2,
       "titles": [
@@ -1550,11 +1618,12 @@
           "ranks": [
             27,
             12,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时33分 ~ 19时24分]"
+          "appearance_count": 4,
+          "time_info": "[17时33分 ~ 20时33分]"
         }
       ]
     }

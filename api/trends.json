@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T13:07:08.158310+08:00",
-  "total_titles_processed": 1248,
+  "generated_at": "2026-01-29T14:36:05.564412+08:00",
+  "total_titles_processed": 1365,
   "failed_sources": [],
   "trends": [
     {
@@ -94,8 +94,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时01分 ~ 13时07分]"
+          "appearance_count": 5,
+          "time_info": "[12时01分 ~ 14时36分]"
+        },
+        {
+          "title": "国际金银价格再度创出历史新高 特朗普威胁将再次打击伊朗 | 环球市场",
+          "url": "https://www.cls.cn/detail/2273451",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时07分 ~ 14时36分]"
         },
         {
           "title": "欧盟高官：特朗普的威胁“敲响警钟”，欧洲应审视对美国的能源依赖",
@@ -120,6 +134,29 @@
           "time_info": "01时26分"
         },
         {
+          "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
+          "url": "https://www.cls.cn/detail/2273523",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时01分 ~ 14时36分]"
+        },
+        {
+          "title": "金价涨不停！史上首次突破5500美元大关 因特朗普威胁打击伊朗",
+          "url": "https://www.cls.cn/detail/2273531",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时01分 ~ 14时36分]"
+        },
+        {
           "title": "美国总统特朗普结束在“特朗普账号”活动上的发言。",
           "url": "https://flash.jin10.com/detail/20260129005903581800",
           "source": "金十数据",
@@ -130,19 +167,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时26分 ~ 02时26分]"
-        },
-        {
-          "title": "国际金银价格再度创出历史新高 特朗普威胁将再次打击伊朗 | 环球市场",
-          "url": "https://www.cls.cn/detail/2273451",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时07分 ~ 13时07分]"
         },
         {
           "title": "美国总统特朗普：Visa(V.N)推出（特朗普）账户现金返还奖励平台。呼吁企业提供账户匹配服务。",
@@ -205,27 +229,16 @@
           "time_info": "[01时26分 ~ 02时26分]"
         },
         {
-          "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
-          "url": "https://www.cls.cn/detail/2273523",
-          "source": "财联社热门",
+          "title": "特朗普被曝「正考虑对伊朗发动新的重大打击」，美伊局势会再度升级吗？伊朗会做出哪些反应？",
+          "url": "https://www.zhihu.com/question/2000136531822794040",
+          "source": "知乎",
           "ranks": [
-            11,
-            9
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时01分 ~ 13时07分]"
-        },
-        {
-          "title": "金价涨不停！史上首次突破5500美元大关 因特朗普威胁打击伊朗",
-          "url": "https://www.cls.cn/detail/2273531",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时01分 ~ 13时07分]"
+          "appearance_count": 4,
+          "time_info": "[13时06分 ~ 14时36分]"
         },
         {
           "title": "特朗普“称赞美元贬值”引发抛售后 贝森特出面救火",
@@ -262,17 +275,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时26分 ~ 02时26分]"
-        },
-        {
-          "title": "特朗普被曝「正考虑对伊朗发动新的重大打击」，美伊局势会再度升级吗？伊朗会做出哪些反应？",
-          "url": "https://www.zhihu.com/question/2000136531822794040",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时06分 ~ 13时07分]"
         },
         {
           "title": "美国总统特朗普赞赏财长贝森特，称自己不想失去他。",
@@ -427,7 +429,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时07分"
         },
@@ -493,7 +495,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时07分"
         },
@@ -526,7 +528,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时07分"
         },
@@ -559,7 +561,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时07分"
         },
@@ -592,7 +594,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时07分"
         }
@@ -629,6 +631,19 @@
           "time_info": "[00时25分 ~ 09时07分]"
         },
         {
+          "title": "美股收盘：存储股走强希捷劲升19% 费城半导体指数刷新高",
+          "url": "https://www.cls.cn/detail/2273407",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时07分 ~ 14时36分]"
+        },
+        {
           "title": "美联储决议无新意，美股涨跌互现，希捷飙升19%领涨存储股，黄金突破5400美元",
           "url": "https://wallstreetcn.com/articles/3764338",
           "source": "华尔街见闻",
@@ -638,18 +653,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时18分 ~ 07时19分]"
-        },
-        {
-          "title": "美股收盘：存储股走强希捷劲升19% 费城半导体指数刷新高",
-          "url": "https://www.cls.cn/detail/2273407",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时07分 ~ 13时07分]"
         },
         {
           "title": "特斯拉美股盘后快速回吐涨幅，该公司称2026年资本开支将超200亿美元。",
@@ -970,6 +973,78 @@
       ]
     },
     {
+      "keyword_group": "英伟达",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "标普500指数初步大致收平，能源板块涨0.8%，科技板块涨0.6%，保健板块跌0.7%，房地产板块跌0.8%。 纳斯达克100指数初步收涨0.4%，成分股中，希捷科技初步收涨超19%，英特尔涨10.9%，西部数据涨10%，德州仪器、微芯科技、MPWR、美光科技、恩智浦至少涨超4.6%，拼多多则跌超3%，Arm控股跌4.4%，Palantir跌4.8%，AXON跌9.5%。 联合健康收盘初步反弹4%，英伟达、强生、SHW涨超1%，领跑道指成分股，波音则跌0.9%，家得宝跌1.3%，霍尼韦尔跌1.8%，安进跌2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3045825",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "英伟达、微软和亚马逊正在商谈向OpenAI投资约600亿美元。亚马逊或将扩大与OpenAI的云服务器租赁协议。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3046051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时01分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：非常愿意投资OpenAI。",
+          "url": "https://flash.jin10.com/detail/20260129134256119800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
+          "title": "黄仁勋：英伟达今年将实现大幅增长。",
+          "url": "https://wallstreetcn.com/livenews/3046137",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：当然会与台积电首席执行官会面。",
+          "url": "https://flash.jin10.com/detail/20260129133946583800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：对Rubin的需求令人难以置信的强劲。能源对美国、台湾和欧洲来说是一个巨大挑战。正与英特尔合作开发定制x86处理器。",
+          "url": "https://wallstreetcn.com/livenews/3046136",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 3,
       "titles": [
@@ -1065,34 +1140,6 @@
       ]
     },
     {
-      "keyword_group": "英伟达",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "标普500指数初步大致收平，能源板块涨0.8%，科技板块涨0.6%，保健板块跌0.7%，房地产板块跌0.8%。 纳斯达克100指数初步收涨0.4%，成分股中，希捷科技初步收涨超19%，英特尔涨10.9%，西部数据涨10%，德州仪器、微芯科技、MPWR、美光科技、恩智浦至少涨超4.6%，拼多多则跌超3%，Arm控股跌4.4%，Palantir跌4.8%，AXON跌9.5%。 联合健康收盘初步反弹4%，英伟达、强生、SHW涨超1%，领跑道指成分股，波音则跌0.9%，家得宝跌1.3%，霍尼韦尔跌1.8%，安进跌2.5%。",
-          "url": "https://wallstreetcn.com/livenews/3045825",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "英伟达、微软和亚马逊正在商谈向OpenAI投资约600亿美元。亚马逊或将扩大与OpenAI的云服务器租赁协议。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3046051",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时01分"
-        }
-      ]
-    },
-    {
       "keyword_group": "黄金",
       "match_count": 1,
       "titles": [
@@ -1103,11 +1150,12 @@
           "ranks": [
             26,
             21,
-            23
+            23,
+            22
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时25分 ~ 13时07分]"
+          "appearance_count": 19,
+          "time_info": "[00时25分 ~ 14时36分]"
         }
       ]
     },
@@ -1137,11 +1185,12 @@
           "url": "https://search.bilibili.com/all?keyword=3D%E5%81%B6%E5%83%8F%E6%B8%B8%E6%88%8FV%20Project%E9%A6%96%E6%9B%9D",
           "source": "bilibili 热搜",
           "ranks": [
-            11
+            11,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时01分 ~ 13时07分]"
+          "appearance_count": 5,
+          "time_info": "[12时01分 ~ 14时36分]"
         }
       ]
     },
@@ -1154,11 +1203,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E7%B1%BB%E5%9F%BA%E5%9B%A0%E5%AF%86%E7%A0%81%E8%A2%AB%E8%B0%B7%E6%AD%8CAI%E7%A0%B4%E8%A7%A3",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时01分 ~ 13时07分]"
+          "appearance_count": 5,
+          "time_info": "[12时01分 ~ 14时36分]"
         }
       ]
     }

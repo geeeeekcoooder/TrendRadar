@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T22:38:05.951095+08:00",
-  "total_titles_processed": 2069,
+  "generated_at": "2026-02-04T23:33:38.831635+08:00",
+  "total_titles_processed": 2166,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 77,
+      "match_count": 80,
       "titles": [
         {
           "title": "特朗普希望中国也加入核军控谈判，中方回应",
@@ -78,6 +78,39 @@
           "time_info": "[00时40分 ~ 06时21分]"
         },
         {
+          "title": "习近平同美国总统特朗普通电话",
+          "url": "https://www.toutiao.com/trending/7603003215299149878/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时57分 ~ 23时33分]"
+        },
+        {
+          "title": "习近平同特朗普通电话",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时57分 ~ 23时33分]"
+        },
+        {
+          "title": "习近平同特朗普通电话",
+          "url": "https://www.douyin.com/hot/2389904",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时57分 ~ 23时33分]"
+        },
+        {
           "title": "特朗普提名沃什“过于低调”，美联储恐迎来重大转变！一文读懂",
           "url": "https://www.cls.cn/detail/2280009",
           "source": "财联社热门",
@@ -92,47 +125,14 @@
         },
         {
           "title": "习近平同美国总统特朗普通电话",
-          "url": "https://www.toutiao.com/trending/7603003215299149878/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时57分 ~ 22时38分]"
-        },
-        {
-          "title": "习近平同特朗普通电话",
-          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时57分 ~ 22时38分]"
-        },
-        {
-          "title": "习近平同特朗普通电话",
-          "url": "https://www.douyin.com/hot/2389904",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时57分 ~ 22时38分]"
-        },
-        {
-          "title": "习近平同美国总统特朗普通电话",
           "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D",
           "source": "bilibili 热搜",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时37分 ~ 22时38分]"
+          "appearance_count": 3,
+          "time_info": "[22时37分 ~ 23时33分]"
         },
         {
           "title": "英国政府：英国首相斯塔默、美国总统特朗普承认迪戈加西亚岛的战略重要性。",
@@ -300,6 +300,18 @@
           "time_info": "[00时40分 ~ 01时44分]"
         },
         {
+          "title": "习近平同美国总统特朗普通电话",
+          "url": "https://wallstreetcn.com/articles/3764980",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时37分 ~ 23时33分]"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普觉得，政府关门只会伤害经济。",
           "url": "https://wallstreetcn.com/livenews/3049273",
           "source": "华尔街见闻-快讯",
@@ -348,17 +360,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时40分 ~ 04时26分]"
-        },
-        {
-          "title": "习近平同美国总统特朗普通电话",
-          "url": "https://wallstreetcn.com/articles/3764980",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时37分 ~ 22时38分]"
         },
         {
           "title": "特朗普公布120亿美元“金库计划”",
@@ -547,7 +548,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时38分"
         },
@@ -662,6 +663,17 @@
           "time_info": "12时04分"
         },
         {
+          "title": "习近平同美国总统特朗普通电话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32534170",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
+        },
+        {
           "title": "白宫新闻秘书：特朗普总统总是倾向于首先采取外交手段解决问题。",
           "url": "https://flash.jin10.com/detail/20260204021303359800",
           "source": "金十数据",
@@ -745,9 +757,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时38分"
+        },
+        {
+          "title": "印度官员试图平息各界对特朗普贸易协议的担忧",
+          "url": "https://wallstreetcn.com/livenews/3049972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
         },
         {
           "title": "特朗普与哥伦比亚总统佩特罗会晤 讨论打击毒品走私",
@@ -814,6 +837,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
+        },
+        {
+          "title": "海湾国家官员表示，目前的计划是由美国总统特使威特科夫和特朗普女婿库什纳代表美国。",
+          "url": "https://flash.jin10.com/detail/20260204232402509800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
         },
         {
           "title": "美国贸易代表格里尔：特朗普签署法案，重新授权《非洲增长与机会法案》。 《非洲增长与机会法案》贸易优惠计划已获授权延长至2026年12月31日，且追溯效力至2025年9月30日。 政府将与国会合作，对非洲贸易优惠计划进行现代化改造。",
@@ -885,7 +919,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 33,
+      "match_count": 35,
       "titles": [
         {
           "title": "大反弹！白银涨11%，黄金涨6%，美股指涨跌互现，Palantir涨12%，沃尔玛市值首超1万亿美元",
@@ -907,8 +941,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时20分 ~ 22时38分]"
+          "appearance_count": 17,
+          "time_info": "[07时20分 ~ 23时33分]"
         },
         {
           "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
@@ -919,8 +953,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时06分 ~ 22时38分]"
+          "appearance_count": 16,
+          "time_info": "[09时06分 ~ 23时33分]"
         },
         {
           "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
@@ -944,8 +978,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时41分 ~ 22时38分]"
+          "appearance_count": 13,
+          "time_info": "[13时41分 ~ 23时33分]"
         },
         {
           "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
@@ -957,8 +991,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时41分 ~ 22时38分]"
+          "appearance_count": 13,
+          "time_info": "[13时41分 ~ 23时33分]"
         },
         {
           "title": "美股期指走高 Palantir盘前大涨逾11% | 今夜看点",
@@ -1040,7 +1074,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时38分"
         },
@@ -1051,7 +1085,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时38分"
         },
@@ -1080,6 +1114,19 @@
           "time_info": "[06时21分 ~ 07时20分]"
         },
         {
+          "title": "美股三大期指涨跌不一 AMD盘前大跌超10% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2280791",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时57分 ~ 23时33分]"
+        },
+        {
           "title": "（美股）费城金银指数收涨4.63%，报398.43点。 （全球时段）纽约证交所ARCA金矿开采商指数涨4.29%，报2815.40点。 （美股）原材料指数收涨4.04%，金属与矿业指数收涨5.35%。",
           "url": "https://wallstreetcn.com/livenews/3049350",
           "source": "华尔街见闻-快讯",
@@ -1090,18 +1137,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时21分 ~ 07时20分]"
-        },
-        {
-          "title": "美股三大期指涨跌不一 AMD盘前大跌超10% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2280791",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时57分 ~ 22时38分]"
         },
         {
           "title": "AMD美股盘前跌超7％，消息面上，公司下一季度营收指引不及市场预期。",
@@ -1157,7 +1192,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时38分"
         },
@@ -1212,7 +1247,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时38分"
         },
@@ -1270,12 +1305,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
+        },
+        {
+          "title": "美股走低纳指一度下跌1% 软件股继续承压",
+          "url": "https://flash.jin10.com/detail/20260204232138533800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
+        },
+        {
+          "title": "现货黄金短线从5037美元附近跳水，逼近4967美元，日内整体涨幅迅速收窄至0.5%。 现货白银回落至89美元一线，目前涨4.6%，美股盘前还曾涨至92.2043美元。",
+          "url": "https://wallstreetcn.com/livenews/3049959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
         }
       ]
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "Space X收购xAI，“火箭+AI+社交平台”超级巨头成型，马斯克剑指太空数据中心",
@@ -1313,8 +1370,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时27分 ~ 22时38分]"
+          "appearance_count": 7,
+          "time_info": "[19时27分 ~ 23时33分]"
         },
         {
           "title": "马斯克，被传唤",
@@ -1367,6 +1424,18 @@
           "time_info": "[00时40分 ~ 12时04分]"
         },
         {
+          "title": "马斯克团队光伏调研消息引爆A股！多家巨头回应最新进展 合作悬念牵动市场神经",
+          "url": "https://www.cls.cn/detail/2280661",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时57分 ~ 23时33分]"
+        },
+        {
           "title": "马斯克被激怒",
           "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E8%A2%AB%E6%BF%80%E6%80%92%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
@@ -1375,19 +1444,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时57分 ~ 22时38分]"
-        },
-        {
-          "title": "马斯克团队光伏调研消息引爆A股！多家巨头回应最新进展 合作悬念牵动市场神经",
-          "url": "https://www.cls.cn/detail/2280661",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时57分 ~ 22时38分]"
+          "appearance_count": 4,
+          "time_info": "[21时57分 ~ 23时33分]"
         },
         {
           "title": "马斯克：爱泼斯坦的客户被抓多少了？是0诶",
@@ -1410,6 +1468,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
+        },
+        {
+          "title": "马斯克：爱泼斯坦客户一个也没被捕",
+          "url": "https://www.toutiao.com/trending/7602995666331323955/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
         },
         {
           "title": "晶科能源：对马斯克团队到访传闻不作回应",
@@ -1573,6 +1642,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
+        },
+        {
+          "title": "高测股份：目前尚未开展太空光伏相关业务，未与马斯克团队开展合作",
+          "url": "https://wallstreetcn.com/livenews/3049964",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
         },
         {
           "title": "马斯克成为史上首位身价达8000亿美元者",
@@ -1779,7 +1859,7 @@
     },
     {
       "keyword_group": "半导体",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "半导体设备&机器人明星股绩后再创新高 财报全面碾压预期",
@@ -1832,6 +1912,17 @@
           "time_info": "12时04分"
         },
         {
+          "title": "事关半导体材料！两款国产设备，顺利交付",
+          "url": "https://www.cls.cn/detail/2280739",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
+        },
+        {
           "title": "摩根大通：将恩智浦半导体(NXPI.O)目标价从245.00美元上调至250.00美元。",
           "url": "https://flash.jin10.com/detail/20260204121141558800",
           "source": "金十数据",
@@ -1841,6 +1932,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
+        },
+        {
+          "title": "纳斯达克100指数跌幅扩大至1.3%，标普500指数跌超0.4%，道指持平，半导体指数跌2.1%。 纳斯达克中国金龙指数跌超2％，金山云跌7.39％，网易跌7.08％，哔哩哔哩跌6.55％，世纪互联跌5.89％，万国数据跌5.48％。",
+          "url": "https://wallstreetcn.com/livenews/3049974",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
         },
         {
           "title": "标普500日内跌幅达1.0%，报6906.78点，费城半导体指数跌超3%。",
@@ -1916,8 +2018,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时38分 ~ 22时38分]"
+          "appearance_count": 11,
+          "time_info": "[15时38分 ~ 23时33分]"
         },
         {
           "title": "游戏里搞游行,我的世界夹私货",
@@ -2112,25 +2214,8 @@
       ]
     },
     {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "世界黄金协会：黄金价格波动不小，与股票的表现存在不对称性",
-          "url": "https://flash.jin10.com/detail/20260204221245663800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时38分"
-        }
-      ]
-    },
-    {
       "keyword_group": "电力",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "中国电力有多强",
@@ -2142,6 +2227,34 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时40分 ~ 12时04分]"
+        },
+        {
+          "title": "美国得克萨斯州电力可靠性委员会（ERCOT）考虑重新评估某些与人工智能（AI）相关的数据中心项目。 此前，当地电力监管部门因新用户激增而批准了多个数据中心项目。",
+          "url": "https://wallstreetcn.com/livenews/3049978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "世界黄金协会：黄金价格波动不小，与股票的表现存在不对称性",
+          "url": "https://flash.jin10.com/detail/20260204221245663800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         }
       ]
     }

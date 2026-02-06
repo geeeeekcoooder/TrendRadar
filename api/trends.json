@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-07T02:35:03.236154+08:00",
-  "total_titles_processed": 457,
+  "generated_at": "2026-02-07T03:32:13.945326+08:00",
+  "total_titles_processed": 515,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 23,
       "titles": [
         {
           "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 02时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 03时32分]"
         },
         {
           "title": "美俄唯一核军控条约失效，特朗普：不如谈个新的",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 02时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 03时32分]"
         },
         {
           "title": "中方回应特朗普公开支持高市早苗",
@@ -53,15 +53,40 @@
           "time_info": "01时35分"
         },
         {
-          "title": "据CBS：特朗普下令将阿根廷的牛肉进口量增至四倍。",
-          "url": "https://flash.jin10.com/detail/20260207021259349800",
+          "title": "美媒：特朗普特使在阿曼与伊朗外长进行了直接会面",
+          "url": "https://flash.jin10.com/detail/20260207030824403800",
           "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时32分"
+        },
+        {
+          "title": "美伊谈判前特朗普发李小龙视频",
+          "url": "https://www.douyin.com/hot/2391580",
+          "source": "抖音",
+          "ranks": [
+            21,
+            15,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 03时32分]"
+        },
+        {
+          "title": "贝森特驳斥关于他与特朗普美元言论存在分歧的说法",
+          "url": "https://wallstreetcn.com/livenews/3051594",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时35分"
+          "time_info": "03时32分"
         },
         {
           "title": "白宫官员回应特朗普发布针对奥巴马夫妇的种族主义视频：这是白宫工作人员误发该帖，现已删除。",
@@ -87,17 +112,40 @@
           "time_info": "[01时35分 ~ 02时35分]"
         },
         {
-          "title": "美伊谈判前特朗普发李小龙视频",
-          "url": "https://www.douyin.com/hot/2391580",
-          "source": "抖音",
+          "title": "据CBS：特朗普下令将阿根廷的牛肉进口量增至四倍。",
+          "url": "https://flash.jin10.com/detail/20260207021259349800",
+          "source": "金十数据",
           "ranks": [
-            21,
-            15,
-            13
+            4,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 02时35分]"
+          "appearance_count": 2,
+          "time_info": "[02时35分 ~ 03时32分]"
+        },
+        {
+          "title": "贝森特重申：特朗普有关解雇沃什的言论是个玩笑",
+          "url": "https://wallstreetcn.com/livenews/3051579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时35分 ~ 03时32分]"
+        },
+        {
+          "title": "美国财长贝森特：“特朗普账户”（Trump accounts）可能会成为他最大的政治遗产。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3051578",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时35分 ~ 03时32分]"
         },
         {
           "title": "美国纽约-新泽西隧道项目被迫停工，此前特朗普政府冻结资金",
@@ -124,26 +172,60 @@
           "time_info": "[00时33分 ~ 01时35分]"
         },
         {
-          "title": "贝森特重申：特朗普有关解雇沃什的言论是个玩笑",
-          "url": "https://wallstreetcn.com/livenews/3051579",
+          "title": "报道：特朗普政府考虑对住宅建筑商发起反垄断调查",
+          "url": "https://wallstreetcn.com/livenews/3051565",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时35分 ~ 03时32分]"
+        },
+        {
+          "title": "特朗普“下场”支持日本首相",
+          "url": "https://www.douyin.com/hot/2391219",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时31分 ~ 03时32分]"
+        },
+        {
+          "title": "美国财长贝森特：特朗普政府的政策显示了对强势美元的支持",
+          "url": "https://flash.jin10.com/detail/20260207024944141800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时35分"
+          "time_info": "03时32分"
         },
         {
-          "title": "美国财长贝森特：“特朗普账户”（Trump accounts）可能会成为他最大的政治遗产。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3051578",
+          "title": "泰森食品跌0.3%，报道称美国总统特朗普下令加大对阿根廷牛肉的进口力度。",
+          "url": "https://wallstreetcn.com/livenews/3051588",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时35分"
+          "time_info": "03时32分"
+        },
+        {
+          "title": "一名官员称，美国总统特朗普下令，从阿根廷进口的牛肉将增加三倍。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3051586",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时32分"
         },
         {
           "title": "美国财长贝森特：特朗普账户或是其最伟大的政治遗产。",
@@ -152,7 +234,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时35分"
         },
@@ -163,20 +245,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时35分"
         },
         {
-          "title": "报道：特朗普政府考虑对住宅建筑商发起反垄断调查",
-          "url": "https://wallstreetcn.com/livenews/3051565",
-          "source": "华尔街见闻-快讯",
+          "title": "美媒：特朗普将下令将从阿根廷进口的牛肉数量增至四倍",
+          "url": "https://flash.jin10.com/detail/20260207022921075800",
+          "source": "金十数据",
           "ranks": [
-            17
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时35分"
+          "time_info": "03时32分"
         },
         {
           "title": "美国财长贝森特：花旗银行将为员工向“特朗普账户”的捐款提供等额配捐。",
@@ -212,22 +294,24 @@
           "url": "https://wallstreetcn.com/livenews/3051570",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            15,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时35分 ~ 03时32分]"
         },
         {
           "title": "英伟达CEO黄仁勋：市场需求极为火爆。 大规模人工智能（AI）资本开支是适宜的、必要的。 建设AI（这个过程）还将持续好几年，预计将需要7-8年。 Anthropic和OpenAI都在赚钱。 英伟达与OpenAI之间并不存在（投资）闹剧。 OpenAI需要英伟达的新一代芯片。（CNBC）",
           "url": "https://wallstreetcn.com/livenews/3051568",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            16,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时35分 ~ 03时32分]"
         },
         {
           "title": "英伟达CEO黄仁勋：与OpenAI并无矛盾。他们需要我公司的新一代芯片。",
@@ -236,7 +320,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时35分"
         },
@@ -269,7 +353,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时35分"
         }
@@ -287,8 +371,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 02时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 03时32分]"
         },
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
@@ -298,8 +382,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 02时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 03时32分]"
         },
         {
           "title": "一图看懂：美股“AI烧钱”大战今年继续打响",
@@ -309,8 +393,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 02时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 03时32分]"
         },
         {
           "title": "美股延续涨势，纳指上涨2.00%。",
@@ -319,7 +403,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时35分"
         },
@@ -345,11 +429,12 @@
           "url": "https://wallstreetcn.com/livenews/3051576",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时35分 ~ 03时32分]"
         },
         {
           "title": "道指日内上涨892点，涨幅达2.0%，报49888.77点。标普500指数涨1.5%，纳指涨405点、涨幅1.65%，半导体指数涨超5%。 比特币重返7万美元上方。",
@@ -358,7 +443,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时35分"
         }
@@ -376,8 +461,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 02时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 03时32分]"
         },
         {
           "title": "马斯克3小时深度访谈：三年内成本最低的AI在太空，Optimus是“无限印钞机”",
@@ -404,8 +489,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 02时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 03时32分]"
         },
         {
           "title": "凯捷与谷歌云扩大战略合作伙伴关系，以加速大规模人工智能的采用，凯捷将帮助客户采用谷歌云的人工智能技术。",
@@ -432,8 +517,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 02时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 03时32分]"
         }
       ]
     },
@@ -483,11 +568,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 02时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 03时32分]"
         }
       ]
     }

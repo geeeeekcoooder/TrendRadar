@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T09:07:34.153589+08:00",
-  "total_titles_processed": 852,
+  "generated_at": "2026-02-06T12:06:51.808453+08:00",
+  "total_titles_processed": 1023,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 39,
       "titles": [
         {
           "title": "是否谋求第三任期？特朗普：告诉你就太无聊了",
@@ -25,9 +25,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时07分 ~ 12时06分]"
         },
         {
           "title": "特朗普下场支持高市：她将赢得选举，下月来白宫",
@@ -36,9 +36,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
+        },
+        {
+          "title": "日本大选前，特朗普发文支持高市",
+          "url": "https://news.ifeng.com/c/8qWByeKcHHN",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
         },
         {
           "title": "美国总统特朗普：从今晚开始，数十种最常用的处方药将在一个新网站上（TrumpRx）以大幅折扣的价格面向所有消费者供应。",
@@ -47,7 +58,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
         },
@@ -290,6 +301,17 @@
           "time_info": "00时35分"
         },
         {
+          "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32540970",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        },
+        {
           "title": "美国总统特朗普：与其延长“新削减战略武器条约”，我们更应该让专家们着手制定一项全新、改进且现代化的条约，使其能够长久延续下去。",
           "url": "https://flash.jin10.com/detail/20260206025002718800",
           "source": "金十数据",
@@ -310,6 +332,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
+        },
+        {
+          "title": "是否会谋求第三个任期？特朗普：我不知道，但那会很有趣",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32542705",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
         },
         {
           "title": "特朗普即将推出“TrumpRX”药房网站 以提供折扣药品购买服务",
@@ -395,7 +428,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
         },
@@ -425,19 +458,8 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
-        {
-          "title": "美股三大期指集体走低 谷歌盘前跌超4% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2282073",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时35分 ~ 09时07分]"
-        },
         {
           "title": "疲软就业数据冲击美股，三大股指集体低开，纳指跌1.5%，高通低开11%，比特币跌破7万关键心理位，VIX指数飙升7%，白银再度暴跌10%",
           "url": "https://wallstreetcn.com/articles/3765023",
@@ -448,6 +470,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时35分 ~ 06时17分]"
+        },
+        {
+          "title": "美股三大期指集体走低 谷歌盘前跌超4% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2282073",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时35分 ~ 12时06分]"
         },
         {
           "title": "美股科技股抛售蔓延，闪迪跌近 16%，AMD 跌超 17% 创八年多来最大单日跌幅，光伏板块爆发，如何解读？",
@@ -496,6 +530,18 @@
           "time_info": "[00时35分 ~ 07时17分]"
         },
         {
+          "title": "美股收盘：纳指连续三天均跌超1%",
+          "url": "https://www.cls.cn/detail/2282258",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时16分 ~ 12时06分]"
+        },
+        {
           "title": "金十图示：2026年02月05日（周四）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260206013143448800",
           "source": "金十数据",
@@ -518,16 +564,15 @@
           "time_info": "01时40分"
         },
         {
-          "title": "美股收盘：纳指连续三天均跌超1%",
-          "url": "https://www.cls.cn/detail/2282258",
-          "source": "财联社热门",
+          "title": "美股三大指数集体收跌",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E6%94%B6%E8%B7%8C",
+          "source": "bilibili 热搜",
           "ranks": [
-            9,
-            4
+            5
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时16分 ~ 09时07分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
         },
         {
           "title": "美股收盘：纳指连跌3日 周跌幅扩大至近4%",
@@ -566,13 +611,25 @@
           "time_info": "[06时17分 ~ 07时17分]"
         },
         {
+          "title": "美股、金银、比特币、石油 全崩了",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E3%80%81%E9%87%91%E9%93%B6%E3%80%81%E6%AF%94%E7%89%B9%E5%B8%81%E3%80%81%E7%9F%B3%E6%B2%B9+%E5%85%A8%E5%B4%A9%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时07分 ~ 12时06分]"
+        },
+        {
           "title": "美股收盘：纳指连续3天均跌超1%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E7%BA%B3%E6%8C%87%E8%BF%9E%E7%BB%AD3%E5%A4%A9%E5%9D%87%E8%B7%8C%E8%B6%851%25",
           "source": "百度热搜",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
         },
@@ -610,24 +667,13 @@
           "time_info": "06时17分"
         },
         {
-          "title": "美股、金银、比特币、石油 全崩了",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E3%80%81%E9%87%91%E9%93%B6%E3%80%81%E6%AF%94%E7%89%B9%E5%B8%81%E3%80%81%E7%9F%B3%E6%B2%B9+%E5%85%A8%E5%B4%A9%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时07分"
-        },
-        {
           "title": "美股三大股指期货跌幅扩大，标普500指数期货跌1%，纳指期货跌1.6%，道指期货跌近0.6%。",
           "url": "https://flash.jin10.com/detail/20260206081816714800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
         },
@@ -638,7 +684,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
         },
@@ -657,7 +703,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "马斯克再谈“太空GPU”畅想：36个月内太空会是部署AI的最便宜去处",
@@ -668,8 +714,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时16分 ~ 09时07分]"
+          "appearance_count": 4,
+          "time_info": "[07时16分 ~ 12时06分]"
         },
         {
           "title": "马斯克否认SpaceX研发星链手机",
@@ -682,6 +728,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时32分 ~ 04时22分]"
+        },
+        {
+          "title": "据华尔街日报：消息人士称，xAI的投资者认为这家初创公司的未来与特斯拉CEO埃隆·马斯克的公司紧密交织在一起。SpaceX与xAI的合并以人工智能初创公司的资本流动为前提。",
+          "url": "https://flash.jin10.com/detail/20260206113638095800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
         },
         {
           "title": "马斯克澄清：我们没有在研发手机",
@@ -712,7 +769,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
         },
@@ -723,7 +780,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
         }
@@ -731,7 +788,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "AI恐慌蔓延，就业数据疲软，美股指跌超1%，白银暴跌19%，比特币崩跌，美债中概涨",
@@ -740,9 +797,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
+        },
+        {
+          "title": "软件股抛售蔓延，就业数据疲软，美股指跌超1%，白银暴跌19%，比特币崩跌，美债中概涨",
+          "url": "https://wallstreetcn.com/articles/3765023",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
         },
         {
           "title": "美国财长贝森特：美国国债市场非常有韧性。 外国对于美债拍卖的需求非常旺盛。",
@@ -775,7 +843,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
         }
@@ -792,7 +860,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
         },
@@ -817,6 +885,48 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
+          "url": "https://wallstreetcn.com/articles/3765004",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时35分 ~ 09时07分]"
+        },
+        {
+          "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3764994",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 07时16分]"
+        },
+        {
+          "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3765100",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
         }
       ]
     },
@@ -870,42 +980,12 @@
           "url": "https://www.cls.cn/detail/2282311",
           "source": "财联社热门",
           "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
-          "url": "https://wallstreetcn.com/articles/3765004",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            3,
-            2
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时35分 ~ 09时07分]"
-        },
-        {
-          "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3764994",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 07时16分]"
+          "appearance_count": 2,
+          "time_info": "[09时07分 ~ 12时06分]"
         }
       ]
     },

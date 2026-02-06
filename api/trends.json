@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T07:17:01.339317+08:00",
-  "total_titles_processed": 687,
+  "generated_at": "2026-02-06T09:07:34.153589+08:00",
+  "total_titles_processed": 852,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 36,
       "titles": [
         {
           "title": "是否谋求第三任期？特朗普：告诉你就太无聊了",
@@ -17,6 +17,39 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时35分 ~ 07时17分]"
+        },
+        {
+          "title": "美俄唯一核军控条约失效，特朗普：不如谈个新的",
+          "url": "https://news.ifeng.com/c/8qW59pknpCi",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时07分"
+        },
+        {
+          "title": "特朗普下场支持高市：她将赢得选举，下月来白宫",
+          "url": "https://news.ifeng.com/c/8qW6McngHpX",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时07分"
+        },
+        {
+          "title": "美国总统特朗普：从今晚开始，数十种最常用的处方药将在一个新网站上（TrumpRx）以大幅折扣的价格面向所有消费者供应。",
+          "url": "https://flash.jin10.com/detail/20260206084843211800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时07分"
         },
         {
           "title": "美国白宫：（就伊朗问题）特朗普除了外交手段外还有许多其他选择。",
@@ -356,6 +389,17 @@
           "time_info": "00时35分"
         },
         {
+          "title": "特朗普：推出“TRUMPRX”网站，16家制药公司已签署协议。",
+          "url": "https://wallstreetcn.com/livenews/3050963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时07分"
+        },
+        {
           "title": "特朗普：已就迪戈加西亚岛问题与斯塔默交谈 保留军事手段的权利",
           "url": "https://flash.jin10.com/detail/20260206020251009800",
           "source": "金十数据",
@@ -381,7 +425,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
         {
           "title": "美股三大期指集体走低 谷歌盘前跌超4% | 今夜看点",
@@ -391,8 +435,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时35分 ~ 07时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时35分 ~ 09时07分]"
         },
         {
           "title": "疲软就业数据冲击美股，三大股指集体低开，纳指跌1.5%，高通低开11%，比特币跌破7万关键心理位，VIX指数飙升7%，白银再度暴跌10%",
@@ -474,6 +518,18 @@
           "time_info": "01时40分"
         },
         {
+          "title": "美股收盘：纳指连续三天均跌超1%",
+          "url": "https://www.cls.cn/detail/2282258",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时16分 ~ 09时07分]"
+        },
+        {
           "title": "美股收盘：纳指连跌3日 周跌幅扩大至近4%",
           "url": "https://flash.jin10.com/detail/20260206050117661800",
           "source": "金十数据",
@@ -510,15 +566,15 @@
           "time_info": "[06时17分 ~ 07时17分]"
         },
         {
-          "title": "美股收盘：纳指连续三天均跌超1%",
-          "url": "https://www.cls.cn/detail/2282258",
-          "source": "财联社热门",
+          "title": "美股收盘：纳指连续3天均跌超1%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E7%BA%B3%E6%8C%87%E8%BF%9E%E7%BB%AD3%E5%A4%A9%E5%9D%87%E8%B7%8C%E8%B6%851%25",
+          "source": "百度热搜",
           "ranks": [
             9
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时16分 ~ 07时17分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时07分"
         },
         {
           "title": "金十图示：2026年02月05日（周四）美股热门股票行情一览（美股收盘）",
@@ -554,6 +610,39 @@
           "time_info": "06时17分"
         },
         {
+          "title": "美股、金银、比特币、石油 全崩了",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E3%80%81%E9%87%91%E9%93%B6%E3%80%81%E6%AF%94%E7%89%B9%E5%B8%81%E3%80%81%E7%9F%B3%E6%B2%B9+%E5%85%A8%E5%B4%A9%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时07分"
+        },
+        {
+          "title": "美股三大股指期货跌幅扩大，标普500指数期货跌1%，纳指期货跌1.6%，道指期货跌近0.6%。",
+          "url": "https://flash.jin10.com/detail/20260206081816714800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时07分"
+        },
+        {
+          "title": "美股期货跌幅扩大，标普500指数期货现跌1%，纳斯达克100指数期货跌1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3050968",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时07分"
+        },
+        {
           "title": "可选消费ETF跌1.39%，能源业ETF跌1.15%，网络股指数ETF跌1.05%，科技行业ETF跌0.59%，在美股盘初领跌行业ETF，生物科技指数ETF涨0.63%。",
           "url": "https://wallstreetcn.com/livenews/3050756",
           "source": "华尔街见闻-快讯",
@@ -568,8 +657,20 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "马斯克再谈“太空GPU”畅想：36个月内太空会是部署AI的最便宜去处",
+          "url": "https://www.cls.cn/detail/2282247",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时16分 ~ 09时07分]"
+        },
         {
           "title": "马斯克否认SpaceX研发星链手机",
           "url": "https://wallstreetcn.com/livenews/3050840",
@@ -581,17 +682,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时32分 ~ 04时22分]"
-        },
-        {
-          "title": "马斯克再谈“太空GPU”畅想：36个月内太空会是部署AI的最便宜去处",
-          "url": "https://www.cls.cn/detail/2282247",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时16分 ~ 07时17分]"
         },
         {
           "title": "马斯克澄清：我们没有在研发手机",
@@ -614,13 +704,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
+        },
+        {
+          "title": "消息人士称，马斯克将xAI收购设计为一笔免税交易。",
+          "url": "https://flash.jin10.com/detail/20260206081040062800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时07分"
+        },
+        {
+          "title": "消息人士称，马斯克采用两步合并流程完成SpaceX对xAI的收购。根据合并结构，SpaceX无需承担xAI的债务。xAI将作为SpaceX的子公司运营，此举可使SpaceX规避法律责任。",
+          "url": "https://flash.jin10.com/detail/20260206080930219800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时07分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "AI恐慌蔓延，就业数据疲软，美股指跌超1%，白银暴跌19%，比特币崩跌，美债中概涨",
+          "url": "https://wallstreetcn.com/articles/3765023",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时07分"
+        },
         {
           "title": "美国财长贝森特：美国国债市场非常有韧性。 外国对于美债拍卖的需求非常旺盛。",
           "url": "https://wallstreetcn.com/livenews/3050805",
@@ -644,6 +767,56 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时21分 ~ 06时17分]"
+        },
+        {
+          "title": "美债价格走高，2年期收益率下跌2.4个基点，10年期收益率下跌3个基点。",
+          "url": "https://flash.jin10.com/detail/20260206081121748800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "中信证券：看好存储产能扩张及技术迭代加速，半导体核心供应商空间广阔",
+          "url": "https://flash.jin10.com/detail/20260206083205823800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时07分"
+        },
+        {
+          "title": "标普500指数跌幅扩大至1.3%，道指下跌超500点、跌幅超过1%，纳指跌1.77%，纳斯达克100指数跌1.6%，半导体指数、银行指数跌1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3050768",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时35分"
+        },
+        {
+          "title": "纳指收跌约1.6%，小盘股指跌约1.8%，半导体指数大致收平",
+          "url": "https://wallstreetcn.com/livenews/3050881",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时17分"
         }
       ]
     },
@@ -677,30 +850,31 @@
       ]
     },
     {
-      "keyword_group": "半导体",
+      "keyword_group": "游戏",
       "match_count": 2,
       "titles": [
         {
-          "title": "标普500指数跌幅扩大至1.3%，道指下跌超500点、跌幅超过1%，纳指跌1.77%，纳斯达克100指数跌1.6%，半导体指数、银行指数跌1.5%。",
-          "url": "https://wallstreetcn.com/livenews/3050768",
+          "title": "法国总统马克龙：法国将研究人工智能（AI）和视频游戏对儿童的影响。",
+          "url": "https://wallstreetcn.com/livenews/3050847",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            6,
             19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
+          "appearance_count": 2,
+          "time_info": "[03时32分 ~ 04时22分]"
         },
         {
-          "title": "纳指收跌约1.6%，小盘股指跌约1.8%，半导体指数大致收平",
-          "url": "https://wallstreetcn.com/livenews/3050881",
-          "source": "华尔街见闻-快讯",
+          "title": "全球最大矿业合并案告吹 英伟达新游戏显卡据传全面跳票 | 环球市场",
+          "url": "https://www.cls.cn/detail/2282311",
+          "source": "财联社热门",
           "ranks": [
-            22
+            10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时17分"
+          "time_info": "09时07分"
         }
       ]
     },
@@ -708,6 +882,20 @@
       "keyword_group": "谷歌",
       "match_count": 2,
       "titles": [
+        {
+          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
+          "url": "https://wallstreetcn.com/articles/3765004",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时35分 ~ 09时07分]"
+        },
         {
           "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3764994",
@@ -718,19 +906,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时35分 ~ 07时16分]"
-        },
-        {
-          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
-          "url": "https://wallstreetcn.com/articles/3765004",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时35分 ~ 07时17分]"
         }
       ]
     },
@@ -743,11 +918,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32543462",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时16分 ~ 07时17分]"
+          "appearance_count": 3,
+          "time_info": "[07时16分 ~ 09时07分]"
         }
       ]
     },
@@ -763,29 +939,12 @@
             6,
             8,
             5,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时35分 ~ 07时17分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "游戏",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "法国总统马克龙：法国将研究人工智能（AI）和视频游戏对儿童的影响。",
-          "url": "https://wallstreetcn.com/livenews/3050847",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时32分 ~ 04时22分]"
+          "appearance_count": 11,
+          "time_info": "[00时35分 ~ 09时07分]"
         }
       ]
     },
@@ -801,11 +960,12 @@
             9,
             8,
             7,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时35分 ~ 07时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时35分 ~ 09时07分]"
         }
       ]
     }

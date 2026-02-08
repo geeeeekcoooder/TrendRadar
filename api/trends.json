@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-08T21:38:52.890027+08:00",
-  "total_titles_processed": 1243,
+  "generated_at": "2026-02-08T22:19:45.524370+08:00",
+  "total_titles_processed": 1298,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "道指突破5万大关！特朗普自夸：提前三年就完成目标，任期结束将站上10万点",
@@ -244,6 +244,17 @@
           "time_info": "[09时29分 ~ 16时21分]"
         },
         {
+          "title": "日本首相高市早苗：将于三月会见特朗普期间，深化与美国的经济安全关系，包括稀土供应问题。",
+          "url": "https://flash.jin10.com/detail/20260208215651951800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
           "title": "美国总统特朗普：期待洪都拉斯总统阿斯富拉再次访问美国。",
           "url": "https://flash.jin10.com/detail/20260208105726564800",
           "source": "金十数据",
@@ -325,6 +336,17 @@
           "time_info": "[19时16分 ~ 21时38分]"
         },
         {
+          "title": "特朗普被白头海雕打脸视频再度火了",
+          "url": "https://www.toutiao.com/trending/7603686321965662214/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
           "title": "特朗普拒为种族主义视频道歉",
           "url": "https://www.toutiao.com/trending/7603770305999323142/",
           "source": "今日头条",
@@ -349,8 +371,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时27分 ~ 21时38分]"
+          "appearance_count": 3,
+          "time_info": "[20时27分 ~ 22时19分]"
         },
         {
           "title": "有网友称，SpaceX正在奥斯汀和西雅图招聘工程师，以开发人工智能卫星和太空数据中心。马斯克转发相关帖子并回复称：是真的。",
@@ -360,11 +382,12 @@
             3,
             8,
             10,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时17分 ~ 21时38分]"
+          "appearance_count": 5,
+          "time_info": "[18时17分 ~ 22时19分]"
         },
         {
           "title": "马斯克发帖表示，是时候大规模重返月球了。",
@@ -374,11 +397,25 @@
             4,
             9,
             11,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时17分 ~ 21时38分]"
+          "appearance_count": 5,
+          "time_info": "[18时17分 ~ 22时19分]"
+        },
+        {
+          "title": "马斯克再发警告：若没有AI和机器人，美国1000%会走向破产",
+          "url": "https://www.cls.cn/detail/2283869",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时15分 ~ 22时19分]"
         },
         {
           "title": "马斯克：一旦太阳能发电、机器人制造、芯片制造、AI形成闭环，传统货币反而会成为障碍。真正重要的只剩下（发电）功率和产量，而不是美元。",
@@ -392,19 +429,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时29分 ~ 14时38分]"
-        },
-        {
-          "title": "马斯克再发警告：若没有AI和机器人，美国1000%会走向破产",
-          "url": "https://www.cls.cn/detail/2283869",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时15分 ~ 21时38分]"
         },
         {
           "title": "马斯克：是时候大规模重返月球了。",
@@ -441,19 +465,20 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时27分 ~ 21时38分]"
+          "appearance_count": 3,
+          "time_info": "[20时27分 ~ 22时19分]"
         },
         {
           "title": "马斯克与爱泼斯坦共进晚餐照曝光",
           "url": "https://www.toutiao.com/trending/7603356374260547634/",
           "source": "今日头条",
           "ranks": [
-            16
+            16,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时38分 ~ 22时19分]"
         }
       ]
     },
@@ -482,8 +507,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时33分 ~ 21时38分]"
+          "appearance_count": 10,
+          "time_info": "[15时33分 ~ 22时19分]"
         },
         {
           "title": "美股收盘：道指历史首次站上5万点 中概股指数涨超3%",
@@ -496,8 +521,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时18分 ~ 21时38分]"
+          "appearance_count": 24,
+          "time_info": "[00时18分 ~ 22时19分]"
         },
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
@@ -517,6 +542,21 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "周末要闻汇总：我国成功发射可重复使用试验航天器；半导体行业有望首次迈入万亿美元时代",
+          "url": "https://www.cls.cn/detail/2283882",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时16分 ~ 22时19分]"
+        },
+        {
           "title": "2026年半导体产业有望首度冲破万亿美元大关",
           "url": "https://flash.jin10.com/detail/20260207192154238800",
           "source": "金十数据",
@@ -526,20 +566,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时18分 ~ 07时20分]"
-        },
-        {
-          "title": "周末要闻汇总：我国成功发射可重复使用试验航天器；半导体行业有望首次迈入万亿美元时代",
-          "url": "https://www.cls.cn/detail/2283882",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时16分 ~ 21时38分]"
         }
       ]
     },
@@ -594,8 +620,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时18分 ~ 21时38分]"
+          "appearance_count": 24,
+          "time_info": "[00时18分 ~ 22时19分]"
         },
         {
           "title": "游戏里有哪些看似正常实则非常不合理的设定？",
@@ -671,11 +697,12 @@
             2,
             7,
             9,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时17分 ~ 21时38分]"
+          "appearance_count": 5,
+          "time_info": "[18时17分 ~ 22时19分]"
         }
       ]
     },
@@ -694,8 +721,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时21分 ~ 21时38分]"
+          "appearance_count": 9,
+          "time_info": "[16时21分 ~ 22时19分]"
         }
       ]
     }

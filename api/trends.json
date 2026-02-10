@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-10T09:22:23.560585+08:00",
-  "total_titles_processed": 760,
+  "generated_at": "2026-02-10T12:25:04.755361+08:00",
+  "total_titles_processed": 954,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 27,
       "titles": [
         {
           "title": "以“和平”为名：特朗普调停冲突，意在关键矿产？",
@@ -20,6 +20,39 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时43分 ~ 07时29分]"
+        },
+        {
+          "title": "特朗普：我犯了大错",
+          "url": "https://news.ifeng.com/c/8qctqBdiVbv",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时24分 ~ 12时25分]"
+        },
+        {
+          "title": "谷爱凌回应特朗普大骂冬奥运动员",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%A7%E9%AA%82%E5%86%AC%E5%A5%A5%E8%BF%90%E5%8A%A8%E5%91%98%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时24分 ~ 12时25分]"
+        },
+        {
+          "title": "特朗普再放豪言：我选的美联储掌门沃什 有能力推动美国经济增长15%！",
+          "url": "https://www.cls.cn/detail/2285295",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时24分 ~ 12时25分]"
         },
         {
           "title": "据华尔街日报：特朗普政府官员最近几周向国会共和党人施压，要求将投资者禁令作为修正案纳入目前正在众议院和参议院审议的两项主要住房法案中。",
@@ -87,6 +120,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时57分 ~ 05时31分]"
+        },
+        {
+          "title": "谷爱凌回应特朗普大骂冬奥运动员",
+          "url": "https://www.toutiao.com/trending/7605068464549744178/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时24分 ~ 12时25分]"
+        },
+        {
+          "title": "美媒：丹麦另一领地或成特朗普的新目标",
+          "url": "https://news.ifeng.com/c/8qcjl7IoRYq",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时24分 ~ 12时25分]"
         },
         {
           "title": "美民调：多数人不认可特朗普关税政策",
@@ -178,6 +233,17 @@
           "time_info": "07时29分"
         },
         {
+          "title": "美媒：特朗普称首个任期内在美联储主席人选决策上“犯了大错”",
+          "url": "https://wallstreetcn.com/livenews/3052671",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
           "title": "美联储理事沃勒：特朗普引发的加密货币热潮可能正在消退",
           "url": "https://wallstreetcn.com/livenews/3052476",
           "source": "华尔街见闻-快讯",
@@ -200,6 +266,28 @@
           "time_info": "07时29分"
         },
         {
+          "title": "报道：特朗普计划废除奥巴马政府时期一项气候危害认定",
+          "url": "https://wallstreetcn.com/livenews/3052654",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
+          "title": "美国众议院共和党人试图继续推迟对特朗普关税的投票",
+          "url": "https://wallstreetcn.com/livenews/3052653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
           "title": "美国汽车工人联合会：1月13日冲撞美国总统特朗普的工人未受纪律处分，仍保留工作。",
           "url": "https://flash.jin10.com/detail/20260210003111533800",
           "source": "金十数据",
@@ -217,7 +305,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         }
@@ -247,9 +335,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时22分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时22分 ~ 12时25分]"
         },
         {
           "title": "美股收盘：三大指数集体上涨 道指再创新高 纳指涨近1%",
@@ -257,11 +345,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时29分 ~ 09时22分]"
+          "appearance_count": 4,
+          "time_info": "[07时29分 ~ 12时25分]"
         },
         {
           "title": "金十图示：2026年02月09日（周一）美股热门股票行情一览（美股收盘）",
@@ -399,7 +488,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -421,7 +510,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -440,7 +529,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "SpaceX大转向！马斯克改口：火星太远月球更快，十年内建“月球城市”",
@@ -449,22 +538,24 @@
           "ranks": [
             10,
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时43分 ~ 09时22分]"
+          "appearance_count": 12,
+          "time_info": "[01时43分 ~ 12时25分]"
         },
         {
           "title": "萝莉岛去不成,马斯克改奔月球",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350442&amp;topic_name=%E8%90%9D%E8%8E%89%E5%B2%9B%E5%8E%BB%E4%B8%8D%E6%88%90%2C%E9%A9%AC%E6%96%AF%E5%85%8B%E6%94%B9%E5%A5%94%E6%9C%88%E7%90%83",
           "source": "贴吧",
           "ranks": [
-            10
+            10,
+            21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时43分 ~ 09时22分]"
+          "appearance_count": 12,
+          "time_info": "[01时43分 ~ 12时25分]"
         },
         {
           "title": "马斯克：暂时搁置火星计划，重点转向建造月球城市",
@@ -473,7 +564,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -490,6 +581,17 @@
           "time_info": "[05时31分 ~ 06时26分]"
         },
         {
+          "title": "马斯克弟弟回应爱泼斯坦案",
+          "url": "https://news.ifeng.com/c/8qcvnadYDOT",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时24分 ~ 12时25分]"
+        },
+        {
           "title": "马斯克称SpaceX转向优先建设月球城市",
           "url": "https://flash.jin10.com/detail/20260210014406178800",
           "source": "金十数据",
@@ -504,8 +606,19 @@
     },
     {
       "keyword_group": "谷歌",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "美国已通过多个渠道要求韩国批准谷歌将该国高精度地图数据出口至海外；同时，美国贸易代表格里尔对韩国的非关税壁垒表示强烈担忧。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3052699",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
         {
           "title": "谷歌母公司Alphabet的美元债发行获得超过1000亿美元认购需求。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3052460",
@@ -516,6 +629,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "谷歌拟发行200亿美元债券 融资加码AI支出",
+          "url": "https://www.cls.cn/detail/2285182",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时22分 ~ 12时25分]"
         },
         {
           "title": "市场消息：谷歌与Entrust将合作推出基于人工智能的身份验证服务。",
@@ -540,17 +664,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时44分 ~ 03时57分]"
-        },
-        {
-          "title": "谷歌拟发行200亿美元债券 融资加码AI支出",
-          "url": "https://www.cls.cn/detail/2285182",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时22分"
         }
       ]
     },
@@ -597,6 +710,47 @@
       ]
     },
     {
+      "keyword_group": "半导体",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金十图示：2026年02月10日（周二）富时中国A50指数成分股午盘收盘行情一览：银行、半导体、石油、消费电子等多个板块走势分化，保险、酿酒行业全线下跌",
+          "url": "https://flash.jin10.com/detail/20260210113504720800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
+          "title": "安森美半导体四季度营收15.3亿美元，符合分析师预期。 预计一季度营收14.4亿-15.4亿美元，分析师预期15.1亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3052523",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时31分 ~ 07时29分]"
+        },
+        {
+          "title": "标普500指数收涨32.52点，涨幅0.47%，报6964.82点。 道琼斯工业平均指数收涨20.20点，涨幅0.04%，报50135.87点。 纳斯达克综合指数（纳指）收涨207.457点，涨幅0.90%，报23238.67点。 纳斯达克100指数收涨192.369点，涨幅0.77%，报25268.141点。 纳斯达克生物科技指数收跌0.17%，报5970.10点。 费城半导体指数收涨1.42%，报8162.58点。 费城证交所KBW银行指数收涨0.16%，报176.40点。 道琼斯KBW地区银行指数收跌0.34%，报141.82点。",
+          "url": "https://wallstreetcn.com/livenews/3052512",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
@@ -627,32 +781,19 @@
       ]
     },
     {
-      "keyword_group": "半导体",
-      "match_count": 2,
+      "keyword_group": "英伟达",
+      "match_count": 1,
       "titles": [
         {
-          "title": "安森美半导体四季度营收15.3亿美元，符合分析师预期。 预计一季度营收14.4亿-15.4亿美元，分析师预期15.1亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3052523",
-          "source": "华尔街见闻-快讯",
+          "title": "消息称英伟达今年将推出一款定位高于 GeForce RTX 5090 的新显卡，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2004134720611510191",
+          "source": "知乎",
           "ranks": [
-            2,
-            10,
-            29
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时31分 ~ 07时29分]"
-        },
-        {
-          "title": "标普500指数收涨32.52点，涨幅0.47%，报6964.82点。 道琼斯工业平均指数收涨20.20点，涨幅0.04%，报50135.87点。 纳斯达克综合指数（纳指）收涨207.457点，涨幅0.90%，报23238.67点。 纳斯达克100指数收涨192.369点，涨幅0.77%，报25268.141点。 纳斯达克生物科技指数收跌0.17%，报5970.10点。 费城半导体指数收涨1.42%，报8162.58点。 费城证交所KBW银行指数收涨0.16%，报176.40点。 道琼斯KBW地区银行指数收跌0.34%，报141.82点。",
-          "url": "https://wallstreetcn.com/livenews/3052512",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时31分"
+          "appearance_count": 2,
+          "time_info": "[12时24分 ~ 12时25分]"
         }
       ]
     }

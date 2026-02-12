@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T13:59:07.763040+08:00",
-  "total_titles_processed": 1131,
+  "generated_at": "2026-02-12T14:58:32.275714+08:00",
+  "total_titles_processed": 1236,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 52,
       "titles": [
         {
           "title": "特朗普：伊朗希望达成协议，不然太蠢了",
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时51分 ~ 13时59分]"
+          "appearance_count": 12,
+          "time_info": "[01时51分 ~ 14时58分]"
         },
         {
           "title": "特朗普称「若美伊谈判失败，或向中东再派一支航母打击群」，美伊会走向冲突吗？",
@@ -193,6 +193,30 @@
           "time_info": "[06时21分 ~ 07时23分]"
         },
         {
+          "title": "多名共和党议员“倒戈”！美众议院投票否决特朗普对加拿大征收关税",
+          "url": "https://www.cls.cn/detail/2288046",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时58分 ~ 14时58分]"
+        },
+        {
+          "title": "特朗普会以总理，称同伊朗达成协议将是“首选”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32588414",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时58分 ~ 14时58分]"
+        },
+        {
           "title": "特朗普称赞1月非农强劲表现 再度呼吁大幅降息",
           "url": "https://www.cls.cn/detail/2287759",
           "source": "财联社热门",
@@ -305,17 +329,6 @@
           "time_info": "[06时21分 ~ 07时23分]"
         },
         {
-          "title": "多名共和党议员“倒戈”！美众议院投票否决特朗普对加拿大征收关税",
-          "url": "https://www.cls.cn/detail/2288046",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时58分 ~ 13时59分]"
-        },
-        {
           "title": "特朗普：美国今年煤炭发电量将增长大约25%-30%。",
           "url": "https://wallstreetcn.com/livenews/3053975",
           "source": "华尔街见闻-快讯",
@@ -326,17 +339,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时21分 ~ 07时23分]"
-        },
-        {
-          "title": "特朗普会以总理，称同伊朗达成协议将是“首选”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32588414",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时58分 ~ 13时59分]"
         },
         {
           "title": "曾派遣武装退伍军人守卫加沙援助站点的美国安保公司UG Solutions周三表示，正与特朗普政府的“和平委员会”商讨该公司在加沙的后续行动。此前该公司因援助点发生致命冲突而遭到联合国谴责。",
@@ -385,6 +387,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时50分 ~ 04时29分]"
+        },
+        {
+          "title": "特朗普否认了，仅拒邀两人",
+          "url": "https://news.ifeng.com/c/8qgMtgtYs0u",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时58分"
+        },
+        {
+          "title": "强劲非农难撼白宫鸽派论调 特朗普亲信：美联储仍有“充足”降息空间",
+          "url": "https://www.cls.cn/detail/2287874",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时58分"
         },
         {
           "title": "美国总统特朗普：希望我这四年任期内不会有（新审批的）风电场。",
@@ -674,6 +698,19 @@
           "time_info": "01时51分"
         },
         {
+          "title": "开盘即巅峰！华尔街热议：强劲非农下美股缘何虎头蛇尾？",
+          "url": "https://www.cls.cn/detail/2287918",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时15分 ~ 14时58分]"
+        },
+        {
           "title": "思科美股盘后维持超过6.8%的跌幅，该公司所给利润指引“疲软”。",
           "url": "https://wallstreetcn.com/livenews/3054008",
           "source": "华尔街见闻-快讯",
@@ -709,18 +746,6 @@
           "time_info": "[06时21分 ~ 07时23分]"
         },
         {
-          "title": "开盘即巅峰！华尔街热议：强劲非农下美股缘何虎头蛇尾？",
-          "url": "https://www.cls.cn/detail/2287918",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时15分 ~ 13时59分]"
-        },
-        {
           "title": "生物技术公司Viking Therapeutics股价在美股盘后交易中上涨9.1%。 该公司宣布，计划在今年第三季度将其口服肥胖症治疗药物VK2735推向3期临床试验。 尽管第四季度亏损超预期（主要受研发支出激增驱动），但其口服药物的进度优势抵消了财务压力。",
           "url": "https://wallstreetcn.com/livenews/3053995",
           "source": "华尔街见闻-快讯",
@@ -735,7 +760,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "马斯克重组xAI 拟设四大核心板块",
@@ -755,9 +780,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
+        },
+        {
+          "title": "马斯克感慨Seedance2.0发展快",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E6%84%9F%E6%85%A8Seedance2.0%E5%8F%91%E5%B1%95%E5%BF%AB%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时58分"
         },
         {
           "title": "马斯克：遗憾的是，必须与xAI的部分员工分道扬镳。",
@@ -825,7 +861,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         }
@@ -836,6 +872,18 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "强劲非农打击降息预期，AI担忧拖累美股指，美债承压，金银涨，原油冲高回落",
+          "url": "https://wallstreetcn.com/articles/3765486",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时23分 ~ 14时58分]"
+        },
+        {
           "title": "强劲非农打击降息预期，软件股抛售潮拖累美股指，美债承压，黄金涨幅收窄",
           "url": "https://wallstreetcn.com/articles/3765486",
           "source": "华尔街见闻",
@@ -845,18 +893,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时51分 ~ 06时21分]"
-        },
-        {
-          "title": "强劲非农打击降息预期，AI担忧拖累美股指，美债承压，金银涨，原油冲高回落",
-          "url": "https://wallstreetcn.com/articles/3765486",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时23分 ~ 13时59分]"
         },
         {
           "title": "非农就业意外强劲，美股指集体高开，标普500创新高，美元指数短线走高，美债承压，黄金涨幅收窄",
@@ -946,7 +982,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -987,8 +1023,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时15分 ~ 13时59分]"
+          "appearance_count": 4,
+          "time_info": "[12时15分 ~ 14时58分]"
         },
         {
           "title": "在电子游戏中，你最讨厌遇到哪种敌人设计或战斗机制？",
@@ -1048,11 +1084,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时15分 ~ 13时59分]"
+          "appearance_count": 4,
+          "time_info": "[12时15分 ~ 14时58分]"
         }
       ]
     }

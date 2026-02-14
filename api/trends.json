@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-14T14:33:10.918792+08:00",
-  "total_titles_processed": 1039,
+  "generated_at": "2026-02-14T15:28:40.612920+08:00",
+  "total_titles_processed": 1096,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 61,
+      "match_count": 62,
       "titles": [
         {
           "title": "特朗普将访问委内瑞拉",
@@ -32,11 +32,12 @@
             22,
             13,
             11,
-            24
+            24,
+            12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时33分 ~ 14时33分]"
+          "appearance_count": 17,
+          "time_info": "[00时33分 ~ 15时28分]"
         },
         {
           "title": "特朗普：泽连斯基必须行动起来，否则将错失好机会",
@@ -103,6 +104,18 @@
           "time_info": "[03时36分 ~ 09时09分]"
         },
         {
+          "title": "特朗普证实美军将向中东派第二艘航母",
+          "url": "https://news.ifeng.com/c/8qj2ZhXi0EY",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时08分 ~ 15时28分]"
+        },
+        {
           "title": "特朗普诉BBC诽谤案定于2027年2月开审",
           "url": "https://m.thepaper.cn/newsDetail_forward_32596885",
           "source": "澎湃新闻",
@@ -127,18 +140,6 @@
           "time_info": "[00时33分 ~ 03时36分]"
         },
         {
-          "title": "特朗普证实美军将向中东派第二艘航母",
-          "url": "https://news.ifeng.com/c/8qj2ZhXi0EY",
-          "source": "凤凰网",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时08分 ~ 14时33分]"
-        },
-        {
           "title": "【特朗普称将访问委内瑞拉】记者13日获悉，美国总统特朗普在接受媒体采访时被问及是否会访问委内瑞拉，他回应称：“我将访问委内瑞拉。”不过，他未提供任何进一步细节，包括具体时间或行程安排。（总台央视）",
           "url": "https://wallstreetcn.com/livenews/3055332",
           "source": "华尔街见闻-快讯",
@@ -148,6 +149,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
+        },
+        {
+          "title": "美军被曝正做准备：一旦特朗普下令攻击伊朗 行动或持续数周！",
+          "url": "https://www.cls.cn/detail/2290201",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时01分 ~ 15时28分]"
         },
         {
           "title": "美国总统特朗普：无论国会是否批准，中期选举都将实行选民身份认证制度。",
@@ -217,6 +230,31 @@
           "time_info": "[01时34分 ~ 04时26分]"
         },
         {
+          "title": "特朗普称美国将向中东增派第二艘航母 施压伊朗达成协议",
+          "url": "https://www.cls.cn/detail/2290097",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时01分 ~ 15时28分]"
+        },
+        {
+          "title": "美军将向中东派出第二艘航母 特朗普称将访问委内瑞拉 | 环球市场",
+          "url": "https://www.cls.cn/detail/2290112",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时01分 ~ 15时28分]"
+        },
+        {
           "title": "因刺杀特朗普未遂被判终身监禁的枪手提起上诉",
           "url": "https://flash.jin10.com/detail/20260214023919171800",
           "source": "金十数据",
@@ -254,18 +292,6 @@
           "time_info": "[03时36分 ~ 05时27分]"
         },
         {
-          "title": "美军被曝正做准备：一旦特朗普下令攻击伊朗 行动或持续数周！",
-          "url": "https://www.cls.cn/detail/2290201",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时01分 ~ 14时33分]"
-        },
-        {
           "title": "特朗普称将访问委内瑞拉",
           "url": "https://flash.jin10.com/detail/20260214021300671800",
           "source": "金十数据",
@@ -276,31 +302,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时33分 ~ 03时36分]"
-        },
-        {
-          "title": "特朗普称美国将向中东增派第二艘航母 施压伊朗达成协议",
-          "url": "https://www.cls.cn/detail/2290097",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时01分 ~ 14时33分]"
-        },
-        {
-          "title": "美军将向中东派出第二艘航母 特朗普称将访问委内瑞拉 | 环球市场",
-          "url": "https://www.cls.cn/detail/2290112",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时01分 ~ 14时33分]"
         },
         {
           "title": "美国总统特朗普宣扬股市表现和通胀数据。",
@@ -314,6 +315,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时36分 ~ 05时27分]"
+        },
+        {
+          "title": "特朗普：不知道商务部长去过爱泼斯坦岛，反正我没去过",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32601087",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时32分 ~ 15时28分]"
         },
         {
           "title": "特朗普：在俄乌冲突问题上，乌总统“必须行动起来”",
@@ -389,17 +401,6 @@
           "time_info": "[05时27分 ~ 06时23分]"
         },
         {
-          "title": "特朗普：不知道商务部长去过爱泼斯坦岛，反正我没去过",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32601087",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时32分 ~ 14时33分]"
-        },
-        {
           "title": "美国总统特朗普：不希望伊朗有任何铀浓缩。",
           "url": "https://wallstreetcn.com/livenews/3055375",
           "source": "华尔街见闻-快讯",
@@ -457,6 +458,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
+        },
+        {
+          "title": "加州州长回应特朗普为其起外号：快80岁的人干8岁的事",
+          "url": "https://news.ifeng.com/c/8qjoPYjzxHm",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         },
         {
           "title": "美国总统特朗普：委内瑞拉的石油只有我们能提炼。",
@@ -790,6 +802,19 @@
           "time_info": "[00时33分 ~ 14时33分]"
         },
         {
+          "title": "美股收盘：通胀降温难抵AI忧虑 三大指数周线齐跌",
+          "url": "https://www.cls.cn/detail/2290109",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时22分 ~ 15时28分]"
+        },
+        {
           "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
           "url": "https://wallstreetcn.com/articles/3765624",
           "source": "华尔街见闻",
@@ -812,19 +837,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时33分 ~ 07时22分]"
-        },
-        {
-          "title": "美股收盘：通胀降温难抵AI忧虑 三大指数周线齐跌",
-          "url": "https://www.cls.cn/detail/2290109",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时22分 ~ 14时33分]"
         },
         {
           "title": "国际金银、美股、石油、 BTC 等均现下跌，银价一度跌超 11%，发生了什么，春节期间应如何防范大波动行情？",
@@ -970,11 +982,12 @@
             24,
             18,
             4,
-            2
+            2,
+            8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时33分 ~ 14时33分]"
+          "appearance_count": 15,
+          "time_info": "[00时33分 ~ 15时28分]"
         },
         {
           "title": "【焦点复盘】沪指低开低走失守4100点，军工、半导体设备板块逆势活跃",
@@ -1001,8 +1014,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[03时35分 ~ 14时33分]"
+          "appearance_count": 13,
+          "time_info": "[03时35分 ~ 15时28分]"
         },
         {
           "title": "中方回应荷方公布安世半导体案裁决",
@@ -1021,6 +1034,19 @@
           "time_info": "[01时34分 ~ 07时22分]"
         },
         {
+          "title": "沪指失守4100点，半导体逆势走强，贵金属、海运调整，恒指跌1%，智谱狂飙超20%创历史新高，沪银大跌7%",
+          "url": "https://wallstreetcn.com/articles/3765643",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时08分 ~ 15时28分]"
+        },
+        {
           "title": "荷公布安世半导体裁决 商务部回应",
           "url": "https://www.toutiao.com/trending/7606332994369900086/",
           "source": "今日头条",
@@ -1034,18 +1060,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时33分 ~ 06时23分]"
-        },
-        {
-          "title": "沪指失守4100点，半导体逆势走强，贵金属、海运调整，恒指跌1%，智谱狂飙超20%创历史新高，沪银大跌7%",
-          "url": "https://wallstreetcn.com/articles/3765643",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时08分 ~ 14时33分]"
         },
         {
           "title": "荷公布安世半导体案裁决结果，商务部回应",
@@ -1187,8 +1201,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时08分 ~ 14时33分]"
+          "appearance_count": 7,
+          "time_info": "[09时08分 ~ 15时28分]"
+        },
+        {
+          "title": "中国持续减持美债意味着什么",
+          "url": "https://www.toutiao.com/trending/7606523556855287338/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时01分 ~ 15时28分]"
         },
         {
           "title": "两年期美债收益率在美国CPI通胀数据发布日创2022年以来新低，中长期收益率本周跌约16个基点",
@@ -1204,18 +1230,6 @@
           "time_info": "[05时27分 ~ 07时22分]"
         },
         {
-          "title": "中国持续减持美债意味着什么",
-          "url": "https://www.toutiao.com/trending/7606523556855287338/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时01分 ~ 14时33分]"
-        },
-        {
           "title": "美国通胀温和但科技股疲软，美股指冲高回落，亚马逊九连跌，美债走强，黄金重回5000关口",
           "url": "https://wallstreetcn.com/articles/3765664",
           "source": "华尔街见闻",
@@ -1229,9 +1243,87 @@
       ]
     },
     {
+      "keyword_group": "电力",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "国际货币基金组织：巴基斯坦电力部门的欠款已在计划目标范围内得到控制，重点在于款项回收和损失防范。",
+          "url": "https://flash.jin10.com/detail/20260214034758059800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时26分 ~ 09时09分]"
+        },
+        {
+          "title": "国际货币基金组织：巴基斯坦电力部门改革进展顺利；配电和发电公司私有化稳步推进；输电重组正在推进。",
+          "url": "https://flash.jin10.com/detail/20260214034738696800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时26分 ~ 09时09分]"
+        },
+        {
+          "title": "国际货币基金组织：正在评估巴基斯坦电力价格修订是否符合有效汇率框架，及其对宏观稳定和通胀的影响。",
+          "url": "https://flash.jin10.com/detail/20260214034620297800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时26分 ~ 09时09分]"
+        },
+        {
+          "title": "国际货币基金组织：工作人员正在讨论巴基斯坦电力价格调整；相关会谈将于三月底的EFF审议期间继续进行。",
+          "url": "https://flash.jin10.com/detail/20260214034453974800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时26分 ~ 09时09分]"
+        },
+        {
+          "title": "马斯克： 太阳能将在未来电力生产中占据主导地位。",
+          "url": "https://flash.jin10.com/detail/20260214140612005800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        }
+      ]
+    },
+    {
       "keyword_group": "马斯克",
       "match_count": 5,
       "titles": [
+        {
+          "title": "SpaceX据悉拟采用双重股权结构进行IPO 马斯克或掌“超级投票权”",
+          "url": "https://www.cls.cn/detail/2290089",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时01分 ~ 15时28分]"
+        },
         {
           "title": "SpaceX拟在IPO中采用双重股权结构 强化马斯克控制权",
           "url": "https://flash.jin10.com/detail/20260214023821858800",
@@ -1255,19 +1347,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时36分 ~ 07时22分]"
-        },
-        {
-          "title": "SpaceX据悉拟采用双重股权结构进行IPO 马斯克或掌“超级投票权”",
-          "url": "https://www.cls.cn/detail/2290089",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时01分 ~ 14时33分]"
         },
         {
           "title": "报道：SpaceX拟在IPO中采用双重股权结构，以强化马斯克的控制权",
@@ -1330,11 +1409,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时11分 ~ 14时33分]"
+          "appearance_count": 4,
+          "time_info": "[13时11分 ~ 15时28分]"
         },
         {
           "title": "13F报告显示：索罗斯四季度建仓做多Dayforce、New Gold等。 增持微软、台积电、艺电、亚马逊。 减持Snowflake、Invesco标普500 平权ETF。 清仓Aramark、KKR、iShares 7-10年期美国国债ETF等。 重仓亚马逊、谷歌A、Salesforce、TKO、微软。",
@@ -1358,60 +1438,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "电力",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "国际货币基金组织：巴基斯坦电力部门的欠款已在计划目标范围内得到控制，重点在于款项回收和损失防范。",
-          "url": "https://flash.jin10.com/detail/20260214034758059800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时26分 ~ 09时09分]"
-        },
-        {
-          "title": "国际货币基金组织：巴基斯坦电力部门改革进展顺利；配电和发电公司私有化稳步推进；输电重组正在推进。",
-          "url": "https://flash.jin10.com/detail/20260214034738696800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时26分 ~ 09时09分]"
-        },
-        {
-          "title": "国际货币基金组织：正在评估巴基斯坦电力价格修订是否符合有效汇率框架，及其对宏观稳定和通胀的影响。",
-          "url": "https://flash.jin10.com/detail/20260214034620297800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时26分 ~ 09时09分]"
-        },
-        {
-          "title": "国际货币基金组织：工作人员正在讨论巴基斯坦电力价格调整；相关会谈将于三月底的EFF审议期间继续进行。",
-          "url": "https://flash.jin10.com/detail/20260214034453974800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时26分 ~ 09时09分]"
         }
       ]
     },
@@ -1442,11 +1468,12 @@
           "url": "https://www.zhihu.com/question/2004936193150840930",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时32分 ~ 14时33分]"
+          "appearance_count": 3,
+          "time_info": "[14时32分 ~ 15时28分]"
         }
       ]
     }

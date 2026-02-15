@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T20:27:16.377848+08:00",
-  "total_titles_processed": 1175,
+  "generated_at": "2026-02-15T21:39:09.714663+08:00",
+  "total_titles_processed": 1234,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,23 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时16分 ~ 20时27分]"
+          "appearance_count": 8,
+          "time_info": "[18时16分 ~ 21时39分]"
+        },
+        {
+          "title": "泽连斯基慕安会演讲：美国总让乌克兰让步，“有点”感受到特朗普的压力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32614935",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            8,
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[16时21分 ~ 21时39分]"
         },
         {
           "title": "美军被曝正做准备：一旦特朗普下令攻击伊朗 行动或持续数周！",
@@ -55,20 +70,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[12时12分 ~ 19时16分]"
-        },
-        {
-          "title": "泽连斯基慕安会演讲：美国总让乌克兰让步，“有点”感受到特朗普的压力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32614935",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            8,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时21分 ~ 20时27分]"
         },
         {
           "title": "王毅：特朗普尊重中方 有人想打压中国",
@@ -175,11 +176,23 @@
           "source": "金十数据",
           "ranks": [
             2,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时16分 ~ 20时27分]"
+          "appearance_count": 3,
+          "time_info": "[19时16分 ~ 21时39分]"
+        },
+        {
+          "title": "2026慕安会｜王毅：特朗普非常尊重中方，但还有人想打压中国",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32610423",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时26分 ~ 21时39分]"
         },
         {
           "title": "被特朗普恶搞成猿猴 奥巴马首次回应",
@@ -205,17 +218,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时32分 ~ 16时22分]"
-        },
-        {
-          "title": "2026慕安会｜王毅：特朗普非常尊重中方，但还有人想打压中国",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32610423",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时26分 ~ 20时27分]"
         },
         {
           "title": "外媒：特朗普与内塔尼亚胡同意加大对伊朗的施压",
@@ -264,17 +266,6 @@
           "time_info": "[09时15分 ~ 18时17分]"
         },
         {
-          "title": "3名华人联合创始人接连出走，马斯克的xAI发生了什么",
-          "url": "https://news.ifeng.com/c/8qk233NwWb6",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时15分 ~ 12时12分]"
-        },
-        {
           "title": "马斯克：就我所能想象的未来而言，特斯拉(TSLA.O)将拥有规模最大的自动驾驶汽车车队。",
           "url": "https://flash.jin10.com/detail/20260215144532247800",
           "source": "金十数据",
@@ -284,11 +275,23 @@
             17,
             20,
             23,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时32分 ~ 20时27分]"
+          "appearance_count": 7,
+          "time_info": "[15时32分 ~ 21时39分]"
+        },
+        {
+          "title": "3名华人联合创始人接连出走，马斯克的xAI发生了什么",
+          "url": "https://news.ifeng.com/c/8qk233NwWb6",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[04时15分 ~ 12时12分]"
         },
         {
           "title": "马斯克：Grok 4.20版本将于下周发布。相较于4.1版本，此次更新将带来显著改进。",
@@ -382,8 +385,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时14分 ~ 20时27分]"
+          "appearance_count": 18,
+          "time_info": "[09时14分 ~ 21时39分]"
         },
         {
           "title": "1月市场份额再度攀升！Grok和谷歌Gemini瓜分ChatGPT丢失的市场",
@@ -484,8 +487,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时18分 ~ 20时27分]"
+          "appearance_count": 27,
+          "time_info": "[00时18分 ~ 21时39分]"
         }
       ]
     },

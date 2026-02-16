@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T22:00:41.071319+08:00",
-  "total_titles_processed": 1447,
+  "generated_at": "2026-02-16T22:42:14.586212+08:00",
+  "total_titles_processed": 1516,
   "failed_sources": [],
   "trends": [
     {
@@ -306,8 +306,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时24分 ~ 22时00分]"
+          "appearance_count": 14,
+          "time_info": "[07时24分 ~ 22时42分]"
         },
         {
           "title": "马斯克：星链“很快”将在地球之外运行",
@@ -369,11 +369,12 @@
             7,
             9,
             8,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时18分 ~ 22时00分]"
+          "appearance_count": 23,
+          "time_info": "[00时18分 ~ 22时42分]"
         },
         {
           "title": "消息称 Anthropic 员工效率远超谷歌，入职需「杀死自我」，这种企业文化有效吗？",
@@ -416,8 +417,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时35分 ~ 22时00分]"
+          "appearance_count": 8,
+          "time_info": "[16时35分 ~ 22时42分]"
         },
         {
           "title": "大摩：市场开始买美债了",
@@ -491,7 +492,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时00分"
         }

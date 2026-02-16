@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T16:35:55.815752+08:00",
-  "total_titles_processed": 1036,
+  "generated_at": "2026-02-16T17:42:31.007573+08:00",
+  "total_titles_processed": 1104,
   "failed_sources": [],
   "trends": [
     {
@@ -223,8 +223,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时24分 ~ 16时35分]"
+          "appearance_count": 7,
+          "time_info": "[07时24分 ~ 17时42分]"
+        },
+        {
+          "title": "马斯克：星链服务太棒了。无论在地球何处，都能提供超高带宽和超低延迟。而且很快它就能不仅局限于地球。",
+          "url": "https://flash.jin10.com/detail/20260216155403584800",
+          "source": "金十数据",
+          "ranks": [
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时35分 ~ 17时42分]"
         },
         {
           "title": "马斯克：我的“净资产”几乎完全来自我在特斯拉和SpaceX的股份",
@@ -236,17 +248,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
-        },
-        {
-          "title": "马斯克：星链服务太棒了。无论在地球何处，都能提供超高带宽和超低延迟。而且很快它就能不仅局限于地球。",
-          "url": "https://flash.jin10.com/detail/20260216155403584800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时35分"
         }
       ]
     },
@@ -261,7 +262,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -300,11 +301,12 @@
           "url": "https://wallstreetcn.com/articles/3765769",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时35分 ~ 17时42分]"
         }
       ]
     },
@@ -322,8 +324,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时18分 ~ 16时35分]"
+          "appearance_count": 16,
+          "time_info": "[00时18分 ~ 17时42分]"
         },
         {
           "title": "消息称 Anthropic 员工效率远超谷歌，入职需「杀死自我」，这种企业文化有效吗？",
@@ -370,11 +372,12 @@
           "source": "今日头条",
           "ranks": [
             28,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时06分 ~ 16时35分]"
+          "appearance_count": 3,
+          "time_info": "[15时06分 ~ 17时42分]"
         }
       ]
     },

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-16T12:14:49.472439+08:00",
-  "total_titles_processed": 753,
+  "generated_at": "2026-02-16T14:01:34.790851+08:00",
+  "total_titles_processed": 851,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "泽连斯基慕安会演讲：美国总让乌克兰让步，“有点”感受到特朗普的压力",
@@ -87,6 +87,18 @@
           "time_info": "[00时18分 ~ 06时14分]"
         },
         {
+          "title": "特朗普或支持以色列打击伊朗",
+          "url": "https://news.ifeng.com/c/8qmhQv7Byxy",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时12分 ~ 14时01分]"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-15）",
           "url": "https://flash.jin10.com/detail/20260215183847434800",
           "source": "金十数据",
@@ -124,18 +136,6 @@
           "time_info": "[05时16分 ~ 07时24分]"
         },
         {
-          "title": "特朗普或支持以色列打击伊朗",
-          "url": "https://news.ifeng.com/c/8qmhQv7Byxy",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时12分 ~ 12时14分]"
-        },
-        {
           "title": "特朗普：和平委员会成员已承诺提供逾50亿美元资金",
           "url": "https://flash.jin10.com/detail/20260216042836136800",
           "source": "金十数据",
@@ -147,6 +147,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时16分 ~ 07时24分]"
+        },
+        {
+          "title": "涉特朗普政府政策，希拉里与捷克副总理上演言语冲突",
+          "url": "https://flash.jin10.com/detail/20260216131526064800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
         },
         {
           "title": "特朗普在全美推动核能部署 美军首次空运微型核反应堆",
@@ -197,8 +208,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时24分 ~ 12时14分]"
+          "appearance_count": 4,
+          "time_info": "[07时24分 ~ 14时01分]"
         },
         {
           "title": "马斯克：我的“净资产”几乎完全来自我在特斯拉和SpaceX的股份",
@@ -227,8 +238,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时18分 ~ 12时14分]"
+          "appearance_count": 13,
+          "time_info": "[00时18分 ~ 14时01分]"
         },
         {
           "title": "消息称 Anthropic 员工效率远超谷歌，入职需「杀死自我」，这种企业文化有效吗？",
@@ -259,7 +270,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         }

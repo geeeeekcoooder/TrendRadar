@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T06:18:54.903738+08:00",
-  "total_titles_processed": 548,
+  "generated_at": "2026-02-17T07:20:35.707961+08:00",
+  "total_titles_processed": 596,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美国总统特朗普声称：“（加沙）和平委员会”将说明如何开销承诺的50亿美元。（纽约邮报）",
@@ -14,11 +14,12 @@
           "ranks": [
             1,
             4,
-            16
+            16,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时27分 ~ 06时18分]"
+          "appearance_count": 5,
+          "time_info": "[03时27分 ~ 07时20分]"
         },
         {
           "title": "美国总统特朗普：反对纽约市Gateway铁路项目。 联邦政府不会向Gateway超额成本提供任何支持。",
@@ -185,6 +186,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时20分 ~ 06时18分]"
+        },
+        {
+          "title": "美伊第二轮开谈前，内塔尼亚胡提条件、特朗普放狠话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32621372",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
         }
       ]
     },
@@ -229,8 +241,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 06时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 07时20分]"
         },
         {
           "title": "报道：马斯克旗下SpaceX将竞标美国五角大楼的无人机技术承包合同",
@@ -239,11 +251,12 @@
           "ranks": [
             4,
             7,
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时27分 ~ 06时18分]"
+          "appearance_count": 5,
+          "time_info": "[03时27分 ~ 07时20分]"
         }
       ]
     },
@@ -257,11 +270,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 06时18分]"
+          "appearance_count": 3,
+          "time_info": "[05时20分 ~ 07时20分]"
         }
       ]
     },
@@ -277,8 +291,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时31分 ~ 06时18分]"
+          "appearance_count": 10,
+          "time_info": "[01时31分 ~ 07时20分]"
         }
       ]
     },

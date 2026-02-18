@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T22:02:10.005346+08:00",
-  "total_titles_processed": 1779,
+  "generated_at": "2026-02-18T23:42:06.244230+08:00",
+  "total_titles_processed": 1903,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 46,
       "titles": [
         {
           "title": "哈梅内伊回应特朗普威胁",
@@ -32,6 +32,17 @@
           "time_info": "[02时43分 ~ 15时44分]"
         },
         {
+          "title": "特朗普、拜登、奥巴马、克林顿齐发声",
+          "url": "https://news.ifeng.com/c/8qqUCbPAN8F",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时34分 ~ 23时42分]"
+        },
+        {
           "title": "美部长与下属传出婚外情，特朗普回应",
           "url": "https://news.ifeng.com/c/8qp4YVQ6NeA",
           "source": "凤凰网",
@@ -44,17 +55,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时45分 ~ 07时20分]"
-        },
-        {
-          "title": "特朗普、拜登、奥巴马、克林顿齐发声",
-          "url": "https://news.ifeng.com/c/8qqUCbPAN8F",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时34分 ~ 22时02分]"
         },
         {
           "title": "特朗普涉台最新表态，台当局和日本都慌了",
@@ -135,6 +135,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "美国参议院卫生委员会将于2月25日就美国总统特朗普提名的公共卫生局局长候选人凯西·米恩斯举行听证会。",
+          "url": "https://flash.jin10.com/detail/20260218231039678800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         },
         {
           "title": "泽连斯基称特朗普要求乌方单方让步“不公平”",
@@ -361,6 +372,17 @@
           "time_info": "00时45分"
         },
         {
+          "title": "特朗普：日本在美投建的天然气电厂将成为全美最大",
+          "url": "https://wallstreetcn.com/livenews/3056374",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
+        {
           "title": "美国总统特朗普：由于“大而美法案”，今年的退税额远超以往。在某些情况下，估计有超过20%的税款将退还给纳税人。",
           "url": "https://flash.jin10.com/detail/20260218021023992800",
           "source": "金十数据",
@@ -518,7 +540,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 24,
+      "match_count": 31,
       "titles": [
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -529,8 +551,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时14分 ~ 22时02分]"
+          "appearance_count": 15,
+          "time_info": "[09时14分 ~ 23时42分]"
         },
         {
           "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
@@ -554,19 +576,43 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时45分 ~ 22时02分]"
+          "appearance_count": 26,
+          "time_info": "[00时45分 ~ 23时42分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
           "url": "https://www.cls.cn/detail/2291354",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时12分 ~ 22时02分]"
+          "appearance_count": 14,
+          "time_info": "[12时12分 ~ 23时42分]"
+        },
+        {
+          "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
+          "url": "https://wallstreetcn.com/articles/3765829",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时37分 ~ 23时42分]"
+        },
+        {
+          "title": "美股三大指数小幅高开，黄金收复5000，白银日内涨5%，原油上涨3%",
+          "url": "https://wallstreetcn.com/articles/3765834",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时41分 ~ 23时42分]"
         },
         {
           "title": "美股盘前科技股普涨，黄金收复4900，白银日内涨超3%，欧洲斯托克600触及新纪录高位",
@@ -580,18 +626,6 @@
           "time_info": "[17时37分 ~ 18时34分]"
         },
         {
-          "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
-          "url": "https://wallstreetcn.com/articles/3765829",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时37分 ~ 22时02分]"
-        },
-        {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，大宗商品普跌，英央行降息预期上升，英镑一度跳水1%",
           "url": "https://wallstreetcn.com/articles/3765810",
           "source": "华尔街见闻",
@@ -603,13 +637,24 @@
           "time_info": "07时20分"
         },
         {
+          "title": "房利美股价迅速扩大涨幅，上涨4%。",
+          "url": "https://flash.jin10.com/detail/20260218231319433800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
+        {
           "title": "周三美股盘前你需要了解的全球要闻",
           "url": "https://wallstreetcn.com/livenews/3056347",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -734,6 +779,17 @@
           "time_info": "[05时57分 ~ 06时21分]"
         },
         {
+          "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2291551",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时41分 ~ 23时42分]"
+        },
+        {
           "title": "应用材料美股盘后跌7.6%。",
           "url": "https://wallstreetcn.com/livenews/3056144",
           "source": "华尔街见闻-快讯",
@@ -758,6 +814,17 @@
           "time_info": "[05时57分 ~ 06时21分]"
         },
         {
+          "title": "美股两房涨幅扩大",
+          "url": "https://wallstreetcn.com/livenews/3056379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
+        {
           "title": "美股盘前，部分明星科技股走强，英伟达(NVDA.O)、美光科技(MU.O)、Meta Platforms(META.O)涨超1%。",
           "url": "https://flash.jin10.com/detail/20260218170058406800",
           "source": "金十数据",
@@ -780,6 +847,17 @@
           "time_info": "09时14分"
         },
         {
+          "title": "美股盘初，主要行业ETF涨跌不一，能源业ETF、区域银行业ETF涨超1%，公用事业ETF跌近1%。",
+          "url": "https://wallstreetcn.com/livenews/3056367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
+        {
           "title": "电子设计自动化（EDA）软件公司铿腾电子（CDNS）美股盘后涨4.65%，报296.63美元，业绩报告发布后一度涨超7%至303.32美元，该公司所给业绩指引并没有分析师担忧的那么严重。",
           "url": "https://wallstreetcn.com/livenews/3056169",
           "source": "华尔街见闻-快讯",
@@ -789,6 +867,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
+        },
+        {
+          "title": "美股盘初：黄金股、热门中概股普涨，英伟达涨约2%",
+          "url": "https://wallstreetcn.com/livenews/3056361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
+        {
+          "title": "金十图示：2026年02月18日（周三）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260218223642456800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         },
         {
           "title": "禾赛美股盘初一度涨超9%。马年春晚宇树科技两款人形机器人G1、H2全部搭载了禾赛JT128激光雷达。",
@@ -805,7 +905,7 @@
     },
     {
       "keyword_group": "英伟达",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "段永平试水“AI交易”：卖苹果加仓英伟达，“新入”CoreWeave、Credo和Tempus",
@@ -817,8 +917,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时12分 ~ 22时02分]"
+          "appearance_count": 14,
+          "time_info": "[12时12分 ~ 23时42分]"
         },
         {
           "title": "英伟达和Meta宣布建立多年战略合作伙伴关系",
@@ -959,6 +1059,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
+        },
+        {
+          "title": "纳指涨幅扩大至1%，英伟达(NVDA.O)现涨2.54%。",
+          "url": "https://flash.jin10.com/detail/20260218230506125800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         },
         {
           "title": "英伟达：与下一代云提供商YOTTA、L&T和E2E Networks。",
@@ -1109,11 +1220,12 @@
             10,
             20,
             18,
-            9
+            9,
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时54分 ~ 20时37分]"
+          "appearance_count": 10,
+          "time_info": "[13时54分 ~ 23时42分]"
         },
         {
           "title": "为什么游戏里的难度选项往往只是调整敌人伤害，而不是让敌人变聪明或变蠢？",
@@ -1173,6 +1285,91 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "据The Information：Anthropic预计到2029年将向亚马逊、谷歌和微软支付至少800亿美元，以在云服务器上运行Claude AI。",
+          "url": "https://flash.jin10.com/detail/20260218085113078800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "谷歌：推出499美元的Pixel 10A智能手机，价格保持不变。",
+          "url": "https://flash.jin10.com/detail/20260218230854451800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
+        {
+          "title": "比尔·阿克曼管理的对冲基金潘兴广场四季度减持谷歌A、优步等。",
+          "url": "https://wallstreetcn.com/livenews/3056132",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时57分 ~ 06时21分]"
+        },
+        {
+          "title": "谷歌母公司Alphabet首席执行官Pichai：投入人工智能合情合理，因为这是一个非凡的机遇。",
+          "url": "https://wallstreetcn.com/livenews/3056294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时32分 ~ 20时37分]"
+        },
+        {
+          "title": "Alphabet CEO皮查伊：很高兴今天早上与印度总理莫迪会面。我们讨论了谷歌如何帮助他在印度各级推广人工智能，以改善健康、扩大各语言的信息获取、支持初创企业、农业等等。",
+          "url": "https://flash.jin10.com/detail/20260218164551574800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
+          "title": "谷歌母公司Alphabet：谷歌年度开发者大会（I/O developer conference）将于5月19-20日举行。",
+          "url": "https://wallstreetcn.com/livenews/3056192",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
+          "title": "谷歌计划在美国和印度之间建设新的光纤线路",
+          "url": "https://flash.jin10.com/detail/20260218194454103800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时37分"
         }
       ]
     },
@@ -1255,80 +1452,6 @@
       ]
     },
     {
-      "keyword_group": "谷歌",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "据The Information：Anthropic预计到2029年将向亚马逊、谷歌和微软支付至少800亿美元，以在云服务器上运行Claude AI。",
-          "url": "https://flash.jin10.com/detail/20260218085113078800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时14分"
-        },
-        {
-          "title": "比尔·阿克曼管理的对冲基金潘兴广场四季度减持谷歌A、优步等。",
-          "url": "https://wallstreetcn.com/livenews/3056132",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时57分 ~ 06时21分]"
-        },
-        {
-          "title": "谷歌母公司Alphabet首席执行官Pichai：投入人工智能合情合理，因为这是一个非凡的机遇。",
-          "url": "https://wallstreetcn.com/livenews/3056294",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时32分 ~ 20时37分]"
-        },
-        {
-          "title": "Alphabet CEO皮查伊：很高兴今天早上与印度总理莫迪会面。我们讨论了谷歌如何帮助他在印度各级推广人工智能，以改善健康、扩大各语言的信息获取、支持初创企业、农业等等。",
-          "url": "https://flash.jin10.com/detail/20260218164551574800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时37分"
-        },
-        {
-          "title": "谷歌母公司Alphabet：谷歌年度开发者大会（I/O developer conference）将于5月19-20日举行。",
-          "url": "https://wallstreetcn.com/livenews/3056192",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时12分"
-        },
-        {
-          "title": "谷歌计划在美国和印度之间建设新的光纤线路",
-          "url": "https://flash.jin10.com/detail/20260218194454103800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时37分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
       "match_count": 4,
       "titles": [
@@ -1404,7 +1527,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T16:34:29.461784+08:00",
-  "total_titles_processed": 1271,
+  "generated_at": "2026-02-18T17:37:35.168970+08:00",
+  "total_titles_processed": 1371,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 39,
       "titles": [
         {
           "title": "哈梅内伊回应特朗普威胁",
@@ -79,6 +79,17 @@
           "time_info": "[09时14分 ~ 16时34分]"
         },
         {
+          "title": "特朗普、拜登、奥巴马、克林顿齐发声",
+          "url": "https://news.ifeng.com/c/8qqUCbPAN8F",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 17时37分]"
+        },
+        {
           "title": "美国纽约市市长：美国总统特朗普政府再次解冻了7700万美元的纽约隧道资金。",
           "url": "https://flash.jin10.com/detail/20260218012450530800",
           "source": "金十数据",
@@ -126,15 +137,15 @@
           "time_info": "07时20分"
         },
         {
-          "title": "特朗普、拜登、奥巴马、克林顿齐发声",
-          "url": "https://news.ifeng.com/c/8qqUCbPAN8F",
-          "source": "凤凰网",
+          "title": "特朗普女儿伊万卡中文拜年",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A5%B3%E5%84%BF%E4%BC%8A%E4%B8%87%E5%8D%A1%E4%B8%AD%E6%96%87%E6%8B%9C%E5%B9%B4%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
           "ranks": [
-            4
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时34分"
+          "time_info": "17时37分"
         },
         {
           "title": "美空军确认“空军一号”新涂装将采用特朗普偏爱的配色：红、白、金、深蓝",
@@ -281,6 +292,17 @@
           "time_info": "[04时02分 ~ 04时27分]"
         },
         {
+          "title": "泽连斯基抱怨：特朗普总是要求乌克兰让步，这不公平",
+          "url": "https://news.ifeng.com/c/8qqOE4vhF5L",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
           "title": "据路透社/IPSOS民调，特朗普的整体支持率维持在38%的总统低点。",
           "url": "https://flash.jin10.com/detail/20260218060047004800",
           "source": "金十数据",
@@ -334,6 +356,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
+        },
+        {
+          "title": "市场消息：梵蒂冈方面拒绝加入特朗普的“和平委员会”。",
+          "url": "https://flash.jin10.com/detail/20260218165845600800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
         },
         {
           "title": "美国副总统万斯：特朗普在伊朗问题上有很多选择。",
@@ -426,265 +459,8 @@
       ]
     },
     {
-      "keyword_group": "英伟达",
-      "match_count": 22,
-      "titles": [
-        {
-          "title": "段永平试水“AI交易”：卖苹果加仓英伟达，“新入”CoreWeave、Credo和Tempus",
-          "url": "https://wallstreetcn.com/articles/3765830",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时12分 ~ 16时34分]"
-        },
-        {
-          "title": "英伟达和Meta宣布建立多年战略合作伙伴关系",
-          "url": "https://flash.jin10.com/detail/20260218052111472800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时57分 ~ 06时21分]"
-        },
-        {
-          "title": "英伟达(NVDA.O)和Meta Platforms(META.O)平台宣布达成多年战略合作伙伴关系。",
-          "url": "https://flash.jin10.com/detail/20260218051816827800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时57分 ~ 06时21分]"
-        },
-        {
-          "title": "英伟达(NVDA.O)：Meta已采用英伟达机密计算技术，用于WhatsApp的隐私处理。",
-          "url": "https://flash.jin10.com/detail/20260218051754506800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时57分 ~ 06时21分]"
-        },
-        {
-          "title": "13F报告显示：Tiger Global Management LLC.在四季度增持Coupang、Black、ServiceNOW等。 清仓MongoDB等。 减持Sea、微软、Applovin、Meta、Reddit。 重仓谷歌母公司Alphabet、微软、亚马逊、英伟达、Sea。",
-          "url": "https://wallstreetcn.com/livenews/3056102",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时02分 ~ 04时27分]"
-        },
-        {
-          "title": "英伟达(NVDA.O)：正合作部署英伟达VERA-CPU，有可能在2027年实现大规模部署。",
-          "url": "https://flash.jin10.com/detail/20260218051633992800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时57分 ~ 06时21分]"
-        },
-        {
-          "title": "老虎环球Q4减持台积电、微软、英伟达等科技巨头",
-          "url": "https://flash.jin10.com/detail/20260218030727602800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时02分 ~ 04时27分]"
-        },
-        {
-          "title": "美国证交会文件：英伟达(NVDA.O)持有英特尔(INTC.O)2.148亿股股份。",
-          "url": "https://flash.jin10.com/detail/20260218053508523800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时21分 ~ 07时20分]"
-        },
-        {
-          "title": "英伟达出售其在文远知行公司的股份。",
-          "url": "https://flash.jin10.com/detail/20260218053301417800",
-          "source": "金十数据",
-          "ranks": [
-            19,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时21分 ~ 07时20分]"
-        },
-        {
-          "title": "英伟达：Tech Mahindra正部署大型电信模型，以借助英伟达的网络基础设施管理器（NIM）为自主网络运营提供支持。",
-          "url": "https://flash.jin10.com/detail/20260218083447972800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时14分"
-        },
-        {
-          "title": "英伟达Q4新进新思科技、英特尔 清仓文远知行",
-          "url": "https://flash.jin10.com/detail/20260218061236943800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "英伟达：美光科技旗下忆恒创源（Persistent）借助英伟达BioNeMo和NeMo Agent工具包加速由人工智能驱动的分子发现进程 。",
-          "url": "https://flash.jin10.com/detail/20260218083422399800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时14分"
-        },
-        {
-          "title": "英伟达：与下一代云提供商YOTTA、L&T和E2E Networks。",
-          "url": "https://flash.jin10.com/detail/20260218083310260800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时14分"
-        },
-        {
-          "title": "英伟达：与包括Peak XV、Elevation Capital、Accel India等在内的风险投资公司合作，以识别并资助人工智能初创企业。",
-          "url": "https://flash.jin10.com/detail/20260218083229233800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时14分"
-        },
-        {
-          "title": "Meta将部署数百万颗英伟达芯片",
-          "url": "https://www.toutiao.com/trending/7607763089089921062/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时12分"
-        },
-        {
-          "title": "英伟达：构建主权人工智能系统的开发者今天即可访问英伟达NemoTron和Nemo。",
-          "url": "https://flash.jin10.com/detail/20260218083054230800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时14分"
-        },
-        {
-          "title": "英伟达：英孚斯利用英伟达AI企业版构建企业级编码小型语言模型。",
-          "url": "https://flash.jin10.com/detail/20260218083047394800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时14分"
-        },
-        {
-          "title": "千问3.5引爆全球AI产业链，英伟达、华为昇腾、AMD、苹果等第一时间适配",
-          "url": "https://wallstreetcn.com/livenews/3056241",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时34分"
-        },
-        {
-          "title": "美国证交会文件显示，软银集团出售英伟达公司的股份。",
-          "url": "https://flash.jin10.com/detail/20260217233326050800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
-        },
-        {
-          "title": "市场消息：Yotta Data与英伟达(NVDA.O)合作的GPU部署项目投资总额超过20亿美元，预计将于2026年8月投入使用。",
-          "url": "https://flash.jin10.com/detail/20260218123459363800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时55分"
-        },
-        {
-          "title": "市场消息：Yotta Data将向大诺伊达数据中心部署20736块液冷型英伟达Blackwell超级GPU。",
-          "url": "https://flash.jin10.com/detail/20260218123402204800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时55分"
-        },
-        {
-          "title": "市场消息：印度Yotta Data公司与英伟达(NVDA.O)签署了一份价值超过10亿美元、为期四年的合作协议。",
-          "url": "https://flash.jin10.com/detail/20260218123241579800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时55分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
@@ -706,8 +482,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时14分 ~ 16时34分]"
+          "appearance_count": 8,
+          "time_info": "[09时14分 ~ 17时37分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -720,8 +496,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时45分 ~ 16时34分]"
+          "appearance_count": 19,
+          "time_info": "[00时45分 ~ 17时37分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -731,8 +507,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时12分 ~ 16时34分]"
+          "appearance_count": 7,
+          "time_info": "[12时12分 ~ 17时37分]"
         },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，大宗商品普跌，英央行降息预期上升，英镑一度跳水1%",
@@ -744,6 +520,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "美股盘前科技股普涨，黄金收复4900，白银日内涨超3%，欧洲斯托克600触及新纪录高位",
+          "url": "https://wallstreetcn.com/articles/3765834",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
+          "title": "美股盘前，科技股普涨，英伟达涨1.6%，美光科技涨约1%，英特尔涨约1%。 黄金股普涨，哈莫尼黄金涨约1%，科尔黛伦矿业涨约2%。",
+          "url": "https://wallstreetcn.com/livenews/3056266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
         },
         {
           "title": "美股大类资产类ETF多数下跌，黄金ETF收跌超3.1%，地产ETF涨超0.9%",
@@ -867,6 +665,28 @@
           "time_info": "[05时57分 ~ 06时21分]"
         },
         {
+          "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
+          "url": "https://wallstreetcn.com/articles/3765829",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
+          "title": "美股盘前，部分明星科技股走强，英伟达(NVDA.O)、美光科技(MU.O)、Meta Platforms(META.O)涨超1%。",
+          "url": "https://flash.jin10.com/detail/20260218170058406800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
           "title": "美股三大指数均小幅收涨",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%9D%87%E5%B0%8F%E5%B9%85%E6%94%B6%E6%B6%A8",
           "source": "百度热搜",
@@ -898,6 +718,264 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英伟达",
+      "match_count": 22,
+      "titles": [
+        {
+          "title": "段永平试水“AI交易”：卖苹果加仓英伟达，“新入”CoreWeave、Credo和Tempus",
+          "url": "https://wallstreetcn.com/articles/3765830",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时12分 ~ 17时37分]"
+        },
+        {
+          "title": "英伟达和Meta宣布建立多年战略合作伙伴关系",
+          "url": "https://flash.jin10.com/detail/20260218052111472800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时57分 ~ 06时21分]"
+        },
+        {
+          "title": "英伟达(NVDA.O)和Meta Platforms(META.O)平台宣布达成多年战略合作伙伴关系。",
+          "url": "https://flash.jin10.com/detail/20260218051816827800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时57分 ~ 06时21分]"
+        },
+        {
+          "title": "英伟达(NVDA.O)：Meta已采用英伟达机密计算技术，用于WhatsApp的隐私处理。",
+          "url": "https://flash.jin10.com/detail/20260218051754506800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时57分 ~ 06时21分]"
+        },
+        {
+          "title": "13F报告显示：Tiger Global Management LLC.在四季度增持Coupang、Black、ServiceNOW等。 清仓MongoDB等。 减持Sea、微软、Applovin、Meta、Reddit。 重仓谷歌母公司Alphabet、微软、亚马逊、英伟达、Sea。",
+          "url": "https://wallstreetcn.com/livenews/3056102",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时02分 ~ 04时27分]"
+        },
+        {
+          "title": "英伟达(NVDA.O)：正合作部署英伟达VERA-CPU，有可能在2027年实现大规模部署。",
+          "url": "https://flash.jin10.com/detail/20260218051633992800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时57分 ~ 06时21分]"
+        },
+        {
+          "title": "老虎环球Q4减持台积电、微软、英伟达等科技巨头",
+          "url": "https://flash.jin10.com/detail/20260218030727602800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时02分 ~ 04时27分]"
+        },
+        {
+          "title": "美国证交会文件：英伟达(NVDA.O)持有英特尔(INTC.O)2.148亿股股份。",
+          "url": "https://flash.jin10.com/detail/20260218053508523800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时20分]"
+        },
+        {
+          "title": "千问3.5引爆全球AI产业链，英伟达、华为昇腾、AMD、苹果等第一时间适配",
+          "url": "https://wallstreetcn.com/livenews/3056241",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 17时37分]"
+        },
+        {
+          "title": "英伟达出售其在文远知行公司的股份。",
+          "url": "https://flash.jin10.com/detail/20260218053301417800",
+          "source": "金十数据",
+          "ranks": [
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时20分]"
+        },
+        {
+          "title": "英伟达：Tech Mahindra正部署大型电信模型，以借助英伟达的网络基础设施管理器（NIM）为自主网络运营提供支持。",
+          "url": "https://flash.jin10.com/detail/20260218083447972800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "英伟达Q4新进新思科技、英特尔 清仓文远知行",
+          "url": "https://flash.jin10.com/detail/20260218061236943800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "英伟达：美光科技旗下忆恒创源（Persistent）借助英伟达BioNeMo和NeMo Agent工具包加速由人工智能驱动的分子发现进程 。",
+          "url": "https://flash.jin10.com/detail/20260218083422399800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "英伟达：与下一代云提供商YOTTA、L&T和E2E Networks。",
+          "url": "https://flash.jin10.com/detail/20260218083310260800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "英伟达：与包括Peak XV、Elevation Capital、Accel India等在内的风险投资公司合作，以识别并资助人工智能初创企业。",
+          "url": "https://flash.jin10.com/detail/20260218083229233800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "Meta将部署数百万颗英伟达芯片",
+          "url": "https://www.toutiao.com/trending/7607763089089921062/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
+          "title": "英伟达：构建主权人工智能系统的开发者今天即可访问英伟达NemoTron和Nemo。",
+          "url": "https://flash.jin10.com/detail/20260218083054230800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "英伟达：英孚斯利用英伟达AI企业版构建企业级编码小型语言模型。",
+          "url": "https://flash.jin10.com/detail/20260218083047394800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "美国证交会文件显示，软银集团出售英伟达公司的股份。",
+          "url": "https://flash.jin10.com/detail/20260217233326050800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时45分"
+        },
+        {
+          "title": "市场消息：Yotta Data与英伟达(NVDA.O)合作的GPU部署项目投资总额超过20亿美元，预计将于2026年8月投入使用。",
+          "url": "https://flash.jin10.com/detail/20260218123459363800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时55分"
+        },
+        {
+          "title": "市场消息：Yotta Data将向大诺伊达数据中心部署20736块液冷型英伟达Blackwell超级GPU。",
+          "url": "https://flash.jin10.com/detail/20260218123402204800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时55分"
+        },
+        {
+          "title": "市场消息：印度Yotta Data公司与英伟达(NVDA.O)签署了一份价值超过10亿美元、为期四年的合作协议。",
+          "url": "https://flash.jin10.com/detail/20260218123241579800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时55分"
         }
       ]
     },
@@ -971,11 +1049,12 @@
           "ranks": [
             2,
             25,
-            10
+            10,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时54分 ~ 16时34分]"
+          "appearance_count": 5,
+          "time_info": "[13时54分 ~ 17时37分]"
         },
         {
           "title": "年度独立游戏大赏",
@@ -984,7 +1063,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
         },
@@ -1132,7 +1211,7 @@
     },
     {
       "keyword_group": "谷歌",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "据The Information：Anthropic预计到2029年将向亚马逊、谷歌和微软支付至少800亿美元，以在云服务器上运行Claude AI。",
@@ -1156,6 +1235,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时57分 ~ 06时21分]"
+        },
+        {
+          "title": "Alphabet CEO皮查伊：很高兴今天早上与印度总理莫迪会面。我们讨论了谷歌如何帮助他在印度各级推广人工智能，以改善健康、扩大各语言的信息获取、支持初创企业、农业等等。",
+          "url": "https://flash.jin10.com/detail/20260218164551574800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
         },
         {
           "title": "谷歌母公司Alphabet：谷歌年度开发者大会（I/O developer conference）将于5月19-20日举行。",

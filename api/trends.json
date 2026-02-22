@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-22T21:38:26.843310+08:00",
-  "total_titles_processed": 1194,
+  "generated_at": "2026-02-22T22:18:09.626764+08:00",
+  "total_titles_processed": 1232,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 61,
       "titles": [
         {
           "title": "特朗普的报复来了",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时11分 ~ 21时38分]"
+          "appearance_count": 19,
+          "time_info": "[09时11分 ~ 22时18分]"
         },
         {
           "title": "特朗普新加征关税加码至15%",
@@ -68,8 +68,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[12时07分 ~ 21时38分]"
+          "appearance_count": 18,
+          "time_info": "[12时07分 ~ 22时18分]"
         },
         {
           "title": "特朗普宣布签署行政令 加征10%全球进口关税",
@@ -81,8 +81,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时17分 ~ 21时38分]"
+          "appearance_count": 27,
+          "time_info": "[00时17分 ~ 22时18分]"
         },
         {
           "title": "泰国智库批特朗普关税政策：别人在搭桥，美国在筑墙",
@@ -162,8 +162,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[02时21分 ~ 21时38分]"
+          "appearance_count": 25,
+          "time_info": "[02时21分 ~ 22时18分]"
         },
         {
           "title": "白宫官员确认，美国总统特朗普计划于 3 月 31 日至 4 月 2 日访问中国，哪些信息值得关注？",
@@ -194,6 +194,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[16时20分 ~ 20时27分]"
+        },
+        {
+          "title": "美国前商务部长：其他关税方案，都会削弱特朗普对华谈判筹码",
+          "url": "https://news.ifeng.com/c/8qxAuTEgS6q",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时14分 ~ 22时18分]"
         },
         {
           "title": "特朗普批准美华盛顿特区灾难声明",
@@ -250,17 +261,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[12时07分 ~ 16时21分]"
-        },
-        {
-          "title": "美国前商务部长：其他关税方案，都会削弱特朗普对华谈判筹码",
-          "url": "https://news.ifeng.com/c/8qxAuTEgS6q",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时14分 ~ 21时38分]"
         },
         {
           "title": "最高法裁决后特朗普动用替补工具，加征10%全球关税，放话关税会比之前“高得多”",
@@ -347,6 +347,17 @@
           "time_info": "[00时17分 ~ 07时16分]"
         },
         {
+          "title": "日方批特朗普再加征关税：混乱环境或致日企撤离美国",
+          "url": "https://news.ifeng.com/c/8qxI3ju2UuK",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时38分 ~ 22时18分]"
+        },
+        {
           "title": "关税政策被判违法后，特朗普称将加征10%全球进口关税",
           "url": "https://m.thepaper.cn/newsDetail_forward_32638044",
           "source": "澎湃新闻",
@@ -384,6 +395,22 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时16分 ~ 09时11分]"
+        },
+        {
+          "title": "Netflix董事会成员警告“向特朗普屈膝”企业将自食其果，特朗普怒了",
+          "url": "https://wallstreetcn.com/livenews/3057250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            9,
+            15,
+            20,
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时22分 ~ 22时18分]"
         },
         {
           "title": "德媒：特朗普向格陵兰岛派遣医院船的举动可能加剧美国与丹麦的紧张关系",
@@ -430,30 +457,44 @@
           "time_info": "[12时08分 ~ 16时21分]"
         },
         {
-          "title": "Netflix董事会成员警告“向特朗普屈膝”企业将自食其果，特朗普怒了",
-          "url": "https://wallstreetcn.com/livenews/3057250",
+          "title": "美国总统特使：特朗普感到“好奇”，“伊朗为何还没有屈服”",
+          "url": "https://wallstreetcn.com/livenews/3057256",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
+            3,
             9,
+            14,
             15,
-            20,
-            21
+            19
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[17时22分 ~ 21时38分]"
+          "time_info": "[18时15分 ~ 22时18分]"
         },
         {
-          "title": "日方批特朗普再加征关税：混乱环境或致日企撤离美国",
-          "url": "https://news.ifeng.com/c/8qxI3ju2UuK",
-          "source": "凤凰网",
+          "title": "摩根大通承认国会山骚乱后关了特朗普的账户",
+          "url": "https://wallstreetcn.com/livenews/3057262",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            3,
+            8,
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时14分 ~ 22时18分]"
+        },
+        {
+          "title": "美国贸易代表格里尔：鉴于局势的“紧迫性”，美国总统特朗普已将10%的关税提高到15%。",
+          "url": "https://flash.jin10.com/detail/20260222213944275800",
+          "source": "金十数据",
+          "ranks": [
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时38分"
+          "time_info": "22时18分"
         },
         {
           "title": "别为美最高法推翻特朗普关税高兴太早？华尔街预计市场反应或昙花一现",
@@ -468,18 +509,18 @@
           "time_info": "[00时17分 ~ 04时14分]"
         },
         {
-          "title": "美国总统特使：特朗普感到“好奇”，“伊朗为何还没有屈服”",
-          "url": "https://wallstreetcn.com/livenews/3057256",
-          "source": "华尔街见闻-快讯",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-22）",
+          "url": "https://flash.jin10.com/detail/20260222183803047800",
+          "source": "金十数据",
           "ranks": [
-            3,
-            9,
-            14,
-            15
+            2,
+            19,
+            22,
+            30
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[18时15分 ~ 21时38分]"
+          "time_info": "[19时14分 ~ 22时18分]"
         },
         {
           "title": "德国总理：将协调欧盟立场后赴美与特朗普讨论美关税政策",
@@ -568,17 +609,15 @@
           "time_info": "[12时08分 ~ 16时21分]"
         },
         {
-          "title": "摩根大通承认国会山骚乱后关了特朗普的账户",
-          "url": "https://wallstreetcn.com/livenews/3057262",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普：将在常规关税基础上对全球征收10%的进口关税",
+          "url": "https://www.cls.cn/detail/2292216",
+          "source": "财联社热门",
           "ranks": [
-            3,
-            8,
-            9
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时14分 ~ 21时38分]"
+          "appearance_count": 5,
+          "time_info": "[20时26分 ~ 22时18分]"
         },
         {
           "title": "美总统特朗普称将向格陵兰岛派遣“医院船”",
@@ -592,19 +631,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时11分 ~ 13时44分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-22）",
-          "url": "https://flash.jin10.com/detail/20260222183803047800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            19,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时14分 ~ 21时38分]"
         },
         {
           "title": "马克龙请求特朗普解除对欧洲官员的制裁",
@@ -698,17 +724,6 @@
           "time_info": "[00时17分 ~ 02时21分]"
         },
         {
-          "title": "特朗普：将在常规关税基础上对全球征收10%的进口关税",
-          "url": "https://www.cls.cn/detail/2292216",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时26分 ~ 21时38分]"
-        },
-        {
           "title": "特朗普关税被否 退税大战会开打吗",
           "url": "https://www.toutiao.com/trending/7609638522202361350/",
           "source": "今日头条",
@@ -791,7 +806,7 @@
     },
     {
       "keyword_group": "游戏",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "报告称 8GB 显卡阻碍游戏画面进步，这一说法合理吗？",
@@ -836,6 +851,17 @@
           "time_info": "[05时14分 ~ 07时16分]"
         },
         {
+          "title": "男子将游戏外挂伪装成声卡显卡销售",
+          "url": "https://www.toutiao.com/trending/7609512939771265060/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时17分 ~ 22时18分]"
+        },
+        {
           "title": "波比的游戏时间全五章速通",
           "url": "https://search.bilibili.com/all?keyword=%E6%B3%A2%E6%AF%94%E7%9A%84%E6%B8%B8%E6%88%8F%E6%97%B6%E9%97%B4%E5%85%A8%E4%BA%94%E7%AB%A0%E9%80%9F%E9%80%9A",
           "source": "bilibili 热搜",
@@ -873,8 +899,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时17分 ~ 21时38分]"
+          "appearance_count": 27,
+          "time_info": "[00时17分 ~ 22时18分]"
         },
         {
           "title": "美最高院否决关税，美股收高，债汇承压，滞胀担忧撑黄金重回5100，白银大涨8%",
@@ -901,8 +927,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[14时35分 ~ 21时38分]"
+          "appearance_count": 15,
+          "time_info": "[14时35分 ~ 22时18分]"
         },
         {
           "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
@@ -932,8 +958,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时20分 ~ 21时38分]"
+          "appearance_count": 11,
+          "time_info": "[16时20分 ~ 22时18分]"
         },
         {
           "title": "传言成真？英伟达对OpenAI的“1000亿美元投资”最终“打了三折”",
@@ -949,6 +975,18 @@
           "time_info": "[13时44分 ~ 16时21分]"
         },
         {
+          "title": "芯片初创公司 taalas 融资 1.69 亿美元研发 AI 芯片挑战英伟达，这意味着什么？",
+          "url": "https://www.zhihu.com/question/2008005974397576586",
+          "source": "知乎",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时38分 ~ 22时18分]"
+        },
+        {
           "title": "都想学英伟达“芯片换融资”，谷歌和AMD都要扶持“AI云”",
           "url": "https://wallstreetcn.com/articles/3765927",
           "source": "华尔街见闻",
@@ -958,17 +996,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时07分 ~ 12时08分]"
-        },
-        {
-          "title": "芯片初创公司 taalas 融资 1.69 亿美元研发 AI 芯片挑战英伟达，这意味着什么？",
-          "url": "https://www.zhihu.com/question/2008005974397576586",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时38分"
         }
       ]
     },

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-23T20:40:19.989541+08:00",
-  "total_titles_processed": 1418,
+  "generated_at": "2026-02-23T23:17:20.184905+08:00",
+  "total_titles_processed": 1545,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 58,
       "titles": [
         {
           "title": "特朗普：原本10%的全球进口关税税率将升至15%",
@@ -127,8 +127,23 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时43分 ~ 20时40分]"
+          "appearance_count": 5,
+          "time_info": "[17时43分 ~ 23时17分]"
+        },
+        {
+          "title": "重兵集结下美伊本周再谈，特朗普面临选择：签“面子协议”和先定点打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32645069",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12,
+            9,
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时04分 ~ 23时17分]"
         },
         {
           "title": "格陵兰岛自治政府总理回应特朗普“医院船”提议",
@@ -205,20 +220,6 @@
           "time_info": "[01时18分 ~ 07时17分]"
         },
         {
-          "title": "重兵集结下美伊本周再谈，特朗普面临选择：签“面子协议”和先定点打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32645069",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            12,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时04分 ~ 20时40分]"
-        },
-        {
           "title": "华尔街深度解读“特朗普IEEPA关税被否”：下半年关税或下调，退税或变全面刺激，潜在的行业利好",
           "url": "https://wallstreetcn.com/articles/3765969",
           "source": "华尔街见闻",
@@ -229,8 +230,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时37分 ~ 20时40分]"
+          "appearance_count": 7,
+          "time_info": "[16时37分 ~ 23时17分]"
         },
         {
           "title": "行业机构：澳大利亚将维持特朗普牛肉关税豁免待遇",
@@ -261,9 +262,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
+        },
+        {
+          "title": "欧盟因特朗普关税的不确定性冻结对美贸易协议的批准。",
+          "url": "https://flash.jin10.com/detail/20260223224646651800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "格陵兰岛自治政府总理拒绝特朗普拟派医院船提议",
@@ -283,7 +295,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
         },
@@ -294,7 +306,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
         },
@@ -305,9 +317,31 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
+        },
+        {
+          "title": "特朗普：任何想“耍花招”的国家将面临更高的关税",
+          "url": "https://flash.jin10.com/detail/20260223224303582800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "美国总统特朗普：我不必向国会山争取关税（授权）。",
+          "url": "https://wallstreetcn.com/livenews/3057530",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "男子持枪闯入特朗普住所被击毙",
@@ -474,9 +508,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
+        },
+        {
+          "title": "欧盟因特朗普关税不确定性冻结对美贸易协议的批准。",
+          "url": "https://wallstreetcn.com/livenews/3057527",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "鉴于特朗普关税风险，欧盟势将冻结对与美国贸易协议的批准程序。（彭博）",
@@ -501,6 +546,39 @@
           "time_info": "09时11分"
         },
         {
+          "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
+          "url": "https://www.cls.cn/detail/2292753",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "现货黄金短线拉升，特朗普称玩花招的国家将面临更高的关税",
+          "url": "https://wallstreetcn.com/livenews/3057521",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "美国总统特朗普：任何想就最高法院裁决“耍花招”的国家，都将面临更高的关税，其后果将更严重。",
+          "url": "https://flash.jin10.com/detail/20260223223630935800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "鉴于特朗普的关税风险，欧盟拟冻结对与美国贸易协议的批准程序",
           "url": "https://flash.jin10.com/detail/20260223184821705800",
           "source": "金十数据",
@@ -521,6 +599,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
+        },
+        {
+          "title": "特朗普计划对高级别工作者进行绩效评级改革。根据拟议规则，工作者无法质疑低评级。新提案同样覆盖科学家及专业工作者。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3057511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "特朗普：墨西哥必须加大力度打击贩毒集团和毒品。",
+          "url": "https://wallstreetcn.com/livenews/3057509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "韩国产业部长：将在政府应对特朗普关税的举措中反映商界的意见。",
@@ -551,7 +651,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
         },
@@ -567,6 +667,17 @@
           "time_info": "09时11分"
         },
         {
+          "title": "市场消息：美国法官永久禁止公布特别检察官关于特朗普涉密文件案的报告。",
+          "url": "https://flash.jin10.com/detail/20260223221216873800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "Netflix董事会成员警告“向特朗普屈膝”企业将自食其果，特朗普怒了",
           "url": "https://wallstreetcn.com/livenews/3057250",
           "source": "华尔街见闻-快讯",
@@ -576,12 +687,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
+        },
+        {
+          "title": "美国总统特朗普：墨西哥必须在打击贩毒集团和毒品方面加大力度。",
+          "url": "https://flash.jin10.com/detail/20260223220846985800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
@@ -605,6 +727,20 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时18分 ~ 09时11分]"
+        },
+        {
+          "title": "关税政策不确定性笼罩市场，美元与美股期货走低，现货黄金站上5170美元，油价走低",
+          "url": "https://wallstreetcn.com/articles/3765966",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时40分 ~ 23时17分]"
         },
         {
           "title": "达美乐比萨第四季度营收15.4亿美元，预估15.2亿美元。 第四季度调整后每股收益5.35美元，预估5.37美元。 达美乐比萨美股盘前涨近5%。",
@@ -644,19 +780,6 @@
           "time_info": "[17时43分 ~ 19时33分]"
         },
         {
-          "title": "关税政策不确定性笼罩市场，美元与美股期货走低，现货黄金站上5170美元，油价走低",
-          "url": "https://wallstreetcn.com/articles/3765966",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时40分 ~ 20时40分]"
-        },
-        {
           "title": "诺和诺德美股盘前跌11%，礼来盘前涨超4%，诺和诺德的CagriSema在试验中效果不及礼来Zepbound。",
           "url": "https://wallstreetcn.com/livenews/3057431",
           "source": "华尔街见闻-快讯",
@@ -669,13 +792,46 @@
           "time_info": "[18时40分 ~ 19时33分]"
         },
         {
+          "title": "特朗普关税进入迷雾区 美股投资者将聚焦沃勒最新讲话 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2292918",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "金十图示：2026年02月23日（周一）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260223223817753800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "全球航空业ETF跌1.79%，在美股盘初领跌行业ETF，网络股指数ETF跌1.77%，可选消费ETF跌1.18%，全球科技股指数ETF跌0.34%，科技行业ETF跌0.28%，半导体ETF涨0.44%，生物科技指数ETF涨1.16%。",
+          "url": "https://wallstreetcn.com/livenews/3057524",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "特朗普关税被判违法 华尔街投行：哪些美股公司最受益？",
           "url": "https://www.cls.cn/detail/2292391",
           "source": "财联社热门",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
         },
@@ -689,6 +845,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
+        },
+        {
+          "title": "美股开盘，道指跌0.33%、标普500指数跌0.15%、纳指跌0.13%，诺和诺德(NVO.N)大跌15.65%，公司称其减肥药物卡格列肽（Cagrisema）的实验效果不及礼来的替尔泊肽（Zepbound），礼来(LLY.N)开涨3.86%。",
+          "url": "https://flash.jin10.com/detail/20260223223042733800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3057503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         }
       ]
     },
@@ -705,11 +883,12 @@
             13,
             12,
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时18分 ~ 20时40分]"
+          "appearance_count": 24,
+          "time_info": "[00时18分 ~ 23时17分]"
         },
         {
           "title": "分析：英伟达下周公布的财报即使亮眼，可能也无法提振股价",
@@ -775,11 +954,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350876&amp;topic_name=%E6%B8%B8%E6%88%8F%E6%9C%BA%E8%A2%AB%E6%B2%A1%E6%94%B6%2C%E7%94%B7%E5%AD%A9%E6%9E%AA%E6%9D%80%E5%85%BB%E7%88%B6",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时37分 ~ 20时40分]"
+          "appearance_count": 7,
+          "time_info": "[16时37分 ~ 23时17分]"
         }
       ]
     }

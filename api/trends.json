@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-28T03:28:02.188255+08:00",
-  "total_titles_processed": 508,
+  "generated_at": "2026-02-28T04:19:24.612198+08:00",
+  "total_titles_processed": 543,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 43,
       "titles": [
         {
           "title": "美军中东最高指挥官向特朗普汇报",
@@ -17,8 +17,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 03时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 04时19分]"
         },
         {
           "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
@@ -28,8 +28,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 03时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 04时19分]"
         },
         {
           "title": "释疑｜特朗普再出重拳，美国用了哪些杀招让古巴“窒息”？",
@@ -40,8 +40,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 03时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 04时19分]"
         },
         {
           "title": "特朗普在Truth Social上发布了一封关于政治行动的FTC信件，其中提到苹果(AAPL.O)。",
@@ -64,6 +64,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
+        },
+        {
+          "title": "特朗普政府表示，在额外获得2亿美元资金后，对新型农业实践研究的投入将超过10亿美元。",
+          "url": "https://flash.jin10.com/detail/20260228041113668800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
         },
         {
           "title": "市场消息：特朗普在最高法院败诉后，面临2000起关税诉讼。已有100多家公司提起新的诉讼。",
@@ -99,6 +110,19 @@
           "time_info": "02时28分"
         },
         {
+          "title": "美国总统特朗普：我们看看伊朗局势将如何发展，一切都会有好的结果。",
+          "url": "https://wallstreetcn.com/livenews/3060466",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时28分 ~ 04时19分]"
+        },
+        {
           "title": "美国总统特朗普的政府在2月26日向（国会山）民主党发送关于国土安全部（DHS）拨款问题的最新建议。（Politico）",
           "url": "https://wallstreetcn.com/livenews/3060437",
           "source": "华尔街见闻-快讯",
@@ -111,28 +135,17 @@
           "time_info": "[01时27分 ~ 02时28分]"
         },
         {
-          "title": "美国总统特朗普：我们看看伊朗局势将如何发展，一切都会有好的结果。",
-          "url": "https://wallstreetcn.com/livenews/3060466",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时28分 ~ 03时28分]"
-        },
-        {
           "title": "美国总统特朗普：汽油价格正在大幅下降。",
           "url": "https://wallstreetcn.com/livenews/3060465",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            16
+            16,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时28分 ~ 03时28分]"
+          "appearance_count": 3,
+          "time_info": "[02时28分 ~ 04时19分]"
         },
         {
           "title": "美国总统特朗普：我们希望与俄罗斯、乌克兰达成一份协议。",
@@ -140,11 +153,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            18
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时28分 ~ 04时19分]"
+        },
+        {
+          "title": "美国总统特朗普宣称：关税已经影响到诺华制药。 该公司打算在美国建厂。",
+          "url": "https://wallstreetcn.com/livenews/3060471",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时28分 ~ 03时28分]"
+          "time_info": "[03时28分 ~ 04时19分]"
         },
         {
           "title": "意大利总理不赞同特朗普对欧征关税，呼吁欧盟与美国建立自由贸易区",
@@ -262,17 +288,6 @@
           "time_info": "02时28分"
         },
         {
-          "title": "美国总统特朗普宣称：关税已经影响到诺华制药。 该公司打算在美国建厂。",
-          "url": "https://wallstreetcn.com/livenews/3060471",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        },
-        {
           "title": "美国总统特朗普：古巴处境很危险。",
           "url": "https://flash.jin10.com/detail/20260228020158379800",
           "source": "金十数据",
@@ -295,6 +310,28 @@
           "time_info": "02时28分"
         },
         {
+          "title": "据华尔街日报：美国共和党人敦促特朗普叫停英国在迪戈加西亚岛建设军事基地的计划。",
+          "url": "https://flash.jin10.com/detail/20260228032207190800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
+        },
+        {
+          "title": "美国联邦住房金融局局长普尔特：抵押贷款利率降至5%区间！感谢特朗普总统！",
+          "url": "https://flash.jin10.com/detail/20260228031931827800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
+        },
+        {
           "title": "美国总统特朗普：（谈卢特尼克和爱泼斯坦调查）他会做他想做的任何事。",
           "url": "https://flash.jin10.com/detail/20260228020043724800",
           "source": "金十数据",
@@ -312,7 +349,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
         },
@@ -345,7 +382,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
         },
@@ -367,7 +404,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
         },
@@ -422,7 +459,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
         },
@@ -472,11 +509,12 @@
           "ranks": [
             11,
             13,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 03时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 04时19分]"
         },
         {
           "title": "「你击杀了一只下瘟疫老鼠，获得掉落物 - 瘟疫长剑」这非常违和，为什么游戏里会经常出现？还有类似组合么？",
@@ -487,8 +525,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 03时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 04时19分]"
         },
         {
           "title": "送游戏被当舔狗,吧友狂挽尊",
@@ -498,8 +536,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 03时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 04时19分]"
         }
       ]
     },
@@ -515,19 +553,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 03时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 04时19分]"
         },
         {
           "title": "AI泡沫担忧升温！英伟达财报超预期股价却盘中重挫5.7%，创三个月最大盘中跌幅",
           "url": "https://wallstreetcn.com/articles/3766293",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 03时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 04时19分]"
         },
         {
           "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
@@ -537,8 +576,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时27分 ~ 03时28分]"
+          "appearance_count": 6,
+          "time_info": "[01时27分 ~ 04时19分]"
         }
       ]
     },
@@ -552,22 +591,24 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 03时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 04时19分]"
         },
         {
           "title": "美国10年期国债收益率跌穿3.96%，创10月23日以来新低，日内当前跌超4.2个基点。 两年期美债收益率跌超4.5个基点，失守3.38%，创10月17日以来新低；30年期美债收益率跌约2.7个基点，刷新日低至4.6287%。",
           "url": "https://wallstreetcn.com/livenews/3060482",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时28分 ~ 04时19分]"
         }
       ]
     },
@@ -584,8 +625,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 03时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 04时19分]"
         },
         {
           "title": "国际原子能机构：临时停火使得恢复向乌克兰扎波罗热核电站提供的场外备用电力供应成为可能。",
@@ -594,7 +635,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
         }
@@ -646,8 +687,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 03时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 04时19分]"
         }
       ]
     }

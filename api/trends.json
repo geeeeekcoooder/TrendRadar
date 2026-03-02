@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-02T17:38:11.028715+08:00",
-  "total_titles_processed": 1552,
+  "generated_at": "2026-03-02T18:35:47.571061+08:00",
+  "total_titles_processed": 1641,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,18 @@
           "time_info": "[00时16分 ~ 09时10分]"
         },
         {
+          "title": "“不得不说，特朗普的计划落空了”",
+          "url": "https://news.ifeng.com/c/8rAA4FIm65f",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时45分 ~ 18时35分]"
+        },
+        {
           "title": "特朗普称对伊朗军事行动或持续约4周，伊朗公布反击“成果”，英法德或采取防御",
           "url": "https://wallstreetcn.com/articles/3766474",
           "source": "华尔街见闻",
@@ -29,20 +41,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时09分 ~ 17时38分]"
+          "appearance_count": 12,
+          "time_info": "[09时09分 ~ 18时35分]"
         },
         {
-          "title": "“不得不说，特朗普的计划落空了”",
-          "url": "https://news.ifeng.com/c/8rAA4FIm65f",
-          "source": "凤凰网",
+          "title": "“委内瑞拉模式”结局是选项之一？特朗普：同意与伊朗新领导层对话，伊朗：不谈",
+          "url": "https://wallstreetcn.com/articles/3766494",
+          "source": "华尔街见闻",
           "ranks": [
-            4,
-            3
+            8,
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时45分 ~ 17时38分]"
+          "appearance_count": 8,
+          "time_info": "[13时45分 ~ 18时35分]"
         },
         {
           "title": "特朗普：对伊朗的军事行动可能持续四周左右",
@@ -80,17 +93,16 @@
           "time_info": "[06时14分 ~ 09时10分]"
         },
         {
-          "title": "“委内瑞拉模式”结局是选项之一？特朗普：同意与伊朗新领导层对话，伊朗：不谈",
-          "url": "https://wallstreetcn.com/articles/3766494",
+          "title": "特朗普称不达目标不停战 伊朗称何时停战由伊方决定",
+          "url": "https://wallstreetcn.com/articles/3766483",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            5,
-            2
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时45分 ~ 17时38分]"
+          "appearance_count": 10,
+          "time_info": "[12时04分 ~ 18时35分]"
         },
         {
           "title": "美以伊战争最新动态｜特朗普：对伊军事行动或持4周",
@@ -127,17 +139,6 @@
           "time_info": "[00时16分 ~ 09时10分]"
         },
         {
-          "title": "特朗普称不达目标不停战 伊朗称何时停战由伊方决定",
-          "url": "https://wallstreetcn.com/articles/3766483",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时04分 ~ 17时38分]"
-        },
-        {
           "title": "特朗普：伊朗新领导层希望恢复谈判，我同意了",
           "url": "https://news.ifeng.com/c/8r9Nda8tUH6",
           "source": "凤凰网",
@@ -158,8 +159,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时33分 ~ 17时38分]"
+          "appearance_count": 4,
+          "time_info": "[16时33分 ~ 18时35分]"
         },
         {
           "title": "特朗普没有“速战速决”！全球市场直面“伊朗冲击”，焦点是“持续时间”",
@@ -167,11 +168,28 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时45分 ~ 17时38分]"
+          "appearance_count": 8,
+          "time_info": "[13时45分 ~ 18时35分]"
+        },
+        {
+          "title": "特朗普称不达目标不停战",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E8%BE%BE%E7%9B%AE%E6%A0%87%E4%B8%8D%E5%81%9C%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            17,
+            18,
+            20,
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时45分 ~ 18时35分]"
         },
         {
           "title": "特朗普：美军在对伊行动中打死48名伊朗指挥官",
@@ -211,21 +229,6 @@
           "time_info": "[12时04分 ~ 12时05分]"
         },
         {
-          "title": "特朗普称不达目标不停战",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E8%BE%BE%E7%9B%AE%E6%A0%87%E4%B8%8D%E5%81%9C%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            17,
-            18,
-            20,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时45分 ~ 17时38分]"
-        },
-        {
           "title": "特朗普最新讲话：将为战死美士兵复仇，伊军若不投降必死无疑",
           "url": "https://m.thepaper.cn/newsDetail_forward_32682695",
           "source": "澎湃新闻",
@@ -234,8 +237,20 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时42分 ~ 17时38分]"
+          "appearance_count": 6,
+          "time_info": "[15时42分 ~ 18时35分]"
+        },
+        {
+          "title": "AI国防应用持续强化：特朗普“拉黑”Anthropic后 美军仍在美伊冲突中使用其产品",
+          "url": "https://www.cls.cn/detail/2299598",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时37分 ~ 18时35分]"
         },
         {
           "title": "白宫：特朗普已分别与以色列、巴林及阿联酋领导人通话",
@@ -273,6 +288,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时14分 ~ 06时15分]"
+        },
+        {
+          "title": "特朗普称不达目标不停战 伊朗称何时停战由伊方决定",
+          "url": "https://www.cls.cn/detail/2299355",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时33分 ~ 18时35分]"
         },
         {
           "title": "据《大西洋月刊》：美国总统特朗普在谈及与伊朗谈判的时机时表示，我不能告诉你。",
@@ -335,18 +363,6 @@
           "time_info": "[05时14分 ~ 06时15分]"
         },
         {
-          "title": "特朗普称不达目标不停战 伊朗称何时停战由伊方决定",
-          "url": "https://www.cls.cn/detail/2299355",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时33分 ~ 17时38分]"
-        },
-        {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普听取了有关得州奥斯汀枪击案的汇报。",
           "url": "https://wallstreetcn.com/livenews/3061257",
           "source": "华尔街见闻-快讯",
@@ -371,17 +387,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时14分 ~ 07时15分]"
-        },
-        {
-          "title": "AI国防应用持续强化：特朗普“拉黑”Anthropic后 美军仍在美伊冲突中使用其产品",
-          "url": "https://www.cls.cn/detail/2299598",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时37分 ~ 17时38分]"
         },
         {
           "title": "特朗普称同意与伊朗新领导层对话，伊朗外长称对缓解紧张局势持开放态度，释放了什么信号？双方在盘算什么？",
@@ -729,7 +734,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "伊朗危机冲击全球市场：欧美股市齐跌，巴基斯坦股市触及熔断，布油涨8%，黄金突破5400",
@@ -776,6 +781,17 @@
           "time_info": "14时44分"
         },
         {
+          "title": "伊朗危机冲击，纳指期货大跌2%，美股盘前金油板块集体大涨，布油涨8%，黄金突破5400",
+          "url": "https://wallstreetcn.com/articles/3766477",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        },
+        {
           "title": "全球市场开盘“未见恐慌”：美股三大股指期货均跌1%，油价跳涨13%但涨幅显著回落，黄金逼近5400美元",
           "url": "https://wallstreetcn.com/articles/3766477",
           "source": "华尔街见闻",
@@ -815,9 +831,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时38分"
+        },
+        {
+          "title": "中东局势推升通胀忧虑 美股科技巨头估值承压",
+          "url": "https://flash.jin10.com/detail/20260302180804326800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
         },
         {
           "title": "美股盘前：黄金概念股、石油股、军工股上涨，科技股下跌",
@@ -826,7 +853,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时38分"
         }
@@ -922,8 +949,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时45分 ~ 17时38分]"
+          "appearance_count": 8,
+          "time_info": "[13时45分 ~ 18时35分]"
         }
       ]
     },
@@ -936,11 +963,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351200&amp;topic_name=%E5%90%93%E5%93%AD%E4%BA%86%2C%E8%8B%B1%E4%BC%9F%E8%BE%BEQ4%E5%88%A9%E6%B6%A6%E7%A0%B4%E5%8D%83%E4%BA%BF",
           "source": "贴吧",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时33分 ~ 17时38分]"
+          "appearance_count": 4,
+          "time_info": "[16时33分 ~ 18时35分]"
         },
         {
           "title": "英伟达发布通信网络基建联盟倡议 探索6G与人工智能深度融合",

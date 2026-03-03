@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T07:17:41.272181+08:00",
-  "total_titles_processed": 687,
+  "generated_at": "2026-03-03T09:12:33.761255+08:00",
+  "total_titles_processed": 842,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 42,
       "titles": [
         {
           "title": "“委内瑞拉模式”结局是选项之一？特朗普：同意与伊朗新领导层对话，伊朗：不谈",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 07时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时32分 ~ 09时12分]"
         },
         {
           "title": "“不得不说，特朗普的计划落空了”",
@@ -26,19 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 07时17分]"
-        },
-        {
-          "title": "外交部回应特朗普3月访华能否成行",
-          "url": "https://www.toutiao.com/trending/7611824247237361727/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 07时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时32分 ~ 09时12分]"
         },
         {
           "title": "特朗普称不达目标不停战 伊朗称何时停战由伊方决定",
@@ -62,6 +51,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时32分 ~ 05时25分]"
+        },
+        {
+          "title": "外交部回应特朗普3月访华能否成行",
+          "url": "https://www.toutiao.com/trending/7611824247237361727/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时32分 ~ 09时12分]"
         },
         {
           "title": "特朗普，还有一仗？",
@@ -150,6 +151,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时32分 ~ 01时38分]"
+        },
+        {
+          "title": "克林顿称特朗普曾提及与爱泼斯坦“有过美好时光”",
+          "url": "https://flash.jin10.com/detail/20260303084946784800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
+        },
+        {
+          "title": "特朗普：“不排除派地面部队”",
+          "url": "https://wallstreetcn.com/livenews/3062262",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
         },
         {
           "title": "前美联储主席、前美国财政部长耶伦：总统特朗普的行动推高了美国国债的风险溢价。",
@@ -285,13 +308,57 @@
           "time_info": "[01时38分 ~ 02时33分]"
         },
         {
+          "title": "美国要“打入”伊朗？特朗普不排除“必要时”派遣地面部队，北约称不参与军事行动",
+          "url": "https://wallstreetcn.com/articles/3766558",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
+        },
+        {
+          "title": "特朗普：不排除派地面部队",
+          "url": "https://news.ifeng.com/c/8rBa5Cg6WwD",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
+        },
+        {
+          "title": "美媒：特朗普主张对伊朗开战的多项理由不成立",
+          "url": "https://flash.jin10.com/detail/20260303083406982800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
+        },
+        {
+          "title": "克林顿称特朗普曾提及与爱泼斯坦“有过美好时光”",
+          "url": "https://wallstreetcn.com/livenews/3062255",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
+        },
+        {
           "title": "周一（3月2日），降息赢家指数跌1.99%，报96.33点。 “特朗普关税输家”指数跌2.25%，报111.90点。 “特朗普金融指数”涨0.69%，报155.57点。 散户抱团概念股指数/迷因股（meme stock）指数跌2.40%，报12.94点。",
           "url": "https://wallstreetcn.com/livenews/3062170",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         },
@@ -431,7 +498,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "伊朗危机冲击，美股指低开，纳指跌超1.5%，布油涨8%，黄金突破5400",
@@ -461,11 +528,12 @@
           "url": "https://www.cls.cn/detail/2300479",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时17分 ~ 09时12分]"
         },
         {
           "title": "美股七巨头收盘播报｜周一（3月2日），美国科技股七巨头（Magnificent 7）指数涨0.66%，报194.61点。 “超大”市值科技股指数涨0.33%，报367.84点。",
@@ -557,9 +625,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "高盛交易员认为美股反弹前将经历“痛苦”之路",
+          "url": "https://wallstreetcn.com/livenews/3062256",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
         },
         {
           "title": "金十图示：2026年03月02日（周一）热门中概股行情一览（美股盘中）",
@@ -576,8 +655,19 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "马斯克称赞阿里巴巴Qwen模型",
+          "url": "https://wallstreetcn.com/livenews/3062268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
+        },
         {
           "title": "据知情人士透露，随着SpaceX的IPO临近，马斯克旗下社交媒体平台X（原名推特）和和人工智能（AI）初创公司xAI将偿还175亿美元债务。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3062123",
@@ -639,7 +729,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "伊朗危机点燃通胀担忧，美股指惊险走V，原油暴涨重创美债，美元大涨，黄金冲高回落",
@@ -648,9 +738,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "能源和科技股力撑，美股指走V收复失地，原油暴涨重创美债，美元大涨，黄金冲高回落",
+          "url": "https://wallstreetcn.com/articles/3766477",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
         },
         {
           "title": "短中期美债收益率涨超10个基点，投资者担忧中东局势给美国带来通胀风险",
@@ -690,47 +791,8 @@
       ]
     },
     {
-      "keyword_group": "美元",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美元指数2日大幅上涨",
-          "url": "https://flash.jin10.com/detail/20260303061532268800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时17分"
-        },
-        {
-          "title": "美元指数涨0.8%",
-          "url": "https://wallstreetcn.com/livenews/3062129",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时25分"
-        },
-        {
-          "title": "美元指数DXY日内大涨1.00%，现报98.65。",
-          "url": "https://flash.jin10.com/detail/20260302235801305800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        }
-      ]
-    },
-    {
       "keyword_group": "游戏",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "我从来没玩过恐怖游戏，第一次玩《生化危机 9：安魂曲》，可以得到什么忠告？",
@@ -759,6 +821,17 @@
           "time_info": "[01时37分 ~ 02时33分]"
         },
         {
+          "title": "一个做游戏的开发者如果不停测试自己的游戏，会不会觉得玩起来很无聊？",
+          "url": "https://www.zhihu.com/question/2007584733505282252",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
+        },
+        {
           "title": "那些小厂商或独立作者在 steam 发售的游戏没做宣传，会有人发现并去买吗，会和不会都是因为哪些原因呢？",
           "url": "https://www.zhihu.com/question/503453184",
           "source": "知乎",
@@ -772,6 +845,73 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美元指数2日大幅上涨",
+          "url": "https://flash.jin10.com/detail/20260303061532268800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
+          "title": "美元指数涨0.8%",
+          "url": "https://wallstreetcn.com/livenews/3062129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
+          "title": "美元指数DXY日内大涨1.00%，现报98.65。",
+          "url": "https://flash.jin10.com/detail/20260302235801305800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "电力",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "秘鲁天然气运输公司：在发生天然气泄漏和燃烧事故后，将对工业和电力用户实施临时限供措施。",
+          "url": "https://flash.jin10.com/detail/20260303011041774800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        },
+        {
+          "title": "亚马逊云服务(AWS)：由于中东地区持续冲突，受波及的两个地区均因无人机袭击遭受了基础设施的物理破坏。这些袭击已造成结构性损坏，并中断了我们基础设施的电力供应。",
+          "url": "https://flash.jin10.com/detail/20260303082217493800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
+        }
+      ]
+    },
+    {
       "keyword_group": "英伟达",
       "match_count": 2,
       "titles": [
@@ -780,11 +920,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351200&amp;topic_name=%E5%90%93%E5%93%AD%E4%BA%86%2C%E8%8B%B1%E4%BC%9F%E8%BE%BEQ4%E5%88%A9%E6%B6%A6%E7%A0%B4%E5%8D%83%E4%BA%BF",
           "source": "贴吧",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 07时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时32分 ~ 09时12分]"
         },
         {
           "title": "据英国金融时报：英伟达支持的“开放”人工智能初创公司Reflection AI以逾200亿美元估值吸引投资者。Reflection AI正寻求在新一轮融资中至少筹集20亿美元。",
@@ -792,23 +933,6 @@
           "source": "金十数据",
           "ranks": [
             13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "电力",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "秘鲁天然气运输公司：在发生天然气泄漏和燃烧事故后，将对工业和电力用户实施临时限供措施。",
-          "url": "https://flash.jin10.com/detail/20260303011041774800",
-          "source": "金十数据",
-          "ranks": [
-            9
           ],
           "is_new": false,
           "appearance_count": 1,

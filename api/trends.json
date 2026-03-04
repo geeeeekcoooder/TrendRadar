@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T22:32:29.733069+08:00",
-  "total_titles_processed": 2080,
+  "generated_at": "2026-03-04T23:31:53.942529+08:00",
+  "total_titles_processed": 2168,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 92,
+      "match_count": 95,
       "titles": [
         {
           "title": "冲突升级！美伊双方都“不惜代价”，特朗普吹嘘“无限”弹药，并将很快回应大使馆遇袭",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时01分 ~ 22时32分]"
+          "appearance_count": 15,
+          "time_info": "[12时01分 ~ 23时31分]"
         },
         {
           "title": "动武后才通知国会！特朗普向国会提交《战争权力法案》通知",
@@ -81,8 +81,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时31分 ~ 22时32分]"
+          "appearance_count": 9,
+          "time_info": "[17时31分 ~ 23时31分]"
         },
         {
           "title": "民调显示 43% 美民众反对打击伊朗，怕重蹈伊拉克覆辙，特朗普为何执意升级打击？为何能越过国会授权开战？",
@@ -93,8 +93,21 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时26分 ~ 22时32分]"
+          "appearance_count": 8,
+          "time_info": "[18时26分 ~ 23时31分]"
+        },
+        {
+          "title": "霍尔木兹遭封锁 特朗普抛出保险与护航方案 航运业态度谨慎",
+          "url": "https://www.cls.cn/detail/2302897",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时50分 ~ 23时31分]"
         },
         {
           "title": "特朗普“护航”未能平息局势！亚洲市场继续暴跌、韩股创有史以来最大跌幅，泰股停牌，油价再涨3%",
@@ -139,6 +152,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
+        },
+        {
+          "title": "特朗普遣内政部长密访加拉加斯 联手临时政府重组能源版图",
+          "url": "https://flash.jin10.com/detail/20260304230521606800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
         },
         {
           "title": "美国总统特朗普：乌克兰在我优先事项清单上排得很靠前。",
@@ -269,18 +293,6 @@
           "time_info": "[12时01分 ~ 15时32分]"
         },
         {
-          "title": "霍尔木兹遭封锁 特朗普抛出保险与护航方案 航运业态度谨慎",
-          "url": "https://www.cls.cn/detail/2302897",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时50分 ~ 22时32分]"
-        },
-        {
           "title": "市场消息：伊拉克总理候选人阿尔-马利基宣布撤回总理竞选，几周前特朗普曾要求他退出。",
           "url": "https://flash.jin10.com/detail/20260304054539761800",
           "source": "金十数据",
@@ -365,6 +377,17 @@
           "time_info": "[14时35分 ~ 15时32分]"
         },
         {
+          "title": "特朗普夫人，“翻车”了",
+          "url": "https://news.ifeng.com/c/8rDt5OSzLi7",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时32分 ~ 23时31分]"
+        },
+        {
           "title": "特朗普妻子被怒斥你丈夫下令轰炸小学",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A6%BB%E5%AD%90%E8%A2%AB%E6%80%92%E6%96%A5%E4%BD%A0%E4%B8%88%E5%A4%AB%E4%B8%8B%E4%BB%A4%E8%BD%B0%E7%82%B8%E5%B0%8F%E5%AD%A6%23&t=31&band_rank=11&Refer=top",
           "source": "微博",
@@ -374,6 +397,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时07分 ~ 09时08分]"
+        },
+        {
+          "title": "美称打死试图暗杀特朗普的伊朗高官",
+          "url": "https://www.toutiao.com/trending/7613391444652330559/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时32分 ~ 23时31分]"
         },
         {
           "title": "西班牙回应特朗普贸易威胁",
@@ -514,7 +549,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时32分"
         },
@@ -583,17 +618,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
-        },
-        {
-          "title": "特朗普夫人，“翻车”了",
-          "url": "https://news.ifeng.com/c/8rDt5OSzLi7",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时32分"
         },
         {
           "title": "沃什未上任已挑战重重，同僚质疑与油价飙升恐令其难圆特朗普的降息梦",
@@ -750,17 +774,6 @@
           "time_info": "01时36分"
         },
         {
-          "title": "美称打死试图暗杀特朗普的伊朗高官",
-          "url": "https://www.toutiao.com/trending/7613391444652330559/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时32分"
-        },
-        {
           "title": "美国总统特朗普：我们还有5个月的时间，关税仍将维持在15%。",
           "url": "https://flash.jin10.com/detail/20260304011852586800",
           "source": "金十数据",
@@ -827,6 +840,17 @@
           "time_info": "01时36分"
         },
         {
+          "title": "美国总统特朗普派遣内政部长前往委内瑞拉，推动石油和采矿业。",
+          "url": "https://wallstreetcn.com/livenews/3063720",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
+        },
+        {
           "title": "德国总理默茨：美国总统特朗普向我保证，美国将坚守驻德承诺。",
           "url": "https://flash.jin10.com/detail/20260304043615979800",
           "source": "金十数据",
@@ -866,7 +890,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时32分"
         },
@@ -1045,12 +1069,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
+        },
+        {
+          "title": "特朗普提议废除美国联邦裁员中的“资历保护”",
+          "url": "https://wallstreetcn.com/livenews/3063704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "美股收盘：中东冲突加剧通胀担忧 三大股指集体收跌",
@@ -1080,6 +1115,17 @@
           "time_info": "[00时35分 ~ 12时02分]"
         },
         {
+          "title": "美国“小非农”超预期回暖，美股期指维持涨势，美油转跌，断供影响伦铝创四年新高",
+          "url": "https://wallstreetcn.com/articles/3766668",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时50分 ~ 23时31分]"
+        },
+        {
           "title": "市场评估特朗普“护航”计划，美股期指转涨，德股涨超1%，韩股历史性暴跌12%，油价再涨3%，白银涨5%",
           "url": "https://wallstreetcn.com/articles/3766668",
           "source": "华尔街见闻",
@@ -1090,17 +1136,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[18时26分 ~ 20时33分]"
-        },
-        {
-          "title": "美国“小非农”超预期回暖，美股期指维持涨势，美油转跌，断供影响伦铝创四年新高",
-          "url": "https://wallstreetcn.com/articles/3766668",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时50分 ~ 22时32分]"
         },
         {
           "title": "特朗普承诺“护航”，美股指跌幅收窄，纳指仍跌超1%，原油冲高回落涨5%，美元强势二连涨，金银重挫",
@@ -1162,6 +1197,17 @@
           "time_info": "[05时25分 ~ 06时19分]"
         },
         {
+          "title": "中东局势升级但市场情绪暂稳 美股三大期指集体走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2302992",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时32分 ~ 23时31分]"
+        },
+        {
           "title": "周二（3月3日），在美股时段交易的费城金银指数收跌8.08%，报431.35点，美股盘初跳水、整体呈现出长尾L形走势。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌7.68%，报3053.61点，全天处于下跌状态，美股开盘之前保持微幅下跌状态——持稳于32.76点上方，随后跳空下挫，北京时间23:17刷新日低至2975点。 在美股时段交易的原材料指数收跌3.72%，金属与矿业指数收跌3.57%。",
           "url": "https://wallstreetcn.com/livenews/3063031",
           "source": "华尔街见闻-快讯",
@@ -1220,17 +1266,6 @@
           "time_info": "[05时25分 ~ 06时19分]"
         },
         {
-          "title": "中东局势升级但市场情绪暂稳 美股三大期指集体走高 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2302992",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时32分"
-        },
-        {
           "title": "金十图示：2026年03月03日（周二）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260304020824934800",
           "source": "金十数据",
@@ -1248,7 +1283,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时32分"
         },
@@ -1284,6 +1319,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
+        },
+        {
+          "title": "全球航空业ETF涨1.71%，半导体ETF涨1.36%，全球科技股指数ETF涨1.09%，科技行业ETF涨0.93%，在美股盘初领跑行业ETF，医疗业ETF、公用事业ETF、能源业ETF至多跌0.41%。",
+          "url": "https://wallstreetcn.com/livenews/3063711",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
+        },
+        {
+          "title": "金十图示：2026年03月04日（周三）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260304224352176800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
         }
       ]
     },
@@ -1300,8 +1357,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时07分 ~ 22时32分]"
+          "appearance_count": 17,
+          "time_info": "[09时07分 ~ 23时31分]"
         },
         {
           "title": "能源和科技股力撑，美股指走V收复失地，原油暴涨重创美债，美元大涨，黄金冲高回落",
@@ -1544,7 +1601,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时32分"
         },

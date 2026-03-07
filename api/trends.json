@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T15:22:47.920400+08:00",
-  "total_titles_processed": 1152,
+  "generated_at": "2026-03-07T16:19:09.847733+08:00",
+  "total_titles_processed": 1259,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时51分 ~ 15时22分]"
+          "appearance_count": 10,
+          "time_info": "[11时51分 ~ 16时19分]"
         },
         {
           "title": "反转！报道：特朗普政府搁置财政部“操盘”原油期货的计划",
@@ -113,6 +113,18 @@
           "time_info": "[04时21分 ~ 09时06分]"
         },
         {
+          "title": "奥巴马、拜登“不点名”抨击特朗普政府",
+          "url": "https://news.ifeng.com/c/8rIXypaKu4O",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时26分 ~ 16时19分]"
+        },
+        {
           "title": "美国总统特朗普：（谈伊朗）无条件投降可能是（伊朗人）宣布无条件投降，也可能是他们再也无法战斗，没有人或东西可以战斗时。",
           "url": "https://flash.jin10.com/detail/20260307033923007800",
           "source": "金十数据",
@@ -169,18 +181,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时21分 ~ 07时19分]"
-        },
-        {
-          "title": "奥巴马、拜登“不点名”抨击特朗普政府",
-          "url": "https://news.ifeng.com/c/8rIXypaKu4O",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时26分 ~ 15时22分]"
         },
         {
           "title": "消息人士称特朗普对在伊朗部署美地面部队表达“浓厚兴趣”",
@@ -383,8 +383,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时19分 ~ 15时22分]"
+          "appearance_count": 13,
+          "time_info": "[07时19分 ~ 16时19分]"
         },
         {
           "title": "Hims & Hers Health美股盘后涨近37%，报道称诺和诺德计划在Hims的平台上销售其减肥药",

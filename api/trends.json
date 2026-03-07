@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-07T13:33:13.633771+08:00",
-  "total_titles_processed": 1019,
+  "generated_at": "2026-03-07T14:27:13.037619+08:00",
+  "total_titles_processed": 1095,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 31,
       "titles": [
         {
           "title": "特朗普：若满分10分，我给美对伊行动打15分",
@@ -19,6 +19,17 @@
           "time_info": "[00时28分 ~ 13时33分]"
         },
         {
+          "title": "特朗普宣称“与伊朗不会达成任何协议”，军工企业同意将“精良级”武器产量“翻两番”",
+          "url": "https://wallstreetcn.com/articles/3766927",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时51分 ~ 14时27分]"
+        },
+        {
           "title": "反转！报道：特朗普政府搁置财政部“操盘”原油期货的计划",
           "url": "https://wallstreetcn.com/articles/3766889",
           "source": "华尔街见闻",
@@ -29,8 +40,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时28分 ~ 13时33分]"
+          "appearance_count": 18,
+          "time_info": "[00时28分 ~ 14时27分]"
         },
         {
           "title": "“甩锅”特朗普，与下属传婚外情，她被开了",
@@ -53,17 +64,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时28分 ~ 09时06分]"
-        },
-        {
-          "title": "特朗普宣称“与伊朗不会达成任何协议”，军工企业同意将“精良级”武器产量“翻两番”",
-          "url": "https://wallstreetcn.com/articles/3766927",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时51分 ~ 13时33分]"
         },
         {
           "title": "特朗普：不接受哈梅内伊儿子担任伊朗新领导人，“我必须亲自参与任命”，伊朗外长：这完全是伊朗人民的事，任何人都无权干涉",
@@ -98,17 +98,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
-        },
-        {
-          "title": "据法新社：美国燃油价格上涨可能引发特朗普的国内危机。",
-          "url": "https://flash.jin10.com/detail/20260307124912015800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时33分"
         },
         {
           "title": "据The Verge：任天堂已起诉美国政府，要求退还特朗普时期征收的关税。",
@@ -158,6 +147,18 @@
           "time_info": "[06时18分 ~ 07时19分]"
         },
         {
+          "title": "据法新社：美国燃油价格上涨可能引发特朗普的国内危机。",
+          "url": "https://flash.jin10.com/detail/20260307124912015800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时33分 ~ 14时27分]"
+        },
+        {
           "title": "美国总统特朗普将于十分钟后会见美国国防部长赫格塞斯。",
           "url": "https://flash.jin10.com/detail/20260307032000001800",
           "source": "金十数据",
@@ -192,6 +193,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时18分 ~ 07时19分]"
+        },
+        {
+          "title": "奥巴马、拜登“不点名”抨击特朗普政府",
+          "url": "https://news.ifeng.com/c/8rIXypaKu4O",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时26分 ~ 14时27分]"
         },
         {
           "title": "美国总统特朗普：我们与国防制造公司进行了一次非常好的会谈。 英国宇航系统（BAE Systems）、波音、霍尼韦尔Honeywell Aerospace、雷神等企业的高管们出席了会议。 他们同意，将部分武器的产量提高三倍。",
@@ -241,6 +253,17 @@
           "time_info": "[09时05分 ~ 09时06分]"
         },
         {
+          "title": "白宫确认：特朗普将出席在对伊军事行动中死亡的6名美军士兵遗体移交仪式",
+          "url": "https://wallstreetcn.com/livenews/3065616",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
+        },
+        {
           "title": "特朗普引用纽约邮报文章表示，根据一项民调，叙利亚人对美国和以色列的态度变暖。",
           "url": "https://flash.jin10.com/detail/20260307000512363800",
           "source": "金十数据",
@@ -261,6 +284,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
+        },
+        {
+          "title": "白宫确认：特朗普将出席在对伊军事行动中死亡的6名美军士兵遗体移交仪式",
+          "url": "https://flash.jin10.com/detail/20260307134808115800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
+        },
+        {
+          "title": "美国驻约旦大使馆：保护美国公民的安全始终是特朗普总统、鲁比奥国务卿和国务院的首要任务。官员们正在探索更多选项，以帮助美国人离开中东。",
+          "url": "https://flash.jin10.com/detail/20260307134413447800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
         },
         {
           "title": "白宫：美国总统特朗普签署行政命令，打击针对美国人的网络犯罪、欺诈和掠夺性骗局。",
@@ -333,8 +378,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时19分 ~ 13时33分]"
+          "appearance_count": 10,
+          "time_info": "[07时19分 ~ 14时27分]"
         },
         {
           "title": "Hims & Hers Health美股盘后涨近37%，报道称诺和诺德计划在Hims的平台上销售其减肥药",
@@ -489,8 +534,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时28分 ~ 13时33分]"
+          "appearance_count": 18,
+          "time_info": "[00时28分 ~ 14时27分]"
         },
         {
           "title": "为什么现在的策略游戏没有以前的感觉了？",

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-07T09:06:12.884894+08:00",
-  "total_titles_processed": 751,
+  "generated_at": "2026-03-07T11:52:10.943947+08:00",
+  "total_titles_processed": 913,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
         {
           "title": "特朗普：若满分10分，我给美对伊行动打15分",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 09时06分]"
+          "appearance_count": 13,
+          "time_info": "[00时28分 ~ 11时52分]"
         },
         {
           "title": "反转！报道：特朗普政府搁置财政部“操盘”原油期货的计划",
@@ -25,11 +25,12 @@
           "ranks": [
             10,
             9,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 09时06分]"
+          "appearance_count": 13,
+          "time_info": "[00时28分 ~ 11时52分]"
         },
         {
           "title": "“甩锅”特朗普，与下属传婚外情，她被开了",
@@ -39,8 +40,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 09时06分]"
+          "appearance_count": 13,
+          "time_info": "[00时28分 ~ 11时52分]"
         },
         {
           "title": "特朗普威胁下一个就是古巴",
@@ -77,13 +78,24 @@
           "time_info": "[09时05分 ~ 09时06分]"
         },
         {
+          "title": "特朗普宣称“与伊朗不会达成任何协议”，军工企业同意将“精良级”武器产量“翻两番”",
+          "url": "https://wallstreetcn.com/articles/3766927",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时51分 ~ 11时52分]"
+        },
+        {
           "title": "特朗普：军工企业一致同意将“高精尖”武器产量提高四倍",
           "url": "https://flash.jin10.com/detail/20260307082138210800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
         },
@@ -171,6 +183,17 @@
           "time_info": "[06时18分 ~ 07时19分]"
         },
         {
+          "title": "特朗普称“与伊朗不会达成任何协议” 引发市场剧烈震荡",
+          "url": "https://www.cls.cn/detail/2305816",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时51分 ~ 11时52分]"
+        },
+        {
           "title": "继微软之后，谷歌公司也告诉用户们：在被特朗普政府封杀的领域之外，Anthropic仍然可用。",
           "url": "https://wallstreetcn.com/livenews/3065426",
           "source": "华尔街见闻-快讯",
@@ -216,6 +239,17 @@
           "time_info": "01时27分"
         },
         {
+          "title": "消息人士称特朗普对在伊朗部署美地面部队表达“浓厚兴趣”",
+          "url": "https://flash.jin10.com/detail/20260307105857912800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时52分"
+        },
+        {
           "title": "白宫：美国总统特朗普签署行政命令，打击针对美国人的网络犯罪、欺诈和掠夺性骗局。",
           "url": "https://flash.jin10.com/detail/20260307024524681800",
           "source": "金十数据",
@@ -258,6 +292,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
+        },
+        {
+          "title": "美媒称特朗普对在伊朗部署美地面部队表达“浓厚兴趣”",
+          "url": "https://wallstreetcn.com/livenews/3065567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时52分"
         }
       ]
     },
@@ -266,27 +311,28 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "美股收盘：油价暴涨叠加就业数据疲软 三大指数集体收跌",
+          "url": "https://www.cls.cn/detail/2305872",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时19分 ~ 11时52分]"
+        },
+        {
           "title": "Hims & Hers Health美股盘后涨近37%，报道称诺和诺德计划在Hims的平台上销售其减肥药",
           "url": "https://wallstreetcn.com/livenews/3065532",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
-        },
-        {
-          "title": "美股收盘：油价暴涨叠加就业数据疲软 三大指数集体收跌",
-          "url": "https://www.cls.cn/detail/2305872",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时19分 ~ 09时06分]"
         },
         {
           "title": "半导体ETF收跌超3.7%，领跌美股行业ETF",
@@ -419,6 +465,34 @@
       ]
     },
     {
+      "keyword_group": "游戏",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "不是说概念神都很强吗，那如果一个人打的每把游戏都百分百输，他怎么走上人生巅峰？",
+          "url": "https://www.zhihu.com/question/5229096312",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时28分 ~ 11时52分]"
+        },
+        {
+          "title": "为什么现在的策略游戏没有以前的感觉了？",
+          "url": "https://www.zhihu.com/question/524445474",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时51分 ~ 11时52分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "半导体",
       "match_count": 1,
       "titles": [
@@ -432,23 +506,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "游戏",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "不是说概念神都很强吗，那如果一个人打的每把游戏都百分百输，他怎么走上人生巅峰？",
-          "url": "https://www.zhihu.com/question/5229096312",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 09时06分]"
         }
       ]
     },

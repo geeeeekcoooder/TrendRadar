@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-10T20:36:53.272217+08:00",
-  "total_titles_processed": 1858,
+  "generated_at": "2026-03-10T21:55:51.064716+08:00",
+  "total_titles_processed": 1986,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 126,
+      "match_count": 128,
       "titles": [
         {
           "title": "TACO！特朗普称“战争很快结束”，美国股债深V反转，原油一度较日高跳水30%",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时05分 ~ 20时36分]"
+          "appearance_count": 17,
+          "time_info": "[09时05分 ~ 21时55分]"
         },
         {
           "title": "【早报】特朗普：将取消部分制裁，以平抑油价；国际油价高位跳水",
@@ -87,8 +87,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时05分 ~ 20时36分]"
+          "appearance_count": 17,
+          "time_info": "[09时05分 ~ 21时55分]"
         },
         {
           "title": "专家预言“霍尔木兹危机”将持续更久，特朗普发出“20倍攻击力”警告！",
@@ -207,8 +207,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时36分 ~ 20时36分]"
+          "appearance_count": 13,
+          "time_info": "[14时36分 ~ 21时55分]"
         },
         {
           "title": "美以伊战争｜特朗普：战争已基本结束",
@@ -253,6 +253,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时33分 ~ 03时34分]"
+        },
+        {
+          "title": "美以伊战争｜特朗普称可能与伊朗对话",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时36分 ~ 21时55分]"
+        },
+        {
+          "title": "特朗普称对伊军事行动很快结束，专家：美出现短板，被伊朗抓住",
+          "url": "https://news.ifeng.com/c/8rNxjUXwYy8",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时36分 ~ 21时55分]"
+        },
+        {
+          "title": "特朗普对伊朗开战的目标达成了吗？他承受了多大压力？",
+          "url": "https://v.ifeng.com/c/8rNwUGNMvZG",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时36分 ~ 21时55分]"
         },
         {
           "title": "媒体证实是美国「战斧」巡航导弹炸了伊朗小学，特朗普曾说是伊朗「自导自演」，究竟是怎么回事？",
@@ -313,28 +346,6 @@
           "time_info": "09时05分"
         },
         {
-          "title": "美以伊战争｜特朗普称可能与伊朗对话",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
-          "title": "特朗普称对伊军事行动很快结束，专家：美出现短板，被伊朗抓住",
-          "url": "https://news.ifeng.com/c/8rNxjUXwYy8",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
           "title": "美国总统特朗普：谈论缴获伊朗石油还为时尚早。",
           "url": "https://flash.jin10.com/detail/20260310011925949800",
           "source": "金十数据",
@@ -357,6 +368,17 @@
           "time_info": "06时19分"
         },
         {
+          "title": "特朗普：有可能有条件同伊朗谈判",
+          "url": "https://www.cls.cn/detail/2308807",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
           "title": "美国白宫：特朗普正在评估所有可能的油价应对方案。",
           "url": "https://flash.jin10.com/detail/20260310011623908800",
           "source": "金十数据",
@@ -377,17 +399,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
-        },
-        {
-          "title": "特朗普对伊朗开战的目标达成了吗？他承受了多大压力？",
-          "url": "https://v.ifeng.com/c/8rNwUGNMvZG",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
         },
         {
           "title": "特朗普新闻发布会：对伊军事行动会很快结束、油价涨幅低于预期",
@@ -721,7 +732,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时36分"
         },
@@ -798,7 +809,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时36分"
         },
@@ -902,6 +913,17 @@
           "time_info": "04时22分"
         },
         {
+          "title": "特朗普称有可能有条件同伊朗谈判",
+          "url": "https://www.toutiao.com/trending/7615598658259521050/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
           "title": "美国总统特朗普：战争可能很快就会结束。",
           "url": "https://flash.jin10.com/detail/20260310032035655800",
           "source": "金十数据",
@@ -985,7 +1007,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时36分"
         },
@@ -1326,7 +1348,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时36分"
         },
@@ -1444,7 +1466,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 24,
+      "match_count": 29,
       "titles": [
         {
           "title": "美股收盘：特朗普称战争“基本结束” 三大指数集体收涨 纳指涨超1%",
@@ -1500,9 +1522,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时36分"
+        },
+        {
+          "title": "特朗普释放停战对话信号，美股期指盘前回吐涨幅，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
+          "url": "https://wallstreetcn.com/articles/3767097",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时36分 ~ 21时55分]"
         },
         {
           "title": "特朗普释放停战信号，美股期指盘前上涨，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
@@ -1625,17 +1659,6 @@
           "time_info": "[05时23分 ~ 06时19分]"
         },
         {
-          "title": "特朗普释放停战对话信号，美股期指盘前回吐涨幅，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
-          "url": "https://wallstreetcn.com/articles/3767097",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
           "title": "BioNTech SE(BNTX.O)预计2026年总收入为20亿至23亿欧元，不及预期，BioNTech SE(BNTX.O)美股盘前下跌14%。",
           "url": "https://flash.jin10.com/detail/20260310184822899800",
           "source": "金十数据",
@@ -1647,6 +1670,17 @@
           "time_info": "19时26分"
         },
         {
+          "title": "金十图示：2026年03月10日（周二）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260310214202868800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
           "title": "柯尔百货第四季度销售净额49.7亿美元，同比下降3.9%，市场预估50.5亿美元。 第四季度毛利率33.1％，上年同期32.9％。 第四季度每股收益1.07美元，上年同期0.43美元，市场预估0.91美元。 第四季度经营利润2.12亿美元，同比增长68%。 柯尔百货美股盘前跌超7%。",
           "url": "https://wallstreetcn.com/livenews/3067251",
           "source": "华尔街见闻-快讯",
@@ -1656,6 +1690,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时26分"
+        },
+        {
+          "title": "美股三大指数开盘涨跌不一，纳指涨0.1%，道指跌0.05%，标普500指数跌0.05%。蔚来涨超6%，公司Q4实现经营利润12.5亿元，交付量大增71.7%。存储概念股普涨，西部数据涨超4%，闪迪、美光科技涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3067349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
         },
         {
           "title": "美股将迎“全年无休”交易时代 纳斯达克推进股票上链机制",
@@ -1691,6 +1736,17 @@
           "time_info": "19时26分"
         },
         {
+          "title": "BioNTech(BNTX.O)美股盘中暴跌19%，创4月25日以来最大跌幅。",
+          "url": "https://flash.jin10.com/detail/20260310213243409800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
           "title": "蔚来汽车(NIO.N)公布财报后，美股盘前涨超6%。",
           "url": "https://flash.jin10.com/detail/20260310183528040800",
           "source": "金十数据",
@@ -1700,6 +1756,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时26分"
+        },
+        {
+          "title": "美股开盘，道指跌0.13%，标普500指数跌0.03%，纳指涨0.1%。蔚来汽车(NIO.N)涨约6%，一季度营收指引同比增长103.4%至109.2%。BioNTech(BNTX.O)大跌约19%，公司2026年营收指引不及预期。",
+          "url": "https://flash.jin10.com/detail/20260310213028106800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
         },
         {
           "title": "标普500指数跌幅收窄至0.5%，美股盘初一度下跌1.5%。",
@@ -1719,9 +1786,110 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时36分"
+        },
+        {
+          "title": "腾讯控股ADR美股盘前走高，现涨4.7%。",
+          "url": "https://flash.jin10.com/detail/20260310211708526800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英伟达",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "英伟达也要“烹龙虾”？将推智能体开源平台NemoClaw 预计下周亮相",
+          "url": "https://www.cls.cn/detail/2307908",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[12时00分 ~ 18时30分]"
+        },
+        {
+          "title": "英伟达输成人站,卖卡不如卖片",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351500&amp;topic_name=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%BE%93%E6%88%90%E4%BA%BA%E7%AB%99%2C%E5%8D%96%E5%8D%A1%E4%B8%8D%E5%A6%82%E5%8D%96%E7%89%87",
+          "source": "贴吧",
+          "ranks": [
+            21,
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时46分 ~ 14时37分]"
+        },
+        {
+          "title": "标普500指数初步收涨0.8%，科技板块涨1.6%，能源板块跌0.6%。 纳斯达克100指数初步收涨1.3%，成分股中，西部数据初步收涨6.2%，科磊涨5.9%，希捷科技、拉姆研究、AMD、阿斯麦ADR、英特尔至少涨4.7%，思科跌3.2%，特许通讯跌4.2%。 卡特彼勒初步收涨3.1%，英伟达涨2.5%，安进涨2%，领跑道指成分股，IBM则跌2.1%，波音跌2.7%，思科表现最差。",
+          "url": "https://wallstreetcn.com/livenews/3066718",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "英伟达下场！将推“类OpenClaw式”AI智能体开源平台",
+          "url": "https://wallstreetcn.com/articles/3767089",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时36分 ~ 21时55分]"
+        },
+        {
+          "title": "【焦点复盘】市场全天现缩量普涨，英伟达链卷土重来，机器人概念现久违涨势",
+          "url": "https://www.cls.cn/detail/2308576",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时36分 ~ 21时55分]"
+        },
+        {
+          "title": "亚马逊：本公司Bedrock上架英伟达Nemotron 3 Nano。",
+          "url": "https://wallstreetcn.com/livenews/3066741",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时19分 ~ 07时19分]"
+        },
+        {
+          "title": "英伟达宣布对AI企业Thinking Machines Lab进行新一轮投资，并将向该初创公司提供芯片，用于训练和运行其AI模型。",
+          "url": "https://wallstreetcn.com/livenews/3067332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
         }
       ]
     },
@@ -1736,7 +1904,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时36分"
         },
@@ -1794,83 +1962,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "英伟达",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "英伟达也要“烹龙虾”？将推智能体开源平台NemoClaw 预计下周亮相",
-          "url": "https://www.cls.cn/detail/2307908",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时00分 ~ 18时30分]"
-        },
-        {
-          "title": "英伟达输成人站,卖卡不如卖片",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351500&amp;topic_name=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%BE%93%E6%88%90%E4%BA%BA%E7%AB%99%2C%E5%8D%96%E5%8D%A1%E4%B8%8D%E5%A6%82%E5%8D%96%E7%89%87",
-          "source": "贴吧",
-          "ranks": [
-            21,
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时46分 ~ 14时37分]"
-        },
-        {
-          "title": "标普500指数初步收涨0.8%，科技板块涨1.6%，能源板块跌0.6%。 纳斯达克100指数初步收涨1.3%，成分股中，西部数据初步收涨6.2%，科磊涨5.9%，希捷科技、拉姆研究、AMD、阿斯麦ADR、英特尔至少涨4.7%，思科跌3.2%，特许通讯跌4.2%。 卡特彼勒初步收涨3.1%，英伟达涨2.5%，安进涨2%，领跑道指成分股，IBM则跌2.1%，波音跌2.7%，思科表现最差。",
-          "url": "https://wallstreetcn.com/livenews/3066718",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
-        {
-          "title": "亚马逊：本公司Bedrock上架英伟达Nemotron 3 Nano。",
-          "url": "https://wallstreetcn.com/livenews/3066741",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时19分 ~ 07时19分]"
-        },
-        {
-          "title": "英伟达下场！将推“类OpenClaw式”AI智能体开源平台",
-          "url": "https://wallstreetcn.com/articles/3767089",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
-          "title": "【焦点复盘】市场全天现缩量普涨，英伟达链卷土重来，机器人概念现久违涨势",
-          "url": "https://www.cls.cn/detail/2308576",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
         }
       ]
     },
@@ -1963,6 +2054,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "马斯克：X Money早期公众访问版将于下月上线。",
+          "url": "https://flash.jin10.com/detail/20260310213601758800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "一项由谷歌和特斯拉等公司组成的新联盟将通过利用电网闲置容量来解决能源可负担性问题。（AXIOS）",
+          "url": "https://wallstreetcn.com/livenews/3067324",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
         }
       ]
     }

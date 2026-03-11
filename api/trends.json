@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-11T16:29:57.357493+08:00",
-  "total_titles_processed": 1446,
+  "generated_at": "2026-03-11T17:33:48.029126+08:00",
+  "total_titles_processed": 1557,
   "failed_sources": [],
   "trends": [
     {
@@ -87,8 +87,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时01分 ~ 16时29分]"
+          "appearance_count": 8,
+          "time_info": "[12时01分 ~ 17时33分]"
         },
         {
           "title": "伊朗称不会相信美国的任何承诺、“军事行动进入全新阶段”，美放风护航，特朗普警告伊勿布雷",
@@ -99,8 +99,31 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时06分 ~ 17时33分]"
+        },
+        {
+          "title": "特朗普搅局前，中国狂囤石油，“太明智了”",
+          "url": "https://news.ifeng.com/c/8rP5MhiF7B8",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时39分 ~ 17时33分]"
+        },
+        {
+          "title": "摧毁十余艘伊朗布雷舰艇，特朗普威胁：伊朗不得在霍尔木兹海峡布雷",
+          "url": "https://wallstreetcn.com/articles/3767189",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[09时06分 ~ 16时29分]"
+          "time_info": "[12时01分 ~ 17时33分]"
         },
         {
           "title": "美以伊战争｜伊朗在霍尔木兹海峡布雷，特朗普回应",
@@ -114,29 +137,6 @@
           "time_info": "[05时21分 ~ 06时18分]"
         },
         {
-          "title": "特朗普搅局前，中国狂囤石油，“太明智了”",
-          "url": "https://news.ifeng.com/c/8rP5MhiF7B8",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时39分 ~ 16时29分]"
-        },
-        {
-          "title": "摧毁十余艘伊朗布雷舰艇，特朗普威胁：伊朗不得在霍尔木兹海峡布雷",
-          "url": "https://wallstreetcn.com/articles/3767189",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时01分 ~ 16时29分]"
-        },
-        {
           "title": "美以伊战争｜英媒：特朗普想要脱身，没那么容易",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -148,6 +148,18 @@
           "time_info": "[13时13分 ~ 13时14分]"
         },
         {
+          "title": "特朗普：有可能有条件同伊朗谈判！美防长称发起“最高强度”打击！伊议长：绝不寻求停火",
+          "url": "https://wallstreetcn.com/articles/3767165",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时06分 ~ 17时33分]"
+        },
+        {
           "title": "美以伊战争｜特朗普吹上了：帮中国通过海峡，很荣幸",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -157,18 +169,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
-        },
-        {
-          "title": "特朗普：有可能有条件同伊朗谈判！美防长称发起“最高强度”打击！伊议长：绝不寻求停火",
-          "url": "https://wallstreetcn.com/articles/3767165",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时06分 ~ 16时29分]"
         },
         {
           "title": "美国能源部长：特朗普总统在对伊朗的军事行动中维持全球能源稳定。美国海军成功护送一艘油轮通过霍尔木兹海峡，以确保石油持续流入全球市场。",
@@ -281,7 +281,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -468,6 +468,17 @@
       "match_count": 17,
       "titles": [
         {
+          "title": "“护航”乌龙消息搅动市场，原油“过山车”，美股冲高回落，新兴市场外汇大涨",
+          "url": "https://wallstreetcn.com/articles/3767097",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时06分 ~ 17时33分]"
+        },
+        {
           "title": "特朗普释放停战对话信号，美股开盘涨跌互现，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
           "url": "https://wallstreetcn.com/articles/3767097",
           "source": "华尔街见闻",
@@ -478,17 +489,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时46分 ~ 06时18分]"
-        },
-        {
-          "title": "“护航”乌龙消息搅动市场，原油“过山车”，美股冲高回落，新兴市场外汇大涨",
-          "url": "https://wallstreetcn.com/articles/3767097",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时06分 ~ 16时29分]"
         },
         {
           "title": "美股收盘：油价暴跌超11% 三大指数涨跌不一 标普500小幅下跌",
@@ -614,7 +614,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -739,6 +739,56 @@
       ]
     },
     {
+      "keyword_group": "游戏",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "为何会突然对游戏丧失兴趣",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95%E4%BC%9A%E7%AA%81%E7%84%B6%E5%AF%B9%E6%B8%B8%E6%88%8F%E4%B8%A7%E5%A4%B1%E5%85%B4%E8%B6%A3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时29分"
+        },
+        {
+          "title": "MacBook Neo能打3A游戏吗",
+          "url": "https://search.bilibili.com/all?keyword=MacBook%20Neo%E8%83%BD%E6%89%933A%E6%B8%B8%E6%88%8F%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时06分"
+        },
+        {
+          "title": "伊朗议会议长：一艘油轮在美军舰艇护航下穿越霍尔木兹海峡？也许在PlayStation游戏里会发生吧！（美能源部长声称美军护送油轮通过了霍尔木兹海峡，随后删帖）",
+          "url": "https://flash.jin10.com/detail/20260311035830469800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "失落星船马拉松游戏评测",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%B1%E8%90%BD%E6%98%9F%E8%88%B9%E9%A9%AC%E6%8B%89%E6%9D%BE%E6%B8%B8%E6%88%8F%E8%AF%84%E6%B5%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时33分"
+        }
+      ]
+    },
+    {
       "keyword_group": "马斯克",
       "match_count": 4,
       "titles": [
@@ -754,6 +804,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时33分 ~ 05时22分]"
+        },
+        {
+          "title": "福布斯年度富豪榜：马斯克8390亿美元蝉联全球首富，张一鸣中国首富",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32746579",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 17时33分]"
         },
         {
           "title": "福布斯年度富豪榜：马斯克8390亿美元蝉联全球首富，张一鸣中国首富",
@@ -776,17 +838,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
-        },
-        {
-          "title": "福布斯年度富豪榜：马斯克8390亿美元蝉联全球首富，张一鸣中国首富",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32746579",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时29分"
         }
       ]
     },
@@ -838,45 +889,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "游戏",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "为何会突然对游戏丧失兴趣",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95%E4%BC%9A%E7%AA%81%E7%84%B6%E5%AF%B9%E6%B8%B8%E6%88%8F%E4%B8%A7%E5%A4%B1%E5%85%B4%E8%B6%A3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时29分"
-        },
-        {
-          "title": "MacBook Neo能打3A游戏吗",
-          "url": "https://search.bilibili.com/all?keyword=MacBook%20Neo%E8%83%BD%E6%89%933A%E6%B8%B8%E6%88%8F%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时06分"
-        },
-        {
-          "title": "伊朗议会议长：一艘油轮在美军舰艇护航下穿越霍尔木兹海峡？也许在PlayStation游戏里会发生吧！（美能源部长声称美军护送油轮通过了霍尔木兹海峡，随后删帖）",
-          "url": "https://flash.jin10.com/detail/20260311035830469800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时25分"
         }
       ]
     },

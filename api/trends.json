@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-12T21:56:52.401620+08:00",
-  "total_titles_processed": 1941,
+  "generated_at": "2026-03-12T22:43:06.457114+08:00",
+  "total_titles_processed": 2037,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 84,
+      "match_count": 86,
       "titles": [
         {
           "title": "美以伊战争｜特朗普：与伊朗的战争很快就会结束",
@@ -19,19 +19,6 @@
           "time_info": "[00时40分 ~ 06时19分]"
         },
         {
-          "title": "特朗普称对伊朗军事行动“即将结束”，暗示或打击更多目标，伊方警告美或陷入长期耗损战",
-          "url": "https://wallstreetcn.com/articles/3767268",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[06时19分 ~ 21时56分]"
-        },
-        {
           "title": "特朗普称将对包括中国在内的贸易伙伴启动新的贸易调查，中方回应",
           "url": "https://www.cls.cn/detail/2310747",
           "source": "财联社热门",
@@ -42,8 +29,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时31分 ~ 21时56分]"
+          "appearance_count": 10,
+          "time_info": "[16时31分 ~ 22时43分]"
+        },
+        {
+          "title": "特朗普称对伊朗军事行动“即将结束”，暗示或打击更多目标，伊方警告美或陷入长期耗损战",
+          "url": "https://wallstreetcn.com/articles/3767268",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[06时19分 ~ 22时43分]"
         },
         {
           "title": "特朗普政府成“波动之源”，油价又坐一次“过山车”",
@@ -68,8 +68,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时05分 ~ 21时56分]"
+          "appearance_count": 14,
+          "time_info": "[12时05分 ~ 22时43分]"
         },
         {
           "title": "伊媒：特朗普向多国盟友求援遭拒，仅1国考虑帮忙",
@@ -82,6 +82,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时05分 ~ 17时34分]"
+        },
+        {
+          "title": "中方回应特朗普计划访华",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A1%E5%88%92%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时30分 ~ 22时43分]"
         },
         {
           "title": "中方回应特朗普将对华新贸易调查",
@@ -144,18 +156,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时40分 ~ 07时17分]"
-        },
-        {
-          "title": "中方回应特朗普计划访华",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A1%E5%88%92%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时30分 ~ 21时56分]"
         },
         {
           "title": "特朗普称对伊战争“即将结束” 但美以军方仍筹划至少两周持续打击",
@@ -298,6 +298,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时42分 ~ 04时25分]"
+        },
+        {
+          "title": "中方回应特朗普计划访华",
+          "url": "https://www.toutiao.com/trending/7615267437721780267/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时35分 ~ 22时43分]"
         },
         {
           "title": "市场消息：美国总统特朗普在讲话中称赞了股市达到新高以及401(k)退休福利计划的收益情况。",
@@ -454,18 +466,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时23分 ~ 07时17分]"
-        },
-        {
-          "title": "中方回应特朗普计划访华",
-          "url": "https://www.toutiao.com/trending/7615267437721780267/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时35分 ~ 21时56分]"
         },
         {
           "title": "特朗普称美国已击沉28艘伊朗布雷船",
@@ -835,6 +835,17 @@
           "time_info": "06时19分"
         },
         {
+          "title": "美国总统特朗普的司法部提交诉讼，要求阻止加州的电动汽车政策。",
+          "url": "https://wallstreetcn.com/livenews/3068989",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
           "title": "特朗普再次威胁将切断与西班牙贸易往来",
           "url": "https://flash.jin10.com/detail/20260312024400952800",
           "source": "金十数据",
@@ -855,6 +866,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
+        },
+        {
+          "title": "美国能源部长赖特：美国总统特朗普担心短期内能源价格走高。",
+          "url": "https://flash.jin10.com/detail/20260312220842654800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         },
         {
           "title": "周三（3月11日，美国CPI通胀数据发布日），降息赢家指数跌1.08%，报89.96点，主要低位窄幅震荡。 “特朗普关税输家”指数跌1.10%，“特朗普金融指数”跌0.53%。 散户抱团概念股指数/迷因股（meme stock）指数涨0.80%。",
@@ -981,7 +1003,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "“护航”乌龙消息搅动市场，原油“过山车”，美股冲高回落，新兴市场外汇大涨",
@@ -1031,6 +1053,17 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时40分 ~ 12时05分]"
+        },
+        {
+          "title": "伊朗威胁关闭霍尔木兹，美股三大股指低开，现货黄金短线下挫，油价重返100美元",
+          "url": "https://wallstreetcn.com/articles/3767295",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时42分 ~ 22时43分]"
         },
         {
           "title": "周四亚太盘初，美国股指期货跌0.3%，摩根士丹利限制私人信用基金的赎回。 摩根士丹利美股盘后跌0.55%。",
@@ -1093,6 +1126,17 @@
           "time_info": "[05时23分 ~ 06时19分]"
         },
         {
+          "title": "美股三大指数集体低开 纳指跌0.9%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80+%E7%BA%B3%E6%8C%87%E8%B7%8C0.9%25",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时42分 ~ 22时43分]"
+        },
+        {
           "title": "高盛高管认为美股存在“极端”上涨的潜力",
           "url": "https://wallstreetcn.com/livenews/3068272",
           "source": "华尔街见闻-快讯",
@@ -1111,7 +1155,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -1122,7 +1166,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -1133,7 +1177,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -1199,7 +1243,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -1254,7 +1298,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -1387,7 +1431,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -1417,7 +1461,7 @@
     },
     {
       "keyword_group": "电力",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "黄仁勋罕见发文：AI是这个重塑世界的重要力量，是电力、互联网一样的基础设施",
@@ -1449,7 +1493,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -1463,6 +1507,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：乌克兰将与罗马尼亚新建两条电力线路。",
+          "url": "https://flash.jin10.com/detail/20260312215953448800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         }
       ]
     },
@@ -1479,8 +1534,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时17分 ~ 21时56分]"
+          "appearance_count": 16,
+          "time_info": "[07时17分 ~ 22时43分]"
         },
         {
           "title": "30年期美债收益率涨7个基点，美国CPI数据带来瞬间的干扰",
@@ -1509,8 +1564,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时41分 ~ 21时56分]"
+          "appearance_count": 11,
+          "time_info": "[14时41分 ~ 22时43分]"
         },
         {
           "title": "日本任天堂宣布，新款宝可梦游戏Pokemon Pokopia仅四天就售出超过220万份，其中100万份在国内售出。",

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T16:29:52.623883+08:00",
-  "total_titles_processed": 1403,
+  "generated_at": "2026-03-13T17:32:03.614767+08:00",
+  "total_titles_processed": 1503,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "中方回应特朗普计划访华",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时50分 ~ 07时19分]"
+        },
+        {
+          "title": "特朗普称穆杰塔巴可能受伤但仍活着",
+          "url": "https://news.ifeng.com/c/8rSDrMIby5D",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时03分 ~ 17时32分]"
         },
         {
           "title": "几个小时内“180度转变”！美国从“反对”到“力促”史上最大规模战略油储释放，背后是特朗普的忧虑",
@@ -43,17 +54,6 @@
           "time_info": "[00时50分 ~ 05时24分]"
         },
         {
-          "title": "特朗普称穆杰塔巴可能受伤但仍活着",
-          "url": "https://news.ifeng.com/c/8rSDrMIby5D",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时03分 ~ 16时29分]"
-        },
-        {
           "title": "中方回应特朗普计划访华",
           "url": "https://www.toutiao.com/trending/7615267437721780267/",
           "source": "今日头条",
@@ -66,6 +66,18 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时50分 ~ 13时42分]"
+        },
+        {
+          "title": "市场不再预计美联储今年一定降息！特朗普敦促鲍威尔立刻降息：别等到下次开会！",
+          "url": "https://wallstreetcn.com/articles/3767380",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时03分 ~ 17时32分]"
         },
         {
           "title": "特朗普政府准备豁免《琼斯法案》 以应对燃料价格飙升",
@@ -82,16 +94,18 @@
           "time_info": "[09时08分 ~ 16时29分]"
         },
         {
-          "title": "市场不再预计美联储今年一定降息！特朗普敦促鲍威尔立刻降息：别等到下次开会！",
-          "url": "https://wallstreetcn.com/articles/3767380",
-          "source": "华尔街见闻",
+          "title": "不再鼓吹低油价？特朗普态度“180度大转弯”：高油价让美国大赚！",
+          "url": "https://www.cls.cn/detail/2311714",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            6
+            9,
+            8,
+            10,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时03分 ~ 16时29分]"
+          "appearance_count": 7,
+          "time_info": "[13时41分 ~ 17时32分]"
         },
         {
           "title": "美国总统特朗普：美联储主席“杰罗姆·太晚·鲍威尔”今天在哪里？他应该立刻降息，而不是等下一次会议。",
@@ -103,6 +117,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时36分"
+        },
+        {
+          "title": "美媒：特朗普在G7通话中称伊朗即将投降，只是伊朗没人能宣布",
+          "url": "https://flash.jin10.com/detail/20260313172014745800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
         },
         {
           "title": "中方回应特朗普将对华新贸易调查",
@@ -139,17 +164,15 @@
           "time_info": "09时09分"
         },
         {
-          "title": "不再鼓吹低油价？特朗普态度“180度大转弯”：高油价让美国大赚！",
-          "url": "https://www.cls.cn/detail/2311714",
-          "source": "财联社热门",
+          "title": "据AXIOS网站：美国总统特朗普在G7通话中声称，伊朗“即将投降”。",
+          "url": "https://flash.jin10.com/detail/20260313171234466800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            8,
-            10
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时41分 ~ 16时29分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
         },
         {
           "title": "释新闻｜特朗普为何改口批准释放石油储备？对平抑油价有多大用处？",
@@ -340,7 +363,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -393,7 +416,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -512,7 +535,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -540,7 +563,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -652,6 +675,18 @@
       "match_count": 8,
       "titles": [
         {
+          "title": "发生了什么？伊朗最高领袖这一举动让马斯克站上“风口浪尖”",
+          "url": "https://www.cls.cn/detail/2311539",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时39分 ~ 17时32分]"
+        },
+        {
           "title": "马斯克对Digital Optimus项目的时间节点给出回应：六个月。",
           "url": "https://wallstreetcn.com/livenews/3069053",
           "source": "华尔街见闻-快讯",
@@ -708,17 +743,6 @@
           "time_info": "04时24分"
         },
         {
-          "title": "发生了什么？伊朗最高领袖这一举动让马斯克站上“风口浪尖”",
-          "url": "https://www.cls.cn/detail/2311539",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时39分"
-        },
-        {
           "title": "马斯克：Digital Optimus将适用于所有配备AI4的汽车。",
           "url": "https://flash.jin10.com/detail/20260312235514093800",
           "source": "金十数据",
@@ -766,8 +790,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时03分 ~ 16时29分]"
+          "appearance_count": 8,
+          "time_info": "[12时03分 ~ 17时32分]"
         },
         {
           "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，日元暴跌300点，金银下挫",
@@ -934,8 +958,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时08分 ~ 16时29分]"
+          "appearance_count": 10,
+          "time_info": "[09时08分 ~ 17时32分]"
         },
         {
           "title": "代表建议游戏平台凌晨 1 点到 5 点强制关闭，成年人的游戏时间也要被限制吗？若实行会带来什么影响？",
@@ -947,8 +971,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时08分 ~ 16时29分]"
+          "appearance_count": 10,
+          "time_info": "[09时08分 ~ 17时32分]"
         },
         {
           "title": "为什么说音游注定是小众游戏？",
@@ -966,7 +990,7 @@
     },
     {
       "keyword_group": "英伟达",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "据韩国媒体报道：三星与英伟达加速研发下一代NAND闪存。",
@@ -978,6 +1002,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "英伟达GTC亮点抢先看：“龙虾”乐园即将开张 资本市场翘首以待",
+          "url": "https://www.cls.cn/detail/2312178",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 17时32分]"
         },
         {
           "title": "郭明錤：英伟达与WUS已开始测试下一代CCL材料M10",

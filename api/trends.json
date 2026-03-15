@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-15T17:24:46.157590+08:00",
-  "total_titles_processed": 990,
+  "generated_at": "2026-03-15T18:20:50.919270+08:00",
+  "total_titles_processed": 1067,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 45,
       "titles": [
         {
           "title": "特朗普轰炸哈尔克岛的算盘：宁可下周油价飙到200美元，也要给中选留压价窗口",
@@ -63,8 +63,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时24分 ~ 17时24分]"
+          "appearance_count": 11,
+          "time_info": "[12时24分 ~ 18时20分]"
         },
         {
           "title": "特朗普向国际社会求援了，并且想把多个国家拖下水",
@@ -103,8 +103,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时24分 ~ 17时24分]"
+          "appearance_count": 11,
+          "time_info": "[12时24分 ~ 18时20分]"
+        },
+        {
+          "title": "鲍威尔“威胁”特朗普政府：如果继续调查，他将留任美联储理事直到2028年1月",
+          "url": "https://wallstreetcn.com/articles/3767540",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时59分 ~ 18时20分]"
         },
         {
           "title": "特朗普这么一打伊朗，乌克兰几乎全是坏消息",
@@ -116,18 +128,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时19分 ~ 12时25分]"
-        },
-        {
-          "title": "鲍威尔“威胁”特朗普政府：如果继续调查，他将留任美联储理事直到2028年1月",
-          "url": "https://wallstreetcn.com/articles/3767540",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时59分 ~ 17时24分]"
         },
         {
           "title": "美防长不满CNN报道，喊话特朗普盟友赶紧买了它",
@@ -151,8 +151,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时19分 ~ 17时24分]"
+          "appearance_count": 24,
+          "time_info": "[00时19分 ~ 18时20分]"
         },
         {
           "title": "特朗普称将联合多国派遣军舰 确保霍尔木兹海峡通航安全",
@@ -178,8 +178,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时19分 ~ 17时24分]"
+          "appearance_count": 13,
+          "time_info": "[09时19分 ~ 18时20分]"
         },
         {
           "title": "特朗普据悉私下称“伊朗即将投降” 伊朗最高领袖誓言继续战斗",
@@ -199,11 +199,25 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时24分 ~ 17时24分]"
+          "appearance_count": 11,
+          "time_info": "[12时24分 ~ 18时20分]"
+        },
+        {
+          "title": "特朗普称将联合多国派遣军舰，确保霍尔木兹海峡通航安全",
+          "url": "https://wallstreetcn.com/articles/3767537",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时01分 ~ 18时20分]"
         },
         {
           "title": "特朗普否认5架美军加油机被毁",
@@ -233,19 +247,6 @@
           "time_info": "[12时24分 ~ 16时26分]"
         },
         {
-          "title": "特朗普称将联合多国派遣军舰，确保霍尔木兹海峡通航安全",
-          "url": "https://wallstreetcn.com/articles/3767537",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时01分 ~ 17时24分]"
-        },
-        {
           "title": "释新闻｜美军空袭伊朗哈尔克岛之后，特朗普会选择占领吗？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32767317",
           "source": "澎湃新闻",
@@ -265,11 +266,12 @@
             2,
             4,
             12,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时25分 ~ 17时24分]"
+          "appearance_count": 6,
+          "time_info": "[12时25分 ~ 18时20分]"
         },
         {
           "title": "美以伊战争丨特朗普：多国将与美国一同派军舰",
@@ -309,6 +311,18 @@
           "time_info": "[09时20分 ~ 17时24分]"
         },
         {
+          "title": "特朗普点名日本护航，高市早苗压力陡增",
+          "url": "https://news.ifeng.com/c/8rW2UeZFjwy",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 18时20分]"
+        },
+        {
           "title": "伊朗深夜发动2波打击！美方：已有13名美军阵亡！驻日美军“准航母”及海军陆战队被调往中东，特朗普：只要有需要，战争将持续",
           "url": "https://wallstreetcn.com/articles/3767521",
           "source": "华尔街见闻",
@@ -320,6 +334,21 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时24分 ~ 15时00分]"
+        },
+        {
+          "title": "特朗普称或再炸几次伊朗哈尔克岛，“只是为了开心”",
+          "url": "https://wallstreetcn.com/livenews/3070215",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            9,
+            17,
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时25分 ~ 18时20分]"
         },
         {
           "title": "特朗普称已彻底击败伊朗",
@@ -336,26 +365,27 @@
           "time_info": "[09时20分 ~ 16时26分]"
         },
         {
-          "title": "特朗普点名日本护航，高市早苗压力陡增",
-          "url": "https://news.ifeng.com/c/8rW2UeZFjwy",
-          "source": "凤凰网",
+          "title": "多国护航，特朗普就能“搞定”霍尔木兹海峡了吗？",
+          "url": "https://wallstreetcn.com/articles/3767538",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            8,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时24分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时45分 ~ 18时20分]"
         },
         {
-          "title": "美媒：特朗普呼吁法国协助确保霍尔木兹海峡安全，法方否认改变部署",
-          "url": "https://wallstreetcn.com/livenews/3070252",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普呼吁多国派遣军舰护航，回应来了",
+          "url": "https://news.ifeng.com/c/8rW5kiqRNgu",
+          "source": "凤凰网",
           "ranks": [
-            4
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时24分"
+          "time_info": "18时20分"
         },
         {
           "title": "媒体：特朗普拒绝与伊朗启动停火谈判",
@@ -372,20 +402,6 @@
           "time_info": "[09时20分 ~ 16时26分]"
         },
         {
-          "title": "特朗普称或再炸几次伊朗哈尔克岛，“只是为了开心”",
-          "url": "https://wallstreetcn.com/livenews/3070215",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            9,
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时25分 ~ 17时24分]"
-        },
-        {
           "title": "特朗普呼吁盟友共同维护霍尔木兹海峡",
           "url": "https://flash.jin10.com/detail/20260315030037071800",
           "source": "金十数据",
@@ -399,16 +415,16 @@
           "time_info": "[04时17分 ~ 09时20分]"
         },
         {
-          "title": "多国护航，特朗普就能“搞定”霍尔木兹海峡了吗？",
-          "url": "https://wallstreetcn.com/articles/3767538",
-          "source": "华尔街见闻",
+          "title": "美媒：特朗普呼吁法国协助确保霍尔木兹海峡安全，法方否认改变部署",
+          "url": "https://wallstreetcn.com/livenews/3070252",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            6
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时45分 ~ 17时24分]"
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 18时20分]"
         },
         {
           "title": "特朗普称与泽连斯基达成协议要“困难得多”",
@@ -485,6 +501,18 @@
           "time_info": "[14时02分 ~ 15时46分]"
         },
         {
+          "title": "特朗普呼吁多国派遣军舰在霍尔木兹海峡护航，法、日、韩、英四国回应",
+          "url": "https://flash.jin10.com/detail/20260315164051188800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 18时20分]"
+        },
+        {
           "title": "特朗普回应美军加油机在沙特遭袭",
           "url": "https://www.toutiao.com/trending/7616690013581049892/",
           "source": "今日头条",
@@ -519,17 +547,6 @@
           "time_info": "09时20分"
         },
         {
-          "title": "特朗普呼吁多国派遣军舰在霍尔木兹海峡护航，法、日、韩、英四国回应",
-          "url": "https://flash.jin10.com/detail/20260315164051188800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时24分"
-        },
-        {
           "title": "美军在霍尔木兹海峡护航？特朗普表态“含糊其辞”",
           "url": "https://flash.jin10.com/detail/20260315100302629800",
           "source": "金十数据",
@@ -550,6 +567,85 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "Space X IPO，马斯克要学“马老师”",
+          "url": "https://wallstreetcn.com/articles/3767527",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时24分 ~ 18时20分]"
+        },
+        {
+          "title": "马斯克xAI联创团队几乎全跑了",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8BxAI%E8%81%94%E5%88%9B%E5%9B%A2%E9%98%9F%E5%87%A0%E4%B9%8E%E5%85%A8%E8%B7%91%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            14,
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时01分 ~ 16时26分]"
+        },
+        {
+          "title": "特斯拉“造芯”真来了！马斯克官宣：Terafab项目7天后启动",
+          "url": "https://www.cls.cn/detail/2313116",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时45分 ~ 18时20分]"
+        },
+        {
+          "title": "xAI核心团队跑光 马斯克致歉",
+          "url": "https://www.toutiao.com/trending/7617270651551747634/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时01分 ~ 14时02分]"
+        },
+        {
+          "title": "真正的美版“台积电”？马斯克称特斯拉“AI芯片超级工厂”7天内启动",
+          "url": "https://wallstreetcn.com/articles/3767539",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
+          "title": "马斯克回应其个人财富占全球GDP近1%",
+          "url": "https://www.toutiao.com/trending/7616607470194180115/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         }
       ]
     },
@@ -578,8 +674,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时19分 ~ 17时24分]"
+          "appearance_count": 24,
+          "time_info": "[00时19分 ~ 18时20分]"
         },
         {
           "title": "美股科技牛结束了？Mag 7已较高点跌去10%，微软年内跌得最惨！",
@@ -620,74 +716,6 @@
       ]
     },
     {
-      "keyword_group": "马斯克",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "Space X IPO，马斯克要学“马老师”",
-          "url": "https://wallstreetcn.com/articles/3767527",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时24分 ~ 17时24分]"
-        },
-        {
-          "title": "马斯克xAI联创团队几乎全跑了",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8BxAI%E8%81%94%E5%88%9B%E5%9B%A2%E9%98%9F%E5%87%A0%E4%B9%8E%E5%85%A8%E8%B7%91%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            14,
-            18,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时01分 ~ 16时26分]"
-        },
-        {
-          "title": "特斯拉“造芯”真来了！马斯克官宣：Terafab项目7天后启动",
-          "url": "https://www.cls.cn/detail/2313116",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时45分 ~ 17时24分]"
-        },
-        {
-          "title": "xAI核心团队跑光 马斯克致歉",
-          "url": "https://www.toutiao.com/trending/7617270651551747634/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时01分 ~ 14时02分]"
-        },
-        {
-          "title": "马斯克回应其个人财富占全球GDP近1%",
-          "url": "https://www.toutiao.com/trending/7616607470194180115/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时24分"
-        }
-      ]
-    },
-    {
       "keyword_group": "游戏",
       "match_count": 3,
       "titles": [
@@ -702,8 +730,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时24分 ~ 17时24分]"
+          "appearance_count": 11,
+          "time_info": "[12时24分 ~ 18时20分]"
         },
         {
           "title": "315｜十年玩家称“无端被禁言一天”起诉索赔1元，游戏官方回应“存在不当言行”",
@@ -714,8 +742,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时59分 ~ 17时24分]"
+          "appearance_count": 7,
+          "time_info": "[14时59分 ~ 18时20分]"
         },
         {
           "title": "自闭症女孩玩游戏半年充45万",
@@ -724,7 +752,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
         }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-17T03:48:05.302740+08:00",
-  "total_titles_processed": 474,
+  "generated_at": "2026-03-17T04:29:12.043388+08:00",
+  "total_titles_processed": 535,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 03时48分]"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 04时29分]"
         },
         {
           "title": "外交部回应特朗普将推迟访华言论，「双方就特朗普总统访华事宜保持着沟通」，哪些信息值得关注？",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 03时48分]"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 04时29分]"
         },
         {
           "title": "特朗普会投入地面部队吗？",
@@ -38,8 +38,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 03时48分]"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 04时29分]"
         },
         {
           "title": "外交部：中美双方就特朗普总统访华事保持着沟通",
@@ -49,8 +49,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 03时48分]"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 04时29分]"
         },
         {
           "title": "特朗普，赚了近100亿",
@@ -60,8 +60,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 03时48分]"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 04时29分]"
         },
         {
           "title": "特朗普强推“护航联盟”：不派舰，北约未来“非常糟糕”；日澳已拒绝",
@@ -72,8 +72,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 03时48分]"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 04时29分]"
         },
         {
           "title": "特朗普点名多国参加护航霍尔木兹海峡，德法日韩：不去",
@@ -83,8 +83,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 03时48分]"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 04时29分]"
         },
         {
           "title": "伊朗外长：从未请求停火或谈判，特朗普想“找乐子”",
@@ -94,8 +94,22 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 03时48分]"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 04时29分]"
+        },
+        {
+          "title": "中美就特朗普总统访华事保持着沟通",
+          "url": "https://www.toutiao.com/trending/7616995731195052086/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            7,
+            18,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时54分 ~ 04时29分]"
         },
         {
           "title": "特朗普：打击哈尔克岛石油设施仍在备选方案中",
@@ -118,19 +132,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
-        },
-        {
-          "title": "中美就特朗普总统访华事保持着沟通",
-          "url": "https://www.toutiao.com/trending/7616995731195052086/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            7,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时54分 ~ 03时48分]"
         },
         {
           "title": "美国总统特朗普：英国国王很快就要来美国。",
@@ -286,7 +287,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时48分"
         },
@@ -503,19 +504,8 @@
     },
     {
       "keyword_group": "英伟达",
-      "match_count": 19,
+      "match_count": 33,
       "titles": [
-        {
-          "title": "英伟达CEO黄仁勋：60%的业务将来自超大规模数据中心。",
-          "url": "https://flash.jin10.com/detail/20260317031407129800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时48分"
-        },
         {
           "title": "英伟达GTC大会前瞻：整合Groq技术大举进攻推理芯片，三星首度代工生产，OpenAI或成首批客户",
           "url": "https://wallstreetcn.com/articles/3767569",
@@ -525,63 +515,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 03时48分]"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：我认为到2027年至少有1万亿美元的需求。",
-          "url": "https://flash.jin10.com/detail/20260317031150424800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时48分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋在GTC活动上表示：需求持续增长。 公司的目标是，2025-27年与数据中心相关的收入将至少达到1万亿美元。 60%的业务将面向超大规模云服务商（Hyperscalers）。",
-          "url": "https://wallstreetcn.com/livenews/3071117",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时48分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：需求持续上升。",
-          "url": "https://flash.jin10.com/detail/20260317030814383800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时48分"
-        },
-        {
-          "title": "英伟达将向韩国数据中心提供芯片。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3071116",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时48分"
-        },
-        {
-          "title": "据华尔街日报：Reflection AI 正与新世界集团合作建设数据中心，该中心将部署数万颗英伟达(NVDA.O)芯片。",
-          "url": "https://flash.jin10.com/detail/20260317030428527800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时48分"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 04时29分]"
         },
         {
           "title": "英伟达将豪掷 260 亿美元开发 AI 大模型，为什么英伟达要自己下场做大模型？",
@@ -593,8 +528,118 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时54分 ~ 03时48分]"
+          "appearance_count": 7,
+          "time_info": "[01时54分 ~ 04时29分]"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：60%的业务将来自超大规模数据中心。",
+          "url": "https://flash.jin10.com/detail/20260317031407129800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时48分"
+        },
+        {
+          "title": "英伟达官方支持极简养虾",
+          "url": "https://wallstreetcn.com/livenews/3071148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：我认为到2027年至少有1万亿美元的需求。",
+          "url": "https://flash.jin10.com/detail/20260317031150424800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时48分"
+        },
+        {
+          "title": "英伟达(NVDA.O)扩展开源模型系列，以支持下一波基于智能体、实体世界和医疗保健人工智能的发展。",
+          "url": "https://flash.jin10.com/detail/20260317041641194800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：需求持续上升。",
+          "url": "https://flash.jin10.com/detail/20260317030814383800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时48分"
+        },
+        {
+          "title": "英伟达首席执行官发布基于OpenCLAW AI代理的企业级安全工具NeMoCLAW。",
+          "url": "https://flash.jin10.com/detail/20260317041556173800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "英伟达将向韩国数据中心提供芯片。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3071116",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时48分"
+        },
+        {
+          "title": "英伟达开启“太空计算”，将AI推向轨道",
+          "url": "https://wallstreetcn.com/livenews/3071144",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "据华尔街日报：Reflection AI 正与新世界集团合作建设数据中心，该中心将部署数万颗英伟达(NVDA.O)芯片。",
+          "url": "https://flash.jin10.com/detail/20260317030428527800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时48分"
+        },
+        {
+          "title": "英伟达(NVDA.O)宣布为OpenCLAW社区推出NeMoCLAW。",
+          "url": "https://flash.jin10.com/detail/20260317041450613800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
         },
         {
           "title": "英伟达发布NVIDIA DLSS 5，图形学迎来“GPT时刻”",
@@ -621,6 +666,18 @@
           "time_info": "[02时48分 ~ 03时48分]"
         },
         {
+          "title": "英伟达CEO黄仁勋在GTC活动上表示：需求持续增长。 公司的目标是，2025-27年与数据中心相关的收入将至少达到1万亿美元。 60%的业务将面向超大规模云服务商（Hyperscalers）。",
+          "url": "https://wallstreetcn.com/livenews/3071117",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时48分 ~ 04时29分]"
+        },
+        {
           "title": "英伟达DGX Rubin NVL8 Systems采用了英特尔XEON 6，用作主要的CUPs。",
           "url": "https://wallstreetcn.com/livenews/3071099",
           "source": "华尔街见闻-快讯",
@@ -639,9 +696,42 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时48分"
+        },
+        {
+          "title": "英伟达：Feynman设计将拥有定制款HBM存储芯片。",
+          "url": "https://wallstreetcn.com/livenews/3071136",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：太空计算这一最终前沿已经到来。",
+          "url": "https://flash.jin10.com/detail/20260317041011627800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "英伟达：三星生产Groq芯片，基于这款芯片的系统将于下半年面世。",
+          "url": "https://wallstreetcn.com/livenews/3071134",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
         },
         {
           "title": "市场消息：英伟达DGX Rubin NVL8 Systems采用了英特尔XEON 6。",
@@ -653,6 +743,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时48分"
+        },
+        {
+          "title": "英伟达(NVDA.O)：推出空间计算，将人工智能引入轨道数据中心。行业领导者Aetherflux、Axiom Space、Kepler Communications、Planet、Sophia Space、Starcloud正使用英伟达加速计算平台，为下一代太空任务提供算力支持。",
+          "url": "https://flash.jin10.com/detail/20260317040907601800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
         },
         {
           "title": "英伟达(NVDA.O)股价继续上涨，在首席执行官黄仁勋演讲前触及盘中高位，最新涨2.9%，报185美元以上。",
@@ -672,7 +773,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时48分"
         },
@@ -683,7 +784,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时48分"
         },
@@ -694,9 +795,31 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时48分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋展示新款Rubin Ultra系统，称：新款Vera处理器采用LPDDR 5存储器。 Vera的性能是任何CPU的两倍。 CPU“肯定”会是一个（至少）数十亿美元级别的业务。",
+          "url": "https://wallstreetcn.com/livenews/3071125",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "英伟达Vera Rubin开启“智能体AI”新前沿",
+          "url": "https://wallstreetcn.com/livenews/3071124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
         },
         {
           "title": "英伟达CEO黄仁勋：。我们与谷歌AWS合作已经很长时间了。今年我非常兴奋的一件事是，我们将把开放人工智能引入AWS。这将推动AWS云计算的巨大消费。",
@@ -705,9 +828,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时48分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：三星正在量产英伟达GROQ 3芯片。",
+          "url": "https://flash.jin10.com/detail/20260317035220954800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
         },
         {
           "title": "市场消息：IBM正在与英伟达(NVDA.O)合作进行数据处理。",
@@ -716,9 +850,157 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时48分"
+        },
+        {
+          "title": "英伟达涨幅收窄至1.3%，刷新日低。",
+          "url": "https://wallstreetcn.com/livenews/3071121",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "英伟达预计到2027年底Blackwell和Rubin芯片将带来至少1万亿美元收入",
+          "url": "https://wallstreetcn.com/livenews/3071119",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "霍尔木兹海峡现通航迹象，美股指高开，纳指涨1%，WTI原油日内跌幅达3%，现货黄金重回5000美元",
+          "url": "https://wallstreetcn.com/articles/3767567",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 04时29分]"
+        },
+        {
+          "title": "金十图示：2026年03月16日（周一）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260317025941976800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时48分"
+        },
+        {
+          "title": "金十图示：2026年03月16日（周一）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260317025904229800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时48分"
+        },
+        {
+          "title": "金十图示：2026年03月16日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260317040623869800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "金十图示：2026年03月16日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260317040621186800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "美股收盘：三大股指集体收涨 部分芯片股走强",
+          "url": "https://flash.jin10.com/detail/20260317040132511800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "游戏",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "如何评价游戏主播炫神禁止自己的录播员「就看看桑」继续录制传播自己的直播，还逼着他注销账号？",
+          "url": "https://www.zhihu.com/question/2015963736171644347",
+          "source": "知乎",
+          "ranks": [
+            12,
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 04时29分]"
+        },
+        {
+          "title": "AI对游戏版权有何影响",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%AF%B9%E6%B8%B8%E6%88%8F%E7%89%88%E6%9D%83%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时47分 ~ 04时29分]"
+        },
+        {
+          "title": "市场消息：英伟达旗下的DLSS 5技术通过人工智能驱动，在游戏的视觉保真度方面实现了突破性进展。",
+          "url": "https://flash.jin10.com/detail/20260317023121292800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时48分"
+        },
+        {
+          "title": "以游戏《生化危机》中里昂的工资水平，他在美国能过上什么样的生活？",
+          "url": "https://www.zhihu.com/question/1995548550365472676",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时28分 ~ 04时29分]"
         }
       ]
     },
@@ -735,19 +1017,32 @@
             20
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时54分 ~ 04时29分]"
+        },
+        {
+          "title": "马斯克5万美金小屋简陋似仓库",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B5%E4%B8%87%E7%BE%8E%E9%87%91%E5%B0%8F%E5%B1%8B%E7%AE%80%E9%99%8B%E4%BC%BC%E4%BB%93%E5%BA%93%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            25
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时54分 ~ 03时48分]"
+          "time_info": "[00时53分 ~ 04时29分]"
         },
         {
           "title": "马斯克的xAI聘请信贷专家和银行家来提升Grok的金融策略能力",
           "url": "https://wallstreetcn.com/livenews/3071111",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时48分 ~ 04时29分]"
         },
         {
           "title": "马斯克旗下xAI：Grok的文本生成Speech API上线。",
@@ -756,115 +1051,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时48分"
-        },
-        {
-          "title": "马斯克5万美金小屋简陋似仓库",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B5%E4%B8%87%E7%BE%8E%E9%87%91%E5%B0%8F%E5%B1%8B%E7%AE%80%E9%99%8B%E4%BC%BC%E4%BB%93%E5%BA%93%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "霍尔木兹海峡现通航迹象，美股指高开，纳指涨1%，WTI原油日内跌幅达3%，现货黄金重回5000美元",
-          "url": "https://wallstreetcn.com/articles/3767567",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 03时48分]"
-        },
-        {
-          "title": "金十图示：2026年03月16日（周一）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260317025941976800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时48分"
-        },
-        {
-          "title": "金十图示：2026年03月16日（周一）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260317025904229800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "游戏",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "如何评价游戏主播炫神禁止自己的录播员「就看看桑」继续录制传播自己的直播，还逼着他注销账号？",
-          "url": "https://www.zhihu.com/question/2015963736171644347",
-          "source": "知乎",
-          "ranks": [
-            12,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 03时48分]"
-        },
-        {
-          "title": "市场消息：英伟达旗下的DLSS 5技术通过人工智能驱动，在游戏的视觉保真度方面实现了突破性进展。",
-          "url": "https://flash.jin10.com/detail/20260317023121292800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时48分"
-        },
-        {
-          "title": "AI对游戏版权有何影响",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%AF%B9%E6%B8%B8%E6%88%8F%E7%89%88%E6%9D%83%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时47分 ~ 03时48分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "英伟达涨幅扩大至4.7%，刷新日高。黄仁勋预计，2027年收入将至少达到1万亿美元。 纳斯达克100指数涨幅扩大至1.7%，刷新日高。 标普500指数涨超1.2%，道指涨459点涨幅0.99%。",
-          "url": "https://wallstreetcn.com/livenews/3071119",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "03时48分"
         }
@@ -872,7 +1059,7 @@
     },
     {
       "keyword_group": "电力",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "古巴全国电力联盟（UNE）：古巴全国电网已瘫痪。",
@@ -884,6 +1071,73 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时48分"
+        },
+        {
+          "title": "惠誉：美国公共电力规划是应对数据中心负荷增长的关键。",
+          "url": "https://flash.jin10.com/detail/20260317035035090800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "英伟达将向韩国数据中心提供芯片。 Reflection AI计划开发韩语模型。 该公司Shinsegae数据中心将消耗250 MW电力。 （华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3071116",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "英伟达涨幅扩大至4.7%，刷新日高。黄仁勋预计，2027年收入将至少达到1万亿美元。 纳斯达克100指数涨幅扩大至1.7%，刷新日高。 标普500指数涨超1.2%，道指涨459点涨幅0.99%。",
+          "url": "https://wallstreetcn.com/livenews/3071119",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时48分"
+        },
+        {
+          "title": "美元指数跌0.7%",
+          "url": "https://wallstreetcn.com/livenews/3071122",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "10年期美债收益率跌约5.7个基点",
+          "url": "https://wallstreetcn.com/livenews/3071128",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
         }
       ]
     },

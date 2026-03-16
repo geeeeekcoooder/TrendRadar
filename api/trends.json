@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-03-17T06:23:46.885169+08:00",
-  "total_titles_processed": 628,
+  "generated_at": "2026-03-17T07:22:25.772852+08:00",
+  "total_titles_processed": 700,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 63,
+      "match_count": 69,
       "titles": [
-        {
-          "title": "外交部回应特朗普将推迟访华言论，「双方就特朗普总统访华事宜保持着沟通」，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2016900692145637068",
-          "source": "知乎",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 06时23分]"
-        },
         {
           "title": "特朗普会投入地面部队吗？",
           "url": "https://news.ifeng.com/c/8rXXAfLW18s",
@@ -27,8 +15,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 06时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 07时22分]"
+        },
+        {
+          "title": "外交部回应特朗普将推迟访华言论，「双方就特朗普总统访华事宜保持着沟通」，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2016900692145637068",
+          "source": "知乎",
+          "ranks": [
+            1,
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 07时22分]"
         },
         {
           "title": "外交部：中美双方就特朗普总统访华事保持着沟通",
@@ -38,8 +39,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 06时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 07时22分]"
         },
         {
           "title": "特朗普，赚了近100亿",
@@ -49,8 +50,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 06时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 07时22分]"
         },
         {
           "title": "美以伊战争丨特朗普求护航，德国：这不是北约的战争",
@@ -72,8 +73,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 06时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 07时22分]"
         },
         {
           "title": "特朗普点名多国参加护航霍尔木兹海峡，德法日韩：不去",
@@ -83,8 +84,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 06时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 07时22分]"
         },
         {
           "title": "中美就特朗普总统访华事保持着沟通",
@@ -96,22 +97,24 @@
             18,
             22,
             10,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时54分 ~ 06时23分]"
+          "appearance_count": 11,
+          "time_info": "[01时54分 ~ 07时22分]"
         },
         {
           "title": "伊朗外长：从未请求停火或谈判，特朗普想“找乐子”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32775868",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 06时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 07时22分]"
         },
         {
           "title": "美以伊战争丨特朗普暗示袭击哈尔克岛石油设施",
@@ -120,9 +123,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
+        },
+        {
+          "title": "美以伊战争丨特朗普暗示将袭击哈尔克岛石油设施",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
         },
         {
           "title": "特朗普：打击哈尔克岛石油设施仍在备选方案中",
@@ -147,39 +161,6 @@
           "time_info": "00时53分"
         },
         {
-          "title": "多国表示不参与霍尔木兹海峡护航，特朗普抱怨盟友“不帮忙”",
-          "url": "https://wallstreetcn.com/livenews/3071191",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时23分"
-        },
-        {
-          "title": "特朗普称他将“有幸拿下古巴”",
-          "url": "https://wallstreetcn.com/livenews/3071184",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时23分"
-        },
-        {
-          "title": "多国表示不参与霍尔木兹海峡护航 特朗普抱怨盟友“不帮忙”",
-          "url": "https://flash.jin10.com/detail/20260317055555501800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时23分"
-        },
-        {
           "title": "特朗普暗示袭击哈尔克岛石油设施",
           "url": "https://flash.jin10.com/detail/20260317051712836800",
           "source": "金十数据",
@@ -190,6 +171,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时31分 ~ 06时23分]"
+        },
+        {
+          "title": "多国表示不参与霍尔木兹海峡护航，特朗普抱怨盟友“不帮忙”",
+          "url": "https://wallstreetcn.com/livenews/3071191",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时23分 ~ 07时22分]"
         },
         {
           "title": "万斯称支持特朗普对伊行动 批评媒体挑拨关系",
@@ -204,6 +197,18 @@
           "time_info": "[05时31分 ~ 06时23分]"
         },
         {
+          "title": "特朗普称他将“有幸拿下古巴”",
+          "url": "https://wallstreetcn.com/livenews/3071184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时23分 ~ 07时22分]"
+        },
+        {
           "title": "美国总统特朗普：我认为我可以对古巴做任何事情，无论是让它自由，还是把它拿下。",
           "url": "https://flash.jin10.com/detail/20260317050036634800",
           "source": "金十数据",
@@ -214,6 +219,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时31分 ~ 06时23分]"
+        },
+        {
+          "title": "多国表示不参与霍尔木兹海峡护航 特朗普抱怨盟友“不帮忙”",
+          "url": "https://flash.jin10.com/detail/20260317055555501800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时23分 ~ 07时22分]"
         },
         {
           "title": "美国总统特朗普：英国国王很快就要来美国。",
@@ -395,9 +412,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
+        },
+        {
+          "title": "美国盟友集体回绝特朗普，拒为霍尔木兹海峡“火中取栗”",
+          "url": "https://flash.jin10.com/detail/20260317064507791800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
         },
         {
           "title": "美国总统特朗普：大公司正在进入委内瑞拉，将迅速提升委内瑞拉的石油生产。",
@@ -450,7 +478,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         },
@@ -464,6 +492,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
+        },
+        {
+          "title": "特朗普称将“接管”古巴",
+          "url": "https://flash.jin10.com/detail/20260317063435876800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
         },
         {
           "title": "特朗普：希望欧洲国家等协助保障霍尔木兹海峡安全",
@@ -521,6 +560,17 @@
           "time_info": "01时54分"
         },
         {
+          "title": "据《纽约时报》：美国总统特朗普政府表示将告知古巴，其总统必须下台。",
+          "url": "https://flash.jin10.com/detail/20260317063201728800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
           "title": "美国总统特朗普：战争结束后，油价和通胀都将迅速下降。",
           "url": "https://flash.jin10.com/detail/20260317011155658800",
           "source": "金十数据",
@@ -576,6 +626,17 @@
           "time_info": "05时31分"
         },
         {
+          "title": "美国民主党籍各州总检察长表示，特朗普提议提高政府资助的电动汽车充电站美国本土零部件使用比例，此举将导致该计划无法实施。",
+          "url": "https://flash.jin10.com/detail/20260317061813978800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
           "title": "美国总统特朗普：白宫幕僚长Wiles被诊断出早期乳腺癌。",
           "url": "https://wallstreetcn.com/livenews/3071041",
           "source": "华尔街见闻-快讯",
@@ -618,6 +679,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
+        },
+        {
+          "title": "特朗普称伊朗行动获一位美国前总统称赞 但无人承认通话",
+          "url": "https://flash.jin10.com/detail/20260317061512622800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
         },
         {
           "title": "美国总统特朗普：以色列不会使用核武器。",
@@ -722,7 +794,7 @@
     },
     {
       "keyword_group": "英伟达",
-      "match_count": 56,
+      "match_count": 61,
       "titles": [
         {
           "title": "英伟达将豪掷 260 亿美元开发 AI 大模型，为什么英伟达要自己下场做大模型？",
@@ -733,11 +805,12 @@
             14,
             15,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时54分 ~ 06时23分]"
+          "appearance_count": 11,
+          "time_info": "[01时54分 ~ 07时22分]"
         },
         {
           "title": "英伟达GTC大会前瞻：整合Groq技术大举进攻推理芯片，三星首度代工生产，OpenAI或成首批客户",
@@ -745,11 +818,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 06时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 07时22分]"
         },
         {
           "title": "英伟达CEO黄仁勋：60%的业务将来自超大规模数据中心。",
@@ -805,6 +879,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        },
+        {
+          "title": "三星电子：将在2026年3月16日至19日于美国加州圣何塞举行的英伟达GTC 2026大会上展示全面的AI计算技术。核心产品将是全新第六代HBM4，目前已进入量产阶段，并专为英伟达Vera Rubin平台设计。",
+          "url": "https://flash.jin10.com/detail/20260317070719405800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
         },
         {
           "title": "英伟达将向韩国数据中心提供芯片。（华尔街日报）",
@@ -1053,6 +1138,17 @@
           "time_info": "04时29分"
         },
         {
+          "title": "美国商务部长卢特尼克将于加州圣何塞当地时间周一与英伟达CEO黄仁勋在GTC的间隙讨论AI。（PunchBowl）",
+          "url": "https://wallstreetcn.com/livenews/3071217",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
           "title": "英伟达：三星生产Groq芯片，基于这款芯片的系统将于下半年面世。",
           "url": "https://wallstreetcn.com/livenews/3071134",
           "source": "华尔街见闻-快讯",
@@ -1070,7 +1166,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         },
@@ -1103,9 +1199,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
+        },
+        {
+          "title": "据Punchbowl记者：一名知情人士透露，美国商务部长卢特尼克今晚将在圣何塞出席一场英伟达GTC大会期间的私人活动。卢特尼克将与黄仁勋一同就人工智能发表讲话，参与者包括英伟达的合作伙伴公司。",
+          "url": "https://flash.jin10.com/detail/20260317064734963800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
         },
         {
           "title": "英伟达(NVDA.O)股价继续上涨，在首席执行官黄仁勋演讲前触及盘中高位，最新涨2.9%，报185美元以上。",
@@ -1136,7 +1243,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         },
@@ -1169,7 +1276,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         },
@@ -1235,7 +1342,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         },
@@ -1317,6 +1424,17 @@
           "time_info": "05时31分"
         },
         {
+          "title": "英伟达推出NemoClaw 助力极简“养虾”",
+          "url": "https://flash.jin10.com/detail/20260317060837815800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
           "title": "英伟达预计到2027年底Blackwell和Rubin芯片将带来至少1万亿美元收入",
           "url": "https://wallstreetcn.com/livenews/3071119",
           "source": "华尔街见闻-快讯",
@@ -1334,9 +1452,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
+        },
+        {
+          "title": "三星电子在英伟达GTC大会上展示了采用三星4纳米代工工艺制造的英伟达新一代AI推理处理器。",
+          "url": "https://flash.jin10.com/detail/20260317060618810800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
         },
         {
           "title": "戴尔(DELL.N)推出搭载英伟达GB300的桌面系统，用于运行自主式AI代理，并集成NVIDIA NeMoCLAW和NVIDIA OpenShell。",
@@ -1364,7 +1493,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "霍尔木兹海峡现通航迹象，美股指高开，纳指涨1%，WTI原油日内跌幅达3%，现货黄金重回5000美元",
@@ -1376,6 +1505,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时53分 ~ 06时23分]"
+        },
+        {
+          "title": "美股收盘：标普纳指均涨超1% 国际油价回落提振市场情绪",
+          "url": "https://www.cls.cn/detail/2314857",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
         },
         {
           "title": "金十图示：2026年03月16日（周一）美股热门股票行情一览（美股盘中）",
@@ -1446,58 +1586,8 @@
       ]
     },
     {
-      "keyword_group": "电力",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "Nscale宣布，与英伟达、微软、卡特彼勒构建合作关系。 将提供1.35 GW的AI算力。 2028年上半年将获得2 GW电力供应。",
-          "url": "https://wallstreetcn.com/livenews/3071183",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时23分"
-        },
-        {
-          "title": "古巴全国电力联盟（UNE）：古巴全国电网已瘫痪。",
-          "url": "https://flash.jin10.com/detail/20260317020326307800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时48分"
-        },
-        {
-          "title": "惠誉：美国公共电力规划是应对数据中心负荷增长的关键。",
-          "url": "https://flash.jin10.com/detail/20260317035035090800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时29分"
-        },
-        {
-          "title": "英伟达将向韩国数据中心提供芯片。 Reflection AI计划开发韩语模型。 该公司Shinsegae数据中心将消耗250 MW电力。 （华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3071116",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时29分"
-        }
-      ]
-    },
-    {
       "keyword_group": "游戏",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "如何评价游戏主播炫神禁止自己的录播员「就看看桑」继续录制传播自己的直播，还逼着他注销账号？",
@@ -1548,12 +1638,23 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时28分 ~ 06时23分]"
+        },
+        {
+          "title": "有没有哪种游戏类型已经几乎消失在游戏市场里的了？或者哪些成功的类型后续很少有后继者？",
+          "url": "https://www.zhihu.com/question/1998866867037685496",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
         }
       ]
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "马斯克：人生不需要晴天朋友",
@@ -1583,6 +1684,17 @@
           "time_info": "[00时53分 ~ 06时23分]"
         },
         {
+          "title": "马斯克：OpenAI诉讼任何胜诉所得都将捐给慈善机构。我绝不会让自己获利。",
+          "url": "https://flash.jin10.com/detail/20260317071109761800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
           "title": "马斯克的xAI聘请信贷专家和银行家来提升Grok的金融策略能力",
           "url": "https://wallstreetcn.com/livenews/3071111",
           "source": "华尔街见闻-快讯",
@@ -1604,6 +1716,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "电力",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "Nscale宣布，与英伟达、微软、卡特彼勒构建合作关系。 将提供1.35 GW的AI算力。 2028年上半年将获得2 GW电力供应。",
+          "url": "https://wallstreetcn.com/livenews/3071183",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时23分"
+        },
+        {
+          "title": "古巴全国电力联盟（UNE）：古巴全国电网已瘫痪。",
+          "url": "https://flash.jin10.com/detail/20260317020326307800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时48分"
+        },
+        {
+          "title": "惠誉：美国公共电力规划是应对数据中心负荷增长的关键。",
+          "url": "https://flash.jin10.com/detail/20260317035035090800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "英伟达将向韩国数据中心提供芯片。 Reflection AI计划开发韩语模型。 该公司Shinsegae数据中心将消耗250 MW电力。 （华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3071116",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时29分"
         }
       ]
     },
@@ -1648,8 +1810,19 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "霍尔木兹海峡现通航迹象，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
+          "url": "https://wallstreetcn.com/articles/3767567",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
         {
           "title": "10年期美债收益率跌约5.7个基点",
           "url": "https://wallstreetcn.com/livenews/3071128",
@@ -1665,8 +1838,19 @@
     },
     {
       "keyword_group": "半导体",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "创业板涨超1%，存储芯片大爆发，华虹半导体直线拉升，农业白酒等“老登股”大涨，恒科指大涨逾2%",
+          "url": "https://wallstreetcn.com/articles/3767578",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
         {
           "title": "纳指科技指数收涨约1.5%，半导体指数涨超1.9%",
           "url": "https://wallstreetcn.com/livenews/3071138",

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-16T22:15:28.469862+08:00",
-  "total_titles_processed": 1661,
+  "generated_at": "2026-03-16T23:56:47.050229+08:00",
+  "total_titles_processed": 1784,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 68,
+      "match_count": 70,
       "titles": [
         {
           "title": "美以伊战争丨伊议长：特朗普说击败了我们9次，搞笑",
@@ -88,19 +88,6 @@
           "time_info": "[00时20分 ~ 09时20分]"
         },
         {
-          "title": "外交部：中美双方就特朗普总统访华事宜保持着沟通",
-          "url": "https://www.cls.cn/detail/2314062",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时54分 ~ 22时15分]"
-        },
-        {
           "title": "外交部回应特朗普将推迟访华言论，「双方就特朗普总统访华事宜保持着沟通」，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2016900692145637068",
           "source": "知乎",
@@ -110,8 +97,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时54分 ~ 22时15分]"
+          "appearance_count": 9,
+          "time_info": "[17时54分 ~ 23时56分]"
         },
         {
           "title": "特朗普会投入地面部队吗？",
@@ -119,6 +106,19 @@
           "source": "凤凰网",
           "ranks": [
             2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时54分 ~ 23时56分]"
+        },
+        {
+          "title": "外交部：中美双方就特朗普总统访华事宜保持着沟通",
+          "url": "https://www.cls.cn/detail/2314062",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2,
+            1
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -151,6 +151,17 @@
           "time_info": "[00时20分 ~ 07时20分]"
         },
         {
+          "title": "特朗普，赚了近100亿",
+          "url": "https://news.ifeng.com/c/8rXsIKxSU6H",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时39分 ~ 23时56分]"
+        },
+        {
           "title": "特朗普点名多国参加护航霍尔木兹海峡，德法日韩：不去",
           "url": "https://news.ifeng.com/c/8rXCGrQJNtV",
           "source": "凤凰网",
@@ -160,8 +171,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时31分 ~ 22时15分]"
+          "appearance_count": 14,
+          "time_info": "[12时31分 ~ 23时56分]"
         },
         {
           "title": "中方：中美就特朗普访华保持着沟通",
@@ -263,15 +274,16 @@
           "time_info": "[12时31分 ~ 16时03分]"
         },
         {
-          "title": "特朗普，赚了近100亿",
-          "url": "https://news.ifeng.com/c/8rXsIKxSU6H",
-          "source": "凤凰网",
+          "title": "特朗普强推“护航联盟”：不派舰，北约未来“非常糟糕”；日澳已拒绝",
+          "url": "https://wallstreetcn.com/articles/3767606",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时39分 ~ 22时15分]"
+          "appearance_count": 7,
+          "time_info": "[18时44分 ~ 23时56分]"
         },
         {
           "title": "美以伊战争丨特朗普称正与伊朗对话，伊外长坚决否认",
@@ -283,18 +295,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[19时39分 ~ 20时46分]"
-        },
-        {
-          "title": "特朗普强推“护航联盟”：不派舰，北约未来“非常糟糕”；日澳已拒绝",
-          "url": "https://wallstreetcn.com/articles/3767606",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时44分 ~ 22时15分]"
         },
         {
           "title": "释新闻｜特朗普呼吁组建“护航联盟”打通霍尔木兹海峡，为何反应平平？",
@@ -333,6 +333,17 @@
           "time_info": "[12时31分 ~ 12时32分]"
         },
         {
+          "title": "美以伊战争丨特朗普求护航，德国：这不是北约的战争",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时15分 ~ 23时56分]"
+        },
+        {
           "title": "中方回应特朗普呼吁多国派军舰护航",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E5%91%BC%E5%90%81%E5%A4%9A%E5%9B%BD%E6%B4%BE%E5%86%9B%E8%88%B0%E6%8A%A4%E8%88%AA%23&t=31&band_rank=12&Refer=top",
           "source": "微博",
@@ -360,6 +371,18 @@
           "time_info": "[14时14分 ~ 17时55分]"
         },
         {
+          "title": "外交部：中美双方就特朗普总统访华事保持着沟通",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32776754",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时15分 ~ 23时56分]"
+        },
+        {
           "title": "特朗普称“可能还会再炸几次，只是为了开心”，伊朗外长回应",
           "url": "https://wallstreetcn.com/livenews/3070387",
           "source": "华尔街见闻-快讯",
@@ -384,17 +407,6 @@
           "time_info": "14时14分"
         },
         {
-          "title": "美以伊战争丨特朗普求护航，德国：这不是北约的战争",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时15分"
-        },
-        {
           "title": "日本共同社报道称，日本外务大臣茂木敏充和美国国务卿鲁比奥很可能讨论美国总统特朗普关于向霍尔木兹海峡派遣护航舰艇的请求。",
           "url": "https://flash.jin10.com/detail/20260316135643816800",
           "source": "金十数据",
@@ -412,7 +424,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
@@ -426,17 +438,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
-        },
-        {
-          "title": "外交部：中美双方就特朗普总统访华事保持着沟通",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32776754",
-          "source": "澎湃新闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时15分"
         },
         {
           "title": "中国不协助霍尔木兹海峡护航特朗普就推迟访华？外交部回应",
@@ -543,6 +544,17 @@
           "time_info": "16时03分"
         },
         {
+          "title": "伊朗外长：从未请求停火或谈判，特朗普想“找乐子”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32775868",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
           "title": "消息人士称，在伊朗战争的压力下，哈马斯与特朗普领导的“和平委员会”举行了会谈，旨在维护加沙停火协议。",
           "url": "https://flash.jin10.com/detail/20260316195713703800",
           "source": "金十数据",
@@ -560,7 +572,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
@@ -582,7 +594,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
@@ -593,7 +605,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
@@ -615,7 +627,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
@@ -637,7 +649,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
@@ -686,6 +698,17 @@
           "time_info": "19时40分"
         },
         {
+          "title": "BBC向美国地区法官Roy K. Altman请求驳回总统特朗普的100亿美元诽谤诉讼。 BBC认为，特朗普并没有因为“误导性”的编辑评论而受到伤害。",
+          "url": "https://wallstreetcn.com/livenews/3071009",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
           "title": "德国国防部长皮斯托里乌斯：特朗普指望区区几艘欧洲护卫舰能做到强大的美国海军做不到的事吗？这不是我们的战争，我们也没有挑起战争。",
           "url": "https://flash.jin10.com/detail/20260316185959269800",
           "source": "金十数据",
@@ -703,7 +726,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
@@ -714,7 +737,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
@@ -725,7 +748,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
@@ -837,9 +860,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时15分 ~ 23时56分]"
         },
         {
           "title": "国际油价高开后转跌，WTI日内跌超1%，韩股收涨1.1%，美股期货走高，比特币月内涨逾12%",
@@ -903,7 +926,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
@@ -925,9 +948,96 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "特斯拉“造芯”真来了！马斯克官宣：Terafab项目7天后启动",
+          "url": "https://www.cls.cn/detail/2313116",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 09时20分]"
+        },
+        {
+          "title": "马斯克宣布7天内启动人工智能芯片制造项目Terafab",
+          "url": "https://wallstreetcn.com/livenews/3070402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时22分 ~ 07时20分]"
+        },
+        {
+          "title": "马斯克：人生不需要晴天朋友",
+          "url": "https://www.toutiao.com/trending/7616405377337278518/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时02分 ~ 18时44分]"
+        },
+        {
+          "title": "美国参议院民主党成员Warren就质询xAI和五角大楼披露声明：就马斯克旗下初创公司xAI大模型Grok获取机密信息的权限质询国防部。",
+          "url": "https://wallstreetcn.com/livenews/3071020",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
+          "title": "真正的美版“台积电”？马斯克称特斯拉“AI芯片超级工厂”7天内启动",
+          "url": "https://wallstreetcn.com/articles/3767539",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时20分"
+        },
+        {
+          "title": "Kimi发布技术报告获马斯克点赞，联合创始人杨植麟、吴育昕、周昕宇署名",
+          "url": "https://wallstreetcn.com/livenews/3071006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
+          "title": "欧盟委员会表示，马斯克旗下X平台已按期缴纳1.2亿欧元罚款。",
+          "url": "https://wallstreetcn.com/livenews/3070901",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         }
       ]
     },
@@ -955,7 +1065,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
@@ -966,7 +1076,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
@@ -977,7 +1087,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
@@ -987,11 +1097,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时45分 ~ 22时15分]"
+          "appearance_count": 4,
+          "time_info": "[20时45分 ~ 23时56分]"
         },
         {
           "title": "英伟达GTC今年有哪些看点",
@@ -1071,11 +1182,12 @@
           "source": "知乎",
           "ranks": [
             9,
-            5
+            5,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时44分 ~ 22时15分]"
+          "appearance_count": 7,
+          "time_info": "[18时44分 ~ 23时56分]"
         },
         {
           "title": "游戏主播「清雨 Tpor」毁号受害者发声将诉诸法律程序，在这件事情上法律能起作用吗？",
@@ -1102,71 +1214,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时54分 ~ 22时15分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "特斯拉“造芯”真来了！马斯克官宣：Terafab项目7天后启动",
-          "url": "https://www.cls.cn/detail/2313116",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时20分 ~ 09时20分]"
-        },
-        {
-          "title": "马斯克宣布7天内启动人工智能芯片制造项目Terafab",
-          "url": "https://wallstreetcn.com/livenews/3070402",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时22分 ~ 07时20分]"
-        },
-        {
-          "title": "马斯克：人生不需要晴天朋友",
-          "url": "https://www.toutiao.com/trending/7616405377337278518/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            15,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时02分 ~ 18时44分]"
-        },
-        {
-          "title": "真正的美版“台积电”？马斯克称特斯拉“AI芯片超级工厂”7天内启动",
-          "url": "https://wallstreetcn.com/articles/3767539",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
-        },
-        {
-          "title": "欧盟委员会表示，马斯克旗下X平台已按期缴纳1.2亿欧元罚款。",
-          "url": "https://wallstreetcn.com/livenews/3070901",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时46分"
         }
       ]
     },

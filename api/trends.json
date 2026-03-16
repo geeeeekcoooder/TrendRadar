@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-16T12:32:17.132901+08:00",
-  "total_titles_processed": 869,
+  "generated_at": "2026-03-16T14:14:36.376336+08:00",
+  "total_titles_processed": 973,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 34,
       "titles": [
         {
           "title": "美以伊战争丨伊议长：特朗普说击败了我们9次，搞笑",
@@ -58,11 +58,12 @@
           "url": "https://wallstreetcn.com/articles/3767541",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时20分 ~ 12时32分]"
+          "appearance_count": 15,
+          "time_info": "[00时20分 ~ 14时14分]"
         },
         {
           "title": "多国护航，特朗普就能“搞定”霍尔木兹海峡了吗？",
@@ -135,19 +136,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时20分 ~ 12时32分]"
-        },
-        {
-          "title": "美以伊战争丨美媒：特朗普考虑派兵攻占伊朗哈尔克岛",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 12时32分]"
+          "appearance_count": 15,
+          "time_info": "[00时20分 ~ 14时14分]"
         },
         {
           "title": "美伊战火持续蔓延！美石油巨头警告特朗普政府：能源危机恐恶化",
@@ -155,6 +145,17 @@
           "source": "财联社热门",
           "ranks": [
             4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时31分 ~ 14时14分]"
+        },
+        {
+          "title": "美以伊战争丨美媒：特朗普考虑派兵攻占伊朗哈尔克岛",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -172,6 +173,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时19分 ~ 06时18分]"
+        },
+        {
+          "title": "美以伊战争丨特朗普痛斥美国媒体叛国",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
+        },
+        {
+          "title": "日本共同社报道称，日本外务大臣茂木敏充和美国国务卿鲁比奥很可能讨论美国总统特朗普关于向霍尔木兹海峡派遣护航舰艇的请求。",
+          "url": "https://flash.jin10.com/detail/20260316135643816800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
         },
         {
           "title": "美石油巨头警告特朗普政府：能源危机恐加剧",
@@ -197,6 +220,17 @@
           "time_info": "[05时19分 ~ 06时18分]"
         },
         {
+          "title": "特朗普点名多国参加护航霍尔木兹海峡，德法日韩：不去",
+          "url": "https://news.ifeng.com/c/8rXCGrQJNtV",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时31分 ~ 14时14分]"
+        },
+        {
           "title": "英国首相府：英国首相斯塔默今晚与美国总统特朗普、加拿大总理卡尼进行了通话。",
           "url": "https://flash.jin10.com/detail/20260316032528121800",
           "source": "金十数据",
@@ -210,17 +244,6 @@
           "time_info": "[04时18分 ~ 06时18分]"
         },
         {
-          "title": "特朗普点名多国参加护航霍尔木兹海峡，德法日韩：不去",
-          "url": "https://news.ifeng.com/c/8rXCGrQJNtV",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 12时32分]"
-        },
-        {
           "title": "美国被曝拟宣布组建霍尔木兹海峡「护航联盟」，特朗普威胁北约盟友协助通航，如何解读美方意图？有哪些影响？",
           "url": "https://www.zhihu.com/question/2016791283864138046",
           "source": "知乎",
@@ -228,8 +251,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 12时32分]"
+          "appearance_count": 3,
+          "time_info": "[12时31分 ~ 14时14分]"
         },
         {
           "title": "特朗普：美以对伊目标总体一致，具体目标可能不同",
@@ -241,6 +264,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
+        },
+        {
+          "title": "深套伊朗，特朗普“浮亏加仓”，袭击哈尔克是对是错？丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260316132853477800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
         },
         {
           "title": "特朗普称将先处理伊朗问题，再推进与古巴的协议",
@@ -293,7 +327,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
@@ -331,6 +365,17 @@
           "time_info": "09时20分"
         },
         {
+          "title": "民调：特朗普正将美国盟友推向中国",
+          "url": "https://www.toutiao.com/trending/7617510305036795923/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
+        },
+        {
           "title": "美国总统特朗普：（谈古巴）我认为我们很快就会达成协议，或者采取必要行动。",
           "url": "https://flash.jin10.com/detail/20260316081825739800",
           "source": "金十数据",
@@ -356,7 +401,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "市场处于“爆发临界点”！高盛爆料：本周机构对美股的抛售和做空量达到“历史级别”",
@@ -365,11 +410,23 @@
           "ranks": [
             6,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时20分 ~ 12时32分]"
+          "appearance_count": 15,
+          "time_info": "[00时20分 ~ 14时14分]"
+        },
+        {
+          "title": "国际油价高开后转跌，WTI日内跌超1%，韩股一度涨超1%，美股期货走高",
+          "url": "https://wallstreetcn.com/articles/3767567",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
         },
         {
           "title": "国际油价涨超3%，美股期货小幅下跌",
@@ -421,8 +478,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时20分 ~ 12时32分]"
+          "appearance_count": 15,
+          "time_info": "[00时20分 ~ 14时14分]"
         },
         {
           "title": "315｜十年玩家称“无端被禁言一天”起诉索赔1元，游戏官方回应“存在不当言行”",
@@ -455,11 +512,12 @@
           "url": "https://www.zhihu.com/question/2015389671794896944",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 12时32分]"
+          "appearance_count": 3,
+          "time_info": "[12时31分 ~ 14时14分]"
         }
       ]
     },
@@ -505,6 +563,35 @@
       ]
     },
     {
+      "keyword_group": "半导体",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "恒生科技指数涨超2%，恒指涨超1%。比亚迪股份涨超6%，蔚来涨超5%，京东健康、小米集团、华虹半导体等涨超4%。",
+          "url": "https://wallstreetcn.com/livenews/3070573",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时32分 ~ 14时14分]"
+        },
+        {
+          "title": "创业板指午后涨超1%。半导体、存储芯片板块持续走高，沪深京三市上涨个股近2600只。",
+          "url": "https://wallstreetcn.com/livenews/3070604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
+        }
+      ]
+    },
+    {
       "keyword_group": "电力",
       "match_count": 2,
       "titles": [
@@ -515,7 +602,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
@@ -529,23 +616,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "恒生科技指数涨超2%，恒指涨超1%。比亚迪股份涨超6%，蔚来涨超5%，京东健康、小米集团、华虹半导体等涨超4%。",
-          "url": "https://wallstreetcn.com/livenews/3070573",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时32分"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-18T03:49:09.979458+08:00",
-  "total_titles_processed": 474,
+  "generated_at": "2026-03-18T04:29:24.039259+08:00",
+  "total_titles_processed": 488,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 03时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 04时29分]"
         },
         {
           "title": "特朗普称将接管古巴",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 03时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 04时29分]"
         },
         {
           "title": "美国财长：特朗普“因霍尔木兹海峡护航事威胁推迟访华”报道不实",
@@ -40,8 +40,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 03时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 04时29分]"
         },
         {
           "title": "美澄清涉特朗普或推迟访华不实报道",
@@ -52,8 +52,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 03时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 04时29分]"
         },
         {
           "title": "特朗普或因伊朗战事推迟访华？外交部回应",
@@ -63,8 +63,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 03时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 04时29分]"
         },
         {
           "title": "美国总统特朗普：伊朗行动进展迅速，远超计划，预计几周内会有结论。",
@@ -117,11 +117,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            23
+            23,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时47分 ~ 04时29分]"
+        },
+        {
+          "title": "特朗普谈反恐中心主任辞职：他走人是好事",
+          "url": "https://flash.jin10.com/detail/20260318032156939800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时47分 ~ 03时49分]"
+          "time_info": "[03时49分 ~ 04时29分]"
         },
         {
           "title": "特朗普称应考虑美国退出北约的可能性",
@@ -158,17 +171,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时47分 ~ 03时49分]"
-        },
-        {
-          "title": "特朗普谈反恐中心主任辞职：他走人是好事",
-          "url": "https://flash.jin10.com/detail/20260318032156939800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时49分"
         },
         {
           "title": "特朗普称应考虑美国退出北约的可能性",
@@ -371,8 +373,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 03时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 04时29分]"
         },
         {
           "title": "推理时代加速到来！英伟达力推LPU，哪些上市公司有望吃到百万出货红利？",
@@ -384,8 +386,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 03时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 04时29分]"
         },
         {
           "title": "超微电脑加入英伟达BlueField-4 STX首发阵营，旨在通过存储服务器提升AI推理性能",
@@ -424,6 +426,30 @@
           "time_info": "[00时55分 ~ 01时54分]"
         },
         {
+          "title": "英伟达加倍押注铜缆策略，光通信股受到关注",
+          "url": "https://wallstreetcn.com/livenews/3071873",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时49分 ~ 04时29分]"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：回购和分红将是一个非常大的数字。",
+          "url": "https://flash.jin10.com/detail/20260318025914002800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时49分 ~ 04时29分]"
+        },
+        {
           "title": "惠与（HPE）推出由英伟达产品支持的HPE AI Grid。",
           "url": "https://wallstreetcn.com/livenews/3071844",
           "source": "华尔街见闻-快讯",
@@ -434,6 +460,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时47分 ~ 03时49分]"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：到2027年底，Blackwell和Rubin芯片带来的营收机遇“可能将超过1万亿美元”。",
+          "url": "https://flash.jin10.com/detail/20260318025633666800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时49分 ~ 04时29分]"
         },
         {
           "title": "英伟达：公司计划将50%的自由现金流（FCF）返还给投资者。 预计将在下半年回购股票，并派息。",
@@ -448,59 +486,28 @@
           "time_info": "[01时54分 ~ 02时47分]"
         },
         {
-          "title": "英伟达加倍押注铜缆策略，光通信股受到关注",
-          "url": "https://wallstreetcn.com/livenews/3071873",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时49分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：回购和分红将是一个非常大的数字。",
-          "url": "https://flash.jin10.com/detail/20260318025914002800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时49分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：到2027年底，Blackwell和Rubin芯片带来的营收机遇“可能将超过1万亿美元”。",
-          "url": "https://flash.jin10.com/detail/20260318025633666800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时49分"
-        },
-        {
           "title": "英伟达CEO黄仁勋：Groq可能会为数据中心市场带来25%的增长空间。",
           "url": "https://flash.jin10.com/detail/20260318025427767800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时49分 ~ 04时29分]"
         },
         {
           "title": "英伟达CEO黄仁勋：Groq可能会让数据中心新增25%的机会。 回购股票和分红的规模将非常庞大。",
           "url": "https://wallstreetcn.com/livenews/3071861",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时49分 ~ 04时29分]"
         },
         {
           "title": "英伟达CEO黄仁勋：1万亿美元+的收入预期具有强烈的“能见度”。 这样的预期还仅仅包含了Blackwell和Rubin芯片。 这个预期还不包括即将发布的新品，也不包括新增的地区和市场。 希望预定和发货等业务规模将超过1万亿美元。 1万亿美元这个目标将继续膨胀。 季度预期可以超过（市场）预期。 客户希望确保自己能获得（充足的）供应。",
@@ -560,8 +567,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 03时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 04时29分]"
         },
         {
           "title": "油价重上100美元搅动市场 美股三大期指小幅走高 | 今夜看点",
@@ -571,8 +578,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 03时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 04时29分]"
         },
         {
           "title": "金十图示：2026年03月17日（周二）美股热门股票行情一览（美股盘中）",
@@ -603,6 +610,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "周二（3月17日）纽约尾盘，ICE美元指数跌0.14%，报99.577点，日内交投区间为100.115-99.503点，北京时间14:14刷新日高之后，持续走低。 彭博美元指数跌0.18%，报1206.96点，日内交投区间为1212-1206.06点。 美元兑日元跌0.02%，报159.04日元，日内交投区间为159.49-158.72日元。 欧元兑日元涨0.27%，英镑兑日元涨0.28%。",
+          "url": "https://wallstreetcn.com/livenews/3071867",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时49分 ~ 04时29分]"
+        },
+        {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌1.58%，暂报2771.72点，北京时间12:00前后出现一波显著的下挫行情，随后持续低位震荡。 MarketVectorTM数字资产100中盘指数跌0.86%，报3002.22点。 MarketVector数字资产100指数涨0.64%，报15001.15点。 目前，Solana跌0.63%，狗狗币跌1.99%，XRP跌0.66%。 比特币涨0.27%，暂报74255.79美元；以太坊跌0.04%，暂报2331.63美元。",
           "url": "https://wallstreetcn.com/livenews/3071821",
           "source": "华尔街见闻-快讯",
@@ -613,17 +632,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时54分 ~ 02时47分]"
-        },
-        {
-          "title": "周二（3月17日）纽约尾盘，ICE美元指数跌0.14%，报99.577点，日内交投区间为100.115-99.503点，北京时间14:14刷新日高之后，持续走低。 彭博美元指数跌0.18%，报1206.96点，日内交投区间为1212-1206.06点。 美元兑日元跌0.02%，报159.04日元，日内交投区间为159.49-158.72日元。 欧元兑日元涨0.27%，英镑兑日元涨0.28%。",
-          "url": "https://wallstreetcn.com/livenews/3071867",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时49分"
         }
       ]
     },
@@ -642,19 +650,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 03时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 04时29分]"
         },
         {
           "title": "如何看待《杀戮尖塔 2》转到 godot 引擎并大获成功，这对于独立游戏开发者有什么启示？",
           "url": "https://www.zhihu.com/question/2015546277190993578",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时48分 ~ 03时49分]"
+          "appearance_count": 3,
+          "time_info": "[03时48分 ~ 04时29分]"
         }
       ]
     },
@@ -668,11 +677,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            19
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时47分 ~ 03时49分]"
+          "appearance_count": 3,
+          "time_info": "[02时47分 ~ 04时29分]"
         },
         {
           "title": "文件显示：美国证券交易委员会与马斯克表示，他们正在谈判解决关于马斯克披露其Twitter股份的民事诉讼。",
@@ -689,6 +699,34 @@
       ]
     },
     {
+      "keyword_group": "谷歌",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "标普500指数初步收涨0.2%，能源板块涨1.1%，可选消费、电信、科技板块至少涨0.2%，保健板块跌0.9%。 纳斯达克100指数初步收涨0.5%，成分股中，西部数据初步收涨9.3%，希捷科技涨5.4%，Arm控股涨4.7%，美光涨4.2%，谷歌A涨1.6%表现靠前，迈威尔科技、霍尼韦尔、安进、FTNT、Atlassian、英特尔则至多跌3.6%。 IBM初步收涨2.7%，迪士尼、亚马逊、高盛涨超1%，领跑道指成分股，波音、霍尼韦尔、安进、Salesforce、强生则至少跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3071883",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "报道称：谷歌来华考察液冷设备",
+          "url": "https://wallstreetcn.com/livenews/3071795",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时55分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 1,
       "titles": [
@@ -700,25 +738,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 03时49分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "报道称：谷歌来华考察液冷设备",
-          "url": "https://wallstreetcn.com/livenews/3071795",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 04时29分]"
         }
       ]
     }

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T09:11:37.537885+08:00",
-  "total_titles_processed": 852,
+  "generated_at": "2026-03-17T12:08:52.163313+08:00",
+  "total_titles_processed": 1031,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 75,
+      "match_count": 77,
       "titles": [
         {
           "title": "特朗普会投入地面部队吗？",
@@ -39,11 +39,12 @@
           "source": "澎湃新闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时53分 ~ 09时11分]"
+          "appearance_count": 14,
+          "time_info": "[00时53分 ~ 12时08分]"
         },
         {
           "title": "特朗普，赚了近100亿",
@@ -76,8 +77,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时53分 ~ 09时11分]"
+          "appearance_count": 14,
+          "time_info": "[00时53分 ~ 12时08分]"
         },
         {
           "title": "伊朗外长：从未请求停火或谈判，特朗普想“找乐子”",
@@ -89,8 +90,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时53分 ~ 09时11分]"
+          "appearance_count": 14,
+          "time_info": "[00时53分 ~ 12时08分]"
         },
         {
           "title": "特朗普点名多国参加护航霍尔木兹海峡，德法日韩：不去",
@@ -143,6 +144,17 @@
           "time_info": "07时22分"
         },
         {
+          "title": "美以伊战争丨美财长：特朗普不是因护航事件推迟访华",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
           "title": "特朗普：打击哈尔克岛石油设施仍在备选方案中",
           "url": "https://flash.jin10.com/detail/20260317014030515800",
           "source": "金十数据",
@@ -171,7 +183,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
@@ -186,6 +198,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时31分 ~ 06时23分]"
+        },
+        {
+          "title": "特朗普抱怨部分盟友不帮忙 并暗示将袭击哈尔克岛石油设施 | 环球市场",
+          "url": "https://www.cls.cn/detail/2314895",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时11分 ~ 12时08分]"
         },
         {
           "title": "多国表示不参与霍尔木兹海峡护航，特朗普抱怨盟友“不帮忙”",
@@ -210,6 +234,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时31分 ~ 06时23分]"
+        },
+        {
+          "title": "特朗普“护航联盟”为何应者寥寥？美军真的会夺哈尔克岛吗｜907编辑部",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32777497",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时11分 ~ 12时08分]"
         },
         {
           "title": "特朗普称他将“有幸拿下古巴”",
@@ -246,6 +282,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时23分 ~ 07时22分]"
+        },
+        {
+          "title": "特朗普“三个很开心”，让全世界脊背发凉",
+          "url": "https://news.ifeng.com/c/8rYllPsJnfC",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时11分 ~ 12时08分]"
         },
         {
           "title": "美国总统特朗普：英国国王很快就要来美国。",
@@ -332,6 +379,17 @@
           "time_info": "[00时53分 ~ 01时54分]"
         },
         {
+          "title": "全球前瞻｜特朗普称将继续“猛烈空袭”伊朗，中美正探讨建立全新机制",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32776082",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时11分 ~ 12时08分]"
+        },
+        {
           "title": "美国总统特朗普：最高法院关于关税的裁决不会改变关税政策。我会以不同的方式重新开始征收关税。",
           "url": "https://flash.jin10.com/detail/20260317045000093800",
           "source": "金十数据",
@@ -344,26 +402,15 @@
           "time_info": "[05时31分 ~ 06时23分]"
         },
         {
-          "title": "特朗普抱怨部分盟友不帮忙 并暗示将袭击哈尔克岛石油设施 | 环球市场",
-          "url": "https://www.cls.cn/detail/2314895",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时11分"
-        },
-        {
-          "title": "特朗普“三个很开心”，让全世界脊背发凉",
-          "url": "https://news.ifeng.com/c/8rYllPsJnfC",
+          "title": "特朗普：古巴现在非常脆弱，我可以随心所欲拿下它",
+          "url": "https://news.ifeng.com/c/8rYzLJPGX5T",
           "source": "凤凰网",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时11分"
+          "time_info": "12时08分"
         },
         {
           "title": "油价缩减跌幅，布伦特原油一度转涨，消息面上，特朗普再次呼吁其他国家协助重新开放霍尔木兹海峡。",
@@ -375,17 +422,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
-        },
-        {
-          "title": "特朗普“护航联盟”为何应者寥寥？美军真的会夺哈尔克岛吗｜907编辑部",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32777497",
-          "source": "澎湃新闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时11分"
         },
         {
           "title": "美国总统特朗普：英国国王很快就要来访。",
@@ -529,17 +565,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
-        },
-        {
-          "title": "全球前瞻｜特朗普称将继续“猛烈空袭”伊朗，中美正探讨建立全新机制",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32776082",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时11分"
         },
         {
           "title": "美国总统特朗普：真主党一直是个问题。",
@@ -856,7 +881,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         }
@@ -864,7 +889,7 @@
     },
     {
       "keyword_group": "英伟达",
-      "match_count": 65,
+      "match_count": 68,
       "titles": [
         {
           "title": "英伟达将豪掷 260 亿美元开发 AI 大模型，为什么英伟达要自己下场做大模型？",
@@ -913,7 +938,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
@@ -1137,6 +1162,18 @@
           "time_info": "[05时31分 ~ 06时23分]"
         },
         {
+          "title": "英伟达发布DLSS 5，黄仁勋高呼图形学的GPT时刻来了",
+          "url": "https://wallstreetcn.com/articles/3767654",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时11分 ~ 12时08分]"
+        },
+        {
           "title": "戴尔科技率先出货搭载英伟达GB300的桌面平台",
           "url": "https://wallstreetcn.com/livenews/3071165",
           "source": "华尔街见闻-快讯",
@@ -1230,15 +1267,15 @@
           "time_info": "07时22分"
         },
         {
-          "title": "英伟达发布DLSS 5，黄仁勋高呼图形学的GPT时刻来了",
-          "url": "https://wallstreetcn.com/articles/3767654",
-          "source": "华尔街见闻",
+          "title": "LPU出货高增长预定？英伟达发布Vera Rubin平台 每机柜配备256个",
+          "url": "https://www.cls.cn/detail/2315029",
+          "source": "财联社热门",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时11分"
+          "time_info": "12时08分"
         },
         {
           "title": "市场消息：文远知行在英伟达GTC 2026大会上展示了基于NVIDIA DRIVE Hyperion平台的Robotaxi GXR，加速其在东南亚及其他地区的扩张。",
@@ -1247,7 +1284,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
@@ -1280,7 +1317,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
@@ -1349,6 +1386,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时48分"
+        },
+        {
+          "title": "英伟达GTC今年有哪些看点",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BEGTC%E4%BB%8A%E5%B9%B4%E6%9C%89%E5%93%AA%E4%BA%9B%E7%9C%8B%E7%82%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "美光科技执行副总裁兼首席商务官Sumit Sadana：AI的下一个时代将由通过全生态系统联合工程创新开发的紧密集成平台来定义。我们与英伟达的紧密合作确保了计算与内存从研发第一天起就能同步扩展。 美光的HBM4是这一切的核心，它是AI的引擎，提供了前所未有的带宽、容量和能效。 随着HBM4 36GB 12H，以及业界首款SOCAMM2和Gen6 SSD的量产，美光的内存与存储构成了释放下一代AI全部潜力的核心基石。",
@@ -1459,6 +1507,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
+        },
+        {
+          "title": "如何评价黄仁勋在英伟达 2026 GTC 大会的演讲？有哪些亮点值得关注？",
+          "url": "https://www.zhihu.com/question/2016909704257828473",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "英伟达CEO黄仁勋：。我们与谷歌AWS合作已经很长时间了。今年我非常兴奋的一件事是，我们将把开放人工智能引入AWS。这将推动AWS云计算的巨大消费。",
@@ -1607,7 +1666,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "霍尔木兹海峡现通航迹象，美股指高开，纳指涨1%，WTI原油日内跌幅达3%，现货黄金重回5000美元",
@@ -1629,8 +1688,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时22分 ~ 09时11分]"
+          "appearance_count": 3,
+          "time_info": "[07时22分 ~ 12时08分]"
+        },
+        {
+          "title": "国际油价大跌推高美股 大摩首席：市场调整已接近尾声",
+          "url": "https://www.cls.cn/detail/2314987",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "布油期货涨幅扩大至2.6%，报每桶102.85美元。 美股期货小幅走低，标普500指数期货跌0.3%。",
@@ -1639,7 +1709,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
@@ -1713,7 +1783,7 @@
     },
     {
       "keyword_group": "游戏",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "如何评价游戏主播炫神禁止自己的录播员「就看看桑」继续录制传播自己的直播，还逼着他注销账号？",
@@ -1770,11 +1840,12 @@
           "url": "https://www.cls.cn/detail/2314845",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时11分 ~ 12时08分]"
         },
         {
           "title": "有没有哪种游戏类型已经几乎消失在游戏市场里的了？或者哪些成功的类型后续很少有后继者？",
@@ -1786,6 +1857,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "叠纸游戏称封号是华为原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%A0%E7%BA%B8%E6%B8%B8%E6%88%8F%E7%A7%B0%E5%B0%81%E5%8F%B7%E6%98%AF%E5%8D%8E%E4%B8%BA%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         }
       ]
     },
@@ -1911,6 +1993,17 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "霍尔木兹海峡受阻缓解，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
+          "url": "https://wallstreetcn.com/articles/3767567",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时11分 ~ 12时08分]"
+        },
+        {
           "title": "霍尔木兹海峡现通航迹象，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
           "url": "https://wallstreetcn.com/articles/3767567",
           "source": "华尔街见闻",
@@ -1920,17 +2013,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
-        },
-        {
-          "title": "霍尔木兹海峡受阻缓解，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
-          "url": "https://wallstreetcn.com/articles/3767567",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时11分"
         },
         {
           "title": "10年期美债收益率跌约5.7个基点",

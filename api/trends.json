@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T19:38:33.626885+08:00",
-  "total_titles_processed": 1697,
+  "generated_at": "2026-03-18T20:45:07.943258+08:00",
+  "total_titles_processed": 1815,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 67,
+      "match_count": 72,
       "titles": [
         {
           "title": "外交部：美方已澄清 特朗普访华事与霍尔木兹海峡通航问题无关",
@@ -42,8 +42,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[06时24分 ~ 19时38分]"
+          "appearance_count": 16,
+          "time_info": "[06时24分 ~ 20时45分]"
         },
         {
           "title": "美国财长：特朗普“因霍尔木兹海峡护航事威胁推迟访华”报道不实",
@@ -82,6 +82,17 @@
           "time_info": "[07时23分 ~ 16时37分]"
         },
         {
+          "title": "特朗普改口：美国对伊朗动武，不需要盟友帮忙",
+          "url": "https://news.ifeng.com/c/8rb4ORiCMhg",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时42分 ~ 20时45分]"
+        },
+        {
           "title": "特朗普炮轰北约不肯援助：美国应考虑退出北约的可能性",
           "url": "https://www.cls.cn/detail/2316263",
           "source": "财联社热门",
@@ -105,17 +116,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时55分 ~ 05时28分]"
-        },
-        {
-          "title": "特朗普改口：美国对伊朗动武，不需要盟友帮忙",
-          "url": "https://news.ifeng.com/c/8rb4ORiCMhg",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时42分 ~ 19时38分]"
         },
         {
           "title": "美以伊战争丨特朗普：不担心伊朗会成为另一个越南",
@@ -165,6 +165,19 @@
           "time_info": "[15时46分 ~ 16时37分]"
         },
         {
+          "title": "外交部：中美双方将继续就特朗普总统访华事保持沟通",
+          "url": "https://www.cls.cn/detail/2316670",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时42分 ~ 20时45分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗行动进展迅速，远超计划，预计几周内会有结论。",
           "url": "https://flash.jin10.com/detail/20260318014629718800",
           "source": "金十数据",
@@ -174,6 +187,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
+        },
+        {
+          "title": "谴责伊朗不谴责美以，高市早苗语出惊人：因为我要见特朗普",
+          "url": "https://news.ifeng.com/c/8rb2oC4BRVx",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时42分 ~ 20时45分]"
+        },
+        {
+          "title": "特朗普就伊朗问题施压日本怎么办？高市可能使出拖字诀",
+          "url": "https://news.ifeng.com/c/8rb3KwO5fcb",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时42分 ~ 20时45分]"
         },
         {
           "title": "特朗普称应考虑美国退出北约的可能性",
@@ -188,6 +225,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时14分 ~ 16时37分]"
+        },
+        {
+          "title": "马克龙称拒绝参与霍尔木兹海峡护航，特朗普：他快下台了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32787473",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时42分 ~ 20时45分]"
         },
         {
           "title": "美国总统特朗普夸赞美国股市表现。",
@@ -245,6 +294,17 @@
           "time_info": "16时37分"
         },
         {
+          "title": "美国民主党参议员沃伦：美国总统特朗普在限制美联储降息空间。",
+          "url": "https://wallstreetcn.com/livenews/3072450",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
           "title": "特朗普亲自澄清：因对伊朗战事未了请求推迟行程，“期待访华”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32783811",
           "source": "澎湃新闻",
@@ -282,18 +342,6 @@
           "time_info": "[01时54分 ~ 02时47分]"
         },
         {
-          "title": "外交部：中美双方将继续就特朗普总统访华事保持沟通",
-          "url": "https://www.cls.cn/detail/2316670",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时42分 ~ 19时38分]"
-        },
-        {
           "title": "遭北约背刺，特朗普怒了：愚蠢！美国一定会“记仇”",
           "url": "https://news.ifeng.com/c/8radF7mAvMh",
           "source": "凤凰网",
@@ -305,16 +353,16 @@
           "time_info": "[12时14分 ~ 14时54分]"
         },
         {
-          "title": "谴责伊朗不谴责美以，高市早苗语出惊人：因为我要见特朗普",
-          "url": "https://news.ifeng.com/c/8rb2oC4BRVx",
+          "title": "是否派自卫队赴中东？日本专家：高市或与特朗普达成私下交易",
+          "url": "https://news.ifeng.com/c/8rb1B6BXYFH",
           "source": "凤凰网",
           "ranks": [
-            9,
-            10
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[17时42分 ~ 19时38分]"
+          "time_info": "[18时41分 ~ 20时45分]"
         },
         {
           "title": "为何不谴责美以？高市早苗：因为我要见特朗普，说完了",
@@ -326,30 +374,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时14分 ~ 14时54分]"
-        },
-        {
-          "title": "特朗普就伊朗问题施压日本怎么办？高市可能使出拖字诀",
-          "url": "https://news.ifeng.com/c/8rb3KwO5fcb",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时42分 ~ 19时38分]"
-        },
-        {
-          "title": "马克龙称拒绝参与霍尔木兹海峡护航，特朗普：他快下台了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32787473",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时42分 ~ 19时38分]"
         },
         {
           "title": "美国总统特朗普重申，将在任期内封杀风力发电机",
@@ -387,18 +411,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时25分 ~ 07时23分]"
-        },
-        {
-          "title": "是否派自卫队赴中东？日本专家：高市或与特朗普达成私下交易",
-          "url": "https://news.ifeng.com/c/8rb1B6BXYFH",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时41分 ~ 19时38分]"
         },
         {
           "title": "美国总统特朗普谈及与爱尔兰的贸易赤字，宣称：（爱尔兰）需要购买我们的能源。",
@@ -482,6 +494,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时28分 ~ 06时25分]"
+        },
+        {
+          "title": "白宫称特朗普拒绝重启与伊朗谈判，希望军事行动继续推进，伊朗战事还将持续多久？未来将如何变化？",
+          "url": "https://www.zhihu.com/question/2017167860183609549",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时44分 ~ 20时45分]"
+        },
+        {
+          "title": "爱尔兰总理当着特朗普的面抨击关税",
+          "url": "https://www.toutiao.com/trending/7617743216013606954/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时44分 ~ 20时45分]"
         },
         {
           "title": "美国总统特朗普重申过去两周美国在伊朗采取了一次“短暂行动”（excursion）。",
@@ -600,7 +634,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         },
@@ -647,6 +681,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        },
+        {
+          "title": "美国总统特朗普：美联储主席鲍威尔什么时候降息？",
+          "url": "https://wallstreetcn.com/livenews/3072430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
         },
         {
           "title": "美国总统特朗普：伊朗战争很快就会结束。而战争一结束，油价就会断崖式下跌。",
@@ -702,6 +747,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        },
+        {
+          "title": "特朗普称正考虑进一步打击伊朗现政权",
+          "url": "https://wallstreetcn.com/livenews/3072425",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
         },
         {
           "title": "美国总统特朗普：不同意英国首相斯塔默的移民和能源政策。",
@@ -765,7 +821,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         },
@@ -813,11 +869,12 @@
             14,
             16,
             19,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时55分 ~ 19时38分]"
+          "appearance_count": 24,
+          "time_info": "[00时55分 ~ 20时45分]"
         },
         {
           "title": "超微电脑加入英伟达BlueField-4 STX首发阵营，旨在通过存储服务器提升AI推理性能",
@@ -986,6 +1043,138 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "哈塞特安抚市场，美股指高开，科技股普涨，布油站上102美元，现货黄金涨0.2%",
+          "url": "https://wallstreetcn.com/articles/3767701",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 06时25分]"
+        },
+        {
+          "title": "油价重上100美元搅动市场 美股三大期指小幅走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2315898",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 09时15分]"
+        },
+        {
+          "title": "美股收盘：存储股走强美光创新高 三大指数连涨两日",
+          "url": "https://www.cls.cn/detail/2316130",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时23分 ~ 14时54分]"
+        },
+        {
+          "title": "2月生产者物价指数数据公布后，美股股指期货下滑，标普500指数期货下跌0.1%。",
+          "url": "https://flash.jin10.com/detail/20260318203137832800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
+          "title": "微博美股盘前下跌3%，公司第四季度调整后每股收益不及预期。",
+          "url": "https://wallstreetcn.com/livenews/3072307",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时43分 ~ 18时41分]"
+        },
+        {
+          "title": "美国2月PPI数据公布后，美股三大股指期货跌幅扩大，均跌至日内低点；美元指数短线拉升，日内涨0.2%。现货黄金回落至4890美元/盎司下方，日内跌2.36%。美国国债走低，10年期国债收益率快速拉升，现报4.206%。",
+          "url": "https://wallstreetcn.com/livenews/3072449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
+          "title": "梅西百货第四季度净销售额76.4亿美元，预期75.1亿美元。 第四季度经调整后每股收益1.67美元，预期1.54美元。 梅西百货预计全财年净销售额214亿美元-216.5亿美元，预估211.1亿美元。 梅西百货预计一季度净销售额45.75亿美元-46.25亿美元。 梅西百货美股盘前涨近1%。",
+          "url": "https://wallstreetcn.com/livenews/3072379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时38分"
+        },
+        {
+          "title": "金十图示：2026年03月17日（周二）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260318003210314800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时55分"
+        },
+        {
+          "title": "金十图示：2026年03月17日（周二）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260318003025668800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时55分"
+        },
+        {
+          "title": "现货黄金跌破4900美元/盎司，日内跌超2%，续创2月18日以来新低。 美股三大股指期货集体跳水，纳指期货日内转跌，现跌0.04%，标普500指数期货跌0.07%，道指期货跌0.05%。 美国2年期国债收益率升至日内高点3.70%。",
+          "url": "https://wallstreetcn.com/livenews/3072433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
+          "title": "航空业ETF收涨将近2%，与能源业ETF领跑美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3071892",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        }
+      ]
+    },
+    {
       "keyword_group": "游戏",
       "match_count": 9,
       "titles": [
@@ -1006,6 +1195,18 @@
           "time_info": "[00时55分 ~ 09时15分]"
         },
         {
+          "title": "籽岷又爆典:玩家需适应游戏",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352034&amp;topic_name=%E7%B1%BD%E5%B2%B7%E5%8F%88%E7%88%86%E5%85%B8%3A%E7%8E%A9%E5%AE%B6%E9%9C%80%E9%80%82%E5%BA%94%E6%B8%B8%E6%88%8F",
+          "source": "贴吧",
+          "ranks": [
+            30,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时42分 ~ 20时45分]"
+        },
+        {
           "title": "记忆里射箭弓都是竖起来，但很多游戏会使用横握弓射箭的方式，在现实中真的可行吗？两种姿势有什么优缺点？",
           "url": "https://www.zhihu.com/question/2014310673509786207",
           "source": "知乎",
@@ -1016,18 +1217,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时57分 ~ 16时37分]"
-        },
-        {
-          "title": "籽岷又爆典:玩家需适应游戏",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352034&amp;topic_name=%E7%B1%BD%E5%B2%B7%E5%8F%88%E7%88%86%E5%85%B8%3A%E7%8E%A9%E5%AE%B6%E9%9C%80%E9%80%82%E5%BA%94%E6%B8%B8%E6%88%8F",
-          "source": "贴吧",
-          "ranks": [
-            30,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时42分 ~ 19时38分]"
         },
         {
           "title": "如何看待《杀戮尖塔 2》转到 godot 引擎并大获成功，这对于独立游戏开发者有什么启示？",
@@ -1071,7 +1260,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         },
@@ -1093,108 +1282,9 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "哈塞特安抚市场，美股指高开，科技股普涨，布油站上102美元，现货黄金涨0.2%",
-          "url": "https://wallstreetcn.com/articles/3767701",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 06时25分]"
-        },
-        {
-          "title": "油价重上100美元搅动市场 美股三大期指小幅走高 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2315898",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时55分 ~ 09时15分]"
-        },
-        {
-          "title": "美股收盘：存储股走强美光创新高 三大指数连涨两日",
-          "url": "https://www.cls.cn/detail/2316130",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时23分 ~ 14时54分]"
-        },
-        {
-          "title": "微博美股盘前下跌3%，公司第四季度调整后每股收益不及预期。",
-          "url": "https://wallstreetcn.com/livenews/3072307",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时43分 ~ 18时41分]"
-        },
-        {
-          "title": "梅西百货第四季度净销售额76.4亿美元，预期75.1亿美元。 第四季度经调整后每股收益1.67美元，预期1.54美元。 梅西百货预计全财年净销售额214亿美元-216.5亿美元，预估211.1亿美元。 梅西百货预计一季度净销售额45.75亿美元-46.25亿美元。 梅西百货美股盘前涨近1%。",
-          "url": "https://wallstreetcn.com/livenews/3072379",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时38分"
-        },
-        {
-          "title": "金十图示：2026年03月17日（周二）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260318003210314800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        },
-        {
-          "title": "金十图示：2026年03月17日（周二）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260318003025668800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        },
-        {
-          "title": "航空业ETF收涨将近2%，与能源业ETF领跑美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3071892",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时28分"
         }
       ]
     },
@@ -1220,7 +1310,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         },
@@ -1283,8 +1373,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时23分 ~ 19时38分]"
+          "appearance_count": 14,
+          "time_info": "[07时23分 ~ 20时45分]"
         },
         {
           "title": "霍尔木兹海峡受阻缓解，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
@@ -1402,11 +1492,12 @@
           "ranks": [
             3,
             25,
-            5
+            5,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时57分 ~ 19时38分]"
+          "appearance_count": 7,
+          "time_info": "[13时57分 ~ 20时45分]"
         },
         {
           "title": "文件显示：美国证券交易委员会（SEC）与马斯克表示，他们正在谈判解决关于马斯克披露其Twitter股份的民事诉讼。",
@@ -1487,8 +1578,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时37分 ~ 19时38分]"
+          "appearance_count": 7,
+          "time_info": "[16时37分 ~ 20时45分]"
         }
       ]
     }

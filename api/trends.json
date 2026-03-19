@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T17:34:13.286861+08:00",
-  "total_titles_processed": 1630,
+  "generated_at": "2026-03-19T18:33:18.107934+08:00",
+  "total_titles_processed": 1738,
   "failed_sources": [],
   "trends": [
     {
@@ -135,8 +135,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时33分 ~ 17时34分]"
+          "appearance_count": 3,
+          "time_info": "[17时33分 ~ 18时33分]"
         },
         {
           "title": "报告与特朗普开战理由相悖？美情报总监矛盾表态",
@@ -146,8 +146,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时33分 ~ 17时34分]"
+          "appearance_count": 3,
+          "time_info": "[17时33分 ~ 18时33分]"
         },
         {
           "title": "美以伊战争丨特朗普谈以打击伊朗天然气田：毫不知情",
@@ -201,8 +201,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时40分 ~ 17时34分]"
+          "appearance_count": 5,
+          "time_info": "[15时40分 ~ 18时33分]"
         },
         {
           "title": "被质问为何不谴责美以袭击伊朗？高市早苗语出惊人：因为我要见特朗普",
@@ -294,7 +294,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时34分"
         },
@@ -772,6 +772,18 @@
           "time_info": "16时32分"
         },
         {
+          "title": "中方回应英伟达对华芯片销售情况",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%AF%B9%E5%8D%8E%E8%8A%AF%E7%89%87%E9%94%80%E5%94%AE%E6%83%85%E5%86%B5",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时33分 ~ 18时33分]"
+        },
+        {
           "title": "【商务部回应英伟达对华芯片销售情况】在3月19日商务部举行的例行发布会上，有美媒记者提问，“相关报道称中国政府已经批准了部分公司采购英伟达的H200芯片，请问是否有更多细节可以透露以及有何评论？”商务部新闻发言人何咏前回应称：“我不了解你提到的情况。”（央视新闻）",
           "url": "https://wallstreetcn.com/livenews/3073114",
           "source": "华尔街见闻-快讯",
@@ -782,17 +794,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时32分 ~ 17时34分]"
-        },
-        {
-          "title": "中方回应英伟达对华芯片销售情况",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%AF%B9%E5%8D%8E%E8%8A%AF%E7%89%87%E9%94%80%E5%94%AE%E6%83%85%E5%86%B5",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时33分 ~ 17时34分]"
         },
         {
           "title": "英伟达连发7款“王炸”芯片",
@@ -858,6 +859,50 @@
       ]
     },
     {
+      "keyword_group": "游戏",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "籽岷又爆典:玩家需适应游戏",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352034&amp;topic_name=%E7%B1%BD%E5%B2%B7%E5%8F%88%E7%88%86%E5%85%B8%3A%E7%8E%A9%E5%AE%B6%E9%9C%80%E9%80%82%E5%BA%94%E6%B8%B8%E6%88%8F",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            8,
+            15,
+            19,
+            20,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 21,
+          "time_info": "[00时01分 ~ 18时33分]"
+        },
+        {
+          "title": "迪士尼首席执行官：公司将为其流媒体服务新增体验和游戏。",
+          "url": "https://flash.jin10.com/detail/20260319012432760800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时42分"
+        },
+        {
+          "title": "《红色沙漠》IGN 评分仅 6 分，这游戏表现到底如何？",
+          "url": "https://www.zhihu.com/question/2017915271025821657",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时33分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌",
       "match_count": 3,
       "titles": [
@@ -893,39 +938,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "游戏",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "籽岷又爆典:玩家需适应游戏",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352034&amp;topic_name=%E7%B1%BD%E5%B2%B7%E5%8F%88%E7%88%86%E5%85%B8%3A%E7%8E%A9%E5%AE%B6%E9%9C%80%E9%80%82%E5%BA%94%E6%B8%B8%E6%88%8F",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            8,
-            15,
-            19,
-            20,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时01分 ~ 17时34分]"
-        },
-        {
-          "title": "迪士尼首席执行官：公司将为其流媒体服务新增体验和游戏。",
-          "url": "https://flash.jin10.com/detail/20260319012432760800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时42分"
         }
       ]
     },

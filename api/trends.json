@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T14:45:15.303165+08:00",
-  "total_titles_processed": 1291,
+  "generated_at": "2026-03-19T15:40:55.327172+08:00",
+  "total_titles_processed": 1419,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普改口：美国对伊朗动武，不需要盟友帮忙",
@@ -109,11 +109,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时13分 ~ 14时45分]"
+          "appearance_count": 5,
+          "time_info": "[12时13分 ~ 15时40分]"
         },
         {
           "title": "美参议院未通过限制特朗普对伊动武法案，民主党扬言继续施压",
@@ -123,8 +124,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时13分 ~ 14时45分]"
+          "appearance_count": 5,
+          "time_info": "[12时13分 ~ 15时40分]"
         },
         {
           "title": "美以伊战争丨特朗普谈以打击伊朗天然气田：毫不知情",
@@ -248,9 +249,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
+        },
+        {
+          "title": "高市早苗访美与特朗普如何“面对面”？",
+          "url": "https://news.ifeng.com/c/8rcWUf1wYvu",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
         },
         {
           "title": "美国加州州长纽森：唐纳德·特朗普想让美国倒退。如果我们不站出来，我们将失去这个国家。",
@@ -292,7 +304,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -551,8 +563,41 @@
     },
     {
       "keyword_group": "电力",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "日本最大电力公司JERA：正考虑额外采购现货液化天然气，以弥补来自中东的部分货物短缺。",
+          "url": "https://flash.jin10.com/detail/20260319152407815800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        },
+        {
+          "title": "日本最大电力公司JERA：伊朗危机旷日持久可能会促使买家转向中东以外的供应源。",
+          "url": "https://flash.jin10.com/detail/20260319152340720800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        },
+        {
+          "title": "日本最大电力公司JERA：公司目前不寻求在美国进行额外的上游天然气资产收购。",
+          "url": "https://flash.jin10.com/detail/20260319152331053800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        },
         {
           "title": "日本电力企业集团负责人：中东液化天然气占日本进口总量的6%，因此电力供应的稳定性不会立即出现中断。",
           "url": "https://flash.jin10.com/detail/20260319131646959800",
@@ -585,6 +630,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "马斯克：我们可能在12月就能完成AI6芯片的流片。",
+          "url": "https://flash.jin10.com/detail/20260319152132569800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        },
+        {
+          "title": "马斯克正与美国证券交易委员会（SEC）进行和解谈判，准备SpaceX IPO。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3072590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时42分"
+        },
+        {
+          "title": "马斯克：我们可能在12月完成AI6芯片的流片。",
+          "url": "https://wallstreetcn.com/livenews/3073039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
         }
       ]
     },
@@ -642,8 +726,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时01分 ~ 14时45分]"
+          "appearance_count": 17,
+          "time_info": "[00时01分 ~ 15时40分]"
         },
         {
           "title": "迪士尼首席执行官：公司将为其流媒体服务新增体验和游戏。",
@@ -721,23 +805,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "马斯克正与美国证券交易委员会（SEC）进行和解谈判，准备SpaceX IPO。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3072590",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时42分"
         }
       ]
     }

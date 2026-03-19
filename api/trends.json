@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T12:13:20.397816+08:00",
-  "total_titles_processed": 1072,
+  "generated_at": "2026-03-19T13:52:21.477950+08:00",
+  "total_titles_processed": 1194,
   "failed_sources": [],
   "trends": [
     {
@@ -64,8 +64,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时01分 ~ 12时13分]"
+          "appearance_count": 14,
+          "time_info": "[00时01分 ~ 13时52分]"
         },
         {
           "title": "马克龙称拒绝参与霍尔木兹海峡护航，特朗普：他快下台了",
@@ -100,8 +100,30 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时01分 ~ 12时13分]"
+          "appearance_count": 14,
+          "time_info": "[00时01分 ~ 13时52分]"
+        },
+        {
+          "title": "伊朗接连袭击沙特卡塔尔油气设施 特朗普据悉反对继续袭击伊能源设施",
+          "url": "https://www.cls.cn/detail/2317562",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时13分 ~ 13时52分]"
+        },
+        {
+          "title": "美参议院未通过限制特朗普对伊动武法案，民主党扬言继续施压",
+          "url": "https://news.ifeng.com/c/8rcHthVvS8A",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时13分 ~ 13时52分]"
         },
         {
           "title": "美以伊战争丨特朗普谈以打击伊朗天然气田：毫不知情",
@@ -110,7 +132,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
         },
@@ -148,26 +170,17 @@
           "time_info": "07时23分"
         },
         {
-          "title": "伊朗接连袭击沙特卡塔尔油气设施 特朗普据悉反对继续袭击伊能源设施",
-          "url": "https://www.cls.cn/detail/2317562",
-          "source": "财联社热门",
+          "title": "被质问为何不谴责美以袭击伊朗？高市早苗语出惊人：因为我要见特朗普",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32788330",
+          "source": "澎湃新闻",
           "ranks": [
-            4
+            13,
+            9,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时13分"
-        },
-        {
-          "title": "美参议院未通过限制特朗普对伊动武法案，民主党扬言继续施压",
-          "url": "https://news.ifeng.com/c/8rcHthVvS8A",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时13分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时14分 ~ 13时52分]"
         },
         {
           "title": "特朗普豁免执行《琼斯法》遏制高油价",
@@ -206,18 +219,6 @@
           "time_info": "[05时26分 ~ 06时25分]"
         },
         {
-          "title": "被质问为何不谴责美以袭击伊朗？高市早苗语出惊人：因为我要见特朗普",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32788330",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时14分 ~ 12时13分]"
-        },
-        {
           "title": "美国加州州长纽森：特朗普把世界上最伟大的办公室变成了最大的骗局。他的遗产将是腐败和贪婪。",
           "url": "https://flash.jin10.com/detail/20260319011410748800",
           "source": "金十数据",
@@ -235,7 +236,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
         },
@@ -290,7 +291,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
         },
@@ -309,8 +310,20 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "美股收盘：七巨头齐挫三大指数跌超1% 闪迪、美光逆市收新高",
+          "url": "https://www.cls.cn/detail/2317455",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时23分 ~ 13时52分]"
+        },
         {
           "title": "美伊冲突加剧！美股期货盘前集体跳水，布油大涨5%，现货黄金跌破4850，白银跌超4%，金属全面下跌",
           "url": "https://wallstreetcn.com/articles/3767807",
@@ -324,18 +337,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时01分 ~ 05时26分]"
-        },
-        {
-          "title": "美股收盘：七巨头齐挫三大指数跌超1% 闪迪、美光逆市收新高",
-          "url": "https://www.cls.cn/detail/2317455",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时23分 ~ 12时13分]"
         },
         {
           "title": "美股三大指数全线下挫",
@@ -437,6 +438,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
+        },
+        {
+          "title": "技术分析师警告：美股濒临变盘！一旦跌破临界线，将再跌10%",
+          "url": "https://flash.jin10.com/detail/20260319125418834800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
         }
       ]
     },
@@ -515,6 +527,45 @@
       ]
     },
     {
+      "keyword_group": "电力",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "日本电力企业集团负责人：中东液化天然气占日本进口总量的6%，因此电力供应的稳定性不会立即出现中断。",
+          "url": "https://flash.jin10.com/detail/20260319131646959800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
+        },
+        {
+          "title": "日本电力企业集团负责人：将加入全国性行动，以确保在伊朗危机背景下液化天然气供应稳定。",
+          "url": "https://flash.jin10.com/detail/20260319131514956800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
+        },
+        {
+          "title": "远光软件：未来将围绕虚拟电厂、零碳园区、能碳平台、电力交易四大业务方向强化协同",
+          "url": "https://flash.jin10.com/detail/20260319110932300800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌",
       "match_count": 3,
       "titles": [
@@ -567,8 +618,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时01分 ~ 12时13分]"
+          "appearance_count": 14,
+          "time_info": "[00时01分 ~ 13时52分]"
         },
         {
           "title": "迪士尼首席执行官：公司将为其流媒体服务新增体验和游戏。",
@@ -596,8 +647,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时01分 ~ 12时13分]"
+          "appearance_count": 14,
+          "time_info": "[00时01分 ~ 13时52分]"
         },
         {
           "title": "英伟达连发7款“王炸”芯片",
@@ -646,23 +697,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "电力",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "远光软件：未来将围绕虚拟电厂、零碳园区、能碳平台、电力交易四大业务方向强化协同",
-          "url": "https://flash.jin10.com/detail/20260319110932300800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时13分"
         }
       ]
     },

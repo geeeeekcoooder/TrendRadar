@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T17:32:11.595014+08:00",
-  "total_titles_processed": 1492,
+  "generated_at": "2026-03-20T18:29:03.032613+08:00",
+  "total_titles_processed": 1591,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 47,
       "titles": [
         {
           "title": "特朗普盟友警告：美国经济受不了对伊动武所致高油价",
@@ -52,8 +52,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[05时26分 ~ 17时32分]"
+          "appearance_count": 16,
+          "time_info": "[05时26分 ~ 18时29分]"
         },
         {
           "title": "“能源战”升级！以军轰炸伊朗最大气田、油价暴涨背后：以色列完全“控制”了特朗普？",
@@ -88,8 +88,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时04分 ~ 17时32分]"
+          "appearance_count": 12,
+          "time_info": "[12时04分 ~ 18时29分]"
         },
         {
           "title": "被特朗普抱怨不积极，默茨最新表态",
@@ -102,6 +102,18 @@
           "is_new": false,
           "appearance_count": 22,
           "time_info": "[00时46分 ~ 17时32分]"
+        },
+        {
+          "title": "特朗普指着带口音的记者问高市：这是你们的人，他是好是坏？",
+          "url": "https://v.ifeng.com/c/8rckHP0Ciue",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时44分 ~ 18时29分]"
         },
         {
           "title": "特朗普会晤高市早苗 把美国袭击伊朗比作偷袭珍珠港",
@@ -129,15 +141,15 @@
           "time_info": "[02时42分 ~ 09时10分]"
         },
         {
-          "title": "特朗普指着带口音的记者问高市：这是你们的人，他是好是坏？",
-          "url": "https://v.ifeng.com/c/8rckHP0Ciue",
+          "title": "美以伊战争丨特朗普考虑占领伊朗哈尔克岛",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
           "ranks": [
-            9
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时44分 ~ 17时32分]"
+          "appearance_count": 2,
+          "time_info": "[18时28分 ~ 18时29分]"
         },
         {
           "title": "美以伊战争丨是否会派地面部队？特朗普最新表态",
@@ -160,6 +172,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
+        },
+        {
+          "title": "高市早苗秀英语没说几句就“翻车”，特朗普：我们还是用翻译吧",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32799795",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时30分 ~ 18时29分]"
+        },
+        {
+          "title": "特朗普密谋占领伊朗哈尔克岛，欲强行打通霍尔木兹海峡",
+          "url": "https://flash.jin10.com/detail/20260320181212819800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
           "title": "据知情人士透露，美国总统特朗普支持Pirro就美联储主席鲍威尔传票（被法官驳回一事）提起上诉。（彭博）",
@@ -209,18 +245,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时46分 ~ 01时48分]"
-        },
-        {
-          "title": "高市早苗秀英语没说几句就“翻车”，特朗普：我们还是用翻译吧",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32799795",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时30分 ~ 17时32分]"
         },
         {
           "title": "特朗普会晤高市早苗，把美国袭击伊朗比作偷袭珍珠港",
@@ -504,6 +528,17 @@
           "time_info": "09时10分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-03-20）",
+          "url": "https://flash.jin10.com/detail/20260320175809578800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
           "title": "近90条帖子直播战争：特朗普的Truth Social正在指挥中东",
           "url": "https://flash.jin10.com/detail/20260320123515383800",
           "source": "金十数据",
@@ -518,7 +553,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "美股收盘：三大指数连跌两天 光通信逆市走强 闪迪续刷新高",
@@ -595,6 +630,17 @@
           "time_info": "[07时21分 ~ 09时10分]"
         },
         {
+          "title": "美股股指期货跌幅扩大，纳指期货跌超1%，标普500指数期货跌0.75%，道指期货跌0.62%。 美国国债快速走低，美国2年期国债收益率跳升10个基点，至3.89%。 现货黄金日内转跌，现跌0.04%，报4655美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3074048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
           "title": "美国锑美股盘前涨超8%，公司第四季度业绩超出市场预期。",
           "url": "https://wallstreetcn.com/livenews/3073925",
           "source": "华尔街见闻-快讯",
@@ -615,6 +661,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
+        },
+        {
+          "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈格岛",
+          "url": "https://wallstreetcn.com/livenews/3074027",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
           "title": "金十图示：2026年03月19日（周四）美股热门股票行情一览（美股盘中）",
@@ -716,11 +773,12 @@
           "url": "https://www.zhihu.com/question/2018230164002185495",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时31分 ~ 17时32分]"
+          "appearance_count": 4,
+          "time_info": "[17时31分 ~ 18时29分]"
         },
         {
           "title": "黎巴嫩电力局称，以色列袭击导致宾特吉贝勒主要变电站停运。",
@@ -770,8 +828,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时10分 ~ 17时32分]"
+          "appearance_count": 13,
+          "time_info": "[09时10分 ~ 18时29分]"
         },
         {
           "title": "霍尔木兹海峡现曙光，油价跳水！美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
@@ -810,7 +868,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "彭博美元指数跌0.7%，创1月27日以来最大跌幅。",
@@ -848,6 +906,97 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时28分 ~ 05时26分]"
+        },
+        {
+          "title": "美元指数短线拉升，日内涨超0.4%，报99.605。",
+          "url": "https://wallstreetcn.com/livenews/3074039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "三星电子或遭史上最大规模罢工，全球半导体产供链恐受冲击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32793056",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时46分 ~ 09时10分]"
+        },
+        {
+          "title": "上交所：本周对中韩半导体ETF等溢价较高的基金 以及*ST熊猫、*ST正平等异常波动退市风险警示股票进行重点监控",
+          "url": "https://wallstreetcn.com/livenews/3074046",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
+          "title": "上交所：本周对中韩半导体ETF等溢价较高的基金，以及*ST熊猫、*ST正平等异常波动退市风险警示股票进行重点监控。",
+          "url": "https://flash.jin10.com/detail/20260320180955005800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "曝马斯克拟采购200亿中国光伏设备",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E9%A9%AC%E6%96%AF%E5%85%8B%E6%8B%9F%E9%87%87%E8%B4%AD200%E4%BA%BF%E4%B8%AD%E5%9B%BD%E5%85%89%E4%BC%8F%E8%AE%BE%E5%A4%87%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时44分 ~ 14时41分]"
+        },
+        {
+          "title": "马斯克“扫货”光伏设备 AI加速迈入太空领域？",
+          "url": "https://www.cls.cn/detail/2319626",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时28分 ~ 18时29分]"
+        },
+        {
+          "title": "NASA计划让马斯克旗下太空探索公司SpaceX在登月活动中发挥更大作用。",
+          "url": "https://wallstreetcn.com/livenews/3073519",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时42分"
         }
       ]
     },
@@ -891,11 +1040,12 @@
           "ranks": [
             5,
             8,
-            13
+            13,
+            29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时04分 ~ 17时32分]"
+          "appearance_count": 12,
+          "time_info": "[12时04分 ~ 18时29分]"
         },
         {
           "title": "籽岷又爆典:玩家需适应游戏",
@@ -908,37 +1058,36 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时46分 ~ 17时32分]"
+          "appearance_count": 24,
+          "time_info": "[00时46分 ~ 18时29分]"
         }
       ]
     },
     {
-      "keyword_group": "马斯克",
+      "keyword_group": "英伟达",
       "match_count": 2,
       "titles": [
         {
-          "title": "曝马斯克拟采购200亿中国光伏设备",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E9%A9%AC%E6%96%AF%E5%85%8B%E6%8B%9F%E9%87%87%E8%B4%AD200%E4%BA%BF%E4%B8%AD%E5%9B%BD%E5%85%89%E4%BC%8F%E8%AE%BE%E5%A4%87%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时44分 ~ 14时41分]"
-        },
-        {
-          "title": "NASA计划让马斯克旗下太空探索公司SpaceX在登月活动中发挥更大作用。",
-          "url": "https://wallstreetcn.com/livenews/3073519",
+          "title": "英伟达黄仁勋敦促AI领导者避免散布恐慌",
+          "url": "https://wallstreetcn.com/livenews/3073582",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时42分"
+          "time_info": "06时18分"
+        },
+        {
+          "title": "利通电子：廖某走私英伟达AI服务器售卖给公司的传闻不实",
+          "url": "https://wallstreetcn.com/livenews/3074006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         }
       ]
     },
@@ -968,41 +1117,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "三星电子或遭史上最大规模罢工，全球半导体产供链恐受冲击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32793056",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时46分 ~ 09时10分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "英伟达",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "英伟达黄仁勋敦促AI领导者避免散布恐慌",
-          "url": "https://wallstreetcn.com/livenews/3073582",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时18分"
         }
       ]
     }

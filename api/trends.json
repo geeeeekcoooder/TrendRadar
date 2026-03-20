@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-21T03:40:24.608351+08:00",
-  "total_titles_processed": 495,
+  "generated_at": "2026-03-21T04:21:46.672044+08:00",
+  "total_titles_processed": 541,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 31,
       "titles": [
         {
           "title": "响应特朗普呼声，以色列总理称将暂停空袭伊朗能源设施，卡塔尔称伊袭破坏17%LNG产能",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时21分]"
         },
         {
           "title": "特朗普据称考虑占领或封锁哈尔克岛 以迫使伊朗重开霍尔木兹海峡",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时21分]"
         },
         {
           "title": "特朗普点名日本参加霍尔木兹护航，日本去不去都是错误选择？",
@@ -37,8 +37,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时21分]"
         },
         {
           "title": "高市早苗抵达白宫，特朗普张开双臂欢迎，两人热情拥抱",
@@ -48,8 +48,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时21分]"
         },
         {
           "title": "内塔尼亚胡否认以色列将美国拖入战争：真有人觉得能指挥特朗普？",
@@ -59,8 +59,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时21分]"
         },
         {
           "title": "向特朗普提问的日本记者，遭疯狂网暴",
@@ -70,8 +70,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时29分 ~ 03时40分]"
+          "appearance_count": 5,
+          "time_info": "[01时29分 ~ 04时21分]"
         },
         {
           "title": "特朗普：泽连斯基提出在伊朗问题上帮助美国是作秀",
@@ -92,7 +92,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时40分"
         },
@@ -103,9 +103,64 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时40分"
+        },
+        {
+          "title": "美国总统特朗普谈及油价，再次宣称：我原本预计会更糟糕。",
+          "url": "https://wallstreetcn.com/livenews/3074320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "美国总统特朗普：北约应当在霍尔木兹海峡通航问题上帮助美国。",
+          "url": "https://wallstreetcn.com/livenews/3074318",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "特朗普：我的支持率达到了前所未有的100%",
+          "url": "https://flash.jin10.com/detail/20260321035836986800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "美国总统特朗普：我们不需要霍尔木兹海峡。",
+          "url": "https://wallstreetcn.com/livenews/3074316",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "美国总统特朗普：（谈及停火）你知道，当你正在彻底摧毁对方时，是不可能停火的。",
+          "url": "https://flash.jin10.com/detail/20260321035243299800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
         },
         {
           "title": "特朗普：如果现在停战，伊朗重建将需要10年",
@@ -119,15 +174,147 @@
           "time_info": "00时32分"
         },
         {
+          "title": "美国总统特朗普：我们在对伊朗的打击上提前了几周。",
+          "url": "https://flash.jin10.com/detail/20260321035131760800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "美国总统特朗普：（谈及油价）我本以为会比现在更糟。",
+          "url": "https://flash.jin10.com/detail/20260321035102201800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "美国总统特朗普：英国本应行动更快。",
+          "url": "https://flash.jin10.com/detail/20260321034915196800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "美国总统特朗普：（谈及英国的帮助）英国的反应非常迟缓。",
+          "url": "https://flash.jin10.com/detail/20260321034854944800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "美国总统特朗普：我们有无限的弹药，还有很多部队。",
+          "url": "https://flash.jin10.com/detail/20260321034806359800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
           "title": "美国内政部长伯古姆：特朗普的能源战略正是为此时刻而设。",
           "url": "https://flash.jin10.com/detail/20260321031857561800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时40分"
+        },
+        {
+          "title": "美国总统特朗普：我们可以与伊朗对话，但我不想要停火。",
+          "url": "https://flash.jin10.com/detail/20260321034743329800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗现在没有雷达、侦察员、飞机，领导人也都被我们击毙了。",
+          "url": "https://flash.jin10.com/detail/20260321034659408800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "美国总统特朗普：（谈及伊朗）我目前不想停火。",
+          "url": "https://flash.jin10.com/detail/20260321034612314800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "美国总统特朗普：北约没有勇气在伊朗问题上帮助我们。",
+          "url": "https://flash.jin10.com/detail/20260321034511161800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "美国总统特朗普：开启霍尔木兹海峡需要大量的协助。",
+          "url": "https://flash.jin10.com/detail/20260321034449616800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "美国总统特朗普：霍尔木兹海峡在某个时刻会自行开放。",
+          "url": "https://flash.jin10.com/detail/20260321034432997800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "美国总统特朗普：我觉得我们已经赢了。",
+          "url": "https://flash.jin10.com/detail/20260321034419152800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
         },
         {
           "title": "美国总统特朗普：相比俄罗斯总统普京，乌克兰总统泽连斯基更难打交道。",
@@ -141,13 +328,24 @@
           "time_info": "00时32分"
         },
         {
+          "title": "美国总统特朗普：（谈及哈尔克岛）我可能有个计划，也可能没有。",
+          "url": "https://flash.jin10.com/detail/20260321034352119800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
           "title": "据福克斯新闻：特朗普拒绝就有关哈尔克岛计划的报道发表评论。",
           "url": "https://flash.jin10.com/detail/20260321030452828800",
           "source": "金十数据",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时40分"
         }
@@ -155,7 +353,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈尔克岛",
@@ -166,8 +364,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时21分]"
         },
         {
           "title": "油价高位震荡 美股或连跌四周 逼近回调区间 | 今夜看点",
@@ -178,8 +376,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时21分]"
         },
         {
           "title": "美股持续下挫，基准指数跌至盘中低点，标普500指数最新下跌1.39%。消息面上，美国正为可能向伊朗派遣地面部队做准备。",
@@ -203,6 +401,110 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时29分 ~ 02时34分]"
+        },
+        {
+          "title": "美股低开低走，道指收跌0.97%，标普500指数收跌1.51%，纳指跌2.01%。超微电脑(SMCI.O)跌超33%，英伟达(NVDA.O)跌3.2%，美光科技(MU.O)跌4.8%。纳斯达克中国金龙指数跌2.8%，小鹏汽车(XPEV.N)跌8.2%。",
+          "url": "https://flash.jin10.com/detail/20260321040036809800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美元指数20日上涨",
+          "url": "https://flash.jin10.com/detail/20260321040507957800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "布伦特原油期货涨幅迅速扩大至超过2.7%，至106.60美元上方。 WTI原油期货短线上扬，涨幅重新扩大至2.7%，重返98.10美元上方。 新兴市场外汇指数刷新日低，南非兰特、墨西哥比索、巴西雷亚尔走低。",
+          "url": "https://wallstreetcn.com/livenews/3074297",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时34分 ~ 04时21分]"
+        },
+        {
+          "title": "布伦特原油日内涨幅达3.0%，报106.91美元/桶。 纳指跌超2%，标普500指数跌1.46%，道指跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3074300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时40分 ~ 04时21分]"
+        },
+        {
+          "title": "美元指数本周跌0.7%，日元涨0.3%",
+          "url": "https://wallstreetcn.com/livenews/3074319",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "游戏",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "如何评价《王者荣耀世界》前瞻直播公开的游戏内容，它能成为腾讯游戏的新一代旗舰吗？",
+          "url": "https://www.zhihu.com/question/2018396231131478010",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时33分 ~ 04时21分]"
+        },
+        {
+          "title": "籽岷又爆典:玩家需适应游戏",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352034&amp;topic_name=%E7%B1%BD%E5%B2%B7%E5%8F%88%E7%88%86%E5%85%B8%3A%E7%8E%A9%E5%AE%B6%E9%9C%80%E9%80%82%E5%BA%94%E6%B8%B8%E6%88%8F",
+          "source": "贴吧",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时21分]"
+        },
+        {
+          "title": "steam春促史低游戏推荐",
+          "url": "https://search.bilibili.com/all?keyword=steam%E6%98%A5%E4%BF%83%E5%8F%B2%E4%BD%8E%E6%B8%B8%E6%88%8F%E6%8E%A8%E8%8D%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
         }
       ]
     },
@@ -218,8 +520,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时21分]"
         },
         {
           "title": "中东局势再度升温，美股集体低开，10年期美债收益率创年初新高，原油上涨，黄金日内转跌",
@@ -232,65 +534,36 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时21分]"
         }
       ]
     },
     {
-      "keyword_group": "美元",
+      "keyword_group": "半导体",
       "match_count": 2,
       "titles": [
         {
-          "title": "布伦特原油期货涨幅迅速扩大至超过2.7%，至106.60美元上方。 WTI原油期货短线上扬，涨幅重新扩大至2.7%，重返98.10美元上方。 新兴市场外汇指数刷新日低，南非兰特、墨西哥比索、巴西雷亚尔走低。",
-          "url": "https://wallstreetcn.com/livenews/3074297",
+          "title": "本周，标普累跌约2.3%，能源板块累涨约2.9%；道指累跌约2.2%，纳指累跌约2.3%，半导体指数累跌约0.2%。 周五当天，标普500指数初步收跌1.5%，公用事业板块跌4%，房地产板块跌3%，科技板块跌超2%，能源板块涨0.2%。 纳斯达克100指数初步收跌1.9%，成分股中，核电股CEG跌11.1%，西部数据跌7.8%，希捷科技跌5.6%，CrowdStrike跌5.4%，Diamondback Energy涨1.1%，Arm控股涨1.7%。 霍尼韦尔初步收跌3.3%，与英伟达、波音领跌道指成分股，高盛、Visa、VZ则至少涨超0.4%领跑。",
+          "url": "https://wallstreetcn.com/livenews/3074326",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时34分 ~ 03时40分]"
-        },
-        {
-          "title": "布伦特原油日内涨幅达3.0%，报106.91美元/桶。 纳指跌超2%，标普500指数跌1.46%，道指跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3074300",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "游戏",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "如何评价《王者荣耀世界》前瞻直播公开的游戏内容，它能成为腾讯游戏的新一代旗舰吗？",
-          "url": "https://www.zhihu.com/question/2018396231131478010",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时33分 ~ 03时40分]"
+          "time_info": "04时21分"
         },
         {
-          "title": "籽岷又爆典:玩家需适应游戏",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352034&amp;topic_name=%E7%B1%BD%E5%B2%B7%E5%8F%88%E7%88%86%E5%85%B8%3A%E7%8E%A9%E5%AE%B6%E9%9C%80%E9%80%82%E5%BA%94%E6%B8%B8%E6%88%8F",
-          "source": "贴吧",
+          "title": "标普500指数跌幅扩大至1%，房地产板块跌1.45%，公用事业板块跌1.39%，科技板块跌1.14%，电信板块跌1.13%，能源板块涨1.17%。 道指跌284点跌幅0.62%，纳指跌1.3%，半导体指数跌1.85%，罗素2000指数跌1.29%。",
+          "url": "https://wallstreetcn.com/livenews/3074236",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            30
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时40分]"
+          "appearance_count": 1,
+          "time_info": "00时32分"
         }
       ]
     },
@@ -312,23 +585,6 @@
       ]
     },
     {
-      "keyword_group": "半导体",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "标普500指数跌幅扩大至1%，房地产板块跌1.45%，公用事业板块跌1.39%，科技板块跌1.14%，电信板块跌1.13%，能源板块涨1.17%。 道指跌284点跌幅0.62%，纳指跌1.3%，半导体指数跌1.85%，罗素2000指数跌1.29%。",
-          "url": "https://wallstreetcn.com/livenews/3074236",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        }
-      ]
-    },
-    {
       "keyword_group": "电力",
       "match_count": 1,
       "titles": [
@@ -340,8 +596,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时21分]"
         }
       ]
     },
@@ -357,8 +613,25 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英伟达",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "标普500指数跌幅扩大至2%，公用事业板块跌3.96%，房地产板块跌3.13%，科技板块跌2.6%跌幅第三大，能源板块涨0.3%。 纳斯达克100指数跌2.4%，成分股核电公司Constellation Energy跌11.78%，西部数据、美光科技、希捷科技至多跌7.62%，英特尔、阿斯麦ADR、拉姆研究、特斯拉至少跌3.97%，英伟达跌3.61%，Meta跌2.95%，Paychex、Diamondback Energy、Workday、Arm控股至少涨超1%。 纳斯达克综合指数较10月29日收盘位回撤超10%。",
+          "url": "https://wallstreetcn.com/livenews/3074315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
         }
       ]
     }

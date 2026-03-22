@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T15:33:34.991672+08:00",
-  "total_titles_processed": 919,
+  "generated_at": "2026-03-22T16:23:16.362109+08:00",
+  "total_titles_processed": 980,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时18分 ~ 15时33分]"
+          "appearance_count": 18,
+          "time_info": "[00时18分 ~ 16时23分]"
+        },
+        {
+          "title": "语气再变！特朗普限伊朗48小时开放霍尔木兹海峡，威胁摧毁其发电厂，伊朗回应：或反击三类设施",
+          "url": "https://wallstreetcn.com/articles/3768068",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时10分 ~ 16时23分]"
         },
         {
           "title": "美国或向中东增派数千士兵，特朗普先称不想停火、后称考虑对伊军事行动逐步降级，伊朗威胁毁灭性打击美以“邪恶官员”",
@@ -41,17 +52,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时18分 ~ 07时16分]"
-        },
-        {
-          "title": "语气再变！特朗普限伊朗48小时开放霍尔木兹海峡，威胁摧毁其发电厂，伊朗回应：或反击三类设施",
-          "url": "https://wallstreetcn.com/articles/3768068",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时10分 ~ 15时33分]"
         },
         {
           "title": "江学勤教授预警：特朗普或启动全美征兵",
@@ -86,8 +86,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时18分 ~ 15时33分]"
+          "appearance_count": 18,
+          "time_info": "[00时18分 ~ 16时23分]"
         },
         {
           "title": "特朗普称正考虑降级对伊行动 贵金属价格延续跌势 | 环球市场",
@@ -128,6 +128,22 @@
           "time_info": "[02时22分 ~ 07时16分]"
         },
         {
+          "title": "特朗普限伊朗48小时开放霍尔木兹海峡，威胁摧毁其发电厂",
+          "url": "https://wallstreetcn.com/livenews/3074479",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            9,
+            15,
+            18,
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时14分 ~ 16时23分]"
+        },
+        {
           "title": "特朗普要求伊朗48小时内开放霍尔木兹海峡，威胁摧毁发电厂",
           "url": "https://m.thepaper.cn/newsDetail_forward_32809575",
           "source": "澎湃新闻",
@@ -154,19 +170,38 @@
           "time_info": "[03时17分 ~ 07时16分]"
         },
         {
-          "title": "特朗普限伊朗48小时开放霍尔木兹海峡，威胁摧毁其发电厂",
-          "url": "https://wallstreetcn.com/livenews/3074479",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗回应特朗普袭击电厂威胁：若遭袭将打击美及其盟友关键设施",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32809836",
+          "source": "澎湃新闻",
           "ranks": [
-            3,
-            9,
-            15,
-            18,
-            21
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时14分 ~ 15时33分]"
+          "appearance_count": 6,
+          "time_info": "[13时45分 ~ 16时23分]"
+        },
+        {
+          "title": "美国前FBI局长米勒去世，曾负责特朗普“通俄门”调查",
+          "url": "https://news.ifeng.com/c/8rhPSWAl42N",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时38分 ~ 16时23分]"
+        },
+        {
+          "title": "在高市面前提珍珠港，特朗普二儿子夸父亲答得好",
+          "url": "https://news.ifeng.com/c/8rhITNvbPgx",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时38分 ~ 16时23分]"
         },
         {
           "title": "伊朗回应特朗普袭击电厂威胁",
@@ -181,18 +216,6 @@
           "time_info": "[12时10分 ~ 13时46分]"
         },
         {
-          "title": "伊朗回应特朗普袭击电厂威胁：若遭袭将打击美及其盟友关键设施",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32809836",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时45分 ~ 15时33分]"
-        },
-        {
           "title": "特朗普要求伊朗开放霍尔木兹海峡，威胁摧毁发电厂，为什么选择攻击民用设施而不是军事目标？伊朗会妥协吗？",
           "url": "https://www.zhihu.com/question/2018961388341588269",
           "source": "知乎",
@@ -205,17 +228,6 @@
           "time_info": "[09时14分 ~ 12时11分]"
         },
         {
-          "title": "美国前FBI局长米勒去世，曾负责特朗普“通俄门”调查",
-          "url": "https://news.ifeng.com/c/8rhPSWAl42N",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时38分 ~ 15时33分]"
-        },
-        {
           "title": "美国总统特朗普：如果激进左翼民主党人不立即签署协议，让我们的国家，特别是我们的机场，再次获得自由和安全，我将把移民执法局（ICE）特工调往机场，他们将执行前所未有的安保措施，包括立即逮捕所有非法入境的移民，重点打击来自索马里的非法移民。",
           "url": "https://flash.jin10.com/detail/20260321233624665800",
           "source": "金十数据",
@@ -226,17 +238,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时18分 ~ 01时18分]"
-        },
-        {
-          "title": "在高市面前提珍珠港，特朗普二儿子夸父亲答得好",
-          "url": "https://news.ifeng.com/c/8rhITNvbPgx",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时38分 ~ 15时33分]"
         },
         {
           "title": "特朗普威胁伊朗48小时内开放霍尔木兹",
@@ -297,7 +298,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "“罕见”！马斯克败诉",
@@ -309,8 +310,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时18分 ~ 15时33分]"
+          "appearance_count": 18,
+          "time_info": "[00时18分 ~ 16时23分]"
         },
         {
           "title": "马斯克：xAI的“Grok Computer”应用即将推出。",
@@ -331,11 +332,12 @@
           "ranks": [
             1,
             4,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时46分 ~ 15时33分]"
+          "appearance_count": 4,
+          "time_info": "[13时46分 ~ 16时23分]"
         },
         {
           "title": "马斯克：“Terafab”项目将落户奥斯汀，由特斯拉和SpaceX共同运营",
@@ -349,6 +351,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时46分 ~ 15时33分]"
+        },
+        {
+          "title": "马斯克拟建全球最大芯片厂",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%8B%9F%E5%BB%BA%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E8%8A%AF%E7%89%87%E5%8E%82",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 16时23分]"
+        },
+        {
+          "title": "马斯克官宣开建史上最大芯片厂",
+          "url": "https://www.toutiao.com/trending/7619963914993798694/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 16时23分]"
         },
         {
           "title": "马斯克：Terafab项目即将公布 年产能超1太瓦算力",
@@ -411,8 +435,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时18分 ~ 15时33分]"
+          "appearance_count": 18,
+          "time_info": "[00时18分 ~ 16时23分]"
         },
         {
           "title": "特朗普称考虑逐步减少对伊朗的军事行动，美股ETF盘后转涨",
@@ -429,7 +453,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "信达期货：当前黄金走势的核心在于能源价格上行对利率预期的再约束",
@@ -453,6 +477,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
+        },
+        {
+          "title": "粤开证券：长期看支撑黄金价格的有利因素仍在",
+          "url": "https://flash.jin10.com/detail/20260322152315932800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         }
       ]
     },
@@ -488,6 +523,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英伟达",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "汉得信息：与英伟达的协同仍处于商业模式的样本积累阶段",
+          "url": "https://flash.jin10.com/detail/20260322152227296800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         }
       ]
     }
